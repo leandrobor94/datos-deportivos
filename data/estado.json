@@ -1,0 +1,28 @@
+{
+ "futbol": {
+  "fecha": "2026-10-06",
+  "generado_utc": "2026-10-06T23:52:44.286Z",
+  "partidos": 30,
+  "errores": 0,
+  "primeros_errores": [],
+  "segundos": 9
+ },
+ "beisbol": {
+  "fecha": "2026-10-06",
+  "generado_utc": "2026-10-06T23:52:44.956Z",
+  "partidos": 2,
+  "errores": 0,
+  "primeros_errores": [],
+  "segundos": 1
+ },
+ "baloncesto": {
+  "fecha": "2026-10-06",
+  "generado_utc": "2026-10-06T23:52:55.276Z",
+  "partidos": 4,
+  "errores": 1,
+  "primeros_errores": [
+   "gamelog Terrell Brown Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395997/gamelog"
+  ],
+  "segundos": 10
+ }
+}
