@@ -6232,6 +6232,7 @@
      "Road: 16-6"
     ],
     "lesiones": [
+     "Stephanie Talbot: Day-To-Day (Leg)",
      "Jewell Loyd: Day-To-Day (Leg)",
      "Dana Evans: Out (Knee)",
      "NaLyssa Smith: Out (Leg)"
@@ -6502,7 +6503,7 @@
      {
       "jugador": "Stephanie Talbot",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7289,5 +7290,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-07T17:46:14.008Z"
+ "generado_utc": "2026-10-07T19:30:51.784Z"
 }

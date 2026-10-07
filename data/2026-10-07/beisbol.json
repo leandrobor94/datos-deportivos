@@ -14,7 +14,7 @@
    "clima": {
     "condition": "Sunny",
     "temp": "75",
-    "wind": "8 mph, L To R"
+    "wind": "6 mph, L To R"
    },
    "visitante": {
     "equipo": "Cleveland Guardians",
@@ -312,9 +312,13 @@
    "serie": "NL Division Series",
    "inicio_utc": "2026-10-07T22:00:00Z",
    "inicio_colombia": "2026-10-07 17:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Truist Park",
-   "clima": null,
+   "clima": {
+    "condition": "Clear",
+    "temp": "77",
+    "wind": "2 mph, L To R"
+   },
    "visitante": {
     "equipo": "Los Angeles Dodgers",
     "record": "2-1",
@@ -387,7 +391,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Mookie Betts",
+     "Freddie Freeman",
+     "Will Smith",
+     "Shohei Ohtani",
+     "Teoscar Hernández",
+     "Max Muncy",
+     "Enrique Hernández",
+     "Kyle Tucker",
+     "Andy Pages"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.94,
@@ -543,7 +557,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Michael Harris II",
+     "Ronald Acuña Jr.",
+     "Matt Olson",
+     "Ozzie Albies",
+     "Drake Baldwin",
+     "Mike Yastrzemski",
+     "Mauricio Dubón",
+     "Austin Riley",
+     "Sean Murphy"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.58,
@@ -1180,5 +1204,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-07T17:46:12.034Z"
+ "generado_utc": "2026-10-07T19:30:49.944Z"
 }
