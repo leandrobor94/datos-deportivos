@@ -9,9 +9,13 @@
    "serie": "AL Division Series",
    "inicio_utc": "2026-10-09T00:00:00Z",
    "inicio_colombia": "2026-10-08 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Rate Field",
-   "clima": null,
+   "clima": {
+    "condition": "Clear",
+    "temp": "64",
+    "wind": "3 mph, In From CF"
+   },
    "visitante": {
     "equipo": "Cleveland Guardians",
     "record": "1-2",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Steven Kwan",
+     "José Ramírez",
+     "Chase DeLauter",
+     "Jo Adell",
+     "Nathaniel Lowe",
+     "Angel Martínez",
+     "Travis Bazzana",
+     "Austin Hedges",
+     "Brayan Rocchio"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.19,
@@ -202,7 +216,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Chase Meidroth",
+     "Randal Grichuk",
+     "Miguel Vargas",
+     "Munetaka Murakami",
+     "Tommy Pham",
+     "Brenton Doyle",
+     "Kyle Teel",
+     "Braden Montgomery",
+     "Colson Montgomery"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.79,
@@ -294,5 +318,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-08T19:25:16.775Z"
+ "generado_utc": "2026-10-08T20:48:12.010Z"
 }

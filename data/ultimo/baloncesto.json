@@ -2099,7 +2099,7 @@
      "Anfernee Simons: Day-To-Day (Undisclosed)",
      "Adem Bona: Day-To-Day (Foot)",
      "Ariel Hukporti: Out (Achilles)",
-     "Tyrese Maxey: Day-To-Day (Rest)"
+     "Tacko Fall: Day-To-Day (Hip)"
     ],
     "ultimos_5": [
      "2026-05-05 @ NY L 137-98",
@@ -2112,7 +2112,7 @@
      {
       "jugador": "Tyrese Maxey",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2316,7 +2316,7 @@
      {
       "jugador": "Joel Embiid",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6331,5 +6331,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-08T19:25:18.818Z"
+ "generado_utc": "2026-10-08T20:48:14.244Z"
 }
