@@ -9,7 +9,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-07T23:00Z",
    "inicio_colombia": "2026-10-07 18:00",
-   "estado": "Scheduled",
+   "estado": "Halftime",
    "estadio": "Hilton Coliseum",
    "serie_temporada": [
     "Series starts 1/2"
@@ -24,13 +24,7 @@
     "lesiones": [
      "Donte DiVincenzo: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-05-09 vs SA L 115-108",
-     "2026-05-10 vs SA W 114-109",
-     "2026-05-13 @ SA L 126-97",
-     "2026-05-16 vs SA L 139-109",
-     "2026-10-06 @ MIL W 116-97"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cody Williams",
@@ -552,18 +546,11 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Quenton Jackson: Day-To-Day (Undisclosed)",
-     "T.J. McConnell: Day-To-Day (Undisclosed)",
      "Larry Nance Jr.: Day-To-Day (Hamstring)",
+     "T.J. McConnell: Day-To-Day (Undisclosed)",
      "Johnny Furphy: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-04-05 @ CLE L 117-108",
-     "2026-04-07 vs MIN L 124-104",
-     "2026-04-09 @ BKN W 123-94",
-     "2026-04-10 vs PHI L 105-94",
-     "2026-04-12 vs DET L 133-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Kelly Oubre Jr.",
@@ -1098,10 +1085,10 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Jalen Suggs: Day-To-Day (Illness)",
-     "Jonathan Isaac: Day-To-Day (Knee)",
      "Noah Penda: Day-To-Day (Hamstring)",
      "Anthony Black: Day-To-Day (Ankle)",
+     "Jalen Suggs: Day-To-Day (Illness)",
+     "Jonathan Isaac: Day-To-Day (Knee)",
      "Izaiyah Nelson: Out (Ankle)"
     ],
     "ultimos_5": [
@@ -1632,9 +1619,8 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Micah Peavy: Day-To-Day (Ankle)",
      "Isaiah Stewart: Day-To-Day (Ankle)",
-     "Zach Edey: Day-To-Day (Ankle)"
+     "Micah Peavy: Day-To-Day (Ankle)"
     ],
     "ultimos_5": [
      "2026-04-07 vs CLE L 142-126",
@@ -1698,7 +1684,7 @@
      {
       "jugador": "Zach Edey",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2705,11 +2691,11 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Jaylin Williams: Day-To-Day (Heel)",
      "Thomas Sorber: Day-To-Day (Knee)",
+     "Chet Holmgren: Day-To-Day (Rest)",
      "Nikola Topic: Day-To-Day (Back)",
-     "Cason Wallace: Day-To-Day (Rest)",
-     "Alex Caruso: Day-To-Day (Rest)"
+     "Isaiah Hartenstein: Day-To-Day (Ankle)",
+     "Jaylin Williams: Day-To-Day (Heel)"
     ],
     "ultimos_5": [
      "2026-05-25 @ SA L 103-82",
@@ -2722,7 +2708,7 @@
      {
       "jugador": "Shai Gilgeous-Alexander",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3001,7 +2987,7 @@
      {
       "jugador": "Cason Wallace",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3094,7 +3080,7 @@
      {
       "jugador": "Alex Caruso",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3145,7 +3131,7 @@
      {
       "jugador": "Jalen Williams",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3747,6 +3733,8 @@
     ],
     "lesiones": [
      "Zach Collins: Day-To-Day (Toe)",
+     "Jaylin Sellers: Day-To-Day (Back)",
+     "Tre Jones: Day-To-Day (Hip)",
      "Nic Claxton: Day-To-Day (Hamstring)"
     ],
     "ultimos_5": [
@@ -4015,7 +4003,7 @@
      {
       "jugador": "Tre Jones",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4290,11 +4278,11 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Al Horford: Day-To-Day (Rest)",
      "Gui Santos: Day-To-Day (Rest)",
      "Brandin Podziemski: Day-To-Day (Rest)",
      "Gary Payton II: Day-To-Day (Rest)",
-     "Georges Niang: Day-To-Day (Rest)",
-     "De'Anthony Melton: Day-To-Day (Rest)"
+     "Georges Niang: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-04-13 @ LAC L 115-110",
@@ -5354,7 +5342,7 @@
    "nota": "WNBA Semifinals - Game 2",
    "inicio_utc": "2026-10-07T23:30Z",
    "inicio_colombia": "2026-10-07 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "ATL wins series 2-1",
@@ -5371,13 +5359,7 @@
      "Satou Sabally: Out (Concussion)",
      "Elizabeth Balogun: Out (Not Injury Related)"
     ],
-    "ultimos_5": [
-     "2026-09-22 vs ATL L 95-84",
-     "2026-09-24 vs ATL L 83-65",
-     "2026-09-27 @ MIN W 91-75",
-     "2026-09-30 vs MIN W 87-71",
-     "2026-10-04 @ ATL L 92-82"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Breanna Stewart",
@@ -5844,13 +5826,7 @@
      "Matilde Villa: Out (Coach's Decision)",
      "Brionna Jones: Out (Leg)"
     ],
-    "ultimos_5": [
-     "2026-09-22 @ NY W 95-84",
-     "2026-09-24 @ NY W 83-65",
-     "2026-09-27 vs WSH W 92-77",
-     "2026-09-30 @ WSH W 93-75",
-     "2026-10-04 vs NY W 92-82"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Rhyne Howard",
@@ -6232,9 +6208,9 @@
      "Road: 16-6"
     ],
     "lesiones": [
+     "Jewell Loyd: Out (Leg)",
      "Dana Evans: Out (Knee)",
      "Stephanie Talbot: Day-To-Day (Leg)",
-     "Jewell Loyd: Day-To-Day (Leg)",
      "NaLyssa Smith: Out (Leg)"
     ],
     "ultimos_5": [
@@ -6452,7 +6428,7 @@
      {
       "jugador": "Jewell Loyd",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7290,5 +7266,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-07T20:46:03.094Z"
+ "generado_utc": "2026-10-08T00:09:07.342Z"
 }

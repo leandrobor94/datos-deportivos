@@ -7,7 +7,7 @@
    "competicion": "Série A (BRA)",
    "inicio_utc": "2026-10-07T22:30:00.000Z",
    "inicio_colombia": "2026-10-07 17:30",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "RB Bragantino",
    "visitante": "Mirassol",
    "ronda": "29",
@@ -24,9 +24,8 @@
     }
    },
    "clima": {
-    "temp_c": 21,
+    "temp_c": 19,
     "viento_kmh": 4,
-    "lluvia_prob": 9,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -43,7 +42,8 @@
      "bajas": [
       {
        "jugador": "Ignacio Sosa",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Alix",
@@ -56,56 +56,67 @@
        "regreso": "About 1-2 weeks"
       },
       {
-       "jugador": "Patrick",
-       "tipo": "injury",
-       "regreso": "A few days"
-      },
-      {
        "jugador": "Davi Gomes",
        "tipo": "injury",
        "regreso": "Mid December 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Tiago Volpi",
+       "Ryan Augusto",
+       "Gustavo Marques",
+       "Guzmán Rodríguez",
+       "Juninho Capixaba",
+       "Patrick",
+       "Ramires",
+       "Lucas Barbosa",
+       "Wallace Yan",
+       "Fernando",
+       "Eduardo Sasha"
+      ]
+     },
      "tabla": {
-      "pos": 11,
-      "pj": 28,
+      "pos": 10,
+      "pj": 29,
       "g": 10,
-      "e": 6,
+      "e": 7,
       "p": 12,
-      "goles": "33-32",
-      "pts": 36
+      "goles": "34-33",
+      "pts": 37
      },
      "tabla_como_local_o_visitante": {
-      "pos": 15,
-      "pj": 13,
+      "pos": 14,
+      "pj": 14,
       "g": 6,
-      "e": 2,
+      "e": 3,
       "p": 5,
-      "goles": "19-14",
-      "pts": 20
+      "goles": "20-15",
+      "pts": 21
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 40.95,
-      "xg_concedido": 32.95,
-      "xpts": 43.42,
-      "xg_por_partido": 1.46,
-      "xg_concedido_por_partido": 1.18
+      "pj": 29,
+      "xg": 42.74,
+      "xg_concedido": 33.42,
+      "xpts": 45.82,
+      "xg_por_partido": 1.47,
+      "xg_concedido_por_partido": 1.15
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.1,
-      "pj_stats": 28,
-      "posesion": 49.8,
-      "porterias_cero": 8,
       "goles_partido": 1.2,
-      "remates_puerta_partido": 5.1,
-      "xg_total": 41,
-      "grandes_ocasiones_total": 61,
-      "toques_area_rival": 634,
-      "corners_total": 164,
-      "faltas_partido": 14.1,
-      "xg_concedido_total": 33
+      "pj_stats": 29,
+      "porterias_cero": 8,
+      "goles_concedidos_partido": 1.1,
+      "posesion": 50.5,
+      "xg_total": 42.7,
+      "toques_area_rival": 671,
+      "grandes_ocasiones_total": 64,
+      "remates_puerta_partido": 5.2,
+      "corners_total": 172,
+      "faltas_partido": 13.9,
+      "xg_concedido_total": 33.4
      }
     },
     "visitante": {
@@ -130,46 +141,62 @@
        "regreso": "Out for season"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Walter",
+       "Igor Formiga",
+       "João Victor",
+       "Willian Machado",
+       "Reinaldo",
+       "Edson Carioca",
+       "Denilson",
+       "Neto",
+       "Chico",
+       "Eduardo",
+       "Bruno Santos"
+      ]
+     },
      "tabla": {
       "pos": 15,
-      "pj": 28,
+      "pj": 29,
       "g": 8,
-      "e": 8,
+      "e": 9,
       "p": 12,
-      "goles": "33-42",
-      "pts": 32
+      "goles": "34-43",
+      "pts": 33
      },
      "tabla_como_local_o_visitante": {
-      "pos": 14,
-      "pj": 13,
+      "pos": 15,
+      "pj": 14,
       "g": 2,
-      "e": 3,
+      "e": 4,
       "p": 8,
-      "goles": "12-21",
-      "pts": 9
+      "goles": "13-22",
+      "pts": 10
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 33.74,
-      "xg_concedido": 38.31,
-      "xpts": 35.48,
-      "xg_por_partido": 1.2,
-      "xg_concedido_por_partido": 1.37
+      "pj": 29,
+      "xg": 34.21,
+      "xg_concedido": 40.1,
+      "xpts": 35.89,
+      "xg_por_partido": 1.18,
+      "xg_concedido_por_partido": 1.38
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.5,
-      "pj_stats": 28,
-      "posesion": 50.5,
-      "porterias_cero": 2,
       "goles_partido": 1.2,
-      "remates_puerta_partido": 4.6,
-      "xg_total": 33.7,
+      "pj_stats": 29,
+      "porterias_cero": 2,
+      "goles_concedidos_partido": 1.5,
+      "posesion": 49.8,
+      "xg_total": 34.2,
+      "toques_area_rival": 570,
       "grandes_ocasiones_total": 64,
-      "toques_area_rival": 558,
-      "corners_total": 152,
-      "faltas_partido": 12.6,
-      "xg_concedido_total": 38.3
+      "remates_puerta_partido": 4.5,
+      "corners_total": 153,
+      "faltas_partido": 12.3,
+      "xg_concedido_total": 40.1
      }
     }
    },
@@ -195,7 +222,7 @@
    "competicion": "Série A (BRA)",
    "inicio_utc": "2026-10-07T22:30:00.000Z",
    "inicio_colombia": "2026-10-07 17:30",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Internacional",
    "visitante": "Corinthians",
    "ronda": "29",
@@ -213,9 +240,8 @@
    },
    "clima": {
     "temp_c": 22,
-    "viento_kmh": 5,
-    "lluvia_prob": 5,
-    "cielo": "Partly Cloudy"
+    "viento_kmh": 4,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -231,17 +257,13 @@
      "bajas": [
       {
        "jugador": "Victor Gabriel",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Antonio Sanabria",
        "tipo": "injury",
        "regreso": "Late October 2026"
-      },
-      {
-       "jugador": "Calebe",
-       "tipo": "injury",
-       "regreso": "Early October 2026"
       },
       {
        "jugador": "Kayky",
@@ -259,46 +281,62 @@
        "regreso": "Early October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "5-4-1",
+      "titulares": [
+       "Anthoni",
+       "Bruno Gomes",
+       "Gabriel Mercado",
+       "Juninho",
+       "Braian Aguirre",
+       "Alexandro Bernabéi",
+       "Vitinho",
+       "Rodrigo Villagra",
+       "Thiago Maia",
+       "Alan Patrick",
+       "Alerrandro"
+      ]
+     },
      "tabla": {
       "pos": 18,
-      "pj": 28,
-      "g": 6,
+      "pj": 29,
+      "g": 7,
       "e": 10,
       "p": 12,
-      "goles": "30-36",
-      "pts": 28
+      "goles": "31-36",
+      "pts": 31
      },
      "tabla_como_local_o_visitante": {
       "pos": 18,
-      "pj": 14,
-      "g": 3,
+      "pj": 15,
+      "g": 4,
       "e": 5,
       "p": 6,
-      "goles": "16-16",
-      "pts": 14
+      "goles": "17-16",
+      "pts": 17
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 41.53,
-      "xg_concedido": 34.32,
-      "xpts": 42.01,
-      "xg_por_partido": 1.48,
-      "xg_concedido_por_partido": 1.23
+      "pj": 29,
+      "xg": 42.47,
+      "xg_concedido": 36.45,
+      "xpts": 42.57,
+      "xg_por_partido": 1.46,
+      "xg_concedido_por_partido": 1.26
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.3,
-      "pj_stats": 28,
-      "posesion": 48.2,
-      "porterias_cero": 6,
       "goles_partido": 1.1,
+      "pj_stats": 29,
+      "porterias_cero": 6,
+      "goles_concedidos_partido": 1.2,
+      "posesion": 47.4,
+      "xg_total": 42.5,
+      "toques_area_rival": 671,
+      "grandes_ocasiones_total": 60,
       "remates_puerta_partido": 4.3,
-      "xg_total": 41.5,
-      "grandes_ocasiones_total": 59,
-      "toques_area_rival": 658,
-      "corners_total": 169,
+      "corners_total": 170,
       "faltas_partido": 15.4,
-      "xg_concedido_total": 34.3
+      "xg_concedido_total": 36.4
      }
     },
     "visitante": {
@@ -315,7 +353,7 @@
       {
        "jugador": "André Carrillo",
        "tipo": "internationalDuty",
-       "regreso": ""
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "André Ramalho",
@@ -333,46 +371,62 @@
        "regreso": "Out for season"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-2-1-2",
+      "titulares": [
+       "Hugo Souza",
+       "Matheuzinho",
+       "Gabriel Paulista",
+       "Gustavo Henrique",
+       "Bidu",
+       "Raniele",
+       "Rodrigo Garro",
+       "Breno Bidon",
+       "Memphis Depay",
+       "Kaio",
+       "Yuri Alberto"
+      ]
+     },
      "tabla": {
-      "pos": 14,
-      "pj": 28,
+      "pos": 16,
+      "pj": 29,
       "g": 8,
       "e": 8,
-      "p": 12,
-      "goles": "29-32",
+      "p": 13,
+      "goles": "29-33",
       "pts": 32
      },
      "tabla_como_local_o_visitante": {
       "pos": 10,
-      "pj": 13,
+      "pj": 14,
       "g": 3,
       "e": 5,
-      "p": 5,
-      "goles": "14-16",
+      "p": 6,
+      "goles": "14-17",
       "pts": 14
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 28.42,
-      "xg_concedido": 30.7,
-      "xpts": 36.33,
-      "xg_por_partido": 1.01,
-      "xg_concedido_por_partido": 1.1
+      "pj": 29,
+      "xg": 30.54,
+      "xg_concedido": 31.64,
+      "xpts": 38.57,
+      "xg_por_partido": 1.05,
+      "xg_concedido_por_partido": 1.09
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.1,
-      "pj_stats": 28,
-      "posesion": 54,
-      "porterias_cero": 10,
       "goles_partido": 1,
-      "remates_puerta_partido": 3.7,
-      "xg_total": 28.4,
-      "grandes_ocasiones_total": 44,
-      "toques_area_rival": 504,
-      "corners_total": 139,
-      "faltas_partido": 13.8,
-      "xg_concedido_total": 30.7
+      "pj_stats": 29,
+      "porterias_cero": 10,
+      "goles_concedidos_partido": 1.1,
+      "posesion": 54.7,
+      "xg_total": 30.5,
+      "toques_area_rival": 524,
+      "grandes_ocasiones_total": 46,
+      "remates_puerta_partido": 3.8,
+      "corners_total": 148,
+      "faltas_partido": 13.6,
+      "xg_concedido_total": 31.6
      }
     }
    },
@@ -398,7 +452,7 @@
    "competicion": "Série A (BRA)",
    "inicio_utc": "2026-10-07T22:30:00.000Z",
    "inicio_colombia": "2026-10-07 17:30",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Remo",
    "visitante": "Grêmio",
    "ronda": "29",
@@ -415,10 +469,9 @@
     }
    },
    "clima": {
-    "temp_c": 29,
-    "viento_kmh": 4,
-    "lluvia_prob": 2,
-    "cielo": "Mostly Clear"
+    "temp_c": 28,
+    "viento_kmh": 6,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -434,25 +487,23 @@
      "bajas": [
       {
        "jugador": "Edson Fernando",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Poveda",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Zé Welison",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Matheus Felipe",
        "tipo": "injury",
        "regreso": "Late October 2026"
-      },
-      {
-       "jugador": "Jája",
-       "tipo": "injury",
-       "regreso": "Early October 2026"
       },
       {
        "jugador": "Mayk",
@@ -465,46 +516,62 @@
        "regreso": "Mid October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Marcelo",
+       "Marcelinho",
+       "Marllon",
+       "Zé Ivaldo",
+       "Marlon",
+       "Leonel Picco",
+       "Zé Ricardo",
+       "Yago Pikachu",
+       "Vitor Bueno",
+       "Antonio Galeano",
+       "Bill"
+      ]
+     },
      "tabla": {
       "pos": 19,
-      "pj": 28,
+      "pj": 29,
       "g": 5,
       "e": 8,
-      "p": 15,
-      "goles": "32-47",
+      "p": 16,
+      "goles": "32-48",
       "pts": 23
      },
      "tabla_como_local_o_visitante": {
       "pos": 19,
-      "pj": 14,
+      "pj": 15,
       "g": 3,
       "e": 5,
-      "p": 6,
-      "goles": "18-19",
+      "p": 7,
+      "goles": "18-20",
       "pts": 14
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 29.47,
-      "xg_concedido": 44.4,
-      "xpts": 27.56,
+      "pj": 29,
+      "xg": 30.43,
+      "xg_concedido": 45.75,
+      "xpts": 28.59,
       "xg_por_partido": 1.05,
-      "xg_concedido_por_partido": 1.59
+      "xg_concedido_por_partido": 1.58
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.7,
-      "pj_stats": 28,
-      "posesion": 43,
-      "porterias_cero": 3,
       "goles_partido": 1.1,
-      "remates_puerta_partido": 3.8,
-      "xg_total": 29.5,
-      "grandes_ocasiones_total": 47,
-      "toques_area_rival": 419,
-      "corners_total": 130,
-      "faltas_partido": 11.3,
-      "xg_concedido_total": 44.4
+      "pj_stats": 29,
+      "porterias_cero": 3,
+      "goles_concedidos_partido": 1.7,
+      "posesion": 43.7,
+      "xg_total": 30.4,
+      "toques_area_rival": 443,
+      "grandes_ocasiones_total": 48,
+      "remates_puerta_partido": 3.9,
+      "corners_total": 140,
+      "faltas_partido": 11.2,
+      "xg_concedido_total": 45.8
      }
     },
     "visitante": {
@@ -520,16 +587,18 @@
      "bajas": [
       {
        "jugador": "Gustavo Martins",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Erick Noriega",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Pedro Gabriel",
        "tipo": "internationalDuty",
-       "regreso": ""
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Matheus Nascimento",
@@ -552,46 +621,62 @@
        "regreso": "About 1-2 weeks"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Weverton",
+       "João Pedro",
+       "Wallace",
+       "Walter Kannemann",
+       "Caio Paulista",
+       "Danilo",
+       "Cristian Pavón",
+       "Mathías Villasanti",
+       "Dodi",
+       "Francis Amuzu",
+       "Carlos Vinícius"
+      ]
+     },
      "tabla": {
       "pos": 17,
-      "pj": 28,
-      "g": 7,
+      "pj": 29,
+      "g": 8,
       "e": 8,
       "p": 13,
-      "goles": "30-38",
-      "pts": 29
+      "goles": "31-38",
+      "pts": 32
      },
      "tabla_como_local_o_visitante": {
-      "pos": 20,
-      "pj": 14,
-      "g": 0,
+      "pos": 18,
+      "pj": 15,
+      "g": 1,
       "e": 4,
       "p": 10,
-      "goles": "8-22",
-      "pts": 4
+      "goles": "9-22",
+      "pts": 7
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 26.16,
-      "xg_concedido": 47,
-      "xpts": 25.9,
-      "xg_por_partido": 0.93,
-      "xg_concedido_por_partido": 1.68
+      "pj": 29,
+      "xg": 27.52,
+      "xg_concedido": 47.96,
+      "xpts": 27.59,
+      "xg_por_partido": 0.95,
+      "xg_concedido_por_partido": 1.65
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.4,
-      "pj_stats": 28,
-      "posesion": 49.6,
-      "porterias_cero": 6,
       "goles_partido": 1.1,
-      "remates_puerta_partido": 3.6,
-      "xg_total": 26.2,
-      "grandes_ocasiones_total": 44,
-      "toques_area_rival": 476,
-      "corners_total": 115,
-      "faltas_partido": 13.3,
-      "xg_concedido_total": 47
+      "pj_stats": 29,
+      "porterias_cero": 6,
+      "goles_concedidos_partido": 1.3,
+      "posesion": 49.2,
+      "xg_total": 27.5,
+      "toques_area_rival": 490,
+      "grandes_ocasiones_total": 46,
+      "remates_puerta_partido": 3.5,
+      "corners_total": 117,
+      "faltas_partido": 13.2,
+      "xg_concedido_total": 47.9
      }
     }
    },
@@ -612,7 +697,7 @@
    "competicion": "Série A (BRA)",
    "inicio_utc": "2026-10-07T23:00:00.000Z",
    "inicio_colombia": "2026-10-07 18:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Vitória",
    "visitante": "Chapecoense",
    "ronda": "29",
@@ -631,8 +716,7 @@
    "clima": {
     "temp_c": 26,
     "viento_kmh": 4,
-    "lluvia_prob": 2,
-    "cielo": "Mostly Clear"
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -646,11 +730,6 @@
       "L 1 - 3 Vitória-Cruzeiro"
      ],
      "bajas": [
-      {
-       "jugador": "Ignacio Laquintana",
-       "tipo": "injury",
-       "regreso": "About 1-2 weeks"
-      },
       {
        "jugador": "Ramon",
        "tipo": "injury",
@@ -692,46 +771,62 @@
        "regreso": "Out for season"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Lucas Arcanjo",
+       "Mateusinho",
+       "Cacá",
+       "Luan Cândido",
+       "Jamerson",
+       "Caíque",
+       "Emmanuel Martínez",
+       "Erick",
+       "Matheuzinho",
+       "Diego Tarzia",
+       "Renê"
+      ]
+     },
      "tabla": {
-      "pos": 13,
-      "pj": 28,
-      "g": 9,
+      "pos": 12,
+      "pj": 29,
+      "g": 10,
       "e": 6,
       "p": 13,
-      "goles": "28-42",
-      "pts": 33
+      "goles": "29-42",
+      "pts": 36
      },
      "tabla_como_local_o_visitante": {
-      "pos": 6,
-      "pj": 14,
-      "g": 9,
+      "pos": 4,
+      "pj": 15,
+      "g": 10,
       "e": 1,
       "p": 4,
-      "goles": "18-12",
-      "pts": 28
+      "goles": "19-12",
+      "pts": 31
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 28.04,
-      "xg_concedido": 40.72,
-      "xpts": 31.43,
-      "xg_por_partido": 1,
-      "xg_concedido_por_partido": 1.45
+      "pj": 29,
+      "xg": 28.57,
+      "xg_concedido": 41.03,
+      "xpts": 32.92,
+      "xg_por_partido": 0.99,
+      "xg_concedido_por_partido": 1.41
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.5,
-      "pj_stats": 28,
-      "posesion": 44.3,
-      "porterias_cero": 10,
       "goles_partido": 1,
-      "remates_puerta_partido": 4.1,
-      "xg_total": 28,
+      "pj_stats": 29,
+      "porterias_cero": 10,
+      "goles_concedidos_partido": 1.4,
+      "posesion": 44.6,
+      "xg_total": 28.6,
+      "toques_area_rival": 479,
       "grandes_ocasiones_total": 44,
-      "toques_area_rival": 469,
-      "corners_total": 128,
-      "faltas_partido": 13.2,
-      "xg_concedido_total": 40.7
+      "remates_puerta_partido": 4,
+      "corners_total": 130,
+      "faltas_partido": 12.9,
+      "xg_concedido_total": 41
      }
     },
     "visitante": {
@@ -766,46 +861,62 @@
        "regreso": "Mid October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Anderson",
+       "Bruno Tubarão",
+       "Kauan",
+       "Doma",
+       "Bruno Pacheco",
+       "Camilo",
+       "Yago",
+       "Marcinho",
+       "Giovanni Augusto",
+       "Maurício Garcez",
+       "Túlio"
+      ]
+     },
      "tabla": {
       "pos": 20,
-      "pj": 27,
+      "pj": 28,
       "g": 3,
       "e": 9,
-      "p": 15,
-      "goles": "29-53",
+      "p": 16,
+      "goles": "29-54",
       "pts": 18
      },
      "tabla_como_local_o_visitante": {
-      "pos": 18,
-      "pj": 14,
+      "pos": 19,
+      "pj": 15,
       "g": 1,
       "e": 4,
-      "p": 9,
-      "goles": "11-24",
+      "p": 10,
+      "goles": "11-25",
       "pts": 7
      },
      "xg_temporada": {
-      "pj": 27,
-      "xg": 29.33,
-      "xg_concedido": 46.7,
-      "xpts": 27.84,
-      "xg_por_partido": 1.09,
-      "xg_concedido_por_partido": 1.73
+      "pj": 28,
+      "xg": 29.64,
+      "xg_concedido": 47.23,
+      "xpts": 28.84,
+      "xg_por_partido": 1.06,
+      "xg_concedido_por_partido": 1.69
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 27,
-      "posesion": 42.4,
+      "goles_partido": 1,
+      "pj_stats": 28,
       "porterias_cero": 2,
-      "goles_partido": 1.1,
-      "remates_puerta_partido": 3.4,
-      "xg_total": 29.3,
+      "goles_concedidos_partido": 1.9,
+      "posesion": 42.5,
+      "xg_total": 29.6,
+      "toques_area_rival": 429,
       "grandes_ocasiones_total": 47,
-      "toques_area_rival": 422,
-      "corners_total": 104,
-      "faltas_partido": 13.3,
-      "xg_concedido_total": 46.7
+      "remates_puerta_partido": 3.4,
+      "corners_total": 107,
+      "faltas_partido": 13.1,
+      "xg_concedido_total": 47.2
      }
     }
    },
@@ -831,7 +942,7 @@
    "competicion": "Série A (BRA)",
    "inicio_utc": "2026-10-07T23:30:00.000Z",
    "inicio_colombia": "2026-10-07 18:30",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Botafogo",
    "visitante": "Vasco da Gama",
    "ronda": "29",
@@ -849,9 +960,8 @@
    },
    "clima": {
     "temp_c": 23,
-    "viento_kmh": 3,
-    "lluvia_prob": 41,
-    "cielo": "Showers"
+    "viento_kmh": 2,
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -871,11 +981,6 @@
        "regreso": "Late October 2026"
       },
       {
-       "jugador": "Matheus Martins",
-       "tipo": "injury",
-       "regreso": "About 1-2 weeks"
-      },
-      {
        "jugador": "Jordan Barrera",
        "tipo": "injury",
        "regreso": "Out for season"
@@ -886,46 +991,62 @@
        "regreso": "Mid October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Gabriel Batista",
+       "Vitinho",
+       "Nahuel Ferraresi",
+       "Arthur Chaves",
+       "Alex Telles",
+       "Huguinho",
+       "Danilo",
+       "Cristian Medina",
+       "Hakim Ziyech",
+       "Matheus Martins",
+       "Arthur Cabral"
+      ]
+     },
      "tabla": {
-      "pos": 12,
-      "pj": 28,
+      "pos": 13,
+      "pj": 29,
       "g": 9,
       "e": 8,
-      "p": 11,
-      "goles": "41-45",
+      "p": 12,
+      "goles": "41-46",
       "pts": 35
      },
      "tabla_como_local_o_visitante": {
-      "pos": 14,
-      "pj": 14,
+      "pos": 15,
+      "pj": 15,
       "g": 5,
       "e": 6,
-      "p": 3,
-      "goles": "24-20",
+      "p": 4,
+      "goles": "24-21",
       "pts": 21
      },
      "xg_temporada": {
-      "pj": 28,
-      "xg": 36.94,
-      "xg_concedido": 41.36,
-      "xpts": 35.8,
-      "xg_por_partido": 1.32,
-      "xg_concedido_por_partido": 1.48
+      "pj": 29,
+      "xg": 37.23,
+      "xg_concedido": 42.05,
+      "xpts": 36.65,
+      "xg_por_partido": 1.28,
+      "xg_concedido_por_partido": 1.45
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.6,
-      "pj_stats": 28,
-      "posesion": 46.9,
+      "goles_partido": 1.4,
+      "pj_stats": 29,
       "porterias_cero": 4,
-      "goles_partido": 1.5,
-      "remates_puerta_partido": 5.2,
-      "xg_total": 36.9,
-      "grandes_ocasiones_total": 62,
-      "toques_area_rival": 575,
-      "corners_total": 122,
-      "faltas_partido": 13.7,
-      "xg_concedido_total": 41.4
+      "goles_concedidos_partido": 1.6,
+      "posesion": 46.7,
+      "xg_total": 37.2,
+      "toques_area_rival": 582,
+      "grandes_ocasiones_total": 63,
+      "remates_puerta_partido": 5.1,
+      "corners_total": 125,
+      "faltas_partido": 13.3,
+      "xg_concedido_total": 42.1
      }
     },
     "visitante": {
@@ -941,7 +1062,8 @@
      "bajas": [
       {
        "jugador": "Andrés Gómez",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Early October 2026"
       },
       {
        "jugador": "Carlos Cuesta",
@@ -954,46 +1076,62 @@
        "regreso": "Mid October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Léo",
+       "Paulo Henrique",
+       "Alan Saldivia",
+       "Robert Renan",
+       "Cuiabano",
+       "Santiago Sosa",
+       "Marino Hinestroza",
+       "Alan Lescano",
+       "Thiago Mendes",
+       "Facundo Colidio",
+       "Bruno Duarte"
+      ]
+     },
      "tabla": {
-      "pos": 16,
-      "pj": 27,
-      "g": 8,
+      "pos": 14,
+      "pj": 28,
+      "g": 9,
       "e": 7,
       "p": 12,
-      "goles": "34-41",
-      "pts": 31
+      "goles": "35-41",
+      "pts": 34
      },
      "tabla_como_local_o_visitante": {
-      "pos": 17,
-      "pj": 13,
-      "g": 1,
+      "pos": 14,
+      "pj": 14,
+      "g": 2,
       "e": 5,
       "p": 7,
-      "goles": "13-23",
-      "pts": 8
+      "goles": "14-23",
+      "pts": 11
      },
      "xg_temporada": {
-      "pj": 27,
-      "xg": 43.65,
-      "xg_concedido": 31,
-      "xpts": 44.19,
-      "xg_por_partido": 1.62,
-      "xg_concedido_por_partido": 1.15
+      "pj": 28,
+      "xg": 44.34,
+      "xg_concedido": 31.3,
+      "xpts": 45.89,
+      "xg_por_partido": 1.58,
+      "xg_concedido_por_partido": 1.12
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.5,
-      "pj_stats": 27,
-      "posesion": 53.8,
-      "porterias_cero": 3,
       "goles_partido": 1.3,
-      "remates_puerta_partido": 5.4,
-      "xg_total": 43.7,
-      "grandes_ocasiones_total": 62,
-      "toques_area_rival": 758,
-      "corners_total": 154,
-      "faltas_partido": 12.9,
-      "xg_concedido_total": 31
+      "pj_stats": 28,
+      "porterias_cero": 3,
+      "goles_concedidos_partido": 1.5,
+      "posesion": 54,
+      "xg_total": 44.4,
+      "toques_area_rival": 770,
+      "grandes_ocasiones_total": 63,
+      "remates_puerta_partido": 5.3,
+      "corners_total": 159,
+      "faltas_partido": 12.5,
+      "xg_concedido_total": 31.3
      }
     }
    },
@@ -1037,9 +1175,9 @@
    },
    "clima": {
     "temp_c": 24,
-    "viento_kmh": 3,
-    "lluvia_prob": 8,
-    "cielo": "Partly Cloudy"
+    "viento_kmh": 4,
+    "lluvia_prob": 1,
+    "cielo": "Clear"
    },
    "equipos": {
     "local": {
@@ -1054,12 +1192,17 @@
      ],
      "bajas": [
       {
-       "jugador": "Kenji",
+       "jugador": "Fabrício Bruno",
+       "tipo": "injury",
+       "regreso": "About a week"
+      },
+      {
+       "jugador": "Lucas Villalba",
        "tipo": "injury",
        "regreso": "Doubtful"
       },
       {
-       "jugador": "Lucas Daniel Romero",
+       "jugador": "Kenji",
        "tipo": "injury",
        "regreso": "Doubtful"
       },
@@ -1074,7 +1217,23 @@
        "regreso": "Late October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Otávio",
+       "William",
+       "João Marcelo",
+       "Jonathan Jesus",
+       "Gabriel Rojas",
+       "Lucas Daniel Romero",
+       "Gérson",
+       "Bruno Rodrigues",
+       "Matheus Pereira",
+       "Felipe Morais",
+       "Kaio Jorge"
+      ]
+     },
      "tabla": {
       "pos": 6,
       "pj": 28,
@@ -1102,15 +1261,15 @@
       "xg_concedido_por_partido": 1.28
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.4,
-      "pj_stats": 28,
-      "posesion": 55,
-      "porterias_cero": 5,
       "goles_partido": 1.5,
-      "remates_puerta_partido": 4.9,
+      "pj_stats": 28,
+      "porterias_cero": 5,
+      "goles_concedidos_partido": 1.4,
+      "posesion": 55,
       "xg_total": 39.7,
-      "grandes_ocasiones_total": 61,
       "toques_area_rival": 644,
+      "grandes_ocasiones_total": 61,
+      "remates_puerta_partido": 4.9,
       "corners_total": 144,
       "faltas_partido": 14.3,
       "xg_concedido_total": 35.7
@@ -1127,11 +1286,6 @@
       "L 1 - 2 São Paulo-Santos"
      ],
      "bajas": [
-      {
-       "jugador": "Marcos Antônio",
-       "tipo": "injury",
-       "regreso": "Doubtful"
-      },
       {
        "jugador": "Iago",
        "tipo": "injury",
@@ -1173,9 +1327,25 @@
        "regreso": "Late October 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Carlos Coronel",
+       "Robert Arboleda",
+       "Rafael Tolói",
+       "Sabino",
+       "Wendell",
+       "Damián Bobadilla",
+       "Pablo Maia",
+       "Artur",
+       "Marcos Antônio",
+       "Pedro Lima",
+       "Jonathan Calleri"
+      ]
+     },
      "tabla": {
-      "pos": 10,
+      "pos": 11,
       "pj": 28,
       "g": 10,
       "e": 6,
@@ -1184,7 +1354,7 @@
       "pts": 36
      },
      "tabla_como_local_o_visitante": {
-      "pos": 15,
+      "pos": 16,
       "pj": 14,
       "g": 2,
       "e": 3,
@@ -1201,15 +1371,15 @@
       "xg_concedido_por_partido": 1.17
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.1,
-      "pj_stats": 28,
-      "posesion": 53.8,
-      "porterias_cero": 6,
       "goles_partido": 1.2,
-      "remates_puerta_partido": 4.2,
+      "pj_stats": 28,
+      "porterias_cero": 6,
+      "goles_concedidos_partido": 1.1,
+      "posesion": 53.8,
       "xg_total": 38.1,
-      "grandes_ocasiones_total": 59,
       "toques_area_rival": 621,
+      "grandes_ocasiones_total": 59,
+      "remates_puerta_partido": 4.2,
       "corners_total": 192,
       "faltas_partido": 14.5,
       "xg_concedido_total": 32.7
@@ -1235,5 +1405,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-07T20:46:00.613Z"
+ "generado_utc": "2026-10-08T00:09:04.867Z"
 }
