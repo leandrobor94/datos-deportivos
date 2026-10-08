@@ -2163,7 +2163,7 @@
      {
       "jugador": "LeBron James",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6331,5 +6331,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-08T17:50:06.966Z"
+ "generado_utc": "2026-10-08T19:25:18.818Z"
 }
