@@ -1078,7 +1078,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Isaiah Stewart: Day-To-Day (Ankle)",
+     "Isaiah Stewart: Out (Ankle)",
      "Micah Peavy: Day-To-Day (Ankle)"
     ],
     "ultimos_5": [
@@ -1609,9 +1609,10 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Tre Jones: Day-To-Day (Hip)",
+     "Jalen Smith: Day-To-Day (Foot)",
      "Zach Collins: Day-To-Day (Toe)",
      "Jaylin Sellers: Day-To-Day (Back)",
-     "Tre Jones: Day-To-Day (Hip)",
      "Nic Claxton: Day-To-Day (Hamstring)"
     ],
     "ultimos_5": [
@@ -2024,7 +2025,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2133,7 +2134,7 @@
    "nota": "WNBA Semifinals - Game 3",
    "inicio_utc": "2026-10-09T23:30Z",
    "inicio_colombia": "2026-10-09 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Barclays Center",
    "serie_temporada": [
     "ATL wins series 2-1",
@@ -2147,17 +2148,11 @@
      "Road: 15-7"
     ],
     "lesiones": [
-     "Allisha Gray: Day-To-Day (Hand)",
+     "Allisha Gray: Out (Hand)",
      "Matilde Villa: Out (Coach's Decision)",
      "Brionna Jones: Out (Leg)"
     ],
-    "ultimos_5": [
-     "2026-09-24 @ NY W 83-65",
-     "2026-09-27 vs WSH W 92-77",
-     "2026-09-30 @ WSH W 93-75",
-     "2026-10-04 vs NY W 92-82",
-     "2026-10-07 vs NY W 101-98 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Rhyne Howard",
@@ -2315,7 +2310,7 @@
      {
       "jugador": "Allisha Gray",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2528,13 +2523,7 @@
      "Satou Sabally: Out (Concussion)",
      "Elizabeth Balogun: Out (Not Injury Related)"
     ],
-    "ultimos_5": [
-     "2026-09-24 vs ATL L 83-65",
-     "2026-09-27 @ MIN W 91-75",
-     "2026-09-30 vs MIN W 87-71",
-     "2026-10-04 @ ATL L 92-82",
-     "2026-10-07 @ ATL L 101-98 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Breanna Stewart",
@@ -3541,8 +3530,6 @@
      "Road: 16-6"
     ],
     "lesiones": [
-     "Stephanie Talbot: Day-To-Day (Leg)",
-     "Jewell Loyd: Day-To-Day (Leg)",
      "NaLyssa Smith: Out (Leg)"
     ],
     "ultimos_5": [
@@ -3760,7 +3747,7 @@
      {
       "jugador": "Jewell Loyd",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3811,7 +3798,7 @@
      {
       "jugador": "Stephanie Talbot",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4068,5 +4055,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-09T20:19:14.624Z"
+ "generado_utc": "2026-10-09T23:59:48.347Z"
 }
