@@ -9,11 +9,11 @@
    "serie": "AL Division Series",
    "inicio_utc": "2026-10-09T00:00:00Z",
    "inicio_colombia": "2026-10-08 19:00",
-   "estado": "Pre-Game",
+   "estado": "In Progress",
    "estadio": "Rate Field",
    "clima": {
     "condition": "Clear",
-    "temp": "64",
+    "temp": "65",
     "wind": "3 mph, In From CF"
    },
    "visitante": {
@@ -318,5 +318,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-08T20:48:12.010Z"
+ "generado_utc": "2026-10-09T00:17:33.387Z"
 }
