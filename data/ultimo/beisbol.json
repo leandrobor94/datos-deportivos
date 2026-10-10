@@ -9,9 +9,13 @@
    "serie": "AL Division Series",
    "inicio_utc": "2026-10-11T00:00:00Z",
    "inicio_colombia": "2026-10-10 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Progressive Field",
-   "clima": null,
+   "clima": {
+    "condition": "Partly Cloudy",
+    "temp": "70",
+    "wind": "11 mph, Out To CF"
+   },
    "visitante": {
     "equipo": "Chicago White Sox",
     "record": "2-2",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Sam Antonacci",
+     "Kyle Teel",
+     "Miguel Vargas",
+     "Munetaka Murakami",
+     "Andrew Benintendi",
+     "Tristan Peters",
+     "Chase Meidroth",
+     "Colson Montgomery",
+     "Brenton Doyle"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.79,
@@ -250,7 +264,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Steven Kwan",
+     "José Ramírez",
+     "Chase DeLauter",
+     "Jo Adell",
+     "Nathaniel Lowe",
+     "Travis Bazzana",
+     "Patrick Bailey",
+     "Petey Halpin",
+     "Brayan Rocchio"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.19,
@@ -346,5 +370,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-10T19:29:40.682Z"
+ "generado_utc": "2026-10-10T23:30:05.244Z"
 }

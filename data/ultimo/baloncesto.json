@@ -9,7 +9,7 @@
    "nota": "NBA Canada Games 2026",
    "inicio_utc": "2026-10-10T22:30Z",
    "inicio_colombia": "2026-10-10 17:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Rogers Arena",
    "serie_temporada": [
     "Series starts 11/2"
@@ -28,13 +28,7 @@
      "Yanic Konan Niederhauser: Out (Foot)",
      "Brandon Ingram: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-04-09 vs OKC L 128-110",
-     "2026-04-11 @ POR L 116-97",
-     "2026-04-13 vs GS W 115-110",
-     "2026-04-16 vs GS L 126-121",
-     "2026-10-04 vs GS W 104-101"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Rui Hachimura",
@@ -538,19 +532,13 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Kawhi Leonard: Day-To-Day (Not Injury Related)",
-     "Trayce Jackson-Davis: Day-To-Day (Head)",
-     "Jamison Battle: Day-To-Day (Back)",
+     "Alijah Martin: Day-To-Day (Knee)",
+     "Nate Bittle: Day-To-Day (Foot)",
+     "Trayce Jackson-Davis: Day-To-Day (Teeth)",
      "Allen Graves: Day-To-Day (Groin)",
-     "Nate Bittle: Day-To-Day (Foot)"
+     "Kawhi Leonard: Day-To-Day (Not Injury Related)"
     ],
-    "ultimos_5": [
-     "2026-04-26 vs CLE W 93-89",
-     "2026-04-29 @ CLE L 125-120",
-     "2026-05-01 vs CLE W 112-110 OT",
-     "2026-05-03 @ CLE L 114-102",
-     "2026-10-03 vs MIA L 129-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "RJ Barrett",
@@ -1054,7 +1042,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-10T23:00Z",
    "inicio_colombia": "2026-10-10 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Gainbridge Fieldhouse",
    "serie_temporada": [
     "Series starts 11/2"
@@ -1068,23 +1056,17 @@
     ],
     "lesiones": [
      "Keshon Gilbert: Day-To-Day (Knee)",
-     "Luguentz Dort: Day-To-Day (Knee)",
-     "Jalen Johnson: Day-To-Day (Rest)",
+     "Dorian Finney-Smith: Day-To-Day (Rest)",
+     "Nickeil Alexander-Walker: Day-To-Day (Rest)",
      "Henri Veesaar: Out (Knee)",
      "Mouhamed Gueye: Day-To-Day (Foot)"
     ],
-    "ultimos_5": [
-     "2026-04-25 vs NY L 114-98",
-     "2026-04-29 @ NY L 126-97",
-     "2026-04-30 vs NY L 140-89",
-     "2026-10-05 vs MEM L 132-123",
-     "2026-10-09 @ SA W 123-116"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Nickeil Alexander-Walker",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1135,7 +1117,7 @@
      {
       "jugador": "Jalen Johnson",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1433,7 +1415,7 @@
      {
       "jugador": "Luguentz Dort",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1587,17 +1569,12 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Tyrese Haliburton: Day-To-Day (Ankle)",
      "Larry Nance Jr.: Day-To-Day (Hamstring)",
      "T.J. McConnell: Day-To-Day (Undisclosed)",
      "Johnny Furphy: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-04-07 vs MIN L 124-104",
-     "2026-04-09 @ BKN W 123-94",
-     "2026-04-10 vs PHI L 105-94",
-     "2026-04-12 vs DET L 133-121",
-     "2026-10-07 vs MIN W 123-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Kelly Oubre Jr.",
@@ -1653,7 +1630,7 @@
      {
       "jugador": "Tyrese Haliburton",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2119,7 +2096,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-10T23:00Z",
    "inicio_colombia": "2026-10-10 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Capital One Arena",
    "serie_temporada": [
     "Series starts 11/9"
@@ -2134,13 +2111,7 @@
     "lesiones": [
      "Jalen Duren: Day-To-Day (Rest)"
     ],
-    "ultimos_5": [
-     "2026-05-12 @ CLE L 112-103",
-     "2026-05-14 vs CLE L 117-113 OT",
-     "2026-05-15 @ CLE W 115-94",
-     "2026-05-18 vs CLE L 125-94",
-     "2026-10-05 vs PHX W 109-107"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cade Cunningham",
@@ -2662,18 +2633,12 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Tre Mann: Day-To-Day (Rest)",
      "Khris Middleton: Day-To-Day (Rest)",
-     "Alex Sarr: Day-To-Day (Foot)",
      "Tristan Vukcevic: Out (Hip)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-04-07 vs CHI L 129-98",
-     "2026-04-09 vs CHI L 119-108",
-     "2026-04-10 vs MIA L 140-117",
-     "2026-04-12 @ CLE L 130-117",
-     "2026-10-08 @ NY W 111-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Anthony Davis",
@@ -3738,10 +3703,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Kylor Kelley: Day-To-Day (Calf)",
-     "Pelle Larsson: Day-To-Day (Illness)",
-     "Keshad Johnson: Out (Hamstring)",
-     "Dru Smith: Day-To-Day (Calf)"
+     "Bam Adebayo: Day-To-Day (Rest)",
+     "Andrew Wiggins: Day-To-Day (Rest)",
+     "Klay Thompson: Day-To-Day (Rest)",
+     "Giannis Antetokounmpo: Day-To-Day (Rest)",
+     "Davion Mitchell: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-04-10 @ WSH W 140-117",
@@ -3805,7 +3771,7 @@
      {
       "jugador": "Davion Mitchell",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3856,7 +3822,7 @@
      {
       "jugador": "Bam Adebayo",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3907,7 +3873,7 @@
      {
       "jugador": "Pelle Larsson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3958,7 +3924,7 @@
      {
       "jugador": "Andrew Wiggins",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4009,7 +3975,7 @@
      {
       "jugador": "Giannis Antetokounmpo",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4213,7 +4179,7 @@
      {
       "jugador": "Klay Thompson",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4284,11 +4250,11 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Dominick Barlow: Day-To-Day (Back)",
-     "Anfernee Simons: Day-To-Day (Undisclosed)",
-     "Adem Bona: Day-To-Day (Foot)",
-     "Ariel Hukporti: Out (Achilles)",
-     "Tacko Fall: Day-To-Day (Hip)"
+     "LeBron James: Day-To-Day (Rest)",
+     "Kentavious Caldwell-Pope: Day-To-Day (Rest)",
+     "Jaylen Brown: Day-To-Day (Rest)",
+     "Joel Embiid: Day-To-Day (Rest)",
+     "Dominick Barlow: Day-To-Day (Back)"
     ],
     "ultimos_5": [
      "2026-05-06 @ NY L 108-102",
@@ -4352,7 +4318,7 @@
      {
       "jugador": "LeBron James",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4454,7 +4420,7 @@
      {
       "jugador": "Jaylen Brown",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4505,7 +4471,7 @@
      {
       "jugador": "Joel Embiid",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4701,7 +4667,7 @@
      {
       "jugador": "Kentavious Caldwell-Pope",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4812,9 +4778,9 @@
     "lesiones": [
      "Sam Hauser: Day-To-Day (Rest)",
      "Ron Harper Jr.: Day-To-Day (Shoulder)",
-     "Payton Pritchard: Day-To-Day (Undisclosed)",
      "Mitchell Robinson: Day-To-Day (Undisclosed)",
-     "Neemias Queta: Day-To-Day (Rest)"
+     "Neemias Queta: Day-To-Day (Rest)",
+     "Paul George: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-04-26 @ PHI W 128-96",
@@ -4980,7 +4946,7 @@
      {
       "jugador": "Payton Pritchard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5330,11 +5296,10 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Leaky Black: Day-To-Day (Face)",
+     "Dylan Cardwell: Day-To-Day (Rest)",
      "Domantas Sabonis: Day-To-Day (Undisclosed)",
-     "Keegan Murray: Day-To-Day (Undisclosed)",
      "Malik Monk: Day-To-Day (Rest)",
-     "Ben Simmons: Day-To-Day (Undisclosed)"
+     "Leaky Black: Day-To-Day (Face)"
     ],
     "ultimos_5": [
      "2026-04-08 @ GS L 110-105",
@@ -5449,7 +5414,7 @@
      {
       "jugador": "Keegan Murray",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5848,11 +5813,11 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Brandin Podziemski: Day-To-Day (Rest)",
-     "Gui Santos: Day-To-Day (Rest)",
      "Gary Payton II: Day-To-Day (Rest)",
      "Georges Niang: Day-To-Day (Rest)",
-     "De'Anthony Melton: Day-To-Day (Rest)"
+     "De'Anthony Melton: Day-To-Day (Rest)",
+     "Kristaps Porzingis: Day-To-Day (Undisclosed)",
+     "Jimmy Butler III: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-04-16 @ LAC W 126-121",
@@ -5916,7 +5881,7 @@
      {
       "jugador": "Brandin Podziemski",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5967,7 +5932,7 @@
      {
       "jugador": "Gui Santos",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6069,7 +6034,7 @@
      {
       "jugador": "Draymond Green",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6120,7 +6085,7 @@
      {
       "jugador": "Stephen Curry",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6395,8 +6360,8 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Malik Williams: Day-To-Day (Undisclosed)",
      "De'Aaron Fox: Day-To-Day (Undisclosed)",
+     "Malik Williams: Day-To-Day (Undisclosed)",
      "Maliq Brown: Day-To-Day (Back)",
      "Jayden Quaintance: Out (Knee)",
      "Tobias Harris: Day-To-Day (Calf)"
@@ -7446,5 +7411,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-10T19:29:42.681Z"
+ "generado_utc": "2026-10-10T23:30:08.913Z"
 }
