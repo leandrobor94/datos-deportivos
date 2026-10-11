@@ -1068,7 +1068,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-11T22:30Z",
    "inicio_colombia": "2026-10-11 17:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Rocket Arena",
    "serie_temporada": [
     "Series starts 12/16"
@@ -1081,19 +1081,13 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Jalen Suggs: Day-To-Day (Illness)",
-     "Anthony Black: Day-To-Day (Ankle)",
-     "Noah Penda: Day-To-Day (Hamstring)",
      "Jonathan Isaac: Day-To-Day (Knee)",
+     "Anthony Black: Day-To-Day (Ankle)",
+     "Desmond Bane: Day-To-Day (Rest)",
+     "Jalen Suggs: Day-To-Day (Illness)",
      "Izaiyah Nelson: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-04-28 vs DET W 94-88",
-     "2026-04-29 @ DET L 116-109",
-     "2026-05-01 vs DET L 93-79",
-     "2026-05-03 @ DET L 116-94",
-     "2026-10-08 @ MEM W 122-118"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Paolo Banchero",
@@ -1149,7 +1143,7 @@
      {
       "jugador": "Desmond Bane",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1615,22 +1609,15 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Khalifa Diop: Day-To-Day (Undisclosed)",
      "Nae'Qwan Tomlin: Day-To-Day (Back)",
-     "James Harden: Day-To-Day (Ankle)"
+     "Khalifa Diop: Day-To-Day (Knee)"
     ],
-    "ultimos_5": [
-     "2026-05-20 @ NY L 115-104 OT",
-     "2026-05-22 @ NY L 109-93",
-     "2026-05-24 vs NY L 121-108",
-     "2026-05-26 vs NY L 130-93",
-     "2026-10-08 vs BOS L 124-113"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "James Harden",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2123,7 +2110,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-11T23:00Z",
    "inicio_colombia": "2026-10-11 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Spectrum Center",
    "serie_temporada": [
     "Series starts 1/3"
@@ -2136,15 +2123,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Kasparas Jakucionis: Day-To-Day (Coach's Decision)",
+     "Brayden Burries: Day-To-Day (Coach's Decision)",
      "Nate Ament: Day-To-Day (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-04-08 @ DET L 137-111",
-     "2026-04-11 vs BKN W 125-108",
-     "2026-04-12 @ PHI L 126-106",
-     "2026-10-06 vs MIN L 116-97",
-     "2026-10-08 @ OKC W 128-126"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "AJ Green",
@@ -2666,24 +2649,18 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Brandon Miller: Day-To-Day (Leg)",
      "Christian Anderson: Day-To-Day (Ankle)",
+     "Grayson Allen: Day-To-Day (Knee)",
      "Kylan Boswell: Day-To-Day (Knee)",
      "Coby White: Day-To-Day (Calf)",
      "Kon Knueppel: Day-To-Day (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-04-10 vs DET L 118-100",
-     "2026-04-12 @ NY W 110-96",
-     "2026-04-14 vs MIA W 127-126 OT",
-     "2026-04-17 @ ORL L 121-90",
-     "2026-10-06 vs BKN L 124-90"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Brandon Miller",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2938,7 +2915,7 @@
      {
       "jugador": "Grayson Allen",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4255,6 +4232,8 @@
    }
   }
  ],
- "errores": [],
- "generado_utc": "2026-10-11T19:42:06.434Z"
+ "errores": [
+  "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog"
+ ],
+ "generado_utc": "2026-10-11T23:37:48.523Z"
 }

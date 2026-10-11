@@ -9,9 +9,13 @@
    "serie": "NL Championship Series",
    "inicio_utc": "2026-10-12T00:00:00Z",
    "inicio_colombia": "2026-10-11 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "American Family Field",
-   "clima": null,
+   "clima": {
+    "condition": "Clear",
+    "temp": "68",
+    "wind": "1 mph, Varies"
+   },
    "visitante": {
     "equipo": "Los Angeles Dodgers",
     "record": "0-0",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Mookie Betts",
+     "Freddie Freeman",
+     "Will Smith",
+     "Shohei Ohtani",
+     "Teoscar Hernández",
+     "Max Muncy",
+     "Andy Pages",
+     "Kyle Tucker",
+     "Enrique Hernández"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.94,
@@ -217,7 +231,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Jackson Chourio",
+     "Brice Turang",
+     "William Contreras",
+     "Jake Bauers",
+     "Andrew Vaughn",
+     "Garrett Mitchell",
+     "Cooper Pratt",
+     "Luis Lara",
+     "Joey Ortiz"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -281,5 +305,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-11T19:42:04.645Z"
+ "generado_utc": "2026-10-11T23:37:37.268Z"
 }
