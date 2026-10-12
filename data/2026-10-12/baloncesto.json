@@ -1086,10 +1086,10 @@
     ],
     "lesiones": [
      "Keshon Gilbert: Day-To-Day (Knee)",
-     "Dorian Finney-Smith: Day-To-Day (Rest)",
-     "Nickeil Alexander-Walker: Day-To-Day (Rest)",
-     "Henri Veesaar: Out (Knee)",
-     "Mouhamed Gueye: Day-To-Day (Foot)"
+     "Aaron Wiggins: Day-To-Day (Rest)",
+     "Onyeka Okongwu: Day-To-Day (Rest)",
+     "CJ McCollum: Day-To-Day (Rest)",
+     "Luguentz Dort: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-04-29 @ NY L 126-97",
@@ -1102,7 +1102,7 @@
      {
       "jugador": "Nickeil Alexander-Walker",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1153,7 +1153,7 @@
      {
       "jugador": "Jalen Johnson",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1204,7 +1204,7 @@
      {
       "jugador": "Onyeka Okongwu",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1255,7 +1255,7 @@
      {
       "jugador": "CJ McCollum",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1306,7 +1306,7 @@
      {
       "jugador": "Dyson Daniels",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1452,7 +1452,7 @@
      {
       "jugador": "Luguentz Dort",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2150,6 +2150,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Anthony Davis: Day-To-Day (Rest)",
      "Khris Middleton: Day-To-Day (Rest)",
      "Tre Mann: Day-To-Day (Rest)",
      "Tristan Vukcevic: Out (Hip)",
@@ -2166,7 +2167,7 @@
      {
       "jugador": "Anthony Davis",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4823,16 +4824,16 @@
   "gamelog Devante Adams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5458322/gamelog",
   "gamelog Ade Adebayo 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4592953/gamelog",
   "gamelog Landrius Horton 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454812/gamelog",
-  "gamelog DeVante Jones 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397506/gamelog",
   "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
+  "gamelog DeVante Jones 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397506/gamelog",
   "gamelog Joshua O'Garro 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684167/gamelog",
   "gamelog Maxwell Lewis 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684286/gamelog",
   "gamelog Ethan Price 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897852/gamelog",
   "gamelog Tarik Phillip 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133638/gamelog",
   "gamelog Joel Scott 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5176195/gamelog",
-  "gamelog Deane Williams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454813/gamelog",
   "gamelog Mo Soluade 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454791/gamelog",
+  "gamelog Deane Williams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454813/gamelog",
   "gamelog Emilis Zibuda 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454794/gamelog"
  ],
- "generado_utc": "2026-10-12T20:14:27.890Z"
+ "generado_utc": "2026-10-12T21:51:54.541Z"
 }

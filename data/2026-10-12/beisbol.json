@@ -9,12 +9,12 @@
    "serie": "NL Championship Series",
    "inicio_utc": "2026-10-12T21:00:00Z",
    "inicio_colombia": "2026-10-12 16:00",
-   "estado": "Pre-Game",
+   "estado": "In Progress",
    "estadio": "American Family Field",
    "clima": {
-    "condition": "Dome",
-    "temp": "72",
-    "wind": "0 mph, None"
+    "condition": "Sunny",
+    "temp": "85",
+    "wind": "1 mph, Varies"
    },
    "visitante": {
     "equipo": "Los Angeles Dodgers",
@@ -638,5 +638,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-12T20:13:59.347Z"
+ "generado_utc": "2026-10-12T21:51:26.505Z"
 }
