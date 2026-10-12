@@ -9,7 +9,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-12T20:00Z",
    "inicio_colombia": "2026-10-12 15:00",
-   "estado": "In Progress",
+   "estado": "Final",
    "estadio": "Moda Center",
    "serie_temporada": [],
    "visitante": {
@@ -22,8 +22,8 @@
    "local": {
     "nombre": "Portland Trail Blazers",
     "record": [
-     "overall: 1-0",
-     "Home: 1-0",
+     "overall: 2-0",
+     "Home: 2-0",
      "Road: 0-0"
     ],
     "lesiones": [
@@ -4822,18 +4822,19 @@
  ],
  "errores": [
   "gamelog Devante Adams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5458322/gamelog",
+  "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
   "gamelog Ade Adebayo 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4592953/gamelog",
   "gamelog Landrius Horton 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454812/gamelog",
-  "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
   "gamelog DeVante Jones 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397506/gamelog",
-  "gamelog Joshua O'Garro 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684167/gamelog",
-  "gamelog Maxwell Lewis 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684286/gamelog",
+  "gamelog Dion Brown 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5107242/gamelog",
   "gamelog Ethan Price 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897852/gamelog",
+  "gamelog Maxwell Lewis 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684286/gamelog",
+  "gamelog Joshua O'Garro 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684167/gamelog",
   "gamelog Tarik Phillip 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133638/gamelog",
   "gamelog Joel Scott 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5176195/gamelog",
+  "gamelog Emilis Zibuda 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454794/gamelog",
   "gamelog Mo Soluade 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454791/gamelog",
-  "gamelog Deane Williams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454813/gamelog",
-  "gamelog Emilis Zibuda 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454794/gamelog"
+  "gamelog Deane Williams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454813/gamelog"
  ],
- "generado_utc": "2026-10-12T21:51:54.541Z"
+ "generado_utc": "2026-10-12T22:35:49.175Z"
 }
