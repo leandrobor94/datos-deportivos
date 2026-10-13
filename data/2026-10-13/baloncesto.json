@@ -9,7 +9,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-13T23:00Z",
    "inicio_colombia": "2026-10-13 18:00",
-   "estado": "Scheduled",
+   "estado": "End of Period",
    "estadio": "Kia Center",
    "serie_temporada": [
     "Series starts 12/16"
@@ -23,15 +23,10 @@
     ],
     "lesiones": [
      "Nae'Qwan Tomlin: Day-To-Day (Back)",
+     "Sam Merrill: Day-To-Day (Elbow)",
      "Khalifa Diop: Day-To-Day (Knee)"
     ],
-    "ultimos_5": [
-     "2026-05-22 @ NY L 109-93",
-     "2026-05-24 vs NY L 121-108",
-     "2026-05-26 vs NY L 130-93",
-     "2026-10-08 vs BOS L 124-113",
-     "2026-10-11 vs ORL W 119-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "James Harden",
@@ -334,7 +329,7 @@
      {
       "jugador": "Sam Merrill",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -488,19 +483,12 @@
      "Road: 1-1"
     ],
     "lesiones": [
-     "Jonathan Isaac: Day-To-Day (Knee)",
-     "Jalen Suggs: Day-To-Day (Illness)",
+     "Nikola Vucevic: Day-To-Day (Rest)",
      "Anthony Black: Day-To-Day (Ankle)",
-     "Desmond Bane: Day-To-Day (Rest)",
+     "Jonathan Isaac: Day-To-Day (Knee)",
      "Izaiyah Nelson: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-04-29 @ DET L 116-109",
-     "2026-05-01 vs DET L 93-79",
-     "2026-05-03 @ DET L 116-94",
-     "2026-10-08 @ MEM W 122-118",
-     "2026-10-11 @ CLE L 119-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Paolo Banchero",
@@ -556,7 +544,7 @@
      {
       "jugador": "Desmond Bane",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -607,7 +595,7 @@
      {
       "jugador": "Jalen Suggs",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -811,7 +799,7 @@
      {
       "jugador": "Nikola Vucevic",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1022,7 +1010,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-13T23:00Z",
    "inicio_colombia": "2026-10-13 18:00",
-   "estado": "Scheduled",
+   "estado": "End of Period",
    "estadio": "Scotiabank Arena",
    "serie_temporada": [
     "Series starts 11/15"
@@ -1041,13 +1029,7 @@
      "OG Anunoby: Day-To-Day (Rest)",
      "Jalen Brunson: Day-To-Day (Rest)"
     ],
-    "ultimos_5": [
-     "2026-06-11 vs SA W 107-106",
-     "2026-06-14 @ SA W 94-90",
-     "2026-10-05 @ PHI L 120-97",
-     "2026-10-08 vs WSH L 111-109",
-     "2026-10-12 vs MIN L 122-104"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Brunson",
@@ -1567,18 +1549,12 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Trayce Jackson-Davis: Day-To-Day (Teeth)",
-     "Allen Graves: Day-To-Day (Groin)",
-     "Alijah Martin: Day-To-Day (Knee)",
-     "Nate Bittle: Day-To-Day (Foot)"
+     "Trey Jemison III: Day-To-Day (Undisclosed)",
+     "Jamison Battle: Day-To-Day (Undisclosed)",
+     "Nate Bittle: Day-To-Day (Foot)",
+     "Chucky Hepburn: Day-To-Day (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-04-29 @ CLE L 125-120",
-     "2026-05-01 vs CLE W 112-110 OT",
-     "2026-05-03 @ CLE L 114-102",
-     "2026-10-03 vs MIA L 129-105",
-     "2026-10-10 vs LAC W 114-106"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "RJ Barrett",
@@ -2097,7 +2073,6 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Tyrese Haliburton: Day-To-Day (Ankle)",
      "T.J. McConnell: Day-To-Day (Undisclosed)",
      "Johnny Furphy: Out (Knee)"
     ],
@@ -2629,11 +2604,11 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Thomas Sorber: Day-To-Day (Knee)",
-     "Nikola Topic: Day-To-Day (Back)",
-     "Chet Holmgren: Day-To-Day (Quadriceps)",
      "Jaylin Williams: Day-To-Day (Heel)",
-     "Kenrich Williams: Day-To-Day (Rest)"
+     "Chet Holmgren: Day-To-Day (Quadriceps)",
+     "Ajay Mitchell: Day-To-Day (Rest)",
+     "Thomas Sorber: Day-To-Day (Knee)",
+     "Nikola Topic: Day-To-Day (Back)"
     ],
     "ultimos_5": [
      "2026-05-29 @ SA L 118-91",
@@ -2646,7 +2621,7 @@
      {
       "jugador": "Shai Gilgeous-Alexander",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2887,7 +2862,7 @@
      {
       "jugador": "Cason Wallace",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3026,7 +3001,7 @@
      {
       "jugador": "Alex Caruso",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3077,7 +3052,7 @@
      {
       "jugador": "Jalen Williams",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4747,9 +4722,9 @@
      "Road: 0-2"
     ],
     "lesiones": [
+     "Dylan Cardwell: Out (Calf)",
      "Malik Monk: Day-To-Day (Rest)",
      "Domantas Sabonis: Day-To-Day (Undisclosed)",
-     "Dylan Cardwell: Day-To-Day (Calf)",
      "Maxime Raynaud: Out (Knee)"
     ],
     "ultimos_5": [
@@ -5264,5 +5239,5 @@
   "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog",
   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog"
  ],
- "generado_utc": "2026-10-13T20:48:49.270Z"
+ "generado_utc": "2026-10-13T23:43:09.311Z"
 }

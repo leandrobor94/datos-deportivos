@@ -9,7 +9,7 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-14T00:00:00Z",
    "inicio_colombia": "2026-10-13 19:00",
-   "estado": "Pre-Game",
+   "estado": "Warmup",
    "estadio": "Tropicana Field",
    "clima": {
     "condition": "Dome",
@@ -340,5 +340,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-13T20:48:38.477Z"
+ "generado_utc": "2026-10-13T23:42:57.944Z"
 }
