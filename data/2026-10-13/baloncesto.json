@@ -488,8 +488,8 @@
      "Road: 1-1"
     ],
     "lesiones": [
-     "Jalen Suggs: Day-To-Day (Illness)",
      "Jonathan Isaac: Day-To-Day (Knee)",
+     "Jalen Suggs: Day-To-Day (Illness)",
      "Anthony Black: Day-To-Day (Ankle)",
      "Desmond Bane: Day-To-Day (Rest)",
      "Izaiyah Nelson: Out (Ankle)"
@@ -4217,8 +4217,6 @@
     ],
     "lesiones": [
      "Chris Youngblood: Day-To-Day (Calf)",
-     "Robert Williams III: Day-To-Day (Rest)",
-     "Damian Lillard: Day-To-Day (Rest)",
      "Shaedon Sharpe: Out (Knee)"
     ],
     "ultimos_5": [
@@ -4385,7 +4383,7 @@
      {
       "jugador": "Damian Lillard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4691,7 +4689,7 @@
      {
       "jugador": "Robert Williams III",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5266,5 +5264,5 @@
   "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog",
   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog"
  ],
- "generado_utc": "2026-10-13T18:07:46.516Z"
+ "generado_utc": "2026-10-13T19:57:25.013Z"
 }
