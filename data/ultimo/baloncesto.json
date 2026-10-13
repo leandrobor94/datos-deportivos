@@ -554,7 +554,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-12T23:00Z",
    "inicio_colombia": "2026-10-12 18:00",
-   "estado": "Scheduled",
+   "estado": "Final",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "Series starts 11/18"
@@ -562,9 +562,9 @@
    "visitante": {
     "nombre": "Oklahoma City Thunder",
     "record": [
-     "overall: 0-2",
-     "Home: 0-1",
-     "Road: 0-0"
+     "overall: 0-3",
+     "Home: 0-2",
+     "Road: 0-1"
     ],
     "lesiones": [
      "Thomas Sorber: Day-To-Day (Knee)",
@@ -573,13 +573,7 @@
      "Jaylin Williams: Day-To-Day (Heel)",
      "Kenrich Williams: Day-To-Day (Rest)"
     ],
-    "ultimos_5": [
-     "2026-05-27 vs SA W 127-114",
-     "2026-05-29 @ SA L 118-91",
-     "2026-05-31 vs SA L 111-103",
-     "2026-10-07 vs NO L 116-110",
-     "2026-10-08 vs MIL L 128-126"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Shai Gilgeous-Alexander",
@@ -684,6 +678,50 @@
       ]
      },
      {
+      "jugador": "Bennett Stirtz",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 30.33,
+        "pts": 20.33,
+        "reb": 4.67,
+        "ast": 4.33,
+        "triples": 4.33
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 30.33,
+        "pts": 20.33,
+        "reb": 4.67,
+        "ast": 4.33,
+        "triples": 4.33
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 30.33,
+        "pts": 20.33,
+        "reb": 4.67,
+        "ast": 4.33,
+        "triples": 4.33
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 30.33,
+        "pts": 20.33,
+        "reb": 4.67,
+        "ast": 4.33,
+        "triples": 4.33
+       }
+      },
+      "ultimos_10": [
+       "2026-10-07 vs NO: 31min 15p 5r 6a 3t",
+       "2026-10-08 vs MIL: 22min 20p 5r 2a 4t",
+       "2026-10-12 vs ATL: 38min 26p 4r 5a 6t"
+      ]
+     },
+     {
       "jugador": "Ajay Mitchell",
       "posicion": "G",
       "lesion": "Day-To-Day",
@@ -735,46 +773,47 @@
       ]
      },
      {
-      "jugador": "Bennett Stirtz",
+      "jugador": "Josh Dix",
       "posicion": "G",
       "lesion": null,
       "promedios": {
        "ult5": {
-        "pj": 2,
-        "min": 26.5,
-        "pts": 17.5,
-        "reb": 5,
-        "ast": 4,
-        "triples": 3.5
+        "pj": 3,
+        "min": 27,
+        "pts": 10,
+        "reb": 1.67,
+        "ast": 3,
+        "triples": 2.67
        },
        "ult10": {
-        "pj": 2,
-        "min": 26.5,
-        "pts": 17.5,
-        "reb": 5,
-        "ast": 4,
-        "triples": 3.5
+        "pj": 3,
+        "min": 27,
+        "pts": 10,
+        "reb": 1.67,
+        "ast": 3,
+        "triples": 2.67
        },
        "ult20": {
-        "pj": 2,
-        "min": 26.5,
-        "pts": 17.5,
-        "reb": 5,
-        "ast": 4,
-        "triples": 3.5
+        "pj": 3,
+        "min": 27,
+        "pts": 10,
+        "reb": 1.67,
+        "ast": 3,
+        "triples": 2.67
        },
        "temporada": {
-        "pj": 2,
-        "min": 26.5,
-        "pts": 17.5,
-        "reb": 5,
-        "ast": 4,
-        "triples": 3.5
+        "pj": 3,
+        "min": 27,
+        "pts": 10,
+        "reb": 1.67,
+        "ast": 3,
+        "triples": 2.67
        }
       },
       "ultimos_10": [
-       "2026-10-07 vs NO: 31min 15p 5r 6a 3t",
-       "2026-10-08 vs MIL: 22min 20p 5r 2a 4t"
+       "2026-10-07 vs NO: 30min 11p 2r 2a 3t",
+       "2026-10-08 vs MIL: 14min 3p 0r 0a 1t",
+       "2026-10-12 vs ATL: 37min 16p 3r 7a 4t"
       ]
      },
      {
@@ -826,6 +865,94 @@
        "2026-05-27 vs SA: 31min 7p 4r 5a 1t",
        "2026-05-29 vs SA: 20min 11p 3r 1a 3t",
        "2026-05-31 vs SA: 36min 17p 7r 4a 5t"
+      ]
+     },
+     {
+      "jugador": "Otega Oweh",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 26.33,
+        "pts": 6.33,
+        "reb": 5.67,
+        "ast": 0.67,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 26.33,
+        "pts": 6.33,
+        "reb": 5.67,
+        "ast": 0.67,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 26.33,
+        "pts": 6.33,
+        "reb": 5.67,
+        "ast": 0.67,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 26.33,
+        "pts": 6.33,
+        "reb": 5.67,
+        "ast": 0.67,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-07 vs NO: 28min 6p 6r 1a 0t",
+       "2026-10-08 vs MIL: 16min 2p 1r 0a 0t",
+       "2026-10-12 vs ATL: 35min 11p 10r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Aday Mara",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 25.33,
+        "pts": 17,
+        "reb": 8.33,
+        "ast": 3.67,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 25.33,
+        "pts": 17,
+        "reb": 8.33,
+        "ast": 3.67,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 25.33,
+        "pts": 17,
+        "reb": 8.33,
+        "ast": 3.67,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 25.33,
+        "pts": 17,
+        "reb": 8.33,
+        "ast": 3.67,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-07 vs NO: 18min 12p 9r 3a 0t",
+       "2026-10-08 vs MIL: 25min 22p 6r 2a 0t",
+       "2026-10-12 vs ATL: 33min 17p 10r 6a 0t"
       ]
      },
      {
@@ -929,159 +1056,14 @@
        "2026-05-21 vs SA: 7min 4p 1r 0a 0t",
        "2026-05-29 vs SA: 10min 1p 0r 1a 0t"
       ]
-     },
-     {
-      "jugador": "Isaiah Hartenstein",
-      "posicion": "C",
-      "lesion": "Day-To-Day",
-      "promedios": {
-       "ult5": {
-        "pj": 5,
-        "min": 21.4,
-        "pts": 9.2,
-        "reb": 8,
-        "ast": 2.8,
-        "triples": 0
-       },
-       "ult10": {
-        "pj": 10,
-        "min": 23.2,
-        "pts": 8.5,
-        "reb": 8.3,
-        "ast": 2.7,
-        "triples": 0
-       },
-       "ult20": {
-        "pj": 20,
-        "min": 22.2,
-        "pts": 8.5,
-        "reb": 8.2,
-        "ast": 2.4,
-        "triples": 0
-       },
-       "temporada": {
-        "pj": 65,
-        "min": 23.83,
-        "pts": 9.17,
-        "reb": 8.95,
-        "ast": 3.25,
-        "triples": 0.02
-       }
-      },
-      "ultimos_10": [
-       "2026-05-08 vs LAL: 27min 10p 9r 1a 0t",
-       "2026-05-10 vs LAL: 31min 12p 9r 2a 0t",
-       "2026-05-12 vs LAL: 28min 5p 10r 5a 0t",
-       "2026-05-19 vs SA: 12min 2p 2r 2a 0t",
-       "2026-05-21 vs SA: 27min 10p 13r 3a 0t",
-       "2026-05-23 vs SA: 21min 5p 8r 4a 0t",
-       "2026-05-25 vs SA: 18min 12p 7r 3a 0t",
-       "2026-05-27 vs SA: 31min 12p 15r 4a 0t",
-       "2026-05-29 vs SA: 16min 10p 5r 3a 0t",
-       "2026-05-31 vs SA: 21min 7p 5r 0a 0t"
-      ]
-     },
-     {
-      "jugador": "Jared McCain",
-      "posicion": "G",
-      "lesion": "Day-To-Day",
-      "promedios": {
-       "ult5": {
-        "pj": 5,
-        "min": 26.8,
-        "pts": 14.6,
-        "reb": 2.4,
-        "ast": 1.4,
-        "triples": 1.8
-       },
-       "ult10": {
-        "pj": 10,
-        "min": 22.2,
-        "pts": 12.6,
-        "reb": 2.2,
-        "ast": 1.2,
-        "triples": 2.1
-       },
-       "ult20": {
-        "pj": 20,
-        "min": 17.75,
-        "pts": 10.2,
-        "reb": 1.9,
-        "ast": 1.2,
-        "triples": 1.65
-       },
-       "temporada": {
-        "pj": 81,
-        "min": 17.54,
-        "pts": 8.74,
-        "reb": 2.04,
-        "ast": 1.3,
-        "triples": 1.54
-       }
-      },
-      "ultimos_10": [
-       "2026-05-08 vs LAL: 18min 18p 0r 0a 4t",
-       "2026-05-10 vs LAL: 10min 3p 0r 1a 1t",
-       "2026-05-12 vs LAL: 16min 13p 2r 0a 3t",
-       "2026-05-19 vs SA: 18min 7p 2r 1a 1t",
-       "2026-05-21 vs SA: 26min 12p 6r 3a 3t",
-       "2026-05-23 vs SA: 27min 24p 4r 1a 2t",
-       "2026-05-25 vs SA: 24min 4p 2r 0a 0t",
-       "2026-05-27 vs SA: 33min 20p 3r 0a 3t",
-       "2026-05-29 vs SA: 27min 13p 2r 6a 2t",
-       "2026-05-31 vs SA: 23min 12p 1r 0a 2t"
-      ]
-     },
-     {
-      "jugador": "Josh Dix",
-      "posicion": "G",
-      "lesion": null,
-      "promedios": {
-       "ult5": {
-        "pj": 2,
-        "min": 22,
-        "pts": 7,
-        "reb": 1,
-        "ast": 1,
-        "triples": 2
-       },
-       "ult10": {
-        "pj": 2,
-        "min": 22,
-        "pts": 7,
-        "reb": 1,
-        "ast": 1,
-        "triples": 2
-       },
-       "ult20": {
-        "pj": 2,
-        "min": 22,
-        "pts": 7,
-        "reb": 1,
-        "ast": 1,
-        "triples": 2
-       },
-       "temporada": {
-        "pj": 2,
-        "min": 22,
-        "pts": 7,
-        "reb": 1,
-        "ast": 1,
-        "triples": 2
-       }
-      },
-      "ultimos_10": [
-       "2026-10-07 vs NO: 30min 11p 2r 2a 3t",
-       "2026-10-08 vs MIL: 14min 3p 0r 0a 1t"
-      ]
      }
     ]
    },
    "local": {
     "nombre": "Atlanta Hawks",
     "record": [
-     "overall: 2-1",
-     "Home: 0-1",
+     "overall: 3-1",
+     "Home: 1-1",
      "Road: 2-0"
     ],
     "lesiones": [
@@ -1091,13 +1073,7 @@
      "CJ McCollum: Day-To-Day (Rest)",
      "Luguentz Dort: Day-To-Day (Rest)"
     ],
-    "ultimos_5": [
-     "2026-04-29 @ NY L 126-97",
-     "2026-04-30 vs NY L 140-89",
-     "2026-10-05 vs MEM L 132-123",
-     "2026-10-09 @ SA W 123-116",
-     "2026-10-10 @ IND W 119-117"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Nickeil Alexander-Walker",
@@ -1411,42 +1387,43 @@
       "lesion": null,
       "promedios": {
        "ult5": {
-        "pj": 3,
-        "min": 21,
-        "pts": 11.33,
-        "reb": 1.33,
-        "ast": 2.67,
-        "triples": 1.33
+        "pj": 4,
+        "min": 22.75,
+        "pts": 10.25,
+        "reb": 1.5,
+        "ast": 3.75,
+        "triples": 1
        },
        "ult10": {
-        "pj": 3,
-        "min": 21,
-        "pts": 11.33,
-        "reb": 1.33,
-        "ast": 2.67,
-        "triples": 1.33
+        "pj": 4,
+        "min": 22.75,
+        "pts": 10.25,
+        "reb": 1.5,
+        "ast": 3.75,
+        "triples": 1
        },
        "ult20": {
-        "pj": 3,
-        "min": 21,
-        "pts": 11.33,
-        "reb": 1.33,
-        "ast": 2.67,
-        "triples": 1.33
+        "pj": 4,
+        "min": 22.75,
+        "pts": 10.25,
+        "reb": 1.5,
+        "ast": 3.75,
+        "triples": 1
        },
        "temporada": {
-        "pj": 3,
-        "min": 21,
-        "pts": 11.33,
-        "reb": 1.33,
-        "ast": 2.67,
-        "triples": 1.33
+        "pj": 4,
+        "min": 22.75,
+        "pts": 10.25,
+        "reb": 1.5,
+        "ast": 3.75,
+        "triples": 1
        }
       },
       "ultimos_10": [
        "2026-10-05 vs MEM: 25min 11p 0r 2a 2t",
        "2026-10-09 vs SA: 20min 15p 3r 5a 2t",
-       "2026-10-10 vs IND: 18min 8p 1r 1a 0t"
+       "2026-10-10 vs IND: 18min 8p 1r 1a 0t",
+       "2026-10-12 vs OKC: 28min 7p 2r 7a 0t"
       ]
      },
      {
@@ -1606,7 +1583,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-12T23:00Z",
    "inicio_colombia": "2026-10-12 18:00",
-   "estado": "Scheduled",
+   "estado": "Final",
    "estadio": "Capital One Arena",
    "serie_temporada": [
     "Series starts 12/20"
@@ -1614,21 +1591,15 @@
    "visitante": {
     "nombre": "Brooklyn Nets",
     "record": [
-     "overall: 2-0",
+     "overall: 3-0",
      "Home: 1-0",
-     "Road: 1-0"
+     "Road: 2-0"
     ],
     "lesiones": [
      "Joshua Jefferson: Day-To-Day (Back)",
      "Mikel Brown Jr.: Day-To-Day (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-04-09 vs IND L 123-94",
-     "2026-04-11 @ MIL L 125-108",
-     "2026-04-12 @ TOR L 136-101",
-     "2026-10-06 @ CHA W 124-90",
-     "2026-10-08 vs PHI W 114-108"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Julius Randle",
@@ -2145,24 +2116,17 @@
    "local": {
     "nombre": "Washington Wizards",
     "record": [
-     "overall: 2-0",
-     "Home: 1-0",
+     "overall: 2-1",
+     "Home: 1-1",
      "Road: 1-0"
     ],
     "lesiones": [
-     "Anthony Davis: Day-To-Day (Rest)",
      "Khris Middleton: Day-To-Day (Rest)",
-     "Tre Mann: Day-To-Day (Rest)",
+     "Anthony Davis: Day-To-Day (Rest)",
      "Tristan Vukcevic: Out (Hip)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-04-09 vs CHI L 119-108",
-     "2026-04-10 vs MIA L 140-117",
-     "2026-04-12 @ CLE L 130-117",
-     "2026-10-08 @ NY W 111-109",
-     "2026-10-10 vs DET W 114-108 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Anthony Davis",
@@ -2624,54 +2588,47 @@
       ]
      },
      {
-      "jugador": "Tre Johnson",
-      "posicion": "G",
+      "jugador": "AJ Dybantsa",
+      "posicion": "F",
       "lesion": null,
       "promedios": {
        "ult5": {
-        "pj": 5,
-        "min": 23.6,
-        "pts": 10.6,
-        "reb": 3,
-        "ast": 2.4,
-        "triples": 1.4
+        "pj": 3,
+        "min": 23.67,
+        "pts": 13,
+        "reb": 4.33,
+        "ast": 2.33,
+        "triples": 0.33
        },
        "ult10": {
-        "pj": 10,
-        "min": 23.5,
-        "pts": 10.4,
-        "reb": 2.8,
-        "ast": 2,
-        "triples": 1.5
+        "pj": 3,
+        "min": 23.67,
+        "pts": 13,
+        "reb": 4.33,
+        "ast": 2.33,
+        "triples": 0.33
        },
        "ult20": {
-        "pj": 20,
-        "min": 22.15,
-        "pts": 10.9,
-        "reb": 3.05,
-        "ast": 1.8,
-        "triples": 1.5
+        "pj": 3,
+        "min": 23.67,
+        "pts": 13,
+        "reb": 4.33,
+        "ast": 2.33,
+        "triples": 0.33
        },
        "temporada": {
-        "pj": 63,
-        "min": 23.78,
-        "pts": 11.95,
-        "reb": 2.9,
-        "ast": 2.03,
-        "triples": 1.86
+        "pj": 3,
+        "min": 23.67,
+        "pts": 13,
+        "reb": 4.33,
+        "ast": 2.33,
+        "triples": 0.33
        }
       },
       "ultimos_10": [
-       "2026-03-10 vs MIA: 23min 17p 2r 2a 3t",
-       "2026-03-12 vs ORL: 23min 3p 5r 1a 1t",
-       "2026-03-14 vs BOS: 24min 7p 1r 2a 1t",
-       "2026-03-16 vs GS: 23min 13p 1r 2a 2t",
-       "2026-03-17 vs DET: 24min 11p 4r 1a 1t",
-       "2026-03-19 vs DET: 24min 12p 1r 2a 2t",
-       "2026-03-28 vs GS: 22min 11p 1r 0a 1t",
-       "2026-03-31 vs LAL: 23min 11p 6r 2a 1t",
-       "2026-04-01 vs PHI: 24min 8p 4r 4a 2t",
-       "2026-04-04 vs MIA: 25min 11p 3r 4a 1t"
+       "2026-10-08 vs NY: 23min 11p 2r 2a 0t",
+       "2026-10-10 vs DET: 23min 14p 7r 2a 0t",
+       "2026-10-12 vs BKN: 25min 14p 4r 3a 1t"
       ]
      }
     ]
@@ -2684,7 +2641,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-12T23:30Z",
    "inicio_colombia": "2026-10-12 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Madison Square Garden",
    "serie_temporada": [
     "Series starts 11/19"
@@ -2697,19 +2654,13 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Jaden McDaniels: Day-To-Day (Rest)",
+     "Rocco Zikarsky: Day-To-Day (Undisclosed)",
+     "Terrence Shannon Jr.: Day-To-Day (Undisclosed)",
      "Jonathan Kuminga: Day-To-Day (Rest)",
-     "Ayo Dosunmu: Day-To-Day (Rest)",
-     "Rudy Gobert: Day-To-Day (Rest)",
-     "Anthony Edwards: Day-To-Day (Rest)"
+     "Enrique Freeman: Day-To-Day (Shoulder)",
+     "Donte DiVincenzo: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-05-13 @ SA L 126-97",
-     "2026-05-16 vs SA L 139-109",
-     "2026-10-06 @ MIL W 116-97",
-     "2026-10-07 vs IND L 123-112",
-     "2026-10-11 @ MIA W 125-124"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cody Williams",
@@ -2765,7 +2716,7 @@
      {
       "jugador": "Jaden McDaniels",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2816,7 +2767,7 @@
      {
       "jugador": "Anthony Edwards",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2867,7 +2818,7 @@
      {
       "jugador": "Rudy Gobert",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2918,7 +2869,7 @@
      {
       "jugador": "LaMelo Ball",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2969,7 +2920,7 @@
      {
       "jugador": "Ayo Dosunmu",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3173,7 +3124,7 @@
      {
       "jugador": "Terrence Shannon Jr.",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3231,13 +3182,7 @@
      "Road: 0-1"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-06-09 vs SA L 115-111",
-     "2026-06-11 vs SA W 107-106",
-     "2026-06-14 @ SA W 94-90",
-     "2026-10-05 @ PHI L 120-97",
-     "2026-10-08 vs WSH L 111-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Brunson",
@@ -3757,7 +3702,7 @@
    "nota": "preseason",
    "inicio_utc": "2026-10-13T01:00Z",
    "inicio_colombia": "2026-10-12 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Delta Center",
    "serie_temporada": [
     "Series starts 10/28"
@@ -3776,13 +3721,7 @@
      "Devin Vassell: Day-To-Day (Rest)",
      "De'Aaron Fox: Day-To-Day (Undisclosed)"
     ],
-    "ultimos_5": [
-     "2026-06-09 @ NY W 115-111",
-     "2026-06-11 @ NY L 107-106",
-     "2026-06-14 vs NY L 94-90",
-     "2026-10-09 vs ATL L 123-116",
-     "2026-10-11 @ PHX L 102-98"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Victor Wembanyama",
@@ -4301,18 +4240,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Blake Hinson: Day-To-Day (Hip)",
      "Kyle Filipowski: Day-To-Day (Back)",
-     "Jusuf Nurkic: Out (Foot)",
-     "Lauri Markkanen: Day-To-Day (Neck)",
-     "Brice Sensabaugh: Day-To-Day (Hip)"
+     "Jusuf Nurkic: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-04-08 @ NO L 156-137",
-     "2026-04-11 vs MEM W 147-101",
-     "2026-04-13 @ LAL L 131-107",
-     "2026-10-04 @ DEN W 109-97",
-     "2026-10-07 vs DEN L 117-106"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Ace Bailey",
@@ -4368,7 +4300,7 @@
      {
       "jugador": "Brice Sensabaugh",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4470,7 +4402,7 @@
      {
       "jugador": "Lauri Markkanen",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4768,7 +4700,7 @@
      {
       "jugador": "Blake Hinson",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4822,19 +4754,20 @@
  ],
  "errores": [
   "gamelog Devante Adams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5458322/gamelog",
-  "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
   "gamelog Ade Adebayo 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4592953/gamelog",
+  "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
   "gamelog Landrius Horton 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454812/gamelog",
   "gamelog DeVante Jones 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397506/gamelog",
   "gamelog Dion Brown 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5107242/gamelog",
   "gamelog Ethan Price 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897852/gamelog",
   "gamelog Maxwell Lewis 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684286/gamelog",
+  "gamelog Joel Scott 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5176195/gamelog",
   "gamelog Joshua O'Garro 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4684167/gamelog",
   "gamelog Tarik Phillip 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133638/gamelog",
-  "gamelog Joel Scott 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5176195/gamelog",
-  "gamelog Emilis Zibuda 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454794/gamelog",
+  "gamelog Terrell Brown Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395997/gamelog",
   "gamelog Mo Soluade 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454791/gamelog",
+  "gamelog Emilis Zibuda 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454794/gamelog",
   "gamelog Deane Williams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454813/gamelog"
  ],
- "generado_utc": "2026-10-12T22:35:49.175Z"
+ "generado_utc": "2026-10-13T01:59:35.692Z"
 }

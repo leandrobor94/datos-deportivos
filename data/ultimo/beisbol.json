@@ -9,7 +9,7 @@
    "serie": "NL Championship Series",
    "inicio_utc": "2026-10-12T21:00:00Z",
    "inicio_colombia": "2026-10-12 16:00",
-   "estado": "In Progress",
+   "estado": "Final",
    "estadio": "American Family Field",
    "clima": {
     "condition": "Sunny",
@@ -18,7 +18,7 @@
    },
    "visitante": {
     "equipo": "Los Angeles Dodgers",
-    "record": "0-1",
+    "record": "0-2",
     "abridor_probable": {
      "nombre": "Yoshinobu Yamamoto",
      "mano": "R",
@@ -171,7 +171,7 @@
    },
    "local": {
     "equipo": "Milwaukee Brewers",
-    "record": "1-0",
+    "record": "2-0",
     "abridor_probable": {
      "nombre": "Logan Henderson",
      "mano": "R",
@@ -332,7 +332,7 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-13T00:00:00Z",
    "inicio_colombia": "2026-10-12 19:00",
-   "estado": "Pre-Game",
+   "estado": "In Progress",
    "estadio": "Tropicana Field",
    "clima": {
     "condition": "Dome",
@@ -638,5 +638,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-12T22:35:21.117Z"
+ "generado_utc": "2026-10-13T01:59:06.962Z"
 }
