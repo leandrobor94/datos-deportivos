@@ -1,32 +1,29 @@
 {
  "futbol": {
-  "fecha": "2026-10-12",
-  "generado_utc": "2026-10-13T01:59:06.318Z",
-  "partidos": 11,
+  "fecha": "2026-10-13",
+  "generado_utc": "2026-10-13T18:07:35.469Z",
+  "partidos": 30,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 7
+  "segundos": 4
  },
  "beisbol": {
-  "fecha": "2026-10-12",
-  "generado_utc": "2026-10-13T01:59:06.962Z",
-  "partidos": 2,
+  "fecha": "2026-10-13",
+  "generado_utc": "2026-10-13T18:07:35.777Z",
+  "partidos": 1,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 1
+  "segundos": 0
  },
  "baloncesto": {
-  "fecha": "2026-10-12",
-  "generado_utc": "2026-10-13T01:59:35.692Z",
+  "fecha": "2026-10-13",
+  "generado_utc": "2026-10-13T18:07:46.516Z",
   "partidos": 5,
-  "errores": 15,
+  "errores": 2,
   "primeros_errores": [
-   "gamelog Devante Adams 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5458322/gamelog",
-   "gamelog Ade Adebayo 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4592953/gamelog",
-   "gamelog Keenan Evans 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133629/gamelog",
-   "gamelog Landrius Horton 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5454812/gamelog",
-   "gamelog DeVante Jones 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397506/gamelog"
+   "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog",
+   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog"
   ],
-  "segundos": 29
+  "segundos": 11
  }
 }
