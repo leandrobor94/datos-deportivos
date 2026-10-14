@@ -2155,9 +2155,11 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Devin Booker: Day-To-Day (Rest)",
+     "Oso Ighodaro: Day-To-Day (Rest)",
+     "Dillon Brooks: Day-To-Day (Rest)",
+     "Collin Gillespie: Day-To-Day (Rest)",
      "Miles Bridges: Day-To-Day (Ankle)",
-     "Mark Williams: Out (Shoulder)"
+     "Jalen Green: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-04-25 vs OKC L 121-109",
@@ -2221,7 +2223,7 @@
      {
       "jugador": "Dillon Brooks",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2272,7 +2274,7 @@
      {
       "jugador": "Jalen Green",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2476,7 +2478,7 @@
      {
       "jugador": "Oso Ighodaro",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2527,7 +2529,7 @@
      {
       "jugador": "Collin Gillespie",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2687,11 +2689,11 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Malik Williams: Day-To-Day (Undisclosed)",
      "Carter Bryant: Day-To-Day (Ankle)",
      "Stephon Castle: Day-To-Day (Rest)",
      "Devin Vassell: Day-To-Day (Rest)",
-     "De'Aaron Fox: Day-To-Day (Undisclosed)"
+     "De'Aaron Fox: Day-To-Day (Undisclosed)",
+     "Dylan Harper: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
      "2026-06-11 @ NY L 107-106",
@@ -7474,5 +7476,5 @@
  "errores": [
   "gamelog John Butler Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432588/gamelog"
  ],
- "generado_utc": "2026-10-14T15:47:41.016Z"
+ "generado_utc": "2026-10-14T18:10:08.339Z"
 }
