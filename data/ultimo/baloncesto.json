@@ -553,10 +553,9 @@
     ],
     "lesiones": [
      "Pelle Larsson: Day-To-Day (Illness)",
+     "Bam Adebayo: Day-To-Day (Groin)",
      "Kylor Kelley: Day-To-Day (Calf)",
-     "Bam Adebayo: Day-To-Day (Rest)",
-     "Andrew Wiggins: Day-To-Day (Rest)",
-     "Klay Thompson: Day-To-Day (Rest)"
+     "Dru Smith: Day-To-Day (Calf)"
     ],
     "ultimos_5": [
      "2026-04-12 vs ATL W 143-117",
@@ -620,7 +619,7 @@
      {
       "jugador": "Davion Mitchell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -773,7 +772,7 @@
      {
       "jugador": "Andrew Wiggins",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -824,7 +823,7 @@
      {
       "jugador": "Giannis Antetokounmpo",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1092,11 +1091,11 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Christian Anderson: Day-To-Day (Ankle)",
      "Grayson Allen: Day-To-Day (Knee)",
      "Kylan Boswell: Day-To-Day (Knee)",
      "Coby White: Day-To-Day (Calf)",
-     "Kon Knueppel: Day-To-Day (Hamstring)"
+     "Kon Knueppel: Day-To-Day (Hamstring)",
+     "Grant Williams: Day-To-Day (Hamstring)"
     ],
     "ultimos_5": [
      "2026-04-12 @ NY W 110-96",
@@ -2689,10 +2688,8 @@
     ],
     "lesiones": [
      "Carter Bryant: Day-To-Day (Ankle)",
-     "Stephon Castle: Day-To-Day (Rest)",
-     "Devin Vassell: Day-To-Day (Rest)",
-     "De'Aaron Fox: Day-To-Day (Undisclosed)",
-     "Dylan Harper: Day-To-Day (Rest)"
+     "Jayden Quaintance: Out (Knee)",
+     "Tobias Harris: Day-To-Day (Calf)"
     ],
     "ultimos_5": [
      "2026-06-11 @ NY L 107-106",
@@ -2705,7 +2702,7 @@
      {
       "jugador": "Victor Wembanyama",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2756,7 +2753,7 @@
      {
       "jugador": "Devin Vassell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2858,7 +2855,7 @@
      {
       "jugador": "De'Aaron Fox",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2909,7 +2906,7 @@
      {
       "jugador": "Stephon Castle",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2960,7 +2957,7 @@
      {
       "jugador": "Julian Champagnie",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3011,7 +3008,7 @@
      {
       "jugador": "Dylan Harper",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3157,7 +3154,7 @@
      {
       "jugador": "Keldon Johnson",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3758,9 +3755,10 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Jett Howard: Day-To-Day (Illness)",
      "Marcus Sasser: Day-To-Day (Hip)",
-     "Santi Aldama: Day-To-Day (Knee)",
      "Dereck Lively II: Day-To-Day (Foot)",
+     "Santi Aldama: Day-To-Day (Knee)",
      "Morez Johnson Jr.: Day-To-Day (Rest)"
     ],
     "ultimos_5": [
@@ -3774,7 +3772,7 @@
      {
       "jugador": "Cooper Flagg",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3927,7 +3925,7 @@
      {
       "jugador": "Kyrie Irving",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4123,7 +4121,7 @@
      {
       "jugador": "Daniel Gafford",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4815,9 +4813,11 @@
      "Road: 1-1"
     ],
     "lesiones": [
-     "Kasparas Jakucionis: Day-To-Day (Coach's Decision)",
-     "Brayden Burries: Day-To-Day (Coach's Decision)",
-     "Nate Ament: Day-To-Day (Ankle)"
+     "Tyler Herro: Day-To-Day (Rest)",
+     "Kyle Kuzma: Day-To-Day (Rest)",
+     "Jaime Jaquez Jr.: Day-To-Day (Rest)",
+     "Gary Trent Jr.: Day-To-Day (Rest)",
+     "Kasparas Jakucionis: Day-To-Day (Coach's Decision)"
     ],
     "ultimos_5": [
      "2026-04-11 vs BKN W 125-108",
@@ -4932,7 +4932,7 @@
      {
       "jugador": "Tyler Herro",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5085,7 +5085,7 @@
      {
       "jugador": "Jaime Jaquez Jr.",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7475,5 +7475,5 @@
  "errores": [
   "gamelog John Butler Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432588/gamelog"
  ],
- "generado_utc": "2026-10-14T19:40:44.899Z"
+ "generado_utc": "2026-10-14T23:10:17.655Z"
 }
