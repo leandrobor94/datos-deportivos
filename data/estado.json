@@ -1,28 +1,27 @@
 {
  "futbol": {
-  "fecha": "2026-10-13",
-  "generado_utc": "2026-10-13T23:42:57.279Z",
+  "fecha": "2026-10-14",
+  "generado_utc": "2026-10-14T15:47:30.175Z",
   "partidos": 30,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 8
+  "segundos": 3
  },
  "beisbol": {
-  "fecha": "2026-10-13",
-  "generado_utc": "2026-10-13T23:42:57.944Z",
+  "fecha": "2026-10-14",
+  "generado_utc": "2026-10-14T15:47:30.468Z",
   "partidos": 1,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 1
+  "segundos": 0
  },
  "baloncesto": {
-  "fecha": "2026-10-13",
-  "generado_utc": "2026-10-13T23:43:09.311Z",
-  "partidos": 5,
-  "errores": 2,
+  "fecha": "2026-10-14",
+  "generado_utc": "2026-10-14T15:47:41.016Z",
+  "partidos": 7,
+  "errores": 1,
   "primeros_errores": [
-   "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog",
-   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog"
+   "gamelog John Butler Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432588/gamelog"
   ],
   "segundos": 11
  }
