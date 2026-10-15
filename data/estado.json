@@ -1,28 +1,28 @@
 {
  "futbol": {
   "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T15:33:49.630Z",
+  "generado_utc": "2026-10-15T17:52:33.718Z",
   "partidos": 30,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 2
+  "segundos": 6
  },
  "beisbol": {
   "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T15:33:49.875Z",
+  "generado_utc": "2026-10-15T17:52:34.359Z",
   "partidos": 2,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 0
+  "segundos": 1
  },
  "baloncesto": {
   "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T15:33:59.673Z",
+  "generado_utc": "2026-10-15T17:52:44.802Z",
   "partidos": 2,
   "errores": 2,
   "primeros_errores": [
-   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog",
-   "gamelog Jamarion Sharp 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897696/gamelog"
+   "gamelog Jamarion Sharp 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897696/gamelog",
+   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog"
   ],
   "segundos": 10
  }

@@ -9,12 +9,12 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-15T17:00:00Z",
    "inicio_colombia": "2026-10-15 12:00",
-   "estado": "Pre-Game",
+   "estado": "In Progress",
    "estadio": "Progressive Field",
    "clima": {
     "condition": "Sunny",
-    "temp": "57",
-    "wind": "3 mph, Varies"
+    "temp": "62",
+    "wind": "7 mph, Out To CF"
    },
    "visitante": {
     "equipo": "Tampa Bay Rays",
@@ -361,7 +361,75 @@
    "visitante": {
     "equipo": "Milwaukee Brewers",
     "record": "3-0",
-    "abridor_probable": null,
+    "abridor_probable": {
+     "nombre": "Shane Drohan",
+     "mano": "L",
+     "temporada": {
+      "aperturas": 19,
+      "juegos": 33,
+      "era": 4.19,
+      "whip": 1.32,
+      "entradas": 124.67,
+      "fip": 3.78,
+      "k_pct": 23.67,
+      "bb_pct": 8.33,
+      "k_menos_bb_pct": 15.34,
+      "hr_por_9": 1.01,
+      "bateadores": 528
+     },
+     "ultimas_aperturas": [
+      {
+       "fecha": "2026-08-23",
+       "rival": "Atlanta Braves",
+       "ip": "5.0",
+       "carreras_limpias": 2,
+       "k": 5,
+       "bb": 3,
+       "hr": 0,
+       "lanzamientos": 83
+      },
+      {
+       "fecha": "2026-08-29",
+       "rival": "Texas Rangers",
+       "ip": "5.0",
+       "carreras_limpias": 1,
+       "k": 6,
+       "bb": 1,
+       "hr": 1,
+       "lanzamientos": 99
+      },
+      {
+       "fecha": "2026-09-04",
+       "rival": "Cincinnati Reds",
+       "ip": "4.0",
+       "carreras_limpias": 6,
+       "k": 5,
+       "bb": 2,
+       "hr": 2,
+       "lanzamientos": 78
+      },
+      {
+       "fecha": "2026-09-12",
+       "rival": "Cincinnati Reds",
+       "ip": "3.2",
+       "carreras_limpias": 5,
+       "k": 4,
+       "bb": 2,
+       "hr": 2,
+       "lanzamientos": 60
+      },
+      {
+       "fecha": "2026-09-24",
+       "rival": "Philadelphia Phillies",
+       "ip": "2.2",
+       "carreras_limpias": 1,
+       "k": 2,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 47
+      }
+     ]
+    },
     "alineacion_confirmada": null,
     "stats": {
      "temporada": {
@@ -606,5 +674,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-15T15:33:49.875Z"
+ "generado_utc": "2026-10-15T17:52:34.359Z"
 }
