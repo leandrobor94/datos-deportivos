@@ -9,7 +9,7 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-15T17:00:00Z",
    "inicio_colombia": "2026-10-15 12:00",
-   "estado": "In Progress",
+   "estado": "Final",
    "estadio": "Progressive Field",
    "clima": {
     "condition": "Sunny",
@@ -18,7 +18,7 @@
    },
    "visitante": {
     "equipo": "Tampa Bay Rays",
-    "record": "1-1",
+    "record": "1-2",
     "abridor_probable": {
      "nombre": "Griffin Jax",
      "mano": "R",
@@ -92,7 +92,7 @@
      "Yandy Díaz",
      "Jonathan Aranda",
      "Junior Caminero",
-     "Victor Mesa Jr.",
+     "Victor Mesa",
      "Chandler Simpson",
      "Liam Hicks",
      "Jonny DeLuca",
@@ -182,7 +182,7 @@
    },
    "local": {
     "equipo": "Cleveland Guardians",
-    "record": "1-1",
+    "record": "2-1",
     "abridor_probable": {
      "nombre": "Gavin Williams",
      "mano": "R",
@@ -355,9 +355,13 @@
    "serie": "NL Championship Series",
    "inicio_utc": "2026-10-16T00:00:00Z",
    "inicio_colombia": "2026-10-15 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "UNIQLO Field at Dodger Stadium",
-   "clima": null,
+   "clima": {
+    "condition": "Clear",
+    "temp": "89",
+    "wind": "4 mph, Out To RF"
+   },
    "visitante": {
     "equipo": "Milwaukee Brewers",
     "record": "3-0",
@@ -430,7 +434,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Jackson Chourio",
+     "Brice Turang",
+     "William Contreras",
+     "Jake Bauers",
+     "Christian Yelich",
+     "Garrett Mitchell",
+     "Cooper Pratt",
+     "Sal Frelick",
+     "David Hamilton"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -583,7 +597,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Shohei Ohtani",
+     "Mookie Betts",
+     "Freddie Freeman",
+     "Will Smith",
+     "Kyle Tucker",
+     "Teoscar Hernández",
+     "Miguel Rojas",
+     "Andy Pages",
+     "Enrique Hernández"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.94,
@@ -674,5 +698,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-15T19:22:12.286Z"
+ "generado_utc": "2026-10-15T23:01:15.071Z"
 }

@@ -544,13 +544,7 @@
      "Home: 0-2",
      "Road: 0-2"
     ],
-    "lesiones": [
-     "Karl-Anthony Towns: Day-To-Day (Rest)",
-     "Mikal Bridges: Day-To-Day (Rest)",
-     "Josh Hart: Day-To-Day (Rest)",
-     "OG Anunoby: Day-To-Day (Rest)",
-     "Jalen Brunson: Day-To-Day (Rest)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-06-14 @ SA W 94-90",
      "2026-10-05 @ PHI L 120-97",
@@ -562,7 +556,7 @@
      {
       "jugador": "Jalen Brunson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -613,7 +607,7 @@
      {
       "jugador": "Mikal Bridges",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -664,7 +658,7 @@
      {
       "jugador": "OG Anunoby",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -715,7 +709,7 @@
      {
       "jugador": "Karl-Anthony Towns",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -766,7 +760,7 @@
      {
       "jugador": "Josh Hart",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1601,9 +1595,9 @@
     ],
     "lesiones": [
      "Steven Adams: Day-To-Day (Rest)",
-     "Alperen Sengun: Day-To-Day (Rest)",
+     "Alperen Sengun: Day-To-Day",
      "Fred VanVleet: Day-To-Day (Rest)",
-     "Kevin Durant: Day-To-Day (Not Injury Related)"
+     "Kevin Durant: Day-To-Day"
     ],
     "ultimos_5": [
      "2026-04-27 vs LAL W 115-96",
@@ -1769,7 +1763,7 @@
      {
       "jugador": "Kevin Durant",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1820,7 +1814,7 @@
      {
       "jugador": "Alperen Sengun",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2131,5 +2125,5 @@
   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog",
   "gamelog Jamarion Sharp 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897696/gamelog"
  ],
- "generado_utc": "2026-10-15T19:22:22.295Z"
+ "generado_utc": "2026-10-15T23:01:25.441Z"
 }
