@@ -9,9 +9,13 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-17T00:00:00Z",
    "inicio_colombia": "2026-10-16 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Progressive Field",
-   "clima": null,
+   "clima": {
+    "condition": "Cloudy",
+    "temp": "59",
+    "wind": "9 mph, Varies"
+   },
    "visitante": {
     "equipo": "Tampa Bay Rays",
     "record": "1-2",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Yandy Díaz",
+     "Jonathan Aranda",
+     "Chandler Simpson",
+     "Junior Caminero",
+     "Liam Hicks",
+     "Victor Mesa Jr.",
+     "Jonny DeLuca",
+     "Richie Palacios",
+     "Taylor Walls"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -182,7 +196,17 @@
      },
      "ultimas_aperturas": []
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Steven Kwan",
+     "José Ramírez",
+     "Chase DeLauter",
+     "Jo Adell",
+     "Nathaniel Lowe",
+     "Travis Bazzana",
+     "Patrick Bailey",
+     "Petey Halpin",
+     "Brayan Rocchio"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.19,
@@ -268,5 +292,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-16T18:59:39.319Z"
+ "generado_utc": "2026-10-16T22:47:24.986Z"
 }
