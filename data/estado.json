@@ -1,29 +1,32 @@
 {
  "futbol": {
-  "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T23:01:14.319Z",
-  "partidos": 30,
+  "fecha": "2026-10-16",
+  "generado_utc": "2026-10-16T15:20:29.047Z",
+  "partidos": 14,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 4
+  "segundos": 9
  },
  "beisbol": {
-  "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T23:01:15.071Z",
-  "partidos": 2,
+  "fecha": "2026-10-16",
+  "generado_utc": "2026-10-16T15:20:29.565Z",
+  "partidos": 1,
   "errores": 0,
   "primeros_errores": [],
   "segundos": 1
  },
  "baloncesto": {
-  "fecha": "2026-10-15",
-  "generado_utc": "2026-10-15T23:01:25.441Z",
-  "partidos": 2,
-  "errores": 2,
+  "fecha": "2026-10-16",
+  "generado_utc": "2026-10-16T15:21:08.602Z",
+  "partidos": 12,
+  "errores": 7,
   "primeros_errores": [
-   "gamelog Robert McCray V 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4685802/gamelog",
-   "gamelog Jamarion Sharp 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897696/gamelog"
+   "gamelog Mike Sharavjamts 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5105875/gamelog",
+   "gamelog Jamarion Sharp 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897696/gamelog",
+   "gamelog John Butler Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432588/gamelog",
+   "gamelog Terry Taylor 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4279815/gamelog",
+   "gamelog Jalon Moore 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4701819/gamelog"
   ],
-  "segundos": 10
+  "segundos": 39
  }
 }
