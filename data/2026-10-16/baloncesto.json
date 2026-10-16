@@ -11294,7 +11294,7 @@
      {
       "jugador": "Dillon Brooks",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -12830,5 +12830,5 @@
   "gamelog Terrell Brown Jr. 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395997/gamelog",
   "gamelog Steven Crowl 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4588201/gamelog"
  ],
- "generado_utc": "2026-10-16T17:42:09.420Z"
+ "generado_utc": "2026-10-16T19:00:18.017Z"
 }
