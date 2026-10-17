@@ -1,0 +1,981 @@
+{
+ "fuente": "ESPN (site.api.espn.com)",
+ "fecha": "2026-10-17",
+ "partidos": [
+  {
+   "liga": "WNBA",
+   "id": "401918305",
+   "nombre": "Atlanta Dream at Golden State Valkyries",
+   "nota": "WNBA Finals - Game 1",
+   "inicio_utc": "2026-10-17T19:30Z",
+   "inicio_colombia": "2026-10-17 14:30",
+   "estado": "Scheduled",
+   "estadio": "Chase Center",
+   "serie_temporada": [
+    "GS wins series 3-0",
+    "WNBA Finals"
+   ],
+   "visitante": {
+    "nombre": "Atlanta Dream",
+    "record": [
+     "overall: 30-14",
+     "Home: 15-7",
+     "Road: 15-7"
+    ],
+    "lesiones": [
+     "Allisha Gray: Out (Hand)",
+     "Matilde Villa: Out (Coach's Decision)",
+     "Brionna Jones: Out (Leg)"
+    ],
+    "ultimos_5": [
+     "2026-09-27 vs WSH W 92-77",
+     "2026-09-30 @ WSH W 93-75",
+     "2026-10-04 vs NY W 92-82",
+     "2026-10-07 vs NY W 101-98 OT",
+     "2026-10-09 @ NY W 85-83"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Rhyne Howard",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 38.2,
+        "pts": 19.2,
+        "reb": 4.2,
+        "ast": 3.4,
+        "triples": 2.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 35,
+        "pts": 16,
+        "reb": 3.9,
+        "ast": 3.8,
+        "triples": 1.9
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 34.65,
+        "pts": 19.15,
+        "reb": 3.95,
+        "ast": 4,
+        "triples": 2.95
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 33.53,
+        "pts": 17.22,
+        "reb": 3.69,
+        "ast": 3.61,
+        "triples": 2.94
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 35min 16p 1r 3a 2t",
+       "2026-09-17 vs CON: 28min 10p 6r 7a 1t",
+       "2026-09-19 vs CHI: 24min 14p 1r 4a 3t",
+       "2026-09-22 vs NY: 38min 16p 6r 1a 2t",
+       "2026-09-24 vs NY: 34min 8p 4r 6a 0t",
+       "2026-09-27 vs WSH: 39min 26p 1r 1a 2t",
+       "2026-09-30 vs WSH: 30min 15p 3r 4a 2t",
+       "2026-10-04 vs NY: 40min 16p 8r 8a 1t",
+       "2026-10-07 vs NY: 44min 18p 7r 4a 2t",
+       "2026-10-09 vs NY: 38min 21p 2r 0a 4t"
+      ]
+     },
+     {
+      "jugador": "Jordin Canada",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 36,
+        "pts": 19.2,
+        "reb": 3.8,
+        "ast": 8.8,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.4,
+        "pts": 15.9,
+        "reb": 3,
+        "ast": 7.9,
+        "triples": 1.8
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 31.8,
+        "pts": 13.95,
+        "reb": 3.3,
+        "ast": 7.05,
+        "triples": 1.6
+       },
+       "temporada": {
+        "pj": 50,
+        "min": 30.78,
+        "pts": 12,
+        "reb": 3.42,
+        "ast": 7.24,
+        "triples": 1.06
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 36min 16p 4r 10a 2t",
+       "2026-09-17 vs CON: 21min 5p 0r 2a 0t",
+       "2026-09-19 vs CHI: 27min 11p 2r 9a 1t",
+       "2026-09-22 vs NY: 34min 19p 3r 9a 1t",
+       "2026-09-24 vs NY: 26min 12p 2r 5a 2t",
+       "2026-09-27 vs WSH: 36min 10p 3r 10a 0t",
+       "2026-09-30 vs WSH: 35min 19p 7r 11a 4t",
+       "2026-10-04 vs NY: 32min 25p 1r 4a 4t",
+       "2026-10-07 vs NY: 39min 23p 5r 8a 3t",
+       "2026-10-09 vs NY: 38min 19p 3r 11a 1t"
+      ]
+     },
+     {
+      "jugador": "Angel Reese",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.6,
+        "pts": 18,
+        "reb": 8.4,
+        "ast": 2,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.5,
+        "pts": 18.2,
+        "reb": 8.9,
+        "ast": 2.4,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 32.25,
+        "pts": 17.25,
+        "reb": 11.7,
+        "ast": 3.1,
+        "triples": 0.55
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 30.14,
+        "pts": 15.94,
+        "reb": 11.35,
+        "ast": 2.67,
+        "triples": 0.31
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 33min 15p 11r 2a 0t",
+       "2026-09-17 vs CON: 25min 30p 10r 3a 1t",
+       "2026-09-19 vs CHI: 28min 23p 10r 4a 1t",
+       "2026-09-22 vs NY: 34min 18p 10r 2a 0t",
+       "2026-09-24 vs NY: 17min 6p 6r 3a 0t",
+       "2026-09-27 vs WSH: 30min 13p 12r 1a 1t",
+       "2026-09-30 vs WSH: 28min 15p 7r 2a 0t",
+       "2026-10-04 vs NY: 34min 17p 7r 2a 1t",
+       "2026-10-07 vs NY: 39min 23p 7r 2a 1t",
+       "2026-10-09 vs NY: 37min 22p 9r 3a 2t"
+      ]
+     },
+     {
+      "jugador": "Allisha Gray",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29.2,
+        "pts": 17.8,
+        "reb": 2.4,
+        "ast": 1.8,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 29.9,
+        "pts": 17,
+        "reb": 3.5,
+        "ast": 2.7,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 31.2,
+        "pts": 18.3,
+        "reb": 3.65,
+        "ast": 2.9,
+        "triples": 2.05
+       },
+       "temporada": {
+        "pj": 50,
+        "min": 31.16,
+        "pts": 18.3,
+        "reb": 3.2,
+        "ast": 2.42,
+        "triples": 1.84
+       }
+      },
+      "ultimos_10": [
+       "2026-08-25 vs LA: 33min 20p 3r 6a 2t",
+       "2026-08-28 vs POR: 35min 11p 0r 3a 2t",
+       "2026-08-30 vs MIN: 35min 23p 11r 2a 6t",
+       "2026-09-17 vs CON: 22min 10p 6r 4a 0t",
+       "2026-09-19 vs CHI: 28min 17p 3r 3a 2t",
+       "2026-09-22 vs NY: 32min 14p 3r 1a 0t",
+       "2026-09-24 vs NY: 33min 24p 4r 5a 4t",
+       "2026-09-27 vs WSH: 35min 22p 3r 0a 1t",
+       "2026-09-30 vs WSH: 35min 22p 1r 3a 3t",
+       "2026-10-04 vs NY: 11min 7p 1r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Naz Hillmon",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.4,
+        "pts": 5.2,
+        "reb": 4.4,
+        "ast": 2.6,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.8,
+        "pts": 6.8,
+        "reb": 4.2,
+        "ast": 2.4,
+        "triples": 1.1
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 29.05,
+        "pts": 7.95,
+        "reb": 4.9,
+        "ast": 2,
+        "triples": 1.2
+       },
+       "temporada": {
+        "pj": 49,
+        "min": 28.86,
+        "pts": 8.51,
+        "reb": 4.47,
+        "ast": 1.67,
+        "triples": 1.12
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 30min 7p 3r 1a 1t",
+       "2026-09-17 vs CON: 22min 9p 6r 3a 3t",
+       "2026-09-19 vs CHI: 19min 2p 4r 4a 0t",
+       "2026-09-22 vs NY: 17min 8p 3r 1a 2t",
+       "2026-09-24 vs NY: 33min 16p 4r 2a 2t",
+       "2026-09-27 vs WSH: 21min 4p 3r 1a 0t",
+       "2026-09-30 vs WSH: 33min 10p 3r 0a 2t",
+       "2026-10-04 vs NY: 37min 0p 4r 4a 0t",
+       "2026-10-07 vs NY: 44min 12p 8r 5a 1t",
+       "2026-10-09 vs NY: 32min 0p 4r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "DeWanna Bonner",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 26.4,
+        "pts": 13.2,
+        "reb": 6.4,
+        "ast": 1.6,
+        "triples": 1.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 23.6,
+        "pts": 10.9,
+        "reb": 5.9,
+        "ast": 1.7,
+        "triples": 1.4
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 26.7,
+        "pts": 12.35,
+        "reb": 6.75,
+        "ast": 2,
+        "triples": 1.5
+       },
+       "temporada": {
+        "pj": 49,
+        "min": 26.37,
+        "pts": 10.51,
+        "reb": 5.94,
+        "ast": 1.53,
+        "triples": 1.2
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 17min 7p 4r 2a 1t",
+       "2026-09-17 vs CON: 11min 2p 5r 1a 0t",
+       "2026-09-19 vs CHI: 21min 8p 4r 2a 2t",
+       "2026-09-22 vs NY: 29min 17p 6r 2a 2t",
+       "2026-09-24 vs NY: 26min 9p 8r 2a 2t",
+       "2026-09-27 vs WSH: 22min 13p 4r 2a 1t",
+       "2026-09-30 vs WSH: 14min 7p 2r 0a 2t",
+       "2026-10-04 vs NY: 30min 23p 9r 2a 3t",
+       "2026-10-07 vs NY: 34min 10p 4r 3a 1t",
+       "2026-10-09 vs NY: 32min 13p 13r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Brionna Jones",
+      "posicion": "F",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 16.8,
+        "pts": 7.4,
+        "reb": 4.4,
+        "ast": 2.4,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 9,
+        "min": 16.89,
+        "pts": 8.22,
+        "reb": 5.56,
+        "ast": 2,
+        "triples": 0.11
+       },
+       "ult20": {
+        "pj": 9,
+        "min": 16.89,
+        "pts": 8.22,
+        "reb": 5.56,
+        "ast": 2,
+        "triples": 0.11
+       },
+       "temporada": {
+        "pj": 9,
+        "min": 16.89,
+        "pts": 8.22,
+        "reb": 5.56,
+        "ast": 2,
+        "triples": 0.11
+       }
+      },
+      "ultimos_10": [
+       "2026-07-17 vs TOR: 15min 6p 6r 4a 0t",
+       "2026-07-19 vs CHI: 15min 6p 10r 1a 0t",
+       "2026-07-30 vs DAL: 21min 11p 7r 1a 0t",
+       "2026-07-31 vs SEA: 17min 14p 5r 0a 0t",
+       "2026-08-03 vs LV: 17min 9p 7r 0a 0t",
+       "2026-08-05 vs PHX: 21min 9p 4r 6a 1t",
+       "2026-08-07 vs WSH: 21min 4p 7r 3a 0t",
+       "2026-08-11 vs TOR: 20min 15p 3r 2a 0t",
+       "2026-08-13 vs CON: 5min 0p 1r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Isobel Borlase",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 13.2,
+        "pts": 5.6,
+        "reb": 1.8,
+        "ast": 0.8,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 13,
+        "pts": 6,
+        "reb": 1.9,
+        "ast": 0.9,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 13.65,
+        "pts": 5.1,
+        "reb": 1.65,
+        "ast": 1.1,
+        "triples": 0.6
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 13.27,
+        "pts": 5,
+        "reb": 1.49,
+        "ast": 1.06,
+        "triples": 0.49
+       }
+      },
+      "ultimos_10": [
+       "2026-08-30 vs MIN: 8min 5p 3r 0a 1t",
+       "2026-09-17 vs CON: 17min 3p 2r 3a 0t",
+       "2026-09-19 vs CHI: 19min 18p 1r 1a 3t",
+       "2026-09-22 vs NY: 8min 0p 0r 1a 0t",
+       "2026-09-24 vs NY: 12min 6p 4r 0a 0t",
+       "2026-09-27 vs WSH: 6min 0p 0r 0a 0t",
+       "2026-09-30 vs WSH: 16min 5p 2r 3a 0t",
+       "2026-10-04 vs NY: 10min 2p 1r 0a 0t",
+       "2026-10-07 vs NY: 14min 11p 4r 0a 3t",
+       "2026-10-09 vs NY: 20min 10p 2r 1a 0t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "Golden State Valkyries",
+    "record": [
+     "overall: 32-12",
+     "Home: 17-5",
+     "Road: 15-7"
+    ],
+    "lesiones": [
+     "Iliana Rupert: Out (Not Injury Related)"
+    ],
+    "ultimos_5": [
+     "2026-10-01 @ DAL L 108-100 OT",
+     "2026-10-03 vs DAL W 77-73",
+     "2026-10-04 vs LV W 71-60",
+     "2026-10-08 vs LV W 83-81",
+     "2026-10-10 @ LV W 87-77 OT"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Veronica Burton",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31.4,
+        "pts": 9.4,
+        "reb": 4.2,
+        "ast": 3.8,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.1,
+        "pts": 10,
+        "reb": 4.2,
+        "ast": 4.4,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 28.9,
+        "pts": 11.4,
+        "reb": 3.95,
+        "ast": 5.45,
+        "triples": 1.35
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 28.45,
+        "pts": 11.9,
+        "reb": 3.63,
+        "ast": 5.47,
+        "triples": 1.39
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 26min 4p 4r 3a 0t",
+       "2026-09-20 vs SEA: 30min 9p 4r 4a 1t",
+       "2026-09-23 vs POR: 36min 13p 7r 8a 2t",
+       "2026-09-25 vs LA: 29min 17p 3r 5a 1t",
+       "2026-09-28 vs DAL: 23min 10p 3r 5a 2t",
+       "2026-10-01 vs DAL: 37min 11p 1r 5a 2t",
+       "2026-10-03 vs DAL: 37min 16p 10r 6a 1t",
+       "2026-10-04 vs LV: 18min 4p 3r 1a 0t",
+       "2026-10-08 vs LV: 28min 8p 1r 3a 1t",
+       "2026-10-10 vs LV: 37min 8p 6r 4a 0t"
+      ]
+     },
+     {
+      "jugador": "Gabby Williams",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32.2,
+        "pts": 23.2,
+        "reb": 5.2,
+        "ast": 4,
+        "triples": 3
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.8,
+        "pts": 19.2,
+        "reb": 4.1,
+        "ast": 3.6,
+        "triples": 2.6
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 26.05,
+        "pts": 16.4,
+        "reb": 3.8,
+        "ast": 2.95,
+        "triples": 2.1
+       },
+       "temporada": {
+        "pj": 46,
+        "min": 25.85,
+        "pts": 15.52,
+        "reb": 3.52,
+        "ast": 2.54,
+        "triples": 1.91
+       }
+      },
+      "ultimos_10": [
+       "2026-08-26 vs CON: 16min 9p 2r 3a 2t",
+       "2026-08-28 vs NY: 23min 16p 4r 3a 4t",
+       "2026-09-23 vs POR: 41min 17p 4r 4a 1t",
+       "2026-09-25 vs LA: 20min 14p 2r 2a 2t",
+       "2026-09-28 vs DAL: 27min 20p 3r 4a 2t",
+       "2026-10-01 vs DAL: 37min 36p 6r 7a 5t",
+       "2026-10-03 vs DAL: 31min 19p 4r 2a 3t",
+       "2026-10-04 vs LV: 34min 25p 11r 5a 4t",
+       "2026-10-08 vs LV: 30min 20p 5r 3a 3t",
+       "2026-10-10 vs LV: 29min 16p 0r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Kiah Stokes",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30.8,
+        "pts": 3.4,
+        "reb": 9.8,
+        "ast": 2,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27.6,
+        "pts": 3.3,
+        "reb": 9.4,
+        "ast": 1.9,
+        "triples": 0.2
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 24.2,
+        "pts": 3.25,
+        "reb": 7.75,
+        "ast": 1.7,
+        "triples": 0.3
+       },
+       "temporada": {
+        "pj": 50,
+        "min": 22.84,
+        "pts": 3.46,
+        "reb": 6.2,
+        "ast": 1.34,
+        "triples": 0.42
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 24min 2p 9r 0a 0t",
+       "2026-09-20 vs SEA: 30min 3p 9r 3a 0t",
+       "2026-09-23 vs POR: 16min 2p 7r 1a 0t",
+       "2026-09-25 vs LA: 32min 7p 12r 3a 1t",
+       "2026-09-28 vs DAL: 20min 2p 8r 2a 0t",
+       "2026-10-01 vs DAL: 25min 0p 5r 1a 0t",
+       "2026-10-03 vs DAL: 35min 6p 13r 3a 0t",
+       "2026-10-04 vs LV: 27min 0p 14r 2a 0t",
+       "2026-10-08 vs LV: 29min 0p 7r 1a 0t",
+       "2026-10-10 vs LV: 38min 11p 10r 3a 1t"
+      ]
+     },
+     {
+      "jugador": "Kayla Thornton",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 28.4,
+        "pts": 11,
+        "reb": 5.8,
+        "ast": 0.4,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 26.7,
+        "pts": 9.2,
+        "reb": 5.3,
+        "ast": 0.5,
+        "triples": 1.6
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 24.15,
+        "pts": 7.45,
+        "reb": 4.25,
+        "ast": 0.6,
+        "triples": 1.3
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 24.39,
+        "pts": 8.08,
+        "reb": 4.57,
+        "ast": 0.65,
+        "triples": 1.53
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 25min 13p 4r 1a 3t",
+       "2026-09-20 vs SEA: 30min 0p 6r 0a 0t",
+       "2026-09-23 vs POR: 26min 11p 7r 1a 2t",
+       "2026-09-25 vs LA: 25min 3p 2r 0a 0t",
+       "2026-09-28 vs DAL: 19min 10p 5r 1a 2t",
+       "2026-10-01 vs DAL: 31min 13p 6r 0a 3t",
+       "2026-10-03 vs DAL: 14min 0p 0r 1a 0t",
+       "2026-10-04 vs LV: 34min 8p 11r 1a 1t",
+       "2026-10-08 vs LV: 30min 16p 3r 0a 3t",
+       "2026-10-10 vs LV: 33min 18p 9r 0a 2t"
+      ]
+     },
+     {
+      "jugador": "Kaila Charles",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.6,
+        "pts": 7,
+        "reb": 4,
+        "ast": 0.8,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.4,
+        "pts": 7,
+        "reb": 5.4,
+        "ast": 1.1,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 20.95,
+        "pts": 7.1,
+        "reb": 4.85,
+        "ast": 1.3,
+        "triples": 0.6
+       },
+       "temporada": {
+        "pj": 50,
+        "min": 20.22,
+        "pts": 6.32,
+        "reb": 4.62,
+        "ast": 1.32,
+        "triples": 0.64
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 25min 7p 6r 2a 0t",
+       "2026-09-20 vs SEA: 29min 16p 12r 3a 2t",
+       "2026-09-23 vs POR: 26min 6p 6r 0a 0t",
+       "2026-09-25 vs LA: 22min 3p 5r 1a 0t",
+       "2026-09-28 vs DAL: 19min 3p 5r 1a 1t",
+       "2026-10-01 vs DAL: 23min 14p 3r 0a 1t",
+       "2026-10-03 vs DAL: 28min 10p 6r 1a 2t",
+       "2026-10-04 vs LV: 18min 2p 2r 1a 0t",
+       "2026-10-08 vs LV: 17min 2p 5r 2a 0t",
+       "2026-10-10 vs LV: 17min 7p 4r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Tiffany Hayes",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 18.4,
+        "pts": 11.8,
+        "reb": 3.2,
+        "ast": 2,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 19.3,
+        "pts": 11.9,
+        "reb": 2.3,
+        "ast": 3,
+        "triples": 0.9
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 18.55,
+        "pts": 12.25,
+        "reb": 3.1,
+        "ast": 2.65,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 49,
+        "min": 17.04,
+        "pts": 9.47,
+        "reb": 2.08,
+        "ast": 2.49,
+        "triples": 0.69
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 25min 13p 3r 7a 0t",
+       "2026-09-20 vs SEA: 19min 10p 2r 6a 1t",
+       "2026-09-23 vs POR: 26min 10p 0r 3a 1t",
+       "2026-09-25 vs LA: 12min 6p 1r 0a 0t",
+       "2026-09-28 vs DAL: 19min 21p 1r 4a 3t",
+       "2026-10-01 vs DAL: 15min 6p 3r 2a 0t",
+       "2026-10-03 vs DAL: 27min 18p 4r 2a 2t",
+       "2026-10-04 vs LV: 11min 3p 1r 0a 0t",
+       "2026-10-08 vs LV: 17min 21p 2r 2a 1t",
+       "2026-10-10 vs LV: 22min 11p 6r 4a 1t"
+      ]
+     },
+     {
+      "jugador": "Cecilia Zandalasini",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 19.8,
+        "pts": 5.8,
+        "reb": 2.6,
+        "ast": 0.8,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 19,
+        "pts": 8.7,
+        "reb": 2.3,
+        "ast": 1.1,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 20.3,
+        "pts": 9.25,
+        "reb": 2.6,
+        "ast": 1.8,
+        "triples": 1.5
+       },
+       "temporada": {
+        "pj": 43,
+        "min": 19.05,
+        "pts": 8.58,
+        "reb": 2.14,
+        "ast": 1.6,
+        "triples": 1.3
+       }
+      },
+      "ultimos_10": [
+       "2026-08-26 vs CON: 11min 7p 2r 3a 0t",
+       "2026-08-28 vs NY: 31min 20p 5r 1a 4t",
+       "2026-09-23 vs POR: 18min 7p 2r 2a 1t",
+       "2026-09-25 vs LA: 15min 2p 1r 0a 0t",
+       "2026-09-28 vs DAL: 16min 22p 0r 1a 4t",
+       "2026-10-01 vs DAL: 19min 5p 1r 1a 1t",
+       "2026-10-03 vs DAL: 16min 5p 0r 2a 0t",
+       "2026-10-04 vs LV: 18min 7p 5r 1a 1t",
+       "2026-10-08 vs LV: 20min 5p 4r 0a 1t",
+       "2026-10-10 vs LV: 26min 7p 3r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Kaitlyn Chen",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 11.4,
+        "pts": 5.6,
+        "reb": 1.4,
+        "ast": 1,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 15.7,
+        "pts": 8.1,
+        "reb": 1.5,
+        "ast": 1.5,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 15.5,
+        "pts": 6.7,
+        "reb": 1.15,
+        "ast": 1.6,
+        "triples": 0.95
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 15.22,
+        "pts": 7.1,
+        "reb": 1.2,
+        "ast": 1.86,
+        "triples": 0.67
+       }
+      },
+      "ultimos_10": [
+       "2026-09-19 vs POR: 25min 17p 1r 3a 5t",
+       "2026-09-20 vs SEA: 28min 10p 2r 2a 2t",
+       "2026-09-23 vs POR: 9min 0p 0r 1a 0t",
+       "2026-09-25 vs LA: 21min 18p 3r 2a 1t",
+       "2026-09-28 vs DAL: 17min 8p 2r 2a 2t",
+       "2026-10-01 vs DAL: 8min 4p 0r 2a 0t",
+       "2026-10-03 vs DAL: 7min 0p 3r 0a 0t",
+       "2026-10-04 vs LV: 22min 11p 3r 1a 1t",
+       "2026-10-08 vs LV: 12min 7p 0r 0a 1t",
+       "2026-10-10 vs LV: 8min 6p 1r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Janelle Salaun",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 11.6,
+        "pts": 4.2,
+        "reb": 1.2,
+        "ast": 0.6,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 15.4,
+        "pts": 6.3,
+        "reb": 2.8,
+        "ast": 0.6,
+        "triples": 0.9
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 18.8,
+        "pts": 9.95,
+        "reb": 3.1,
+        "ast": 1.2,
+        "triples": 1.5
+       },
+       "temporada": {
+        "pj": 46,
+        "min": 20.87,
+        "pts": 11.59,
+        "reb": 3.61,
+        "ast": 1.11,
+        "triples": 2.09
+       }
+      },
+      "ultimos_10": [
+       "2026-08-26 vs CON: 18min 15p 3r 1a 4t",
+       "2026-08-28 vs NY: 24min 7p 7r 0a 1t",
+       "2026-09-23 vs POR: 20min 11p 5r 2a 1t",
+       "2026-09-25 vs LA: 13min 6p 5r 0a 0t",
+       "2026-09-28 vs DAL: 21min 3p 2r 0a 1t",
+       "2026-10-01 vs DAL: 30min 11p 4r 3a 0t",
+       "2026-10-03 vs DAL: 8min 3p 0r 0a 1t",
+       "2026-10-04 vs LV: 6min 2p 0r 0a 0t",
+       "2026-10-08 vs LV: 4min 2p 1r 0a 0t",
+       "2026-10-10 vs LV: 10min 3p 1r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Laeticia Amihere",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 12.2,
+        "pts": 6.6,
+        "reb": 2,
+        "ast": 0.8,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 13.1,
+        "pts": 6.1,
+        "reb": 2.3,
+        "ast": 0.7,
+        "triples": 0.3
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 11.1,
+        "pts": 4.2,
+        "reb": 2.25,
+        "ast": 0.65,
+        "triples": 0.2
+       },
+       "temporada": {
+        "pj": 41,
+        "min": 11.61,
+        "pts": 3.78,
+        "reb": 2.98,
+        "ast": 0.95,
+        "triples": 0.17
+       }
+      },
+      "ultimos_10": [
+       "2026-08-21 vs CHI: 24min 16p 6r 1a 1t",
+       "2026-08-25 vs MIN: 5min 0p 2r 0a 0t",
+       "2026-08-26 vs CON: 18min 4p 3r 1a 0t",
+       "2026-08-28 vs NY: 2min 0p 0r 0a 0t",
+       "2026-08-30 vs POR: 21min 8p 2r 1a 0t",
+       "2026-09-19 vs POR: 22min 17p 4r 3a 2t",
+       "2026-09-20 vs SEA: 20min 11p 4r 1a 0t",
+       "2026-09-23 vs POR: 6min 5p 0r 0a 0t",
+       "2026-09-25 vs LA: 7min 0p 1r 0a 0t",
+       "2026-09-28 vs DAL: 6min 0p 1r 0a 0t"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-10-17T14:09:56.365Z"
+}

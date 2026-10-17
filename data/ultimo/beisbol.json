@@ -1,21 +1,17 @@
 {
  "fuente": "MLB Stats API (statsapi.mlb.com)",
- "fecha": "2026-10-16",
+ "fecha": "2026-10-17",
  "nota": "FIP calculado con constante aproximada 3.15. Factores de estadio y umpire no vienen en esta API.",
  "partidos": [
   {
-   "id": 849817,
+   "id": 849816,
    "tipo": "L",
    "serie": "AL Championship Series",
-   "inicio_utc": "2026-10-17T00:00:00Z",
-   "inicio_colombia": "2026-10-16 19:00",
-   "estado": "Pre-Game",
+   "inicio_utc": "2026-10-18T00:08:00Z",
+   "inicio_colombia": "2026-10-17 19:08",
+   "estado": "Scheduled",
    "estadio": "Progressive Field",
-   "clima": {
-    "condition": "Cloudy",
-    "temp": "59",
-    "wind": "9 mph, Varies"
-   },
+   "clima": null,
    "visitante": {
     "equipo": "Tampa Bay Rays",
     "record": "1-2",
@@ -88,17 +84,7 @@
       }
      ]
     },
-    "alineacion_confirmada": [
-     "Yandy Díaz",
-     "Jonathan Aranda",
-     "Chandler Simpson",
-     "Junior Caminero",
-     "Liam Hicks",
-     "Victor Mesa Jr.",
-     "Jonny DeLuca",
-     "Richie Palacios",
-     "Taylor Walls"
-    ],
+    "alineacion_confirmada": null,
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -154,18 +140,9 @@
      }
     },
     "bullpen_ultimos_3_dias": {
-     "dias": "2026-10-13 a 2026-10-15",
+     "dias": "2026-10-14 a 2026-10-16",
      "juegos": 2,
      "relevistas": {
-      "Kevin Kelly": [
-       "2026-10-13: 17 lanz."
-      ],
-      "Ian Seymour": [
-       "2026-10-13: 15 lanz."
-      ],
-      "Bryan Baker": [
-       "2026-10-13: 8 lanz."
-      ],
       "Tyler Wells": [
        "2026-10-15: 26 lanz."
       ],
@@ -196,17 +173,7 @@
      },
      "ultimas_aperturas": []
     },
-    "alineacion_confirmada": [
-     "Steven Kwan",
-     "José Ramírez",
-     "Chase DeLauter",
-     "Jo Adell",
-     "Nathaniel Lowe",
-     "Travis Bazzana",
-     "Patrick Bailey",
-     "Petey Halpin",
-     "Brayan Rocchio"
-    ],
+    "alineacion_confirmada": null,
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.19,
@@ -262,18 +229,9 @@
      }
     },
     "bullpen_ultimos_3_dias": {
-     "dias": "2026-10-13 a 2026-10-15",
+     "dias": "2026-10-14 a 2026-10-16",
      "juegos": 2,
      "relevistas": {
-      "Shawn Armstrong": [
-       "2026-10-13: 20 lanz."
-      ],
-      "Tim Herrin": [
-       "2026-10-13: 6 lanz."
-      ],
-      "Slade Cecconi": [
-       "2026-10-13: 16 lanz."
-      ],
       "Daniel Espino": [
        "2026-10-15: 12 lanz."
       ],
@@ -292,5 +250,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-16T22:47:24.986Z"
+ "generado_utc": "2026-10-17T14:09:55.633Z"
 }
