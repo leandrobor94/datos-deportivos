@@ -9,12 +9,12 @@
    "serie": "AL Championship Series",
    "inicio_utc": "2026-10-18T21:08:00Z",
    "inicio_colombia": "2026-10-18 16:08",
-   "estado": "Pre-Game",
+   "estado": "In Progress",
    "estadio": "Progressive Field",
    "clima": {
     "condition": "Clear",
-    "temp": "62",
-    "wind": "5 mph, Varies"
+    "temp": "63",
+    "wind": "8 mph, L To R"
    },
    "visitante": {
     "equipo": "Tampa Bay Rays",
@@ -335,11 +335,15 @@
       "Cade Smith": [
        "2026-10-15: 18 lanz."
       ],
+      "Tim Herrin": [
+       "2026-10-16: 18 lanz.",
+       "2026-10-17: 14 lanz."
+      ],
+      "Shawn Armstrong": [
+       "2026-10-16: 10 lanz."
+      ],
       "Foster Griffin": [
        "2026-10-17: 44 lanz."
-      ],
-      "Tim Herrin": [
-       "2026-10-17: 14 lanz."
       ],
       "Slade Cecconi": [
        "2026-10-17: 22 lanz."
@@ -356,5 +360,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-18T18:16:20.095Z"
+ "generado_utc": "2026-10-18T22:23:36.746Z"
 }
