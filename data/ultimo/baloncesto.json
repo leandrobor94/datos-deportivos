@@ -9,17 +9,17 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-20T19:00Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "estado": "In Progress",
+   "estado": "Final",
    "estadio": "Little Caesars Arena",
    "serie_temporada": [
-    "Regular Season Series"
+    "DET leads series 1-0"
    ],
    "visitante": {
     "nombre": "Boston Celtics",
     "record": [
-     "overall: 0-0",
+     "overall: 0-1",
      "Home: 0-0",
-     "Road: 0-0"
+     "Road: 0-1"
     ],
     "lesiones": [
      "Devin Carter: Out (Illness)"
@@ -535,8 +535,8 @@
    "local": {
     "nombre": "Detroit Pistons",
     "record": [
-     "overall: 0-0",
-     "Home: 0-0",
+     "overall: 1-0",
+     "Home: 1-0",
      "Road: 0-0"
     ],
     "lesiones": [
@@ -1071,11 +1071,10 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Dean Wade: Day-To-Day (Ankle)",
-     "Adem Bona: Day-To-Day (Foot)",
-     "Anfernee Simons: Day-To-Day (Hamstring)",
+     "Dean Wade: Out (Ankle)",
      "Tacko Fall: Out (Hip)",
-     "Dominick Barlow: Out (Back)"
+     "Dominick Barlow: Out (Back)",
+     "Ariel Hukporti: Out (Achilles)"
     ],
     "ultimos_5": [
      "2026-05-10 vs NY L 144-114",
@@ -1394,7 +1393,7 @@
      {
       "jugador": "Anfernee Simons",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1541,7 +1540,7 @@
      {
       "jugador": "Dean Wade",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3119,5 +3118,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-20T19:33:50.908Z"
+ "generado_utc": "2026-10-20T23:08:52.132Z"
 }
