@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-20T19:00Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Little Caesars Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -24,13 +24,7 @@
     "lesiones": [
      "Devin Carter: Out (Illness)"
     ],
-    "ultimos_5": [
-     "2026-05-02 vs PHI L 109-100",
-     "2026-10-08 @ CLE W 124-113",
-     "2026-10-11 vs PHI W 144-106",
-     "2026-10-14 vs CHA W 114-93",
-     "2026-10-16 @ PHI W 125-120 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Paul George",
@@ -548,13 +542,7 @@
     "lesiones": [
      "Taurean Prince: Out (Personal)"
     ],
-    "ultimos_5": [
-     "2026-05-18 vs CLE L 125-94",
-     "2026-10-05 vs PHX W 109-107",
-     "2026-10-10 @ WSH L 114-108 OT",
-     "2026-10-15 @ MIN W 128-106",
-     "2026-10-16 vs TOR W 129-125"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cade Cunningham",
@@ -3131,5 +3119,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-20T18:06:27.163Z"
+ "generado_utc": "2026-10-20T19:33:50.908Z"
 }

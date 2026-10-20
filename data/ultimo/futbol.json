@@ -79,44 +79,44 @@
       ]
      },
      "tabla": {
-      "pos": 13,
+      "pos": 27,
       "pj": 3,
-      "g": 1,
-      "e": 1,
+      "g": 0,
+      "e": 2,
       "p": 1,
-      "goles": "3-8",
-      "pts": 4
+      "goles": "3-9",
+      "pts": 2
      },
      "tabla_como_local_o_visitante": {
-      "pos": 1,
+      "pos": 24,
       "pj": 2,
-      "g": 1,
-      "e": 1,
+      "g": 0,
+      "e": 2,
       "p": 0,
-      "goles": "3-2",
-      "pts": 4
+      "goles": "3-3",
+      "pts": 2
      },
      "xg_temporada": {
       "pj": 3,
-      "xg": 3.7,
-      "xg_concedido": 4.48,
-      "xpts": 3.64,
-      "xg_por_partido": 1.23,
-      "xg_concedido_por_partido": 1.49
+      "xg": 4.35,
+      "xg_concedido": 5.07,
+      "xpts": 3.83,
+      "xg_por_partido": 1.45,
+      "xg_concedido_por_partido": 1.69
      },
      "stats_temporada": {
-      "goles_partido": 1,
+      "posesion": 48.6,
       "pj_stats": 3,
-      "xg_total": 3.7,
-      "posesion": 49.9,
-      "goles_concedidos_partido": 2.7,
-      "toques_area_rival": 56,
-      "grandes_ocasiones_total": 6,
-      "remates_puerta_partido": 4,
-      "corners_total": 10,
-      "xg_concedido_total": 4.5,
-      "faltas_partido": 9,
-      "amarillas_total": 8
+      "goles_partido": 1,
+      "goles_concedidos_partido": 3,
+      "xg_total": 4.3,
+      "corners_total": 11,
+      "remates_puerta_partido": 4.3,
+      "grandes_ocasiones_total": 7,
+      "toques_area_rival": 68,
+      "xg_concedido_total": 5.1,
+      "amarillas_total": 9,
+      "faltas_partido": 10
      }
     },
     "visitante": {
@@ -179,44 +179,44 @@
       ]
      },
      "tabla": {
-      "pos": 32,
+      "pos": 29,
       "pj": 3,
       "g": 0,
-      "e": 0,
-      "p": 3,
-      "goles": "3-7",
-      "pts": 0
+      "e": 1,
+      "p": 2,
+      "goles": "4-7",
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 30,
+      "pos": 20,
       "pj": 2,
       "g": 0,
-      "e": 0,
-      "p": 2,
-      "goles": "1-4",
-      "pts": 0
+      "e": 1,
+      "p": 1,
+      "goles": "2-4",
+      "pts": 1
      },
      "xg_temporada": {
       "pj": 3,
-      "xg": 4.62,
-      "xg_concedido": 3.52,
-      "xpts": 4.99,
-      "xg_por_partido": 1.54,
-      "xg_concedido_por_partido": 1.17
+      "xg": 5.2,
+      "xg_concedido": 4.17,
+      "xpts": 4.9,
+      "xg_por_partido": 1.73,
+      "xg_concedido_por_partido": 1.39
      },
      "stats_temporada": {
-      "goles_partido": 1,
+      "posesion": 47.8,
       "pj_stats": 3,
-      "xg_total": 4.6,
-      "posesion": 46.5,
+      "goles_partido": 1.3,
       "goles_concedidos_partido": 2.3,
-      "toques_area_rival": 77,
-      "grandes_ocasiones_total": 8,
-      "remates_puerta_partido": 4.7,
-      "corners_total": 14,
-      "xg_concedido_total": 3.5,
-      "faltas_partido": 11,
-      "amarillas_total": 3
+      "xg_total": 5.2,
+      "corners_total": 17,
+      "remates_puerta_partido": 5.7,
+      "grandes_ocasiones_total": 9,
+      "toques_area_rival": 87,
+      "xg_concedido_total": 4.2,
+      "amarillas_total": 3,
+      "faltas_partido": 12.3
      }
     }
    },
@@ -260,7 +260,7 @@
    },
    "clima": {
     "temp_c": 18,
-    "viento_kmh": 5,
+    "viento_kmh": 4,
     "cielo": "Fair"
    },
    "equipos": {
@@ -293,7 +293,7 @@
       ]
      },
      "tabla": {
-      "pos": 24,
+      "pos": 25,
       "pj": 3,
       "g": 1,
       "e": 0,
@@ -302,7 +302,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 17,
+      "pos": 16,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -312,26 +312,26 @@
      },
      "xg_temporada": {
       "pj": 3,
-      "xg": 3.21,
-      "xg_concedido": 8.53,
-      "xpts": 1.25,
-      "xg_por_partido": 1.07,
-      "xg_concedido_por_partido": 2.84
+      "xg": 3.65,
+      "xg_concedido": 9.4,
+      "xpts": 1.16,
+      "xg_por_partido": 1.22,
+      "xg_concedido_por_partido": 3.13
      },
      "stats_temporada": {
-      "goles_partido": 1,
-      "pj_stats": 3,
-      "xg_total": 3.2,
-      "posesion": 42.6,
-      "goles_concedidos_partido": 2,
       "porterias_cero": 1,
-      "toques_area_rival": 41,
-      "grandes_ocasiones_total": 4,
+      "pj_stats": 3,
+      "posesion": 43.9,
+      "goles_partido": 1,
+      "goles_concedidos_partido": 2,
+      "xg_total": 3.7,
+      "corners_total": 9,
       "remates_puerta_partido": 3.3,
-      "corners_total": 8,
-      "xg_concedido_total": 8.5,
-      "faltas_partido": 11.3,
-      "amarillas_total": 7
+      "grandes_ocasiones_total": 5,
+      "toques_area_rival": 52,
+      "xg_concedido_total": 9.4,
+      "amarillas_total": 8,
+      "faltas_partido": 12
      }
     },
     "visitante": {
@@ -384,7 +384,7 @@
       ]
      },
      "tabla": {
-      "pos": 10,
+      "pos": 12,
       "pj": 3,
       "g": 2,
       "e": 0,
@@ -393,7 +393,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 13,
+      "pos": 14,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -403,25 +403,25 @@
      },
      "xg_temporada": {
       "pj": 3,
-      "xg": 6.47,
-      "xg_concedido": 3.6,
-      "xpts": 5.91,
-      "xg_por_partido": 2.16,
-      "xg_concedido_por_partido": 1.2
+      "xg": 7.34,
+      "xg_concedido": 4.04,
+      "xpts": 6.04,
+      "xg_por_partido": 2.45,
+      "xg_concedido_por_partido": 1.35
      },
      "stats_temporada": {
-      "goles_partido": 1.7,
+      "posesion": 53.1,
       "pj_stats": 3,
-      "xg_total": 6.5,
-      "posesion": 54.5,
+      "goles_partido": 1.7,
       "goles_concedidos_partido": 1.3,
-      "toques_area_rival": 83,
-      "grandes_ocasiones_total": 10,
-      "remates_puerta_partido": 6,
-      "corners_total": 25,
-      "xg_concedido_total": 3.6,
-      "faltas_partido": 9.3,
-      "amarillas_total": 3
+      "xg_total": 7.3,
+      "corners_total": 27,
+      "remates_puerta_partido": 6.3,
+      "grandes_ocasiones_total": 12,
+      "toques_area_rival": 91,
+      "xg_concedido_total": 4,
+      "amarillas_total": 3,
+      "faltas_partido": 11.7
      }
     }
    },
@@ -439,7 +439,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "FC Porto",
    "visitante": "PSV Eindhoven",
    "ronda": "3",
@@ -457,9 +457,8 @@
    },
    "clima": {
     "temp_c": 14,
-    "viento_kmh": 1,
-    "lluvia_prob": 54,
-    "cielo": "Showers"
+    "viento_kmh": 0,
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -503,43 +502,43 @@
      },
      "tabla": {
       "pos": 30,
-      "pj": 2,
+      "pj": 3,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 2,
       "goles": "2-5",
-      "pts": 0
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 33,
-      "pj": 1,
+      "pos": 28,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
       "goles": "0-2",
-      "pts": 0
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.25,
-      "xg_concedido": 4.01,
-      "xpts": 0.97,
-      "xg_por_partido": 0.62,
-      "xg_concedido_por_partido": 2
+      "pj": 3,
+      "xg": 1.64,
+      "xg_concedido": 4.47,
+      "xpts": 2.14,
+      "xg_por_partido": 0.55,
+      "xg_concedido_por_partido": 1.49
      },
      "stats_temporada": {
-      "goles_partido": 0.7,
+      "posesion": 37.2,
       "pj_stats": 3,
-      "xg_total": 1.2,
-      "posesion": 39.9,
+      "goles_partido": 0.7,
       "goles_concedidos_partido": 1.7,
-      "toques_area_rival": 30,
-      "grandes_ocasiones_total": 3,
+      "xg_total": 1.6,
+      "corners_total": 4,
       "remates_puerta_partido": 1.7,
-      "corners_total": 3,
-      "xg_concedido_total": 4,
-      "faltas_partido": 8.3,
-      "amarillas_total": 4
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 33,
+      "xg_concedido_total": 4.7,
+      "amarillas_total": 4,
+      "faltas_partido": 8.7
      }
     },
     "visitante": {
@@ -591,7 +590,7 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Matěj Kovár",
        "Sergiño Dest",
@@ -599,52 +598,52 @@
        "Yarek Gąsiorowski",
        "Filip Kostić",
        "Kodai Sano",
-       "Guus Til",
        "Mauro Júnior",
        "Esmir Bajraktarević",
        "Sven Mijnans",
-       "Ivan Perišić"
+       "Ivan Perišić",
+       "Guus Til"
       ]
      },
      "tabla": {
-      "pos": 27,
+      "pos": 26,
+      "pj": 3,
+      "g": 0,
+      "e": 2,
+      "p": 1,
+      "goles": "1-2",
+      "pts": 2
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 19,
       "pj": 2,
       "g": 0,
       "e": 1,
       "p": 1,
-      "goles": "1-2",
+      "goles": "0-1",
       "pts": 1
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 22,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "0-1",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.89,
-      "xg_concedido": 2.38,
-      "xpts": 2.23,
-      "xg_por_partido": 0.95,
-      "xg_concedido_por_partido": 1.19
+      "pj": 3,
+      "xg": 2.36,
+      "xg_concedido": 2.78,
+      "xpts": 3.56,
+      "xg_por_partido": 0.79,
+      "xg_concedido_por_partido": 0.93
      },
      "stats_temporada": {
-      "goles_partido": 0.3,
+      "posesion": 59.5,
       "pj_stats": 3,
-      "xg_total": 1.9,
-      "posesion": 55.3,
+      "goles_partido": 0.3,
       "goles_concedidos_partido": 0.7,
-      "toques_area_rival": 33,
-      "grandes_ocasiones_total": 1,
-      "remates_puerta_partido": 2.3,
+      "xg_total": 2.5,
       "corners_total": 15,
-      "xg_concedido_total": 2.4,
-      "faltas_partido": 8.7,
-      "amarillas_total": 5
+      "remates_puerta_partido": 2.3,
+      "grandes_ocasiones_total": 2,
+      "toques_area_rival": 40,
+      "xg_concedido_total": 2.8,
+      "amarillas_total": 5,
+      "faltas_partido": 9.7
      }
     }
    },
@@ -667,7 +666,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Liverpool",
    "visitante": "Villarreal",
    "ronda": "3",
@@ -686,8 +685,7 @@
    "clima": {
     "temp_c": 11,
     "viento_kmh": 2,
-    "lluvia_prob": 56,
-    "cielo": "Light Rain"
+    "cielo": "Cloudy"
    },
    "equipos": {
     "local": {
@@ -741,53 +739,53 @@
        "Jérémy Jacquet",
        "Virgil van Dijk",
        "Konstantinos Tsimikas",
-       "Ryan Gravenberch",
+       "Alexis Mac Allister",
        "Trey Nyoni",
        "Rio Ngumoha",
-       "Alexis Mac Allister",
+       "Ryan Gravenberch",
        "Cody Gakpo",
        "Lewis Koumas"
       ]
      },
      "tabla": {
-      "pos": 5,
-      "pj": 2,
+      "pos": 8,
+      "pj": 3,
       "g": 2,
       "e": 0,
-      "p": 0,
-      "goles": "8-4",
+      "p": 1,
+      "goles": "8-6",
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 18,
-      "pj": 1,
+      "pos": 23,
+      "pj": 2,
       "g": 1,
       "e": 0,
-      "p": 0,
-      "goles": "2-1",
+      "p": 1,
+      "goles": "2-3",
       "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.86,
-      "xg_concedido": 2.95,
-      "xpts": 4.11,
-      "xg_por_partido": 2.43,
-      "xg_concedido_por_partido": 1.48
+      "pj": 3,
+      "xg": 5.03,
+      "xg_concedido": 4.04,
+      "xpts": 4.57,
+      "xg_por_partido": 1.68,
+      "xg_concedido_por_partido": 1.35
      },
      "stats_temporada": {
-      "goles_partido": 2.7,
+      "posesion": 53.6,
       "pj_stats": 3,
-      "xg_total": 4.9,
-      "posesion": 54.7,
-      "goles_concedidos_partido": 1.3,
-      "toques_area_rival": 85,
+      "goles_partido": 2.7,
+      "goles_concedidos_partido": 2,
+      "xg_total": 5,
+      "corners_total": 19,
+      "remates_puerta_partido": 5,
       "grandes_ocasiones_total": 9,
-      "remates_puerta_partido": 4.7,
-      "corners_total": 18,
-      "xg_concedido_total": 3,
-      "faltas_partido": 5,
-      "amarillas_total": 1
+      "toques_area_rival": 92,
+      "xg_concedido_total": 4,
+      "amarillas_total": 1,
+      "faltas_partido": 8
      }
     },
     "visitante": {
@@ -802,6 +800,11 @@
      ],
      "bajas": [
       {
+       "jugador": "Carlos Romero",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
        "jugador": "Nicolas Pépé",
        "tipo": "injury",
        "regreso": "Unknown"
@@ -809,60 +812,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Péter Gulácsi",
        "Santiago Mouriño",
        "Pau Navarro",
        "Renato Veiga",
        "Sergi Cardona",
-       "Santi Comesaña",
-       "Nathan Saliba",
        "Pape Gueye",
+       "Santi Comesaña",
        "Tajon Buchanan",
-       "Georges Mikautadze",
-       "Alberto Moleiro"
+       "Nathan Saliba",
+       "Alberto Moleiro",
+       "Georges Mikautadze"
       ]
      },
      "tabla": {
-      "pos": 16,
+      "pos": 7,
+      "pj": 3,
+      "g": 2,
+      "e": 0,
+      "p": 1,
+      "goles": "7-4",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 9,
       "pj": 2,
       "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "5-4",
+      "goles": "4-3",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 18,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "2-3",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.7,
-      "xg_concedido": 4.53,
-      "xpts": 1.56,
-      "xg_por_partido": 1.35,
-      "xg_concedido_por_partido": 2.26
+      "pj": 3,
+      "xg": 3.79,
+      "xg_concedido": 4.69,
+      "xpts": 3.78,
+      "xg_por_partido": 1.26,
+      "xg_concedido_por_partido": 1.56
      },
      "stats_temporada": {
-      "goles_partido": 1.7,
+      "posesion": 49.6,
       "pj_stats": 3,
-      "xg_total": 2.7,
-      "posesion": 50,
+      "goles_partido": 2.3,
       "goles_concedidos_partido": 1.3,
-      "toques_area_rival": 40,
-      "grandes_ocasiones_total": 4,
-      "remates_puerta_partido": 3.3,
-      "corners_total": 11,
-      "xg_concedido_total": 4.5,
-      "faltas_partido": 6,
-      "amarillas_total": 5
+      "xg_total": 3.8,
+      "corners_total": 12,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 51,
+      "xg_concedido_total": 4.7,
+      "amarillas_total": 6,
+      "faltas_partido": 7
      }
     }
    },
@@ -888,7 +891,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Manchester City",
    "visitante": "AEK Athens",
    "ronda": "3",
@@ -907,8 +910,7 @@
    "clima": {
     "temp_c": 11,
     "viento_kmh": 1,
-    "lluvia_prob": 41,
-    "cielo": "Light Rain"
+    "cielo": "Cloudy"
    },
    "equipos": {
     "local": {
@@ -952,54 +954,54 @@
        "Abdukodir Khusanov",
        "Rúben Dias",
        "Joško Gvardiol",
-       "Enzo Fernández",
        "Elliot Anderson",
-       "Allan",
-       "Rayan Cherki",
+       "Enzo Fernández",
        "Phil Foden",
+       "Rayan Cherki",
+       "Allan",
        "Floyd Samba"
       ]
      },
      "tabla": {
-      "pos": 19,
+      "pos": 11,
+      "pj": 3,
+      "g": 2,
+      "e": 0,
+      "p": 1,
+      "goles": "5-4",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 22,
       "pj": 2,
       "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "4-4",
+      "goles": "3-4",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 31,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "2-4",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.95,
-      "xg_concedido": 2.1,
-      "xpts": 4.7,
-      "xg_por_partido": 2.48,
-      "xg_concedido_por_partido": 1.05
+      "pj": 3,
+      "xg": 6.07,
+      "xg_concedido": 2.13,
+      "xpts": 7.08,
+      "xg_por_partido": 2.02,
+      "xg_concedido_por_partido": 0.71
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
-      "pj_stats": 3,
-      "xg_total": 5,
-      "posesion": 59.1,
-      "goles_concedidos_partido": 1.3,
       "porterias_cero": 1,
-      "toques_area_rival": 81,
-      "grandes_ocasiones_total": 12,
-      "remates_puerta_partido": 6.3,
-      "corners_total": 16,
+      "pj_stats": 3,
+      "posesion": 59.1,
+      "goles_partido": 1.7,
+      "goles_concedidos_partido": 1.3,
+      "xg_total": 6.1,
+      "corners_total": 19,
+      "remates_puerta_partido": 6.7,
+      "grandes_ocasiones_total": 13,
+      "toques_area_rival": 99,
       "xg_concedido_total": 2.1,
-      "faltas_partido": 9,
-      "amarillas_total": 4
+      "amarillas_total": 4,
+      "faltas_partido": 9.3
      }
     },
     "visitante": {
@@ -1021,15 +1023,15 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-4-2",
+      "formacion": "4-1-3-2",
       "titulares": [
        "Alberto Brignoli",
        "Lazaros Rota",
        "Harold Moukoudi",
        "Filipe Relvas",
        "Stavros Pilios",
-       "Lovro Majer",
        "Kervin Arriaga",
+       "Lovro Majer",
        "Răzvan Marin",
        "Joao Mário",
        "Barnabás Varga",
@@ -1037,45 +1039,45 @@
       ]
      },
      "tabla": {
-      "pos": 21,
-      "pj": 2,
+      "pos": 22,
+      "pj": 3,
       "g": 1,
       "e": 0,
-      "p": 1,
-      "goles": "2-3",
+      "p": 2,
+      "goles": "2-4",
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 24,
-      "pj": 1,
+      "pos": 31,
+      "pj": 2,
       "g": 0,
       "e": 0,
-      "p": 1,
-      "goles": "1-3",
+      "p": 2,
+      "goles": "1-4",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 3.06,
-      "xg_concedido": 2.08,
-      "xpts": 3.5,
-      "xg_por_partido": 1.53,
-      "xg_concedido_por_partido": 1.04
+      "pj": 3,
+      "xg": 3.09,
+      "xg_concedido": 3.19,
+      "xpts": 3.82,
+      "xg_por_partido": 1.03,
+      "xg_concedido_por_partido": 1.06
      },
      "stats_temporada": {
-      "goles_partido": 0.7,
-      "pj_stats": 3,
-      "xg_total": 3.1,
-      "posesion": 47.4,
-      "goles_concedidos_partido": 1,
       "porterias_cero": 1,
-      "toques_area_rival": 45,
-      "grandes_ocasiones_total": 9,
-      "remates_puerta_partido": 2.3,
+      "pj_stats": 3,
+      "posesion": 45.3,
+      "goles_partido": 0.7,
+      "goles_concedidos_partido": 1.3,
+      "xg_total": 3.1,
       "corners_total": 9,
-      "xg_concedido_total": 2.1,
-      "faltas_partido": 8,
-      "amarillas_total": 5
+      "remates_puerta_partido": 2.3,
+      "grandes_ocasiones_total": 9,
+      "toques_area_rival": 46,
+      "xg_concedido_total": 3.2,
+      "amarillas_total": 5,
+      "faltas_partido": 8.3
      }
     }
    },
@@ -1090,7 +1092,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Paris Saint-Germain",
    "visitante": "Barcelona",
    "ronda": "3",
@@ -1107,9 +1109,8 @@
     }
    },
    "clima": {
-    "temp_c": 11,
-    "viento_kmh": 4,
-    "lluvia_prob": 2,
+    "temp_c": 12,
+    "viento_kmh": 3,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -1149,43 +1150,43 @@
      },
      "tabla": {
       "pos": 1,
-      "pj": 2,
+      "pj": 3,
       "g": 2,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "10-3",
-      "pts": 6
+      "pts": 7
      },
      "tabla_como_local_o_visitante": {
-      "pos": 3,
-      "pj": 1,
+      "pos": 1,
+      "pj": 2,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "6-1",
-      "pts": 3
+      "pts": 4
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 6.4,
-      "xg_concedido": 3.39,
-      "xpts": 3.82,
-      "xg_por_partido": 3.2,
-      "xg_concedido_por_partido": 1.7
+      "pj": 3,
+      "xg": 7.4,
+      "xg_concedido": 3.78,
+      "xpts": 5.74,
+      "xg_por_partido": 2.47,
+      "xg_concedido_por_partido": 1.26
      },
      "stats_temporada": {
-      "goles_partido": 3.3,
+      "posesion": 55.5,
       "pj_stats": 3,
-      "xg_total": 6.4,
-      "posesion": 59.1,
+      "goles_partido": 3.3,
       "goles_concedidos_partido": 1,
-      "toques_area_rival": 78,
-      "grandes_ocasiones_total": 11,
-      "remates_puerta_partido": 8,
-      "corners_total": 9,
-      "xg_concedido_total": 3.4,
-      "faltas_partido": 6.3,
-      "amarillas_total": 1
+      "xg_total": 7.4,
+      "corners_total": 10,
+      "remates_puerta_partido": 9.3,
+      "grandes_ocasiones_total": 13,
+      "toques_area_rival": 89,
+      "xg_concedido_total": 3.8,
+      "amarillas_total": 1,
+      "faltas_partido": 7.7
      }
     },
     "visitante": {
@@ -1225,10 +1226,10 @@
       "formacion": "4-2-3-1",
       "titulares": [
        "Joan García",
-       "João Cancelo",
+       "Xavi Espart",
        "Pau Cubarsí",
        "Gerard Martín",
-       "Xavi Espart",
+       "João Cancelo",
        "Marc Bernal",
        "Pedri",
        "Lamine Yamal",
@@ -1239,43 +1240,43 @@
      },
      "tabla": {
       "pos": 2,
-      "pj": 2,
+      "pj": 3,
       "g": 2,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "9-2",
-      "pts": 6
+      "pts": 7
      },
      "tabla_como_local_o_visitante": {
-      "pos": 2,
-      "pj": 1,
+      "pos": 1,
+      "pj": 2,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "4-1",
-      "pts": 3
+      "pts": 4
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.83,
-      "xg_concedido": 0.95,
-      "xpts": 5.32,
-      "xg_por_partido": 2.42,
-      "xg_concedido_por_partido": 0.47
+      "pj": 3,
+      "xg": 5.22,
+      "xg_concedido": 1.95,
+      "xpts": 6.06,
+      "xg_por_partido": 1.74,
+      "xg_concedido_por_partido": 0.65
      },
      "stats_temporada": {
-      "goles_partido": 3,
+      "posesion": 64.7,
       "pj_stats": 3,
-      "xg_total": 4.8,
-      "posesion": 71.3,
+      "goles_partido": 3,
       "goles_concedidos_partido": 0.7,
-      "toques_area_rival": 81,
-      "grandes_ocasiones_total": 13,
-      "remates_puerta_partido": 6.7,
-      "corners_total": 10,
-      "xg_concedido_total": 0.9,
-      "faltas_partido": 6.7,
-      "amarillas_total": 1
+      "xg_total": 5.2,
+      "corners_total": 11,
+      "remates_puerta_partido": 7,
+      "grandes_ocasiones_total": 14,
+      "toques_area_rival": 93,
+      "xg_concedido_total": 2,
+      "amarillas_total": 2,
+      "faltas_partido": 8
      }
     }
    },
@@ -1306,7 +1307,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Roma",
    "visitante": "Slovan Bratislava",
    "ronda": "3",
@@ -1325,8 +1326,7 @@
    "clima": {
     "temp_c": 20,
     "viento_kmh": 3,
-    "lluvia_prob": 9,
-    "cielo": "Partly Cloudy"
+    "cielo": "Showers in the Vicinity"
    },
    "equipos": {
     "local": {
@@ -1374,44 +1374,44 @@
       ]
      },
      "tabla": {
-      "pos": 26,
-      "pj": 2,
-      "g": 0,
+      "pos": 16,
+      "pj": 3,
+      "g": 1,
       "e": 1,
       "p": 1,
-      "goles": "4-5",
-      "pts": 1
+      "goles": "5-5",
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 25,
-      "pj": 1,
-      "g": 0,
+      "pos": 21,
+      "pj": 2,
+      "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "3-4",
-      "pts": 0
+      "goles": "4-4",
+      "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.89,
+      "pj": 3,
+      "xg": 2.99,
       "xg_concedido": 3,
-      "xpts": 1.86,
-      "xg_por_partido": 0.94,
-      "xg_concedido_por_partido": 1.5
+      "xpts": 4.27,
+      "xg_por_partido": 1,
+      "xg_concedido_por_partido": 1
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "posesion": 62.5,
       "pj_stats": 3,
-      "xg_total": 1.9,
-      "posesion": 56.2,
+      "goles_partido": 1.7,
       "goles_concedidos_partido": 1.7,
-      "toques_area_rival": 40,
-      "grandes_ocasiones_total": 4,
-      "remates_puerta_partido": 3.3,
-      "corners_total": 8,
+      "xg_total": 3.1,
+      "corners_total": 9,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 5,
+      "toques_area_rival": 63,
       "xg_concedido_total": 3,
-      "faltas_partido": 11.3,
-      "amarillas_total": 5
+      "amarillas_total": 5,
+      "faltas_partido": 12.7
      }
     },
     "visitante": {
@@ -1438,60 +1438,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-1-4-1",
       "titulares": [
        "Dominik Takác",
        "César Blackman",
        "Kenan Bajrič",
        "Svetozar Marković",
        "Sandro Cruz",
-       "Artur Gajdoš",
        "Peter Pokorný",
-       "Rahim Ibrahim",
        "Tigran Barseghyan",
-       "Nino Marcelli",
-       "Suleiman Camara"
+       "Rahim Ibrahim",
+       "Artur Gajdoš",
+       "Suleiman Camara",
+       "Nino Marcelli"
       ]
      },
      "tabla": {
       "pos": 36,
+      "pj": 3,
+      "g": 0,
+      "e": 0,
+      "p": 3,
+      "goles": "1-10",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 35,
       "pj": 2,
       "g": 0,
       "e": 0,
       "p": 2,
-      "goles": "1-9",
-      "pts": 0
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 34,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "1-6",
+      "goles": "1-7",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 2,
+      "pj": 3,
       "xg": 1.54,
-      "xg_concedido": 6.77,
-      "xpts": 0.45,
-      "xg_por_partido": 0.77,
-      "xg_concedido_por_partido": 3.38
+      "xg_concedido": 7.87,
+      "xpts": 0.74,
+      "xg_por_partido": 0.51,
+      "xg_concedido_por_partido": 2.62
      },
      "stats_temporada": {
-      "goles_partido": 0.3,
+      "posesion": 29.5,
       "pj_stats": 3,
+      "goles_partido": 0.3,
+      "goles_concedidos_partido": 3.3,
       "xg_total": 1.5,
-      "posesion": 31.8,
-      "goles_concedidos_partido": 3,
-      "toques_area_rival": 31,
-      "grandes_ocasiones_total": 2,
+      "corners_total": 4,
       "remates_puerta_partido": 1.7,
-      "corners_total": 3,
-      "xg_concedido_total": 6.8,
-      "faltas_partido": 5.7,
-      "amarillas_total": 2
+      "grandes_ocasiones_total": 2,
+      "toques_area_rival": 34,
+      "xg_concedido_total": 8,
+      "amarillas_total": 3,
+      "faltas_partido": 7
      }
     }
    },
@@ -1513,7 +1513,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Napoli",
    "visitante": "Bodø/Glimt",
    "ronda": "3",
@@ -1531,9 +1531,8 @@
    },
    "clima": {
     "temp_c": 21,
-    "viento_kmh": 3,
-    "lluvia_prob": 3,
-    "cielo": "Partly Cloudy"
+    "viento_kmh": 1,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -1575,60 +1574,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "3-4-2-1",
+      "formacion": "4-3-3",
       "titulares": [
        "Alex Meret",
        "Giovanni Di Lorenzo",
        "Amir Rrahmani",
        "Rafa Marín",
-       "Matteo Politano",
-       "Frank Anguissa",
-       "Scott McTominay",
        "Leonardo Spinazzola",
+       "Frank Anguissa",
        "Kevin De Bruyne",
-       "Noa Lang",
-       "Rasmus Højlund"
+       "Scott McTominay",
+       "Matteo Politano",
+       "Rasmus Højlund",
+       "Noa Lang"
       ]
      },
      "tabla": {
       "pos": 31,
-      "pj": 2,
+      "pj": 3,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 2,
-      "goles": "1-4",
-      "pts": 0
+      "goles": "2-5",
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 30,
-      "pj": 1,
+      "pos": 27,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
-      "goles": "0-1",
-      "pts": 0
+      "goles": "1-2",
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.92,
-      "xg_concedido": 5.29,
-      "xpts": 1.73,
-      "xg_por_partido": 0.96,
-      "xg_concedido_por_partido": 2.65
+      "pj": 3,
+      "xg": 2.82,
+      "xg_concedido": 5.36,
+      "xpts": 3.89,
+      "xg_por_partido": 0.94,
+      "xg_concedido_por_partido": 1.79
      },
      "stats_temporada": {
-      "goles_partido": 0.3,
+      "posesion": 47,
       "pj_stats": 3,
-      "xg_total": 1.9,
-      "posesion": 45.1,
-      "goles_concedidos_partido": 1.3,
-      "toques_area_rival": 36,
-      "grandes_ocasiones_total": 3,
-      "remates_puerta_partido": 2,
-      "corners_total": 4,
-      "xg_concedido_total": 5.3,
-      "faltas_partido": 9,
-      "amarillas_total": 5
+      "goles_partido": 0.7,
+      "goles_concedidos_partido": 1.7,
+      "xg_total": 2.8,
+      "corners_total": 5,
+      "remates_puerta_partido": 3.3,
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 51,
+      "xg_concedido_total": 5.4,
+      "amarillas_total": 5,
+      "faltas_partido": 9.7
      }
     },
     "visitante": {
@@ -1676,45 +1675,45 @@
       ]
      },
      "tabla": {
-      "pos": 25,
-      "pj": 2,
+      "pos": 17,
+      "pj": 3,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 1,
-      "goles": "1-5",
-      "pts": 3
+      "goles": "2-6",
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 35,
-      "pj": 1,
+      "pos": 21,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
-      "goles": "0-5",
-      "pts": 0
+      "goles": "1-6",
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.42,
-      "xg_concedido": 3.41,
-      "xpts": 1.73,
-      "xg_por_partido": 0.71,
-      "xg_concedido_por_partido": 1.7
+      "pj": 3,
+      "xg": 1.49,
+      "xg_concedido": 4.31,
+      "xpts": 2.19,
+      "xg_por_partido": 0.5,
+      "xg_concedido_por_partido": 1.44
      },
      "stats_temporada": {
-      "goles_partido": 0.3,
-      "pj_stats": 3,
-      "xg_total": 1.4,
-      "posesion": 41.1,
-      "goles_concedidos_partido": 1.7,
       "porterias_cero": 1,
-      "toques_area_rival": 30,
+      "pj_stats": 3,
+      "posesion": 43.8,
+      "goles_partido": 0.7,
+      "goles_concedidos_partido": 2,
+      "xg_total": 1.5,
+      "corners_total": 8,
+      "remates_puerta_partido": 1.3,
       "grandes_ocasiones_total": 3,
-      "remates_puerta_partido": 1,
-      "corners_total": 7,
-      "xg_concedido_total": 3.4,
-      "faltas_partido": 5,
-      "amarillas_total": 1
+      "toques_area_rival": 37,
+      "xg_concedido_total": 4.3,
+      "amarillas_total": 1,
+      "faltas_partido": 5.3
      }
     }
    },
@@ -1729,7 +1728,7 @@
    "competicion": "Champions League (INT)",
    "inicio_utc": "2026-10-20T19:00:00.000Z",
    "inicio_colombia": "2026-10-20 14:00",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "VfB Stuttgart",
    "visitante": "Atlético Madrid",
    "ronda": "3",
@@ -1746,10 +1745,9 @@
     }
    },
    "clima": {
-    "temp_c": 10,
-    "viento_kmh": 2,
-    "lluvia_prob": 2,
-    "cielo": "Cloudy"
+    "temp_c": 9,
+    "viento_kmh": 1,
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -1785,8 +1783,8 @@
       "titulares": [
        "Dennis Seimen",
        "Josha Vagnoman",
-       "Jeff Chabot",
        "Ramon Hendriks",
+       "Jeff Chabot",
        "Maximilian Mittelstädt",
        "Grischa Prömel",
        "Angelo Stiller",
@@ -1797,45 +1795,45 @@
       ]
      },
      "tabla": {
-      "pos": 4,
-      "pj": 2,
+      "pos": 3,
+      "pj": 3,
       "g": 2,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "6-1",
-      "pts": 6
+      "pts": 7
      },
      "tabla_como_local_o_visitante": {
-      "pos": 9,
-      "pj": 1,
+      "pos": 2,
+      "pj": 2,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "3-1",
-      "pts": 3
+      "pts": 4
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.37,
-      "xg_concedido": 1.41,
-      "xpts": 4.88,
-      "xg_por_partido": 2.19,
-      "xg_concedido_por_partido": 0.7
+      "pj": 3,
+      "xg": 4.74,
+      "xg_concedido": 1.58,
+      "xpts": 6.32,
+      "xg_por_partido": 1.58,
+      "xg_concedido_por_partido": 0.53
      },
      "stats_temporada": {
-      "goles_partido": 2,
-      "pj_stats": 3,
-      "xg_total": 4.4,
-      "posesion": 63,
-      "goles_concedidos_partido": 0.3,
       "porterias_cero": 1,
-      "toques_area_rival": 63,
+      "pj_stats": 3,
+      "posesion": 62.1,
+      "goles_partido": 2,
+      "goles_concedidos_partido": 0.3,
+      "xg_total": 4.7,
+      "corners_total": 15,
+      "remates_puerta_partido": 4.7,
       "grandes_ocasiones_total": 11,
-      "remates_puerta_partido": 3.7,
-      "corners_total": 11,
-      "xg_concedido_total": 1.4,
-      "faltas_partido": 9.3,
-      "amarillas_total": 3
+      "toques_area_rival": 76,
+      "xg_concedido_total": 1.6,
+      "amarillas_total": 4,
+      "faltas_partido": 10
      }
     },
     "visitante": {
@@ -1878,45 +1876,45 @@
       ]
      },
      "tabla": {
-      "pos": 17,
-      "pj": 2,
+      "pos": 15,
+      "pj": 3,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 1,
       "goles": "3-2",
-      "pts": 3
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 20,
-      "pj": 1,
+      "pos": 18,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
       "goles": "1-2",
-      "pts": 0
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.38,
-      "xg_concedido": 2.6,
-      "xpts": 2.57,
-      "xg_por_partido": 1.19,
-      "xg_concedido_por_partido": 1.3
+      "pj": 3,
+      "xg": 2.55,
+      "xg_concedido": 2.97,
+      "xpts": 3.52,
+      "xg_por_partido": 0.85,
+      "xg_concedido_por_partido": 0.99
      },
      "stats_temporada": {
-      "goles_partido": 1,
-      "pj_stats": 3,
-      "xg_total": 2.4,
-      "posesion": 56.4,
-      "goles_concedidos_partido": 0.7,
       "porterias_cero": 1,
-      "toques_area_rival": 35,
-      "grandes_ocasiones_total": 3,
+      "pj_stats": 3,
+      "posesion": 50.9,
+      "goles_partido": 1,
+      "goles_concedidos_partido": 0.7,
+      "xg_total": 2.5,
+      "corners_total": 8,
       "remates_puerta_partido": 3,
-      "corners_total": 7,
-      "xg_concedido_total": 2.6,
-      "faltas_partido": 7,
-      "amarillas_total": 2
+      "grandes_ocasiones_total": 3,
+      "toques_area_rival": 37,
+      "xg_concedido_total": 3,
+      "amarillas_total": 2,
+      "faltas_partido": 7.7
      }
     }
    },
@@ -2021,13 +2019,13 @@
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
      "stats_temporada": {
-      "goles_concedidos_partido": 0.7,
-      "pj_stats": 13,
       "posesion": 51.9,
-      "goles_partido": 1.5,
+      "pj_stats": 13,
       "porterias_cero": 8,
-      "toques_area_rival": 281,
+      "goles_concedidos_partido": 0.7,
+      "goles_partido": 1.5,
       "remates_puerta_partido": 5.4,
+      "toques_area_rival": 281,
       "grandes_ocasiones_total": 40,
       "corners_total": 62,
       "faltas_partido": 8.9
@@ -2091,13 +2089,13 @@
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
      "stats_temporada": {
-      "goles_concedidos_partido": 0.6,
-      "pj_stats": 7,
       "posesion": 54.7,
-      "goles_partido": 1.4,
+      "pj_stats": 7,
       "porterias_cero": 3,
-      "toques_area_rival": 196,
+      "goles_concedidos_partido": 0.6,
+      "goles_partido": 1.4,
       "remates_puerta_partido": 4,
+      "toques_area_rival": 196,
       "grandes_ocasiones_total": 14,
       "corners_total": 38,
       "faltas_partido": 8.9
@@ -2202,15 +2200,15 @@
       "goles_concedidos_partido": 1.4,
       "pj_stats": 13,
       "porterias_cero": 4,
-      "remates_puerta_partido": 2.8,
-      "xg_total": 8.8,
-      "posesion": 48.4,
       "goles_partido": 0.6,
+      "posesion": 48.4,
       "grandes_ocasiones_total": 7,
-      "xg_concedido_total": 19,
-      "faltas_partido": 12.9,
+      "xg_total": 8.8,
+      "remates_puerta_partido": 2.8,
       "toques_area_rival": 131,
-      "corners_total": 40
+      "faltas_partido": 12.9,
+      "corners_total": 40,
+      "xg_concedido_total": 19
      }
     },
     "visitante": {
@@ -2271,15 +2269,15 @@
       "goles_concedidos_partido": 1.8,
       "pj_stats": 13,
       "porterias_cero": 4,
-      "remates_puerta_partido": 2.6,
-      "xg_total": 10.7,
-      "posesion": 42.2,
       "goles_partido": 0.8,
+      "posesion": 42.2,
       "grandes_ocasiones_total": 12,
-      "xg_concedido_total": 15.6,
-      "faltas_partido": 12.9,
+      "xg_total": 10.7,
+      "remates_puerta_partido": 2.6,
       "toques_area_rival": 176,
-      "corners_total": 58
+      "faltas_partido": 12.9,
+      "corners_total": 58,
+      "xg_concedido_total": 15.6
      }
     }
    },
@@ -2376,15 +2374,15 @@
       "goles_concedidos_partido": 1.4,
       "pj_stats": 14,
       "porterias_cero": 3,
-      "remates_puerta_partido": 4.6,
-      "xg_total": 17.2,
-      "posesion": 44.8,
       "goles_partido": 1.1,
+      "posesion": 44.8,
       "grandes_ocasiones_total": 16,
-      "xg_concedido_total": 15.5,
-      "faltas_partido": 11.9,
+      "xg_total": 17.2,
+      "remates_puerta_partido": 4.6,
       "toques_area_rival": 220,
-      "corners_total": 82
+      "faltas_partido": 11.9,
+      "corners_total": 82,
+      "xg_concedido_total": 15.5
      }
     },
     "visitante": {
@@ -2435,15 +2433,15 @@
       "goles_concedidos_partido": 1.5,
       "pj_stats": 13,
       "porterias_cero": 4,
-      "remates_puerta_partido": 4,
-      "xg_total": 9,
-      "posesion": 49.3,
       "goles_partido": 1.1,
+      "posesion": 49.3,
       "grandes_ocasiones_total": 10,
-      "xg_concedido_total": 13.8,
-      "faltas_partido": 12.8,
+      "xg_total": 9,
+      "remates_puerta_partido": 4,
       "toques_area_rival": 189,
-      "corners_total": 48
+      "faltas_partido": 12.8,
+      "corners_total": 48,
+      "xg_concedido_total": 13.8
      }
     }
    },
@@ -2556,15 +2554,15 @@
       "goles_concedidos_partido": 1.5,
       "pj_stats": 13,
       "porterias_cero": 4,
-      "remates_puerta_partido": 4.2,
-      "xg_total": 13.5,
-      "posesion": 45.8,
       "goles_partido": 1.2,
+      "posesion": 45.8,
       "grandes_ocasiones_total": 13,
-      "xg_concedido_total": 15.3,
-      "faltas_partido": 11.2,
+      "xg_total": 13.5,
+      "remates_puerta_partido": 4.2,
       "toques_area_rival": 203,
-      "corners_total": 41
+      "faltas_partido": 11.2,
+      "corners_total": 41,
+      "xg_concedido_total": 15.3
      }
     },
     "visitante": {
@@ -2656,15 +2654,15 @@
       "goles_concedidos_partido": 0.9,
       "pj_stats": 12,
       "porterias_cero": 3,
-      "remates_puerta_partido": 6.5,
-      "xg_total": 16.5,
-      "posesion": 63,
       "goles_partido": 2.1,
+      "posesion": 63,
       "grandes_ocasiones_total": 16,
-      "xg_concedido_total": 9.4,
-      "faltas_partido": 12.9,
+      "xg_total": 16.5,
+      "remates_puerta_partido": 6.5,
       "toques_area_rival": 243,
-      "corners_total": 78
+      "faltas_partido": 12.9,
+      "corners_total": 78,
+      "xg_concedido_total": 9.4
      }
     }
    },
@@ -2787,15 +2785,15 @@
       "goles_concedidos_partido": 0.9,
       "pj_stats": 15,
       "porterias_cero": 5,
-      "remates_puerta_partido": 6.7,
-      "xg_total": 19.7,
-      "posesion": 50.5,
       "goles_partido": 1.5,
+      "posesion": 50.5,
       "grandes_ocasiones_total": 18,
-      "xg_concedido_total": 10.8,
-      "faltas_partido": 13.4,
+      "xg_total": 19.7,
+      "remates_puerta_partido": 6.7,
       "toques_area_rival": 300,
-      "corners_total": 81
+      "faltas_partido": 13.4,
+      "corners_total": 81,
+      "xg_concedido_total": 10.8
      }
     },
     "visitante": {
@@ -2856,15 +2854,15 @@
       "goles_concedidos_partido": 1.1,
       "pj_stats": 14,
       "porterias_cero": 3,
-      "remates_puerta_partido": 6.2,
-      "xg_total": 14.9,
-      "posesion": 54.2,
       "goles_partido": 1.3,
+      "posesion": 54.2,
       "grandes_ocasiones_total": 12,
-      "xg_concedido_total": 12.5,
-      "faltas_partido": 10.7,
+      "xg_total": 14.9,
+      "remates_puerta_partido": 6.2,
       "toques_area_rival": 251,
-      "corners_total": 68
+      "faltas_partido": 10.7,
+      "corners_total": 68,
+      "xg_concedido_total": 12.5
      }
     }
    },
@@ -2971,16 +2969,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1,
       "pj_stats": 12,
-      "goles_partido": 1.6,
-      "xg_total": 19.1,
       "posesion": 60.1,
+      "goles_partido": 1.6,
       "porterias_cero": 4,
       "remates_puerta_partido": 5.8,
       "grandes_ocasiones_total": 32,
-      "toques_area_rival": 344,
-      "corners_total": 97,
+      "xg_total": 19.1,
       "faltas_partido": 12.3,
-      "xg_concedido_total": 12.1
+      "xg_concedido_total": 12.1,
+      "toques_area_rival": 344,
+      "corners_total": 97
      }
     },
     "visitante": {
@@ -3040,15 +3038,15 @@
      "stats_temporada": {
       "goles_concedidos_partido": 2.1,
       "pj_stats": 12,
-      "goles_partido": 1.3,
-      "xg_total": 22.6,
       "posesion": 49.2,
+      "goles_partido": 1.3,
       "remates_puerta_partido": 4.8,
       "grandes_ocasiones_total": 36,
-      "toques_area_rival": 265,
-      "corners_total": 67,
+      "xg_total": 22.6,
       "faltas_partido": 13.8,
-      "xg_concedido_total": 20.6
+      "xg_concedido_total": 20.6,
+      "toques_area_rival": 265,
+      "corners_total": 67
      }
     }
    },
@@ -3155,16 +3153,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1.8,
       "pj_stats": 12,
-      "goles_partido": 1.3,
-      "xg_total": 15.2,
       "posesion": 51,
+      "goles_partido": 1.3,
       "porterias_cero": 1,
       "remates_puerta_partido": 4.3,
       "grandes_ocasiones_total": 27,
-      "toques_area_rival": 206,
-      "corners_total": 36,
+      "xg_total": 15.2,
       "faltas_partido": 9.6,
-      "xg_concedido_total": 19.1
+      "xg_concedido_total": 19.1,
+      "toques_area_rival": 206,
+      "corners_total": 36
      }
     },
     "visitante": {
@@ -3245,16 +3243,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1.2,
       "pj_stats": 11,
-      "goles_partido": 1.4,
-      "xg_total": 17.8,
       "posesion": 39.5,
+      "goles_partido": 1.4,
       "porterias_cero": 4,
       "remates_puerta_partido": 3.9,
       "grandes_ocasiones_total": 29,
-      "toques_area_rival": 206,
-      "corners_total": 49,
+      "xg_total": 17.8,
       "faltas_partido": 12.4,
-      "xg_concedido_total": 19.4
+      "xg_concedido_total": 19.4,
+      "toques_area_rival": 206,
+      "corners_total": 49
      }
     }
    },
@@ -3371,16 +3369,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 2.6,
       "pj_stats": 12,
-      "goles_partido": 0.7,
-      "xg_total": 11.7,
       "posesion": 44.7,
+      "goles_partido": 0.7,
       "porterias_cero": 1,
       "remates_puerta_partido": 2.7,
       "grandes_ocasiones_total": 20,
-      "toques_area_rival": 162,
-      "corners_total": 47,
+      "xg_total": 11.7,
       "faltas_partido": 12.6,
-      "xg_concedido_total": 24.5
+      "xg_concedido_total": 24.5,
+      "toques_area_rival": 162,
+      "corners_total": 47
      }
     },
     "visitante": {
@@ -3451,16 +3449,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1.6,
       "pj_stats": 12,
-      "goles_partido": 1.1,
-      "xg_total": 16.3,
       "posesion": 43.3,
+      "goles_partido": 1.1,
       "porterias_cero": 1,
       "remates_puerta_partido": 5.1,
       "grandes_ocasiones_total": 27,
-      "toques_area_rival": 254,
-      "corners_total": 61,
+      "xg_total": 16.3,
       "faltas_partido": 13.3,
-      "xg_concedido_total": 17.7
+      "xg_concedido_total": 17.7,
+      "toques_area_rival": 254,
+      "corners_total": 61
      }
     }
    },
@@ -3587,16 +3585,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1.3,
       "pj_stats": 12,
-      "goles_partido": 1.2,
-      "xg_total": 18.3,
       "posesion": 49.2,
+      "goles_partido": 1.2,
       "porterias_cero": 4,
       "remates_puerta_partido": 4.8,
       "grandes_ocasiones_total": 28,
-      "toques_area_rival": 305,
-      "corners_total": 79,
+      "xg_total": 18.3,
       "faltas_partido": 12.6,
-      "xg_concedido_total": 17.1
+      "xg_concedido_total": 17.1,
+      "toques_area_rival": 305,
+      "corners_total": 79
      }
     },
     "visitante": {
@@ -3667,16 +3665,16 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1.4,
       "pj_stats": 12,
-      "goles_partido": 1.5,
-      "xg_total": 16.7,
       "posesion": 50.3,
+      "goles_partido": 1.5,
       "porterias_cero": 3,
       "remates_puerta_partido": 5.5,
       "grandes_ocasiones_total": 29,
-      "toques_area_rival": 246,
-      "corners_total": 51,
+      "xg_total": 16.7,
       "faltas_partido": 11.2,
-      "xg_concedido_total": 17.5
+      "xg_concedido_total": 17.5,
+      "toques_area_rival": 246,
+      "corners_total": 51
      }
     }
    },
@@ -3702,7 +3700,7 @@
    "competicion": "Championship (ENG)",
    "inicio_utc": "2026-10-20T18:45:00.000Z",
    "inicio_colombia": "2026-10-20 13:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Wolverhampton Wanderers",
    "visitante": "Portsmouth",
    "ronda": "6",
@@ -3721,8 +3719,7 @@
    "clima": {
     "temp_c": 10,
     "viento_kmh": 1,
-    "lluvia_prob": 17,
-    "cielo": "Foggy"
+    "cielo": "Cloudy"
    },
    "equipos": {
     "local": {
@@ -3773,51 +3770,51 @@
        "Hugo Bueno",
        "André",
        "Marshall Munetsi",
-       "Rafiki Saïd",
-       "Fer López",
        "Mateus Mané",
+       "Fer López",
+       "Rafiki Saïd",
        "Sean Neave"
       ]
      },
      "tabla": {
-      "pos": 8,
-      "pj": 10,
+      "pos": 7,
+      "pj": 11,
       "g": 5,
-      "e": 2,
+      "e": 3,
       "p": 3,
       "goles": "18-15",
-      "pts": 17
+      "pts": 18
      },
      "tabla_como_local_o_visitante": {
       "pos": 15,
-      "pj": 4,
+      "pj": 5,
       "g": 2,
-      "e": 1,
+      "e": 2,
       "p": 1,
       "goles": "8-6",
-      "pts": 7
+      "pts": 8
      },
      "xg_temporada": {
-      "pj": 10,
-      "xg": 18.42,
-      "xg_concedido": 10.12,
-      "xpts": 19.77,
-      "xg_por_partido": 1.84,
-      "xg_concedido_por_partido": 1.01
+      "pj": 11,
+      "xg": 18.56,
+      "xg_concedido": 10.32,
+      "xpts": 20.84,
+      "xg_por_partido": 1.69,
+      "xg_concedido_por_partido": 0.94
      },
      "stats_temporada": {
+      "goles_partido": 1.6,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.4,
+      "xg_total": 18.6,
       "porterias_cero": 2,
-      "pj_stats": 10,
-      "xg_total": 18.4,
-      "posesion": 53.7,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 1.8,
-      "remates_puerta_partido": 4.5,
-      "toques_area_rival": 260,
-      "corners_total": 65,
-      "faltas_partido": 11.9,
+      "posesion": 53.6,
+      "remates_puerta_partido": 4.1,
       "grandes_ocasiones_total": 30,
-      "xg_concedido_total": 10.1
+      "toques_area_rival": 263,
+      "corners_total": 67,
+      "xg_concedido_total": 10.3,
+      "faltas_partido": 11.3
      }
     },
     "visitante": {
@@ -3891,53 +3888,53 @@
        "Regan Poole",
        "Madiodio Dia",
        "Jayden Meghoma",
-       "Rocco Shein",
        "Ebou Adams",
-       "Abu Kamara",
-       "Adrian Segečić",
        "Iyad Mohamed",
+       "Abu Kamara",
+       "Rocco Shein",
+       "Adrian Segečić",
        "Tyrese Shade"
       ]
      },
      "tabla": {
       "pos": 13,
-      "pj": 10,
+      "pj": 11,
       "g": 4,
-      "e": 2,
+      "e": 3,
       "p": 4,
       "goles": "13-13",
-      "pts": 14
+      "pts": 15
      },
      "tabla_como_local_o_visitante": {
-      "pos": 13,
-      "pj": 5,
+      "pos": 10,
+      "pj": 6,
       "g": 2,
-      "e": 1,
+      "e": 2,
       "p": 2,
       "goles": "5-4",
-      "pts": 7
+      "pts": 8
      },
      "xg_temporada": {
-      "pj": 10,
-      "xg": 14.04,
-      "xg_concedido": 11.84,
-      "xpts": 15.49,
-      "xg_por_partido": 1.4,
-      "xg_concedido_por_partido": 1.18
+      "pj": 11,
+      "xg": 14.24,
+      "xg_concedido": 11.99,
+      "xpts": 16.7,
+      "xg_por_partido": 1.29,
+      "xg_concedido_por_partido": 1.09
      },
      "stats_temporada": {
+      "goles_partido": 1.2,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.2,
+      "xg_total": 14.2,
       "porterias_cero": 3,
-      "pj_stats": 10,
-      "xg_total": 14,
-      "posesion": 54.1,
-      "goles_concedidos_partido": 1.3,
-      "goles_partido": 1.3,
-      "remates_puerta_partido": 4.3,
-      "toques_area_rival": 262,
-      "corners_total": 64,
-      "faltas_partido": 11.6,
+      "posesion": 53.5,
+      "remates_puerta_partido": 3.9,
       "grandes_ocasiones_total": 18,
-      "xg_concedido_total": 11.8
+      "toques_area_rival": 265,
+      "corners_total": 64,
+      "xg_concedido_total": 12,
+      "faltas_partido": 10.8
      }
     }
    },
@@ -3953,5 +3950,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-20T18:06:24.901Z"
+ "generado_utc": "2026-10-20T19:33:49.176Z"
 }
