@@ -1087,9 +1087,7 @@
      "Home: 0-0",
      "Road: 0-0"
     ],
-    "lesiones": [
-     "Nate Ament: Day-To-Day (Ankle)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-10-06 vs MIN L 116-97",
      "2026-10-08 @ OKC W 128-126",
@@ -1405,6 +1403,57 @@
       ]
      },
      {
+      "jugador": "Pete Nance",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 28,
+        "pts": 10,
+        "reb": 4.2,
+        "ast": 2.2,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.7,
+        "pts": 8.8,
+        "reb": 4.5,
+        "ast": 2.2,
+        "triples": 1.6
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 22.6,
+        "pts": 6.45,
+        "reb": 3.65,
+        "ast": 1.55,
+        "triples": 1.25
+       },
+       "temporada": {
+        "pj": 51,
+        "min": 15.1,
+        "pts": 5.41,
+        "reb": 2.61,
+        "ast": 1.02,
+        "triples": 1.08
+       }
+      },
+      "ultimos_10": [
+       "2026-03-24 vs LAC: 31min 11p 6r 2a 1t",
+       "2026-03-26 vs POR: 31min 6p 4r 2a 1t",
+       "2026-03-28 vs SA: 30min 5p 5r 3a 1t",
+       "2026-03-29 vs LAC: 39min 5p 3r 1a 1t",
+       "2026-04-01 vs DAL: 16min 11p 6r 3a 2t",
+       "2026-04-02 vs HOU: 40min 23p 3r 0a 5t",
+       "2026-04-04 vs BOS: 33min 14p 10r 1a 4t",
+       "2026-04-05 vs MEM: 23min 5p 4r 4a 0t",
+       "2026-04-07 vs BKN: 26min 8p 2r 6a 1t",
+       "2026-04-08 vs DET: 18min 0p 2r 0a 0t"
+      ]
+     },
+     {
       "jugador": "Cormac Ryan",
       "posicion": "G",
       "lesion": null,
@@ -1555,51 +1604,6 @@
        "2026-04-04 vs BOS: 25min 14p 7r 3a 2t",
        "2026-04-05 vs MEM: 22min 4p 4r 6a 0t",
        "2026-04-11 vs BKN: 21min 8p 1r 5a 1t"
-      ]
-     },
-     {
-      "jugador": "Brayden Burries",
-      "posicion": "G",
-      "lesion": null,
-      "promedios": {
-       "ult5": {
-        "pj": 4,
-        "min": 23,
-        "pts": 14,
-        "reb": 4.75,
-        "ast": 3.5,
-        "triples": 0.5
-       },
-       "ult10": {
-        "pj": 4,
-        "min": 23,
-        "pts": 14,
-        "reb": 4.75,
-        "ast": 3.5,
-        "triples": 0.5
-       },
-       "ult20": {
-        "pj": 4,
-        "min": 23,
-        "pts": 14,
-        "reb": 4.75,
-        "ast": 3.5,
-        "triples": 0.5
-       },
-       "temporada": {
-        "pj": 4,
-        "min": 23,
-        "pts": 14,
-        "reb": 4.75,
-        "ast": 3.5,
-        "triples": 0.5
-       }
-      },
-      "ultimos_10": [
-       "2026-10-06 vs MIN: 16min 7p 2r 5a 1t",
-       "2026-10-08 vs OKC: 21min 16p 5r 1a 0t",
-       "2026-10-15 vs CHI: 29min 19p 5r 5a 1t",
-       "2026-10-16 vs IND: 26min 14p 7r 3a 0t"
       ]
      }
     ]
@@ -2686,9 +2690,7 @@
      "Home: 0-0",
      "Road: 0-0"
     ],
-    "lesiones": [
-     "Vladislav Goldin: Day-To-Day (Ankle)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-10-03 @ TOR W 129-105",
      "2026-10-08 vs NO W 128-118",
@@ -4295,9 +4297,7 @@
     "lesiones": [
      "Dailyn Swain: Out (Illness)",
      "Jordan Hawkins: Out (Illness)",
-     "Leonard Miller: Day-To-Day (Groin)",
-     "Isaac Okoro: Day-To-Day (Knee)",
-     "Zach Collins: Day-To-Day (Toe)"
+     "Nic Claxton: Out (Hamstring)"
     ],
     "ultimos_5": [
      "2026-10-08 vs PHX W 124-117",
@@ -4412,7 +4412,7 @@
      {
       "jugador": "Leonard Miller",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4463,7 +4463,7 @@
      {
       "jugador": "Isaac Okoro",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4764,7 +4764,7 @@
      {
       "jugador": "Tobe Awaka",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 2,
@@ -7491,7 +7491,7 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "Jett Howard: Day-To-Day (Calf)",
+     "Jett Howard: Out (Calf)",
      "Caleb Martin: Out (Thumb)",
      "Tarik Biberovic: Out (Heel)",
      "Dereck Lively II: Out (Foot)",
@@ -9085,8 +9085,8 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Collin Sexton: Out (Calf)",
      "Cameron Carr: Out (Oblique)",
-     "Collin Sexton: Day-To-Day (Calf)",
      "Adou Thiero: Out (Knee)"
     ],
     "ultimos_5": [
@@ -9249,7 +9249,7 @@
      {
       "jugador": "Collin Sexton",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -10149,9 +10149,9 @@
      "Road: 0-0"
     ],
     "lesiones": [
+     "Micah Potter: Day-To-Day (Illness)",
      "Branden Carlson: Out (Concussion)",
      "Chris Youngblood: Out (Ankle)",
-     "Micah Potter: Day-To-Day (Illness)",
      "Deni Avdija: Day-To-Day (Ankle)",
      "Shaedon Sharpe: Out (Knee)"
     ],
@@ -12709,5 +12709,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-21T19:34:16.038Z"
+ "generado_utc": "2026-10-21T23:14:01.104Z"
 }
