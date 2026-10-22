@@ -7,7 +7,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Ararat Armenia",
    "visitante": "AZ Alkmaar",
    "ronda": "3",
@@ -24,10 +24,9 @@
     }
    },
    "clima": {
-    "temp_c": 12,
-    "viento_kmh": 0,
-    "lluvia_prob": 4,
-    "cielo": "Mostly Clear"
+    "temp_c": 11,
+    "viento_kmh": 2,
+    "cielo": "Partly Cloudy"
    },
    "equipos": {
     "local": {
@@ -59,44 +58,44 @@
       ]
      },
      "tabla": {
-      "pos": 33,
+      "pos": 35,
+      "pj": 3,
+      "g": 0,
+      "e": 0,
+      "p": 3,
+      "goles": "2-9",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 35,
       "pj": 2,
       "g": 0,
       "e": 0,
       "p": 2,
-      "goles": "2-7",
-      "pts": 0
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 32,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "1-4",
+      "goles": "1-6",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.88,
-      "xg_concedido": 4.64,
-      "xpts": 1.54,
-      "xg_por_partido": 1.44,
-      "xg_concedido_por_partido": 2.32
+      "pj": 3,
+      "xg": 3.13,
+      "xg_concedido": 5.27,
+      "xpts": 2.4,
+      "xg_por_partido": 1.04,
+      "xg_concedido_por_partido": 1.76
      },
      "stats_temporada": {
-      "posesion": 49.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 3.5,
-      "goles_partido": 1,
+      "goles_concedidos_partido": 3,
+      "pj_stats": 3,
+      "posesion": 45.9,
+      "xg_total": 3.1,
+      "goles_partido": 0.7,
       "remates_puerta_partido": 3,
-      "xg_total": 2.9,
-      "grandes_ocasiones_total": 4,
-      "toques_area_rival": 34,
-      "xg_concedido_total": 4.6,
-      "faltas_partido": 15,
-      "amarillas_total": 5,
-      "corners_total": 5
+      "grandes_ocasiones_total": 5,
+      "toques_area_rival": 43,
+      "xg_concedido_total": 5.3,
+      "corners_total": 7,
+      "amarillas_total": 7,
+      "faltas_partido": 12.7
      }
     },
     "visitante": {
@@ -144,44 +143,44 @@
       ]
      },
      "tabla": {
-      "pos": 20,
+      "pos": 12,
+      "pj": 3,
+      "g": 2,
+      "e": 0,
+      "p": 1,
+      "goles": "4-2",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 14,
       "pj": 2,
       "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "2-2",
+      "goles": "2-1",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 26,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "0-1",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.03,
-      "xg_concedido": 4.02,
-      "xpts": 2.88,
-      "xg_por_partido": 2.01,
-      "xg_concedido_por_partido": 2.01
+      "pj": 3,
+      "xg": 4.66,
+      "xg_concedido": 4.28,
+      "xpts": 4.56,
+      "xg_por_partido": 1.55,
+      "xg_concedido_por_partido": 1.43
      },
      "stats_temporada": {
-      "posesion": 57.1,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1,
-      "goles_partido": 1,
-      "remates_puerta_partido": 4.5,
-      "xg_total": 4,
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
+      "posesion": 58.5,
+      "xg_total": 4.7,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 4.7,
       "grandes_ocasiones_total": 7,
-      "toques_area_rival": 57,
-      "xg_concedido_total": 4,
-      "faltas_partido": 13.5,
+      "toques_area_rival": 75,
+      "xg_concedido_total": 4.3,
+      "corners_total": 14,
       "amarillas_total": 6,
-      "corners_total": 10
+      "faltas_partido": 11.7
      }
     }
    },
@@ -196,7 +195,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Dinamo Zagreb",
    "visitante": "NEC Nijmegen",
    "ronda": "3",
@@ -213,10 +212,9 @@
     }
    },
    "clima": {
-    "temp_c": 12,
-    "viento_kmh": 1,
-    "lluvia_prob": 34,
-    "cielo": "Few Showers"
+    "temp_c": 11,
+    "viento_kmh": 0,
+    "cielo": "Partly Cloudy"
    },
    "equipos": {
     "local": {
@@ -248,45 +246,45 @@
       ]
      },
      "tabla": {
-      "pos": 14,
-      "pj": 2,
+      "pos": 15,
+      "pj": 3,
       "g": 1,
       "e": 1,
-      "p": 0,
-      "goles": "1-0",
+      "p": 1,
+      "goles": "3-3",
       "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 16,
-      "pj": 1,
+      "pos": 17,
+      "pj": 2,
       "g": 1,
       "e": 0,
-      "p": 0,
-      "goles": "1-0",
+      "p": 1,
+      "goles": "3-3",
       "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.37,
-      "xg_concedido": 2.04,
-      "xpts": 2.78,
-      "xg_por_partido": 1.18,
-      "xg_concedido_por_partido": 1.02
+      "pj": 3,
+      "xg": 4.05,
+      "xg_concedido": 2.9,
+      "xpts": 4.8,
+      "xg_por_partido": 1.35,
+      "xg_concedido_por_partido": 0.97
      },
      "stats_temporada": {
-      "posesion": 39.5,
-      "pj_stats": 2,
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "posesion": 45,
+      "xg_total": 4,
+      "goles_partido": 1,
+      "remates_puerta_partido": 3,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 62,
+      "xg_concedido_total": 2.9,
+      "corners_total": 12,
+      "amarillas_total": 3,
       "porterias_cero": 2,
-      "goles_concedidos_partido": 0,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 2,
-      "xg_total": 2.4,
-      "grandes_ocasiones_total": 3,
-      "toques_area_rival": 45,
-      "xg_concedido_total": 2,
-      "faltas_partido": 17,
-      "amarillas_total": 2,
-      "corners_total": 8
+      "faltas_partido": 13.7
      }
     },
     "visitante": {
@@ -321,57 +319,57 @@
       "formacion": "3-4-2-1",
       "titulares": [
        "Gonzalo Crettaz",
-       "Perr Schuurs",
-       "Darko Nejašmić",
-       "Tjaronn Chery",
-       "Dennis Geiger",
-       "Noé Lebreton",
        "Tobias Storm",
        "Ahmetcan Kaplan",
        "Deveron Fonville",
-       "Bryan Linssen",
-       "Clement Bischoff"
+       "Perr Schuurs",
+       "Darko Nejašmić",
+       "Dennis Geiger",
+       "Clement Bischoff",
+       "Tjaronn Chery",
+       "Noé Lebreton",
+       "Bryan Linssen"
       ]
      },
      "tabla": {
-      "pos": 27,
-      "pj": 2,
-      "g": 0,
+      "pos": 17,
+      "pj": 3,
+      "g": 1,
       "e": 1,
       "p": 1,
-      "goles": "1-6",
-      "pts": 1
+      "goles": "4-8",
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 36,
-      "pj": 1,
-      "g": 0,
+      "pos": 18,
+      "pj": 2,
+      "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "0-5",
-      "pts": 0
+      "goles": "3-7",
+      "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.79,
-      "xg_concedido": 5.54,
-      "xpts": 1.88,
-      "xg_por_partido": 1.4,
-      "xg_concedido_por_partido": 2.77
+      "pj": 3,
+      "xg": 3.65,
+      "xg_concedido": 7.22,
+      "xpts": 2.63,
+      "xg_por_partido": 1.22,
+      "xg_concedido_por_partido": 2.41
      },
      "stats_temporada": {
-      "posesion": 51.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 3,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 6,
-      "xg_total": 2.8,
-      "grandes_ocasiones_total": 5,
-      "toques_area_rival": 64,
-      "xg_concedido_total": 5.5,
-      "faltas_partido": 16.5,
-      "amarillas_total": 2,
-      "corners_total": 7
+      "goles_concedidos_partido": 2.7,
+      "pj_stats": 3,
+      "posesion": 49,
+      "xg_total": 3.7,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 78,
+      "xg_concedido_total": 7.2,
+      "corners_total": 9,
+      "amarillas_total": 3,
+      "faltas_partido": 15
      }
     }
    },
@@ -389,7 +387,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Ferencváros",
    "visitante": "Torreense",
    "ronda": "3",
@@ -408,8 +406,7 @@
    "clima": {
     "temp_c": 11,
     "viento_kmh": 5,
-    "lluvia_prob": 1,
-    "cielo": "Mostly Cloudy"
+    "cielo": "Partly Cloudy"
    },
    "equipos": {
     "local": {
@@ -452,44 +449,44 @@
       ]
      },
      "tabla": {
-      "pos": 7,
+      "pos": 2,
+      "pj": 3,
+      "g": 3,
+      "e": 0,
+      "p": 0,
+      "goles": "7-3",
+      "pts": 9
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
       "pj": 2,
       "g": 2,
       "e": 0,
       "p": 0,
-      "goles": "5-2",
+      "goles": "4-2",
       "pts": 6
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 10,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-1",
-      "pts": 3
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 3.45,
-      "xg_concedido": 3.24,
-      "xpts": 2.88,
-      "xg_por_partido": 1.73,
-      "xg_concedido_por_partido": 1.62
+      "pj": 3,
+      "xg": 4.52,
+      "xg_concedido": 3.82,
+      "xpts": 4.66,
+      "xg_por_partido": 1.51,
+      "xg_concedido_por_partido": 1.27
      },
      "stats_temporada": {
-      "posesion": 45.4,
-      "pj_stats": 2,
       "goles_concedidos_partido": 1,
-      "goles_partido": 2.5,
-      "remates_puerta_partido": 6,
-      "xg_total": 3.5,
-      "grandes_ocasiones_total": 4,
-      "toques_area_rival": 44,
-      "xg_concedido_total": 3.2,
-      "faltas_partido": 12.5,
-      "amarillas_total": 5,
-      "corners_total": 10
+      "pj_stats": 3,
+      "posesion": 50.9,
+      "xg_total": 4.5,
+      "goles_partido": 2.3,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 80,
+      "xg_concedido_total": 3.8,
+      "corners_total": 16,
+      "amarillas_total": 6,
+      "faltas_partido": 11.7
      }
     },
     "visitante": {
@@ -518,8 +515,8 @@
        "Mohamed Ali Diadie",
        "Volnei",
        "Javi Vázquez",
-       "Alejandro Alfaro",
        "Amine Oudrhiri Idrissi",
+       "Alejandro Alfaro",
        "Manuel Pozo",
        "João Marques",
        "Karem Zoabi",
@@ -527,7 +524,16 @@
       ]
      },
      "tabla": {
-      "pos": 19,
+      "pos": 21,
+      "pj": 3,
+      "g": 1,
+      "e": 0,
+      "p": 2,
+      "goles": "4-5",
+      "pts": 3
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 17,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -535,36 +541,27 @@
       "goles": "3-3",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 13,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-1",
-      "pts": 3
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.56,
-      "xg_concedido": 4.38,
-      "xpts": 0.83,
-      "xg_por_partido": 0.78,
-      "xg_concedido_por_partido": 2.19
+      "pj": 3,
+      "xg": 2.14,
+      "xg_concedido": 5.45,
+      "xpts": 1.72,
+      "xg_por_partido": 0.71,
+      "xg_concedido_por_partido": 1.82
      },
      "stats_temporada": {
-      "posesion": 36.1,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 1.5,
-      "remates_puerta_partido": 2,
-      "xg_total": 1.6,
-      "grandes_ocasiones_total": 3,
-      "toques_area_rival": 15,
-      "xg_concedido_total": 4.4,
-      "faltas_partido": 13.5,
-      "amarillas_total": 4,
-      "corners_total": 4
+      "goles_concedidos_partido": 1.7,
+      "pj_stats": 3,
+      "posesion": 36.7,
+      "xg_total": 2.1,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 2.7,
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 27,
+      "xg_concedido_total": 5.4,
+      "corners_total": 7,
+      "amarillas_total": 6,
+      "faltas_partido": 12
      }
     }
    },
@@ -582,7 +579,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Juventus",
    "visitante": "Rennes",
    "ronda": "3",
@@ -599,9 +596,8 @@
     }
    },
    "clima": {
-    "temp_c": 17,
-    "viento_kmh": 2,
-    "lluvia_prob": 1,
+    "temp_c": 14,
+    "viento_kmh": 1,
     "cielo": "Clear"
    },
    "equipos": {
@@ -653,61 +649,62 @@
       }
      ],
      "alineacion": {
-      "tipo": "simple",
+      "tipo": "standard",
+      "formacion": "3-4-1-2",
       "titulares": [
        "Guglielmo Vicario",
        "Federico Gatti",
        "Gleison Bremer",
        "Lloyd Kelly",
+       "Zeki Çelik",
+       "Douglas Luiz",
        "Teun Koopmeiners",
        "Andrea Cambiaso",
-       "Douglas Luiz",
-       "Zeki Çelik",
        "Weston McKennie",
-       "Nick Woltemade",
-       "Randal Kolo Muani"
+       "Randal Kolo Muani",
+       "Nick Woltemade"
       ]
      },
      "tabla": {
-      "pos": 1,
-      "pj": 2,
+      "pos": 6,
+      "pj": 3,
       "g": 2,
       "e": 0,
-      "p": 0,
-      "goles": "7-1",
+      "p": 1,
+      "goles": "8-3",
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 1,
-      "pj": 1,
+      "pos": 4,
+      "pj": 2,
       "g": 1,
       "e": 0,
-      "p": 0,
-      "goles": "5-0",
+      "p": 1,
+      "goles": "6-2",
       "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 6.1,
-      "xg_concedido": 1.82,
-      "xpts": 4.99,
-      "xg_por_partido": 3.05,
-      "xg_concedido_por_partido": 0.91
+      "pj": 3,
+      "xg": 6.75,
+      "xg_concedido": 3.32,
+      "xpts": 5.68,
+      "xg_por_partido": 2.25,
+      "xg_concedido_por_partido": 1.11
      },
      "stats_temporada": {
-      "posesion": 50.4,
-      "pj_stats": 2,
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "posesion": 50.1,
+      "xg_total": 6.7,
+      "goles_partido": 2.7,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 11,
+      "toques_area_rival": 81,
+      "xg_concedido_total": 3.3,
+      "corners_total": 10,
+      "amarillas_total": 4,
       "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 3.5,
-      "remates_puerta_partido": 6.5,
-      "xg_total": 6.1,
-      "grandes_ocasiones_total": 9,
-      "toques_area_rival": 66,
-      "xg_concedido_total": 1.8,
-      "faltas_partido": 14,
-      "amarillas_total": 3,
-      "corners_total": 7
+      "faltas_partido": 13
      }
     },
     "visitante": {
@@ -728,23 +725,33 @@
       }
      ],
      "alineacion": {
-      "tipo": "simple",
+      "tipo": "standard",
+      "formacion": "5-3-2",
       "titulares": [
        "Brice Samba",
        "Abdelhamid Aït Boudlal",
+       "Charlie Cresswell",
        "Anthony Rouault",
        "Bryan Reynolds",
-       "Charlie Cresswell",
        "Mahamadou Nagida",
        "Adrien Thomasson",
-       "Mahdi Camara",
-       "Mousa Tamari",
        "Valentin Rongier",
-       "Boulaye Dia"
+       "Mahdi Camara",
+       "Boulaye Dia",
+       "Mousa Tamari"
       ]
      },
      "tabla": {
-      "pos": 13,
+      "pos": 5,
+      "pj": 3,
+      "g": 2,
+      "e": 1,
+      "p": 0,
+      "goles": "4-2",
+      "pts": 7
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
       "pj": 2,
       "g": 1,
       "e": 1,
@@ -752,37 +759,28 @@
       "goles": "2-1",
       "pts": 4
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 19,
-      "pj": 1,
-      "g": 0,
-      "e": 1,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 1
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 3.21,
-      "xg_concedido": 0.79,
-      "xpts": 4.74,
-      "xg_por_partido": 1.6,
-      "xg_concedido_por_partido": 0.4
+      "pj": 3,
+      "xg": 4.71,
+      "xg_concedido": 1.44,
+      "xpts": 6.8,
+      "xg_por_partido": 1.57,
+      "xg_concedido_por_partido": 0.48
      },
      "stats_temporada": {
-      "posesion": 64.8,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 1,
-      "remates_puerta_partido": 7,
-      "xg_total": 3.2,
-      "grandes_ocasiones_total": 4,
-      "toques_area_rival": 68,
-      "xg_concedido_total": 0.8,
-      "faltas_partido": 9.5,
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
+      "posesion": 60.1,
+      "xg_total": 4.7,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 6.3,
+      "grandes_ocasiones_total": 5,
+      "toques_area_rival": 85,
+      "xg_concedido_total": 1.4,
+      "corners_total": 21,
       "amarillas_total": 3,
-      "corners_total": 17
+      "porterias_cero": 1,
+      "faltas_partido": 7.7
      }
     }
    },
@@ -797,7 +795,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Lech Poznań",
    "visitante": "Sunderland",
    "ronda": "3",
@@ -815,9 +813,8 @@
    },
    "clima": {
     "temp_c": 7,
-    "viento_kmh": 3,
-    "lluvia_prob": 2,
-    "cielo": "Partly Cloudy"
+    "viento_kmh": 2,
+    "cielo": "Clear"
    },
    "equipos": {
     "local": {
@@ -863,7 +860,7 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Mateusz Lis",
@@ -871,52 +868,52 @@
        "Mateusz Skrzypczak",
        "Terry Yegbe",
        "Michał Gurgul",
-       "Radosław Murawski",
        "Antoni Kozubal",
+       "Radosław Murawski",
        "Patrik Wålemark",
        "Pablo Rodríguez",
-       "Luis Palma",
+       "Daniel Håkans",
        "Mikael Ishak"
       ]
      },
      "tabla": {
       "pos": 36,
-      "pj": 2,
+      "pj": 3,
       "g": 0,
       "e": 0,
-      "p": 2,
-      "goles": "0-8",
+      "p": 3,
+      "goles": "0-9",
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
       "pos": 36,
-      "pj": 1,
+      "pj": 2,
       "g": 0,
       "e": 0,
-      "p": 1,
-      "goles": "0-4",
+      "p": 2,
+      "goles": "0-5",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.04,
-      "xg_concedido": 7.39,
-      "xpts": 0.91,
-      "xg_por_partido": 1.02,
-      "xg_concedido_por_partido": 3.69
+      "pj": 3,
+      "xg": 3.42,
+      "xg_concedido": 9.69,
+      "xpts": 1.65,
+      "xg_por_partido": 1.14,
+      "xg_concedido_por_partido": 3.23
      },
      "stats_temporada": {
-      "posesion": 43.1,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 4,
-      "remates_puerta_partido": 4.5,
-      "xg_total": 2,
-      "grandes_ocasiones_total": 4,
-      "toques_area_rival": 39,
-      "xg_concedido_total": 7.4,
-      "faltas_partido": 6,
+      "goles_concedidos_partido": 3,
+      "pj_stats": 3,
+      "posesion": 43.7,
+      "xg_total": 3.4,
+      "remates_puerta_partido": 3.7,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 54,
+      "xg_concedido_total": 9.7,
+      "corners_total": 10,
       "amarillas_total": 1,
-      "corners_total": 9
+      "faltas_partido": 6
      }
     },
     "visitante": {
@@ -931,12 +928,12 @@
      ],
      "bajas": [
       {
-       "jugador": "Wilson Isidor",
+       "jugador": "Thomas Meunier",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Late October 2026"
       },
       {
-       "jugador": "Brian Brobbey",
+       "jugador": "Wilson Isidor",
        "tipo": "injury",
        "regreso": "Doubtful"
       },
@@ -946,9 +943,9 @@
        "regreso": "Late October 2026"
       },
       {
-       "jugador": "Thomas Meunier",
+       "jugador": "Brian Brobbey",
        "tipo": "injury",
-       "regreso": "Late October 2026"
+       "regreso": "Doubtful"
       },
       {
        "jugador": "Romaine Mundle",
@@ -957,24 +954,33 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Robin Roefs",
        "Nordi Mukiele",
        "Kevin Danso",
-       "Omar Alderete",
-       "Reinildo",
+       "Luke O'Nien",
+       "Dayann Méthalie",
        "Granit Xhaka",
-       "Noah Sadiki",
-       "Trai Hume",
-       "Chris Rigg",
-       "Enzo Le Fée",
+       "Jules Ahoka",
+       "Nilson Angulo",
+       "Habib Diarra",
+       "Malick Fofana",
        "Timur Tuterov"
       ]
      },
      "tabla": {
-      "pos": 9,
+      "pos": 3,
+      "pj": 3,
+      "g": 3,
+      "e": 0,
+      "p": 0,
+      "goles": "4-1",
+      "pts": 9
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -982,37 +988,28 @@
       "goles": "3-1",
       "pts": 6
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 12,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-1",
-      "pts": 3
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 4.75,
-      "xg_concedido": 1.36,
-      "xpts": 5.18,
-      "xg_por_partido": 2.38,
-      "xg_concedido_por_partido": 0.68
+      "pj": 3,
+      "xg": 7.06,
+      "xg_concedido": 2.73,
+      "xpts": 7.22,
+      "xg_por_partido": 2.35,
+      "xg_concedido_por_partido": 0.91
      },
      "stats_temporada": {
-      "posesion": 52.8,
-      "pj_stats": 2,
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
+      "posesion": 53.6,
+      "xg_total": 7.1,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 6.7,
+      "grandes_ocasiones_total": 9,
+      "toques_area_rival": 111,
+      "xg_concedido_total": 2.7,
+      "corners_total": 25,
+      "amarillas_total": 7,
       "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 1.5,
-      "remates_puerta_partido": 5,
-      "xg_total": 4.8,
-      "grandes_ocasiones_total": 7,
-      "toques_area_rival": 80,
-      "xg_concedido_total": 1.4,
-      "faltas_partido": 16.5,
-      "amarillas_total": 6,
-      "corners_total": 21
+      "faltas_partido": 13.3
      }
     }
    },
@@ -1029,7 +1026,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "OFI Crete",
    "visitante": "Bayer Leverkusen",
    "ronda": "3",
@@ -1046,10 +1043,9 @@
     }
    },
    "clima": {
-    "temp_c": 23,
-    "viento_kmh": 7,
-    "lluvia_prob": 1,
-    "cielo": "Mostly Clear"
+    "temp_c": 22,
+    "viento_kmh": 5,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -1085,62 +1081,62 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "3-4-2-1",
+      "tipo": "standard",
+      "formacion": "3-4-3",
       "titulares": [
-       "Nikos Christogeorgos",
+       "Klidman Lilo",
        "Konstantinos Kostoulas",
-       "Dimitrios Nikolaou",
+       "Achilleas Poungouras",
        "Krešimir Krizmanić",
-       "Borja González",
-       "Zisis Karachalios",
-       "Giorgios Kanellopoulos",
+       "Lorenzo Dickmann",
+       "Thanasis Androutsos",
+       "Andreas Bouchalakis",
        "Nikolaos Athanasiou",
-       "Thiago Nuss",
-       "Anastasios Chatzigiovanis",
-       "Kenan Kodro"
+       "Aitor Cantalapiedra",
+       "Kenan Kodro",
+       "Thiago Nuss"
       ]
      },
      "tabla": {
+      "pos": 22,
+      "pj": 3,
+      "g": 1,
+      "e": 0,
+      "p": 2,
+      "goles": "3-4",
+      "pts": 3
+     },
+     "tabla_como_local_o_visitante": {
       "pos": 18,
       "pj": 2,
       "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "3-2",
-      "pts": 3
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 8,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-0",
+      "goles": "2-2",
       "pts": 3
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.48,
-      "xg_concedido": 3.19,
-      "xpts": 1.36,
-      "xg_por_partido": 0.74,
-      "xg_concedido_por_partido": 1.6
+      "pj": 3,
+      "xg": 1.64,
+      "xg_concedido": 5.59,
+      "xpts": 1.46,
+      "xg_por_partido": 0.55,
+      "xg_concedido_por_partido": 1.86
      },
      "stats_temporada": {
-      "posesion": 32.8,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 1,
-      "goles_partido": 1.5,
+      "goles_concedidos_partido": 1.3,
+      "pj_stats": 3,
+      "posesion": 34.4,
+      "xg_total": 1.6,
+      "goles_partido": 1,
       "remates_puerta_partido": 2,
-      "xg_total": 1.5,
       "grandes_ocasiones_total": 3,
-      "toques_area_rival": 17,
-      "xg_concedido_total": 3.2,
-      "faltas_partido": 9.5,
+      "toques_area_rival": 22,
+      "xg_concedido_total": 5.6,
+      "corners_total": 11,
       "amarillas_total": 4,
-      "corners_total": 7
+      "porterias_cero": 1,
+      "faltas_partido": 7
      }
     },
     "visitante": {
@@ -1155,6 +1151,26 @@
      ],
      "bajas": [
       {
+       "jugador": "Martin Terrier",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Eliesse Ben Seghir",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Christian Kofane",
+       "tipo": "injury",
+       "regreso": "A few weeks"
+      },
+      {
+       "jugador": "Guéla Doué",
+       "tipo": "injury",
+       "regreso": "A few weeks"
+      },
+      {
        "jugador": "Kennet Eichhorn",
        "tipo": "injury",
        "regreso": "Late October 2026"
@@ -1163,47 +1179,36 @@
        "jugador": "Montrell Culbreath",
        "tipo": "injury",
        "regreso": "Late October 2026"
-      },
-      {
-       "jugador": "Guéla Doué",
-       "tipo": "injury",
-       "regreso": "A few weeks"
-      },
-      {
-       "jugador": "Eliesse Ben Seghir",
-       "tipo": "injury",
-       "regreso": "About 1-2 weeks"
-      },
-      {
-       "jugador": "Martin Terrier",
-       "tipo": "injury",
-       "regreso": "Early December 2026"
-      },
-      {
-       "jugador": "Christian Kofane",
-       "tipo": "injury",
-       "regreso": "A few weeks"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Mark Flekken",
+       "Janis Blaswich",
+       "Lucas Vázquez",
        "Jarell Quansah",
-       "Edmond Tapsoba",
+       "Loic Badé",
        "Facundo Medina",
-       "Miguel Gutiérrez",
-       "Aleix García",
        "Equi Fernández",
-       "Moussa Diaby",
-       "Ibrahim Maza",
+       "Aleix García",
+       "Jonas Hofmann",
+       "Malik Tillman",
        "Afonso Moreira",
        "Patrik Schick"
       ]
      },
      "tabla": {
-      "pos": 2,
+      "pos": 1,
+      "pj": 3,
+      "g": 3,
+      "e": 0,
+      "p": 0,
+      "goles": "8-0",
+      "pts": 9
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -1211,37 +1216,28 @@
       "goles": "6-0",
       "pts": 6
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 1,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "4-0",
-      "pts": 3
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 7.56,
-      "xg_concedido": 1.38,
-      "xpts": 5.43,
-      "xg_por_partido": 3.78,
-      "xg_concedido_por_partido": 0.69
+      "pj": 3,
+      "xg": 9.95,
+      "xg_concedido": 1.54,
+      "xpts": 8.26,
+      "xg_por_partido": 3.32,
+      "xg_concedido_por_partido": 0.51
      },
      "stats_temporada": {
-      "posesion": 58.6,
-      "pj_stats": 2,
-      "porterias_cero": 2,
       "goles_concedidos_partido": 0,
-      "goles_partido": 3,
-      "remates_puerta_partido": 9,
-      "xg_total": 7.6,
-      "grandes_ocasiones_total": 13,
-      "toques_area_rival": 74,
-      "xg_concedido_total": 1.4,
-      "faltas_partido": 16,
-      "amarillas_total": 2,
-      "corners_total": 11
+      "pj_stats": 3,
+      "posesion": 59.9,
+      "xg_total": 10,
+      "goles_partido": 2.7,
+      "remates_puerta_partido": 10,
+      "grandes_ocasiones_total": 17,
+      "toques_area_rival": 104,
+      "xg_concedido_total": 1.5,
+      "corners_total": 18,
+      "amarillas_total": 3,
+      "porterias_cero": 2,
+      "faltas_partido": 14.3
      }
     }
    },
@@ -1259,7 +1255,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Sturm Graz",
    "visitante": "Marseille",
    "ronda": "3",
@@ -1276,9 +1272,8 @@
     }
    },
    "clima": {
-    "temp_c": 10,
-    "viento_kmh": 2,
-    "lluvia_prob": 1,
+    "temp_c": 8,
+    "viento_kmh": 1,
     "cielo": "Clear"
    },
    "equipos": {
@@ -1330,60 +1325,62 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "3-4-2-1",
+      "tipo": "standard",
+      "formacion": "3-4-1-2",
       "titulares": [
-       "Daniil Khudyakov",
+       "Ammar Helac",
        "Arjan Malić",
        "Joshua Quarshie",
-       "Paul-Friedrich Koller",
-       "Jürgen Heil",
-       "Luca Weinhandl",
-       "Jon Gorenc Stankovič",
        "Luís Balbo",
-       "Simon Seidl",
+       "Jacob Hödl",
+       "Jon Gorenc Stankovič",
+       "Luca Weinhandl",
+       "Paul-Friedrich Koller",
        "Valmir Matoshi",
+       "Simon Seidl",
        "Oumar Diakité"
       ]
      },
      "tabla": {
-      "pos": 26,
-      "pj": 2,
-      "g": 0,
+      "pos": 16,
+      "pj": 3,
+      "g": 1,
       "e": 1,
       "p": 1,
-      "goles": "0-3",
-      "pts": 1
+      "goles": "1-3",
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 21,
-      "pj": 1,
-      "g": 0,
+      "pos": 3,
+      "pj": 2,
+      "g": 1,
       "e": 1,
       "p": 0,
-      "goles": "0-0",
-      "pts": 1
+      "goles": "1-0",
+      "pts": 4
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 1.08,
-      "xg_concedido": 4.6,
-      "xpts": 0.7,
-      "xg_por_partido": 0.54,
-      "xg_concedido_por_partido": 2.3
+      "pj": 3,
+      "xg": 2.39,
+      "xg_concedido": 5.05,
+      "xpts": 2.8,
+      "xg_por_partido": 0.8,
+      "xg_concedido_por_partido": 1.68
      },
      "stats_temporada": {
-      "posesion": 37.9,
-      "pj_stats": 2,
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "posesion": 35.6,
+      "xg_total": 2.4,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 3.3,
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 49,
+      "xg_concedido_total": 5,
+      "corners_total": 10,
+      "amarillas_total": 7,
       "porterias_cero": 1,
-      "goles_concedidos_partido": 1.5,
-      "remates_puerta_partido": 2.5,
-      "xg_total": 1.1,
-      "toques_area_rival": 34,
-      "xg_concedido_total": 4.6,
-      "faltas_partido": 15,
-      "amarillas_total": 5,
-      "corners_total": 8
+      "faltas_partido": 16
      }
     },
     "visitante": {
@@ -1401,32 +1398,36 @@
        "jugador": "Derek Cornelius",
        "tipo": "injury",
        "regreso": "Early January 2027"
-      },
-      {
-       "jugador": "Pierre-Emile Højbjerg",
-       "tipo": "injury",
-       "regreso": "Doubtful"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Jeffrey De Lange",
-       "Timothy Weah",
-       "CJ Egan-Riley",
-       "Geoffrey Kondogbia",
-       "Emerson",
-       "Tochukwu Nnadi",
+       "Kelyann Bezahaf",
+       "Bamo Meité",
+       "Nayef Aguerd",
+       "Ulisses Garcia",
        "Nouhoum Kamissoko",
-       "Amine Harit",
-       "Himad Abdelli",
-       "Igor Paixão",
-       "Amine Gouiri"
+       "Geoffrey Kondogbia",
+       "Keyliane Abdallah",
+       "Angel Gomes",
+       "Amine Gouiri",
+       "Neal Maupay"
       ]
      },
      "tabla": {
-      "pos": 31,
+      "pos": 33,
+      "pj": 3,
+      "g": 0,
+      "e": 0,
+      "p": 3,
+      "goles": "1-6",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 35,
       "pj": 2,
       "g": 0,
       "e": 0,
@@ -1434,36 +1435,27 @@
       "goles": "1-5",
       "pts": 0
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 32,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "1-4",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.14,
-      "xg_concedido": 3.48,
-      "xpts": 2.03,
-      "xg_por_partido": 1.07,
-      "xg_concedido_por_partido": 1.74
+      "pj": 3,
+      "xg": 2.6,
+      "xg_concedido": 4.79,
+      "xpts": 2.65,
+      "xg_por_partido": 0.87,
+      "xg_concedido_por_partido": 1.6
      },
      "stats_temporada": {
-      "posesion": 50.3,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 2.5,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 4,
-      "xg_total": 2.1,
-      "grandes_ocasiones_total": 3,
-      "toques_area_rival": 54,
-      "xg_concedido_total": 3.5,
-      "faltas_partido": 13.5,
-      "amarillas_total": 3,
-      "corners_total": 12
+      "goles_concedidos_partido": 2,
+      "pj_stats": 3,
+      "posesion": 56.5,
+      "xg_total": 2.6,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 2.7,
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 63,
+      "xg_concedido_total": 4.8,
+      "corners_total": 15,
+      "amarillas_total": 4,
+      "faltas_partido": 11
      }
     }
    },
@@ -1478,7 +1470,7 @@
    "competicion": "Europa League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Union St.Gilloise",
    "visitante": "Hapoel Beer Sheva",
    "ronda": "3",
@@ -1495,10 +1487,9 @@
     }
    },
    "clima": {
-    "temp_c": 12,
-    "viento_kmh": 6,
-    "lluvia_prob": 24,
-    "cielo": "Mostly Clear"
+    "temp_c": 11,
+    "viento_kmh": 4,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -1535,61 +1526,61 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "3-1-4-2",
       "titulares": [
        "Hervé Koffi",
-       "Louis Patris",
-       "Nikki Havenaar",
-       "Massiré Sylla",
        "Nohim Chibani",
-       "Besfort Zeneli",
+       "Massiré Sylla",
+       "Nikki Havenaar",
        "Kamiel van de Perre",
+       "Louis Patris",
        "Darius Olaru",
-       "Relebohile Mofokeng",
+       "Besfort Zeneli",
+       "Guilherme Smith",
        "Mateo Biondic",
-       "Guilherme Smith"
+       "Relebohile Mofokeng"
       ]
      },
      "tabla": {
-      "pos": 12,
+      "pos": 4,
+      "pj": 3,
+      "g": 2,
+      "e": 1,
+      "p": 0,
+      "goles": "5-1",
+      "pts": 7
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
       "pj": 2,
       "g": 1,
       "e": 1,
       "p": 0,
-      "goles": "4-1",
+      "goles": "2-1",
       "pts": 4
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 18,
-      "pj": 1,
-      "g": 0,
-      "e": 1,
-      "p": 0,
-      "goles": "1-1",
-      "pts": 1
-     },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 5.14,
-      "xg_concedido": 1.76,
-      "xpts": 4.95,
-      "xg_por_partido": 2.57,
-      "xg_concedido_por_partido": 0.88
+      "pj": 3,
+      "xg": 6.94,
+      "xg_concedido": 2.32,
+      "xpts": 7.29,
+      "xg_por_partido": 2.31,
+      "xg_concedido_por_partido": 0.77
      },
      "stats_temporada": {
-      "posesion": 47.8,
-      "pj_stats": 2,
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
+      "posesion": 49.3,
+      "xg_total": 6.9,
+      "goles_partido": 1.7,
+      "remates_puerta_partido": 8.7,
+      "grandes_ocasiones_total": 9,
+      "toques_area_rival": 83,
+      "xg_concedido_total": 2.3,
+      "corners_total": 7,
+      "amarillas_total": 5,
       "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 2,
-      "remates_puerta_partido": 9,
-      "xg_total": 5.1,
-      "grandes_ocasiones_total": 8,
-      "toques_area_rival": 49,
-      "xg_concedido_total": 1.8,
-      "faltas_partido": 13,
-      "amarillas_total": 4,
-      "corners_total": 5
+      "faltas_partido": 9.3
      }
     },
     "visitante": {
@@ -1628,54 +1619,54 @@
        "Miguel Vítor",
        "Itay Rotman",
        "Pedro Amador",
-       "Eliel Peretz",
-       "Niv Yehoshua",
        "Forson Amankwah",
+       "Niv Yehoshua",
+       "Eliel Peretz",
        "Javon East",
        "Igor Zlatanović",
        "Zahi Ahmed"
       ]
      },
      "tabla": {
-      "pos": 24,
-      "pj": 2,
+      "pos": 27,
+      "pj": 3,
       "g": 0,
       "e": 1,
-      "p": 1,
-      "goles": "1-2",
+      "p": 2,
+      "goles": "1-3",
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 24,
-      "pj": 1,
+      "pos": 30,
+      "pj": 2,
       "g": 0,
       "e": 0,
-      "p": 1,
-      "goles": "1-2",
+      "p": 2,
+      "goles": "1-3",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 2,
-      "xg": 2.02,
-      "xg_concedido": 3.01,
-      "xpts": 2.35,
-      "xg_por_partido": 1.01,
-      "xg_concedido_por_partido": 1.5
+      "pj": 3,
+      "xg": 2.59,
+      "xg_concedido": 4.81,
+      "xpts": 2.82,
+      "xg_por_partido": 0.86,
+      "xg_concedido_por_partido": 1.6
      },
      "stats_temporada": {
-      "posesion": 53.5,
-      "pj_stats": 2,
-      "porterias_cero": 1,
       "goles_concedidos_partido": 1,
-      "goles_partido": 0.5,
+      "pj_stats": 3,
+      "posesion": 51.5,
+      "xg_total": 2.6,
+      "goles_partido": 0.3,
       "remates_puerta_partido": 3,
-      "xg_total": 2,
-      "grandes_ocasiones_total": 2,
-      "toques_area_rival": 38,
-      "xg_concedido_total": 3,
-      "faltas_partido": 13.5,
-      "amarillas_total": 4,
-      "corners_total": 7
+      "grandes_ocasiones_total": 3,
+      "toques_area_rival": 45,
+      "xg_concedido_total": 4.8,
+      "corners_total": 7,
+      "amarillas_total": 7,
+      "porterias_cero": 1,
+      "faltas_partido": 13
      }
     }
    },
@@ -1710,8 +1701,8 @@
    },
    "clima": {
     "temp_c": 13,
-    "viento_kmh": 8,
-    "lluvia_prob": 100,
+    "viento_kmh": 7,
+    "lluvia_prob": 91,
     "cielo": "Rain"
    },
    "equipos": {
@@ -1727,16 +1718,6 @@
      ],
      "bajas": [
       {
-       "jugador": "Julián Araujo",
-       "tipo": "injury",
-       "regreso": "Late November 2026"
-      },
-      {
-       "jugador": "Veljko Milosavljević",
-       "tipo": "injury",
-       "regreso": "Doubtful"
-      },
-      {
        "jugador": "Alex Scott",
        "tipo": "injury",
        "regreso": "Early November 2026"
@@ -1745,27 +1726,37 @@
        "jugador": "Junior Kroupi",
        "tipo": "injury",
        "regreso": "Back in training"
+      },
+      {
+       "jugador": "Veljko Milosavljević",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Julián Araujo",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-4-2",
       "titulares": [
-       "Djordje Petrović",
-       "Adam Smith",
+       "Michele Di Gregorio",
        "James Hill",
+       "Bafodé Diakité",
        "António Silva",
        "Adrien Truffert",
-       "Tyler Adams",
-       "Ryan Christie",
-       "Rayan",
-       "Lewis Cook",
        "Marcus Tavernier",
-       "Evanilson"
+       "Ryan Christie",
+       "Tyler Adams",
+       "Ben Gannon-Doak",
+       "Evanilson",
+       "Justin Kluivert"
       ]
      },
      "tabla": {
-      "pos": 5,
+      "pos": 9,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -1774,7 +1765,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 5,
+      "pos": 8,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -1791,19 +1782,19 @@
       "xg_concedido_por_partido": 0.87
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
       "posesion": 50.1,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 2.5,
-      "remates_puerta_partido": 5,
       "xg_total": 3.6,
+      "goles_partido": 1.7,
+      "remates_puerta_partido": 3.3,
       "grandes_ocasiones_total": 8,
       "toques_area_rival": 53,
       "xg_concedido_total": 1.7,
-      "faltas_partido": 12,
+      "corners_total": 10,
       "amarillas_total": 6,
-      "corners_total": 10
+      "porterias_cero": 1,
+      "faltas_partido": 8
      }
     },
     "visitante": {
@@ -1830,7 +1821,7 @@
       {
        "jugador": "Samuel Chukwueze",
        "tipo": "injury",
-       "regreso": "Early December 2026"
+       "regreso": "Mid November 2026"
       },
       {
        "jugador": "Matteo Gabbia",
@@ -1844,24 +1835,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "3-4-2-1",
+      "tipo": "standard",
+      "formacion": "3-4-3",
       "titulares": [
        "Mike Maignan",
-       "Mario Gila",
+       "Fikayo Tomori",
        "Koni De Winter",
        "Strahinja Pavlović",
-       "Samuel Chukwueze",
-       "Yunus Musah",
-       "Luka Modrić",
        "Diego Moreira",
-       "Adrien Rabiot",
-       "Christian Pulisic",
-       "Gonçalo Ramos"
+       "Ruben Loftus-Cheek",
+       "Yunus Musah",
+       "Pervis Estupinán",
+       "Omari Hutchinson",
+       "Ardon Jashari",
+       "Alphadjo Cissè"
       ]
      },
      "tabla": {
-      "pos": 16,
+      "pos": 19,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -1870,7 +1861,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 2,
+      "pos": 4,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -1887,19 +1878,19 @@
       "xg_concedido_por_partido": 0.72
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
       "posesion": 54,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 1,
-      "goles_partido": 2,
-      "remates_puerta_partido": 7,
       "xg_total": 4.4,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 4.7,
       "grandes_ocasiones_total": 7,
       "toques_area_rival": 68,
       "xg_concedido_total": 1.4,
-      "faltas_partido": 13,
+      "corners_total": 12,
       "amarillas_total": 2,
-      "corners_total": 12
+      "porterias_cero": 1,
+      "faltas_partido": 8.7
      }
     }
    },
@@ -1937,10 +1928,10 @@
     }
    },
    "clima": {
-    "temp_c": 18,
-    "viento_kmh": 0,
+    "temp_c": 19,
+    "viento_kmh": 2,
     "lluvia_prob": 2,
-    "cielo": "Partly Cloudy"
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -1966,24 +1957,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-1-4-1",
+      "tipo": "standard",
+      "formacion": "4-1-2-3",
       "titulares": [
        "Alexander Nübel",
-       "Amir Murillo",
-       "Emmanuel Agbadou",
-       "Emirhan Topçu",
-       "Rıdvan Yılmaz",
-       "Salih Özcan",
-       "Václav Cerny",
-       "Junior Olaïtan",
+       "Taylan Bulut",
+       "Tiago Djaló",
+       "Ümit Akdağ",
+       "Kassoum Ouattara",
+       "Wilfred Ndidi",
+       "Kartal Yılmaz",
        "Fabio Miretti",
-       "Leandro Trossard",
-       "Dušan Vlahović"
+       "İlhan Fakılı",
+       "Hyeon-Gyu Oh",
+       "Leandro Trossard"
       ]
      },
      "tabla": {
-      "pos": 4,
+      "pos": 8,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -1992,7 +1983,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 4,
+      "pos": 7,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -2009,18 +2000,18 @@
       "xg_concedido_por_partido": 1.2
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 50.6,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 3.5,
-      "remates_puerta_partido": 6,
       "xg_total": 6.3,
+      "goles_partido": 2.3,
+      "remates_puerta_partido": 4,
       "grandes_ocasiones_total": 9,
       "toques_area_rival": 65,
       "xg_concedido_total": 2.4,
-      "faltas_partido": 9.5,
+      "corners_total": 8,
       "amarillas_total": 3,
-      "corners_total": 8
+      "faltas_partido": 6.3
      }
     },
     "visitante": {
@@ -2034,11 +2025,6 @@
       "L 5 - 0 Brighton & Hove Albion-Crystal Palace"
      ],
      "bajas": [
-      {
-       "jugador": "Ben Chilwell",
-       "tipo": "injury",
-       "regreso": "Doubtful"
-      },
       {
        "jugador": "Takehiro Tomiyasu",
        "tipo": "injury",
@@ -2056,24 +2042,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "3-4-2-1",
       "titulares": [
        "Walter Benítez",
-       "Jaydee Canvot",
        "Chris Richards",
-       "Honest Ahanor",
+       "Axel Disasi",
+       "Jaydee Canvot",
        "Anan Khalaili",
-       "Adam Wharton",
-       "Quinten Timber",
-       "Tyrick Mitchell",
        "Daichi Kamada",
+       "Adam Wharton",
+       "Tyrick Mitchell",
+       "Dwight McNeil",
        "Yéremi Pino",
-       "Jørgen Strand Larsen"
+       "Jean-Philippe Mateta"
       ]
      },
      "tabla": {
-      "pos": 15,
+      "pos": 18,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -2082,7 +2068,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 21,
+      "pos": 23,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -2099,19 +2085,19 @@
       "xg_concedido_por_partido": 1.8
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 51.4,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 3,
-      "remates_puerta_partido": 5,
       "xg_total": 3.8,
+      "goles_partido": 2,
+      "remates_puerta_partido": 3.3,
       "grandes_ocasiones_total": 7,
       "toques_area_rival": 55,
       "xg_concedido_total": 3.6,
-      "faltas_partido": 9.5,
+      "corners_total": 9,
       "amarillas_total": 3,
-      "corners_total": 9
+      "porterias_cero": 1,
+      "faltas_partido": 6.3
      }
     }
    },
@@ -2145,10 +2131,10 @@
     }
    },
    "clima": {
-    "temp_c": 6,
+    "temp_c": 7,
     "viento_kmh": 1,
     "lluvia_prob": 3,
-    "cielo": "Mostly Cloudy"
+    "cielo": "Mostly Clear"
    },
    "equipos": {
     "local": {
@@ -2179,10 +2165,10 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Viljami Sinisalo",
+       "Sam Johnstone",
        "Colby Donovan",
        "Dane Murray",
        "Liam Scales",
@@ -2196,7 +2182,7 @@
       ]
      },
      "tabla": {
-      "pos": 34,
+      "pos": 32,
       "pj": 2,
       "g": 0,
       "e": 0,
@@ -2222,17 +2208,17 @@
       "xg_concedido_por_partido": 2.16
      },
      "stats_temporada": {
-      "posesion": 54.9,
-      "pj_stats": 2,
       "goles_concedidos_partido": 3.5,
+      "pj_stats": 2,
+      "posesion": 54.9,
+      "xg_total": 2.7,
       "goles_partido": 1,
       "remates_puerta_partido": 5.5,
-      "xg_total": 2.7,
       "grandes_ocasiones_total": 6,
       "toques_area_rival": 54,
       "xg_concedido_total": 4.3,
-      "faltas_partido": 12.5,
-      "corners_total": 17
+      "corners_total": 17,
+      "faltas_partido": 12.5
      }
     },
     "visitante": {
@@ -2252,9 +2238,9 @@
        "regreso": "Late November 2026"
       },
       {
-       "jugador": "Pablo Durán",
+       "jugador": "Borja Iglesias",
        "tipo": "injury",
-       "regreso": "Early November 2026"
+       "regreso": "Late November 2026"
       },
       {
        "jugador": "Carl Starfelt",
@@ -2262,36 +2248,31 @@
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Jones El-Abdellaoui",
-       "tipo": "injury",
-       "regreso": "Mid January 2027"
-      },
-      {
        "jugador": "Miguel Román",
        "tipo": "injury",
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Borja Iglesias",
+       "jugador": "Jones El-Abdellaoui",
        "tipo": "injury",
-       "regreso": "Late November 2026"
+       "regreso": "Mid January 2027"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "3-4-3",
       "titulares": [
        "Ionuț Radu",
        "Javi Rodríguez",
-       "Yoel Lago",
        "Sebastián Cáceres",
-       "Sergio Carreira",
+       "Marcos Alonso",
+       "Javi Rueda",
+       "Aleix Febas",
        "Hugo Burcio",
-       "Ilaix Moriba",
-       "Hugo Álvarez",
-       "Couhaib Driouech",
+       "Sergio Carreira",
+       "Iago Aspas",
        "Ferrán Jutglà",
-       "Williot Swedberg"
+       "Hugo Álvarez"
       ]
      },
      "tabla": {
@@ -2321,18 +2302,18 @@
       "xg_concedido_por_partido": 1.09
      },
      "stats_temporada": {
-      "posesion": 50.6,
-      "pj_stats": 2,
       "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "posesion": 50.6,
+      "xg_total": 2.5,
       "goles_partido": 0.5,
       "remates_puerta_partido": 3.5,
-      "xg_total": 2.5,
       "grandes_ocasiones_total": 3,
       "toques_area_rival": 51,
       "xg_concedido_total": 2.2,
-      "faltas_partido": 13.5,
+      "corners_total": 13,
       "amarillas_total": 3,
-      "corners_total": 13
+      "faltas_partido": 13.5
      }
     }
    },
@@ -2366,8 +2347,8 @@
    "clima": {
     "temp_c": 11,
     "viento_kmh": 2,
-    "lluvia_prob": 1,
-    "cielo": "Mostly Cloudy"
+    "lluvia_prob": 43,
+    "cielo": "Light Rain"
    },
    "equipos": {
     "local": {
@@ -2398,20 +2379,20 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-4-2",
       "titulares": [
        "Oliver Baumann",
        "Vladimír Coufal",
        "Robin Hranác",
-       "Koki Machida",
+       "Ozan Kabak",
        "Mats Rots",
+       "Andrej Kramarić",
+       "Bambasé Conté",
        "Leon Avdullahu",
        "Alexander Prass",
-       "Bambasé Conté",
-       "Fisnik Asllani",
-       "Adam Hložek",
-       "Tim Lemperle"
+       "Tim Lemperle",
+       "Adam Daghim"
       ]
      },
      "tabla": {
@@ -2441,18 +2422,18 @@
       "xg_concedido_por_partido": 2.37
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1.7,
+      "pj_stats": 3,
       "posesion": 60.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 2.5,
-      "goles_partido": 1,
-      "remates_puerta_partido": 4,
       "xg_total": 2.9,
+      "goles_partido": 0.7,
+      "remates_puerta_partido": 2.7,
       "grandes_ocasiones_total": 5,
       "toques_area_rival": 81,
       "xg_concedido_total": 4.7,
-      "faltas_partido": 20.5,
+      "corners_total": 15,
       "amarillas_total": 8,
-      "corners_total": 15
+      "faltas_partido": 13.7
      }
     },
     "visitante": {
@@ -2477,35 +2458,35 @@
        "regreso": "A few weeks"
       },
       {
-       "jugador": "Mohamed Ouédraogo",
-       "tipo": "injury",
-       "regreso": "Late June 2027"
-      },
-      {
        "jugador": "Loïs Openda",
        "tipo": "injury",
        "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Mohamed Ouédraogo",
+       "tipo": "injury",
+       "regreso": "Late June 2027"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-3-3",
       "titulares": [
-       "Rémy Descamps",
-       "Zachary Athekame",
+       "Dominik Greif",
+       "Steeve Kango",
        "Clinton Mata",
-       "Moussa Niakhaté",
-       "Abner",
-       "Tanner Tessmann",
+       "Felix Bacher",
+       "Ruben Kluivert",
        "Mads Bidstrup",
-       "Kaïl Boudache",
+       "Tanner Tessmann",
        "Noah Nartey",
-       "Julien Duranville",
-       "Pavel Šulc"
+       "Kaïl Boudache",
+       "Rémi Himbert",
+       "Keito Nakamura"
       ]
      },
      "tabla": {
-      "pos": 8,
+      "pos": 11,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -2514,7 +2495,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 11,
+      "pos": 13,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -2531,18 +2512,18 @@
       "xg_concedido_por_partido": 1.69
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 46,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 2.5,
-      "remates_puerta_partido": 7,
       "xg_total": 3.2,
+      "goles_partido": 1.7,
+      "remates_puerta_partido": 4.7,
       "grandes_ocasiones_total": 6,
       "toques_area_rival": 42,
       "xg_concedido_total": 3.4,
-      "faltas_partido": 8,
+      "corners_total": 9,
       "amarillas_total": 3,
-      "corners_total": 9
+      "faltas_partido": 5.3
      }
     }
    },
@@ -2587,7 +2568,7 @@
    "clima": {
     "temp_c": 13,
     "viento_kmh": 5,
-    "lluvia_prob": 50,
+    "lluvia_prob": 63,
     "cielo": "Light Rain"
    },
    "equipos": {
@@ -2603,35 +2584,30 @@
      ],
      "bajas": [
       {
-       "jugador": "Nik Prelec",
-       "tipo": "injury",
-       "regreso": "Early November 2026"
-      },
-      {
        "jugador": "Norbert Wojtuszek",
        "tipo": "injury",
        "regreso": "Early December 2026"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-4-2",
+      "tipo": "standard",
+      "formacion": "4-3-3",
       "titulares": [
        "Sławomir Abramowicz",
        "Rodrigo Conceição",
        "Bernardo Vital",
        "Yuki Kobayashi",
-       "Bartłomiej Wdowik",
-       "Kamil Józwiak",
-       "Taras Romanczuk",
+       "Guilherme Montóia",
        "Anders Klynge",
-       "Kajetan Szmyt",
-       "Jesús Imaz",
-       "Ousmane Sow"
+       "Hampus Finndell",
+       "Eryk Kozłowski",
+       "Kamil Józwiak",
+       "Nik Prelec",
+       "Kajetan Szmyt"
       ]
      },
      "tabla": {
-      "pos": 17,
+      "pos": 20,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -2640,7 +2616,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 6,
+      "pos": 9,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -2657,18 +2633,18 @@
       "xg_concedido_por_partido": 1.92
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 42,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 2,
-      "remates_puerta_partido": 4,
       "xg_total": 2.5,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 2.7,
       "grandes_ocasiones_total": 4,
       "toques_area_rival": 39,
       "xg_concedido_total": 3.8,
-      "faltas_partido": 17.5,
+      "corners_total": 2,
       "amarillas_total": 6,
-      "corners_total": 2
+      "faltas_partido": 11.7
      }
     },
     "visitante": {
@@ -2683,11 +2659,6 @@
      ],
      "bajas": [
       {
-       "jugador": "Giulian Biancone",
-       "tipo": "injury",
-       "regreso": "Day to day"
-      },
-      {
        "jugador": "Killian Sardella",
        "tipo": "injury",
        "regreso": "Day to day"
@@ -2699,20 +2670,20 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-3-3",
       "titulares": [
        "Colin Coosemans",
        "Kaïs Barry",
-       "Andrew Omobamidele",
        "Léo Pétrot",
+       "Giulian Biancone",
        "Oleg Reabciuk",
+       "Tristan Degreef",
        "Mario Stroeykens",
        "Thelo Aasgaard",
-       "Marten Winkler",
        "Lukás Ambros",
-       "Tristan Degreef",
-       "Mihajlo Cvetković"
+       "Mihajlo Cvetković",
+       "Marten Winkler"
       ]
      },
      "tabla": {
@@ -2742,18 +2713,18 @@
       "xg_concedido_por_partido": 1.64
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 56.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 5.5,
       "xg_total": 2.9,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 3.7,
       "grandes_ocasiones_total": 7,
       "toques_area_rival": 44,
       "xg_concedido_total": 3.3,
-      "faltas_partido": 13.5,
+      "corners_total": 8,
       "amarillas_total": 2,
-      "corners_total": 8
+      "faltas_partido": 9
      }
     }
    },
@@ -2788,9 +2759,9 @@
    },
    "clima": {
     "temp_c": 10,
-    "viento_kmh": 3,
-    "lluvia_prob": 16,
-    "cielo": "Cloudy"
+    "viento_kmh": 2,
+    "lluvia_prob": 50,
+    "cielo": "Light Rain"
    },
    "equipos": {
     "local": {
@@ -2816,24 +2787,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Pontus Dahlberg",
        "Sturla Ottesen",
        "Sander Moen Foss",
-       "Stian Kristiansen",
-       "Frederik Elkær",
+       "Ruben Gabrielsen",
+       "Yaw Paintsil",
        "Ylldren Ibrahimaj",
        "Filip Ottosson",
-       "Henrik Melland",
-       "Vá",
+       "Gustav Kjølstad Nyheim",
+       "Daniel Bassi",
        "Thomas Lehne Olsen",
-       "Eric Kitolano"
+       "Vá"
       ]
      },
      "tabla": {
-      "pos": 22,
+      "pos": 24,
       "pj": 2,
       "g": 0,
       "e": 1,
@@ -2859,18 +2830,18 @@
       "xg_concedido_por_partido": 1.28
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 57.3,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 1,
-      "remates_puerta_partido": 4,
       "xg_total": 3.4,
+      "goles_partido": 0.7,
+      "remates_puerta_partido": 2.7,
       "grandes_ocasiones_total": 4,
       "toques_area_rival": 47,
       "xg_concedido_total": 2.6,
-      "faltas_partido": 11.5,
+      "corners_total": 12,
       "amarillas_total": 3,
-      "corners_total": 12
+      "faltas_partido": 7.7
      }
     },
     "visitante": {
@@ -2890,7 +2861,7 @@
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Álvaro Odriozola",
+       "jugador": "Luken Beitia",
        "tipo": "injury",
        "regreso": "Early November 2026"
       },
@@ -2900,30 +2871,30 @@
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Luken Beitia",
+       "jugador": "Álvaro Odriozola",
        "tipo": "injury",
        "regreso": "Early November 2026"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
-       "Alex Remiro",
-       "Héctor Fort",
-       "Jon Martín",
+       "Unai Marrero",
+       "Igor Zubeldia",
        "Mamadou Sarr",
-       "Aihen Muñoz",
+       "Jon Martín",
+       "Sergio Gómez",
        "Takefusa Kubo",
        "Jon Gorrotxategi",
        "Carlos Soler",
-       "Ander Barrenetxea",
-       "Mikel Oyarzabal",
-       "Orri Óskarsson"
+       "Gonçalo Guedes",
+       "Luka Sučić",
+       "Mikel Oyarzabal"
       ]
      },
      "tabla": {
-      "pos": 23,
+      "pos": 25,
       "pj": 2,
       "g": 0,
       "e": 1,
@@ -2932,7 +2903,7 @@
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 17,
+      "pos": 20,
       "pj": 1,
       "g": 0,
       "e": 1,
@@ -2949,18 +2920,18 @@
       "xg_concedido_por_partido": 1.29
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
       "posesion": 58.8,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1.5,
-      "goles_partido": 1,
-      "remates_puerta_partido": 3,
       "xg_total": 2.1,
+      "goles_partido": 0.7,
+      "remates_puerta_partido": 2,
       "grandes_ocasiones_total": 5,
       "toques_area_rival": 40,
       "xg_concedido_total": 2.6,
-      "faltas_partido": 13.5,
+      "corners_total": 12,
       "amarillas_total": 4,
-      "corners_total": 12
+      "faltas_partido": 9
      }
     }
    },
@@ -2994,8 +2965,8 @@
     }
    },
    "clima": {
-    "temp_c": 8,
-    "viento_kmh": 1,
+    "temp_c": 7,
+    "viento_kmh": 0,
     "lluvia_prob": 3,
     "cielo": "Clear"
    },
@@ -3018,24 +2989,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Žan-Luk Leban",
+       "Pijus Širvys",
        "Łukasz Bejger",
-       "Žan Žužek",
        "Artemijus Tutyškinas",
        "Milot Avdyli",
-       "Luka Tičić",
-       "Papa Daniel",
+       "Svit Sešlar",
        "Mark Zabukovnik",
-       "Yaya Dukuly",
+       "Mario Kvesić",
+       "Veton Tusha",
        "Blaž Kramer",
-       "Svit Sešlar"
+       "Benjamin Verbič"
       ]
      },
      "tabla": {
-      "pos": 35,
+      "pos": 34,
       "pj": 2,
       "g": 0,
       "e": 0,
@@ -3044,7 +3015,7 @@
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
-      "pos": 34,
+      "pos": 33,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -3061,17 +3032,17 @@
       "xg_concedido_por_partido": 2.23
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1.7,
+      "pj_stats": 3,
       "posesion": 52.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 2.5,
-      "remates_puerta_partido": 2.5,
       "xg_total": 1.8,
+      "remates_puerta_partido": 1.7,
       "grandes_ocasiones_total": 4,
       "toques_area_rival": 37,
       "xg_concedido_total": 4.5,
-      "faltas_partido": 9.5,
+      "corners_total": 5,
       "amarillas_total": 4,
-      "corners_total": 5
+      "faltas_partido": 6.3
      }
     },
     "visitante": {
@@ -3085,11 +3056,6 @@
       "W 3 - 0 Salzburg-Altach"
      ],
      "bajas": [
-      {
-       "jugador": "Karim Konaté",
-       "tipo": "injury",
-       "regreso": "Doubtful"
-      },
       {
        "jugador": "Nikolas Veratschnig",
        "tipo": "injury",
@@ -3107,24 +3073,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Christian Zawieschitzky",
        "Leandro Morgalla",
        "Kévin Boma",
-       "Valentin Zabransky",
+       "Tim Drexler",
        "Dominik Schmid",
        "Abubakr Barry",
-       "Bartosz Mazurek",
-       "Jesper Lindstrøm",
+       "Umut Tohumcu",
+       "Damir Redzic",
        "Sota Kitano",
-       "Edmund Baidoo",
+       "Yorbe Vertessen",
        "Haris Tabaković"
       ]
      },
      "tabla": {
-      "pos": 21,
+      "pos": 23,
       "pj": 2,
       "g": 1,
       "e": 0,
@@ -3133,7 +3099,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 15,
+      "pos": 16,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -3150,19 +3116,19 @@
       "xg_concedido_por_partido": 2.16
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1.3,
+      "pj_stats": 3,
       "posesion": 51.3,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 2,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 4.5,
       "xg_total": 2.4,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 3,
       "grandes_ocasiones_total": 6,
       "toques_area_rival": 45,
       "xg_concedido_total": 4.3,
-      "faltas_partido": 17,
+      "corners_total": 7,
       "amarillas_total": 6,
-      "corners_total": 7
+      "porterias_cero": 1,
+      "faltas_partido": 11.3
      }
     }
    },
@@ -3197,9 +3163,9 @@
    },
    "clima": {
     "temp_c": 21,
-    "viento_kmh": 2,
+    "viento_kmh": 0,
     "lluvia_prob": 15,
-    "cielo": "Partly Cloudy"
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -3230,24 +3196,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Stefan Ortega",
-       "Marcus Holmgren Pedersen",
+       "Manolis Saliakas",
        "Panagiotis Retsos",
        "Lorenzo Pirola",
-       "Nair Tiknizyan",
-       "Gustavo Puerta",
+       "Bruno Onyemaechi",
        "Remo Freuler",
-       "Joel Roca",
-       "Gustavo Sá",
-       "Konstantinos Fortounis",
-       "Marius Mouandilmadji"
+       "Santiago Hezze",
+       "Gelson Martins",
+       "Chiquinho",
+       "Jota Silva",
+       "Roman Yaremchuk"
       ]
      },
      "tabla": {
-      "pos": 10,
+      "pos": 13,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -3256,7 +3222,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 11,
+      "pos": 14,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -3273,19 +3239,19 @@
       "xg_concedido_por_partido": 0.68
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
       "posesion": 51.4,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 1.5,
-      "remates_puerta_partido": 5,
       "xg_total": 3.4,
+      "goles_partido": 1,
+      "remates_puerta_partido": 3.3,
       "grandes_ocasiones_total": 8,
       "toques_area_rival": 57,
       "xg_concedido_total": 1.4,
-      "faltas_partido": 10.5,
+      "corners_total": 14,
       "amarillas_total": 4,
-      "corners_total": 14
+      "porterias_cero": 1,
+      "faltas_partido": 7
      }
     },
     "visitante": {
@@ -3299,11 +3265,6 @@
       "D 0 - 0 Baník Ostrava-Sparta Prague"
      ],
      "bajas": [
-      {
-       "jugador": "Loïc Mbe Soh",
-       "tipo": "injury",
-       "regreso": "Doubtful"
-      },
       {
        "jugador": "Matěj Ryneš",
        "tipo": "injury",
@@ -3326,8 +3287,8 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-3-3",
       "titulares": [
        "Jakub Surovcík",
        "Ki-Jana Hoever",
@@ -3336,14 +3297,14 @@
        "Martin Suchomel",
        "Hugo Sochůrek",
        "Roman Macek",
-       "John Mercado",
-       "Patrik Vydra",
-       "Josimar Alcócer",
-       "Jonatan Braut Brunes"
+       "Santiago Eneme",
+       "Matěj Jurásek",
+       "Matyás Vojta",
+       "Josimar Alcócer"
       ]
      },
      "tabla": {
-      "pos": 11,
+      "pos": 14,
       "pj": 2,
       "g": 1,
       "e": 1,
@@ -3352,7 +3313,7 @@
       "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 3,
+      "pos": 5,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -3369,18 +3330,18 @@
       "xg_concedido_por_partido": 1.35
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
       "posesion": 55.5,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1,
-      "goles_partido": 2.5,
-      "remates_puerta_partido": 8,
       "xg_total": 3.7,
+      "goles_partido": 1.7,
+      "remates_puerta_partido": 5.3,
       "grandes_ocasiones_total": 7,
       "toques_area_rival": 52,
       "xg_concedido_total": 2.7,
-      "faltas_partido": 15.5,
+      "corners_total": 19,
       "amarillas_total": 3,
-      "corners_total": 19
+      "faltas_partido": 10.3
      }
     }
    },
@@ -3418,7 +3379,7 @@
     "temp_c": 20,
     "viento_kmh": 3,
     "lluvia_prob": 1,
-    "cielo": "Clear"
+    "cielo": "Mostly Clear"
    },
    "equipos": {
     "local": {
@@ -3444,24 +3405,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Fabiano",
+       "Loïc Négo",
        "Jean-Kévin Duverne",
-       "Senou Coulibaly",
        "Lubomír Šatka",
        "Jure Balkovec",
-       "Panagiotis Andreou",
-       "Muamer Tanković",
        "Mateo Marić",
+       "Florin Tănase",
+       "Panagiotis Andreou",
        "Ewandro",
-       "Loïs Diony",
+       "Andronikos Kakoullis",
        "Jaden Montnor"
       ]
      },
      "tabla": {
-      "pos": 6,
+      "pos": 10,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -3470,7 +3431,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 14,
+      "pos": 16,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -3487,19 +3448,19 @@
       "xg_concedido_por_partido": 1.17
      },
      "stats_temporada": {
-      "posesion": 42.5,
-      "pj_stats": 2,
-      "porterias_cero": 2,
       "goles_concedidos_partido": 0,
-      "goles_partido": 2,
-      "remates_puerta_partido": 5,
+      "pj_stats": 3,
+      "posesion": 42.5,
       "xg_total": 2.4,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 3.3,
       "grandes_ocasiones_total": 5,
       "toques_area_rival": 31,
       "xg_concedido_total": 2.3,
-      "faltas_partido": 6.5,
+      "corners_total": 8,
       "amarillas_total": 2,
-      "corners_total": 8
+      "porterias_cero": 2,
+      "faltas_partido": 4.3
      }
     },
     "visitante": {
@@ -3530,24 +3491,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Anatoliy Trubin",
        "Alexander Bah",
        "Tomás Araújo",
-       "Clément Lenglet",
-       "Samuel Dahl",
+       "Alessandro Circati",
+       "Souffian El Karouani",
        "Fredrik Aursnes",
-       "João Palhinha",
-       "Dodi Lukébakio",
-       "Georgiy Sudakov",
-       "Gianluca Prestianni",
-       "Jhon Durán"
+       "Claudio Echeverri",
+       "Rafa Silva",
+       "Manu Silva",
+       "Andreas Schjelderup",
+       "Vangelis Pavlidis"
       ]
      },
      "tabla": {
-      "pos": 3,
+      "pos": 7,
       "pj": 2,
       "g": 2,
       "e": 0,
@@ -3556,7 +3517,7 @@
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
-      "pos": 7,
+      "pos": 9,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -3573,19 +3534,19 @@
       "xg_concedido_por_partido": 1.19
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
       "posesion": 46.3,
-      "pj_stats": 2,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 0.5,
-      "goles_partido": 3,
-      "remates_puerta_partido": 5.5,
       "xg_total": 3.8,
+      "goles_partido": 2,
+      "remates_puerta_partido": 3.7,
       "grandes_ocasiones_total": 5,
       "toques_area_rival": 63,
       "xg_concedido_total": 2.4,
-      "faltas_partido": 10.5,
+      "corners_total": 9,
       "amarillas_total": 8,
-      "corners_total": 9
+      "porterias_cero": 1,
+      "faltas_partido": 7
      }
     }
    },
@@ -3619,8 +3580,8 @@
     }
    },
    "clima": {
-    "temp_c": 8,
-    "viento_kmh": 3,
+    "temp_c": 7,
+    "viento_kmh": 2,
     "lluvia_prob": 2,
     "cielo": "Partly Cloudy"
    },
@@ -3648,24 +3609,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-1-3-2",
       "titulares": [
-       "Dominik Ťapaj",
-       "Adam Gabriel",
-       "Sampson Dweh",
-       "Filip Prebsl",
-       "Merchas Doski",
-       "Stefan Pirgić",
-       "Patrik Hrošovský",
-       "Alexandr Sojka",
-       "Jirí Panoš",
+       "Florian Wiegele",
        "Amar Memić",
-       "Christophe Kabongo"
+       "Sampson Dweh",
+       "Denis Vavro",
+       "Tobiás Paliscák",
+       "Lukás Červ",
+       "Tomás Ladra",
+       "Patrik Hrošovský",
+       "Cheick Souaré",
+       "Christophe Kabongo",
+       "Denis Višinský"
       ]
      },
      "tabla": {
-      "pos": 32,
+      "pos": 31,
       "pj": 2,
       "g": 0,
       "e": 0,
@@ -3674,7 +3635,7 @@
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
-      "pos": 33,
+      "pos": 32,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -3691,18 +3652,18 @@
       "xg_concedido_por_partido": 2.8
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1.7,
+      "pj_stats": 3,
       "posesion": 47.6,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 2.5,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 6,
       "xg_total": 3,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 4,
       "grandes_ocasiones_total": 5,
       "toques_area_rival": 39,
       "xg_concedido_total": 5.6,
-      "faltas_partido": 14,
+      "corners_total": 8,
       "amarillas_total": 3,
-      "corners_total": 8
+      "faltas_partido": 9.3
      }
     },
     "visitante": {
@@ -3725,32 +3686,27 @@
        "jugador": "Radoslav Kirilov",
        "tipo": "injury",
        "regreso": "Unknown"
-      },
-      {
-       "jugador": "Akram Bouras",
-       "tipo": "injury",
-       "regreso": "Back in training"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-3-3",
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Svetoslav Vutsov",
        "Aldair",
        "Kristian Dimitrov",
        "Christian Makoun",
        "Maicon",
-       "Sérginho",
        "Marko Grujić",
        "Mehdi Moubarik",
-       "David Kusso",
-       "Reinaldo",
-       "Everton Bala"
+       "Mazire Soula",
+       "Sérginho",
+       "Everton Bala",
+       "Reinaldo"
       ]
      },
      "tabla": {
-      "pos": 25,
+      "pos": 26,
       "pj": 2,
       "g": 0,
       "e": 1,
@@ -3759,7 +3715,7 @@
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 18,
+      "pos": 21,
       "pj": 1,
       "g": 0,
       "e": 1,
@@ -3776,18 +3732,18 @@
       "xg_concedido_por_partido": 1.78
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
       "posesion": 49.4,
-      "pj_stats": 2,
-      "goles_concedidos_partido": 1,
-      "goles_partido": 0.5,
-      "remates_puerta_partido": 1,
       "xg_total": 2.3,
+      "goles_partido": 0.3,
+      "remates_puerta_partido": 0.7,
       "grandes_ocasiones_total": 6,
       "toques_area_rival": 29,
       "xg_concedido_total": 3.6,
-      "faltas_partido": 11.5,
+      "corners_total": 6,
       "amarillas_total": 1,
-      "corners_total": 6
+      "faltas_partido": 7.7
      }
     }
    },
@@ -3825,8 +3781,8 @@
     }
    },
    "clima": {
-    "temp_c": 9,
-    "viento_kmh": 1,
+    "temp_c": 8,
+    "viento_kmh": 2,
     "cielo": "Cloudy"
    },
    "equipos": {
@@ -3859,12 +3815,12 @@
       ]
      },
      "tabla": {
-      "pos": 22,
+      "pos": 27,
       "pj": 2,
       "g": 0,
       "e": 1,
       "p": 1,
-      "goles": "1-5",
+      "goles": "2-6",
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
@@ -3873,30 +3829,30 @@
       "g": 0,
       "e": 0,
       "p": 1,
-      "goles": "0-4",
+      "goles": "1-5",
       "pts": 0
      },
      "xg_temporada": {
       "pj": 2,
-      "xg": 1.44,
-      "xg_concedido": 4.12,
-      "xpts": 0.91,
-      "xg_por_partido": 0.72,
-      "xg_concedido_por_partido": 2.06
+      "xg": 1.99,
+      "xg_concedido": 4.74,
+      "xpts": 1,
+      "xg_por_partido": 0.99,
+      "xg_concedido_por_partido": 2.37
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2.5,
+      "goles_concedidos_partido": 3,
       "pj_stats": 2,
-      "goles_partido": 0.5,
-      "posesion": 40.1,
-      "remates_puerta_partido": 2.5,
-      "xg_total": 1.4,
-      "toques_area_rival": 24,
-      "grandes_ocasiones_total": 1,
-      "xg_concedido_total": 4.1,
+      "xg_total": 2,
+      "remates_puerta_partido": 3,
+      "posesion": 39.5,
+      "goles_partido": 1,
+      "toques_area_rival": 26,
+      "grandes_ocasiones_total": 2,
+      "xg_concedido_total": 4.7,
       "amarillas_total": 5,
-      "corners_total": 6,
-      "faltas_partido": 12.5
+      "corners_total": 8,
+      "faltas_partido": 14.5
      }
     },
     "visitante": {
@@ -3954,7 +3910,7 @@
       "g": 2,
       "e": 0,
       "p": 0,
-      "goles": "6-1",
+      "goles": "7-2",
       "pts": 6
      },
      "tabla_como_local_o_visitante": {
@@ -3963,30 +3919,30 @@
       "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "4-0",
+      "goles": "5-1",
       "pts": 3
      },
      "xg_temporada": {
       "pj": 2,
-      "xg": 6.19,
-      "xg_concedido": 0.52,
-      "xpts": 5.61,
-      "xg_por_partido": 3.09,
-      "xg_concedido_por_partido": 0.26
+      "xg": 6.8,
+      "xg_concedido": 1.07,
+      "xpts": 5.52,
+      "xg_por_partido": 3.4,
+      "xg_concedido_por_partido": 0.54
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 0.5,
+      "goles_concedidos_partido": 1,
       "pj_stats": 2,
-      "goles_partido": 3,
-      "posesion": 59.4,
-      "remates_puerta_partido": 7,
-      "xg_total": 6.2,
-      "toques_area_rival": 72,
-      "grandes_ocasiones_total": 7,
-      "xg_concedido_total": 0.5,
-      "amarillas_total": 1,
-      "corners_total": 14,
-      "faltas_partido": 14
+      "xg_total": 6.8,
+      "remates_puerta_partido": 7.5,
+      "posesion": 60,
+      "goles_partido": 3.5,
+      "toques_area_rival": 80,
+      "grandes_ocasiones_total": 8,
+      "xg_concedido_total": 1.1,
+      "amarillas_total": 2,
+      "corners_total": 15,
+      "faltas_partido": 17
      }
     }
    },
@@ -4001,7 +3957,7 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Nordsjælland",
    "visitante": "CSKA Sofia",
    "ronda": "2",
@@ -4018,9 +3974,8 @@
     }
    },
    "clima": {
-    "temp_c": 10,
+    "temp_c": 9,
     "viento_kmh": 2,
-    "lluvia_prob": 2,
     "cielo": "Mostly Cloudy"
    },
    "equipos": {
@@ -4064,6 +4019,15 @@
       ]
      },
      "tabla": {
+      "pos": 18,
+      "pj": 2,
+      "g": 0,
+      "e": 2,
+      "p": 0,
+      "goles": "2-2",
+      "pts": 2
+     },
+     "tabla_como_local_o_visitante": {
       "pos": 17,
       "pj": 1,
       "g": 0,
@@ -4072,36 +4036,27 @@
       "goles": "1-1",
       "pts": 1
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 21,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1,
-      "xg_concedido": 1.89,
-      "xpts": 0.73,
-      "xg_por_partido": 1,
-      "xg_concedido_por_partido": 1.89
+      "pj": 2,
+      "xg": 1.58,
+      "xg_concedido": 2.64,
+      "xpts": 1.86,
+      "xg_por_partido": 0.79,
+      "xg_concedido_por_partido": 1.32
      },
      "stats_temporada": {
       "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 56.8,
+      "pj_stats": 2,
+      "xg_total": 1.6,
       "remates_puerta_partido": 3,
-      "xg_total": 1,
-      "toques_area_rival": 38,
-      "grandes_ocasiones_total": 2,
-      "xg_concedido_total": 1.9,
-      "amarillas_total": 3,
-      "corners_total": 7,
-      "faltas_partido": 14
+      "posesion": 57.7,
+      "goles_partido": 1,
+      "toques_area_rival": 56,
+      "grandes_ocasiones_total": 4,
+      "xg_concedido_total": 2.6,
+      "amarillas_total": 5,
+      "corners_total": 10,
+      "faltas_partido": 11.5
      }
     },
     "visitante": {
@@ -4123,60 +4078,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "3-5-2",
+      "formacion": "4-4-2",
       "titulares": [
        "Fedor Lapoukhov",
-       "Dinis Almeida",
-       "Bruno Jordão",
-       "Facundo Rodríguez",
        "Pastor",
-       "Max Ebong",
-       "Petko Panayotov",
-       "Stefano Sensi",
+       "Dinis Almeida",
+       "Facundo Rodríguez",
        "Ángelo Martino",
-       "Leandro Godoy",
-       "Ioannis Pittas"
+       "Max Ebong",
+       "Bruno Jordão",
+       "Stefano Sensi",
+       "Petko Panayotov",
+       "Ioannis Pittas",
+       "Leandro Godoy"
       ]
      },
      "tabla": {
-      "pos": 28,
-      "pj": 1,
+      "pos": 23,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
-      "goles": "1-2",
-      "pts": 0
+      "goles": "2-3",
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 23,
-      "pj": 0,
+      "pos": 9,
+      "pj": 1,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 0,
-      "goles": "0-0",
-      "pts": 0
+      "goles": "1-1",
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.18,
-      "xg_concedido": 1.2,
-      "xpts": 1.34,
-      "xg_por_partido": 1.18,
-      "xg_concedido_por_partido": 1.2
+      "pj": 2,
+      "xg": 1.94,
+      "xg_concedido": 1.79,
+      "xpts": 2.81,
+      "xg_por_partido": 0.97,
+      "xg_concedido_por_partido": 0.89
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 1,
+      "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "xg_total": 1.9,
+      "remates_puerta_partido": 4.5,
+      "posesion": 45.8,
       "goles_partido": 1,
-      "posesion": 50.1,
-      "remates_puerta_partido": 5,
-      "xg_total": 1.2,
-      "toques_area_rival": 22,
-      "grandes_ocasiones_total": 1,
-      "xg_concedido_total": 1.2,
-      "amarillas_total": 3,
-      "corners_total": 12,
-      "faltas_partido": 13
+      "toques_area_rival": 34,
+      "grandes_ocasiones_total": 2,
+      "xg_concedido_total": 1.8,
+      "amarillas_total": 4,
+      "corners_total": 14,
+      "faltas_partido": 11.5
      }
     }
    },
@@ -4191,20 +4146,26 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "FK Crvena Zvezda",
    "visitante": "FC København",
    "ronda": "2",
    "estadio": "Stadion Rajko Mitić, Beograd (grass)",
    "arbitro": {
-    "nombre": "Radu Petrescu",
-    "stats": {}
+    "nombre": "Radu Marián Petrescu",
+    "stats": {
+     "matches": 28,
+     "yellowCards": 3.82,
+     "redCards": 3,
+     "unknown": 4,
+     "penalties": 4,
+     "fouls": 24.67
+    }
    },
    "clima": {
     "temp_c": 13,
-    "viento_kmh": 3,
-    "lluvia_prob": 81,
-    "cielo": "Light Rain"
+    "viento_kmh": 2,
+    "cielo": "Showers in the Vicinity"
    },
    "equipos": {
     "local": {
@@ -4220,7 +4181,7 @@
      "bajas": [],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "3-4-2-1",
+      "formacion": "3-2-4-1",
       "titulares": [
        "Matheus",
        "Matej Gashtarov",
@@ -4228,52 +4189,52 @@
        "Yuta Nakayama",
        "Tomás Händel",
        "Rade Krunić",
-       "Timi Elšnik",
-       "Mihailo Ristić",
-       "Vasilije Kostov",
        "Vladimir Lučić",
+       "Timi Elšnik",
+       "Vasilije Kostov",
+       "Mihailo Ristić",
        "Bamba Dieng"
       ]
      },
      "tabla": {
-      "pos": 24,
-      "pj": 1,
-      "g": 0,
+      "pos": 16,
+      "pj": 2,
+      "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "2-3",
-      "pts": 0
+      "goles": "4-4",
+      "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 23,
-      "pj": 0,
-      "g": 0,
+      "pos": 12,
+      "pj": 1,
+      "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "0-0",
-      "pts": 0
+      "goles": "2-1",
+      "pts": 3
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.23,
-      "xg_concedido": 2.17,
-      "xpts": 0.72,
-      "xg_por_partido": 1.23,
-      "xg_concedido_por_partido": 2.17
+      "pj": 2,
+      "xg": 1.65,
+      "xg_concedido": 2.38,
+      "xpts": 2.19,
+      "xg_por_partido": 0.82,
+      "xg_concedido_por_partido": 1.19
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 3,
-      "pj_stats": 1,
-      "goles_partido": 2,
-      "posesion": 58.8,
+      "goles_concedidos_partido": 2,
+      "pj_stats": 2,
+      "xg_total": 1.6,
       "remates_puerta_partido": 5,
-      "xg_total": 1.2,
-      "toques_area_rival": 15,
+      "posesion": 56.5,
+      "goles_partido": 2,
+      "toques_area_rival": 25,
       "grandes_ocasiones_total": 2,
-      "xg_concedido_total": 2.2,
-      "amarillas_total": 4,
-      "corners_total": 3,
-      "faltas_partido": 11
+      "xg_concedido_total": 2.4,
+      "amarillas_total": 6,
+      "corners_total": 6,
+      "faltas_partido": 9
      }
     },
     "visitante": {
@@ -4300,7 +4261,7 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "3-4-3",
+      "formacion": "3-4-2-1",
       "titulares": [
        "Diant Ramaj",
        "Felix Beijmo",
@@ -4311,50 +4272,50 @@
        "Thomas Delaney",
        "Birger Meling",
        "Maher Carrizo",
-       "Andreas Cornelius",
-       "Robert"
+       "Robert",
+       "Andreas Cornelius"
       ]
      },
      "tabla": {
-      "pos": 3,
-      "pj": 1,
+      "pos": 7,
+      "pj": 2,
       "g": 1,
       "e": 0,
-      "p": 0,
-      "goles": "3-0",
+      "p": 1,
+      "goles": "4-2",
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 9,
-      "pj": 0,
+      "pos": 24,
+      "pj": 1,
       "g": 0,
       "e": 0,
-      "p": 0,
-      "goles": "0-0",
+      "p": 1,
+      "goles": "1-2",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.6,
-      "xg_concedido": 0.46,
-      "xpts": 2.3,
-      "xg_por_partido": 1.6,
-      "xg_concedido_por_partido": 0.46
+      "pj": 2,
+      "xg": 1.8,
+      "xg_concedido": 0.88,
+      "xpts": 3.25,
+      "xg_por_partido": 0.9,
+      "xg_concedido_por_partido": 0.44
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 2,
       "porterias_cero": 1,
-      "pj_stats": 1,
-      "goles_concedidos_partido": 0,
-      "goles_partido": 3,
-      "posesion": 35.6,
-      "remates_puerta_partido": 6,
-      "xg_total": 1.6,
-      "toques_area_rival": 15,
+      "xg_total": 1.8,
+      "remates_puerta_partido": 3.5,
+      "posesion": 40.6,
+      "goles_partido": 2,
+      "toques_area_rival": 23,
       "grandes_ocasiones_total": 5,
-      "xg_concedido_total": 0.5,
-      "amarillas_total": 2,
-      "corners_total": 3,
-      "faltas_partido": 15
+      "xg_concedido_total": 0.9,
+      "amarillas_total": 4,
+      "corners_total": 7,
+      "faltas_partido": 10.5
      }
     }
    },
@@ -4376,19 +4337,25 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "FK Kauno Žalgiris",
    "visitante": "Brann",
    "ronda": "2",
    "estadio": "S. Dariaus ir S. Girėno stadionas, Kaunas (grass)",
    "arbitro": {
-    "nombre": "",
-    "stats": {}
+    "nombre": "Pavle Ilić",
+    "stats": {
+     "matches": 32,
+     "yellowCards": 4.78,
+     "redCards": 4,
+     "unknown": 5,
+     "penalties": 9,
+     "fouls": 27.66
+    }
    },
    "clima": {
     "temp_c": 12,
     "viento_kmh": 6,
-    "lluvia_prob": 3,
     "cielo": "Cloudy"
    },
    "equipos": {
@@ -4422,40 +4389,43 @@
      },
      "tabla": {
       "pos": 36,
-      "pj": 1,
+      "pj": 2,
       "g": 0,
       "e": 0,
-      "p": 1,
-      "goles": "0-4",
+      "p": 2,
+      "goles": "1-7",
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
       "pos": 33,
-      "pj": 0,
+      "pj": 1,
       "g": 0,
       "e": 0,
-      "p": 0,
-      "goles": "0-0",
+      "p": 1,
+      "goles": "1-3",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 0.05,
-      "xg_concedido": 4.15,
-      "xpts": 0,
-      "xg_por_partido": 0.05,
-      "xg_concedido_por_partido": 4.15
+      "pj": 2,
+      "xg": 1.2,
+      "xg_concedido": 6.6,
+      "xpts": 0.54,
+      "xg_por_partido": 0.6,
+      "xg_concedido_por_partido": 3.3
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 4,
-      "pj_stats": 1,
-      "posesion": 22.5,
+      "goles_concedidos_partido": 3.5,
+      "pj_stats": 2,
+      "xg_total": 1.2,
       "remates_puerta_partido": 1,
-      "xg_total": 0.1,
-      "toques_area_rival": 4,
-      "xg_concedido_total": 4.1,
-      "amarillas_total": 1,
-      "faltas_partido": 8
+      "posesion": 27,
+      "goles_partido": 0.5,
+      "toques_area_rival": 18,
+      "grandes_ocasiones_total": 2,
+      "xg_concedido_total": 6.7,
+      "amarillas_total": 5,
+      "corners_total": 1,
+      "faltas_partido": 8.5
      }
     },
     "visitante": {
@@ -4518,44 +4488,44 @@
       ]
      },
      "tabla": {
-      "pos": 11,
+      "pos": 4,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "5-2",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
       "pj": 1,
       "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "2-1",
+      "goles": "3-1",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 15,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 2.38,
-      "xg_concedido": 0.84,
-      "xpts": 2.45,
-      "xg_por_partido": 2.38,
-      "xg_concedido_por_partido": 0.84
+      "pj": 2,
+      "xg": 4.83,
+      "xg_concedido": 2,
+      "xpts": 4.73,
+      "xg_por_partido": 2.42,
+      "xg_concedido_por_partido": 1
      },
      "stats_temporada": {
       "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 2,
-      "posesion": 72.2,
-      "remates_puerta_partido": 10,
-      "xg_total": 2.4,
-      "toques_area_rival": 49,
-      "grandes_ocasiones_total": 3,
-      "xg_concedido_total": 0.8,
+      "pj_stats": 2,
+      "xg_total": 4.9,
+      "remates_puerta_partido": 8.5,
+      "posesion": 70.3,
+      "goles_partido": 2.5,
+      "toques_area_rival": 75,
+      "grandes_ocasiones_total": 7,
+      "xg_concedido_total": 2,
       "amarillas_total": 2,
-      "corners_total": 17,
-      "faltas_partido": 12
+      "corners_total": 21,
+      "faltas_partido": 10
      }
     }
    },
@@ -4572,7 +4542,7 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Getafe",
    "visitante": "Lugano",
    "ronda": "2",
@@ -4589,10 +4559,9 @@
     }
    },
    "clima": {
-    "temp_c": 19,
+    "temp_c": 17,
     "viento_kmh": 4,
-    "lluvia_prob": 0,
-    "cielo": "Sunny"
+    "cielo": "Clear"
    },
    "equipos": {
     "local": {
@@ -4645,44 +4614,44 @@
       ]
      },
      "tabla": {
-      "pos": 16,
-      "pj": 1,
+      "pos": 26,
+      "pj": 2,
       "g": 0,
       "e": 1,
-      "p": 0,
-      "goles": "1-1",
+      "p": 1,
+      "goles": "2-5",
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 20,
-      "pj": 0,
+      "pos": 35,
+      "pj": 1,
       "g": 0,
       "e": 0,
-      "p": 0,
-      "goles": "0-0",
+      "p": 1,
+      "goles": "1-4",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.5,
-      "xg_concedido": 0.85,
-      "xpts": 1.9,
-      "xg_por_partido": 1.5,
-      "xg_concedido_por_partido": 0.85
+      "pj": 2,
+      "xg": 1.98,
+      "xg_concedido": 2.6,
+      "xpts": 2.32,
+      "xg_por_partido": 0.99,
+      "xg_concedido_por_partido": 1.3
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
+      "goles_concedidos_partido": 2.5,
+      "pj_stats": 2,
+      "xg_total": 2,
+      "remates_puerta_partido": 3.5,
+      "posesion": 53.9,
       "goles_partido": 1,
-      "posesion": 57,
-      "remates_puerta_partido": 3,
-      "xg_total": 1.5,
-      "toques_area_rival": 11,
+      "toques_area_rival": 22,
       "grandes_ocasiones_total": 2,
-      "xg_concedido_total": 0.8,
-      "amarillas_total": 1,
-      "corners_total": 4,
-      "faltas_partido": 13
+      "xg_concedido_total": 2.6,
+      "amarillas_total": 2,
+      "corners_total": 12,
+      "faltas_partido": 9.5
      }
     },
     "visitante": {
@@ -4720,49 +4689,49 @@
        "Anto Grgic",
        "Daniel Dos Santos",
        "Yanis Cimignani",
-       "Albian Ajeti",
-       "Dereck Moncada"
+       "Dereck Moncada",
+       "Albian Ajeti"
       ]
      },
      "tabla": {
-      "pos": 8,
+      "pos": 2,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "7-3",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
       "pj": 1,
       "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "3-2",
+      "goles": "4-1",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 13,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 2.17,
-      "xg_concedido": 1.23,
-      "xpts": 2.06,
-      "xg_por_partido": 2.17,
-      "xg_concedido_por_partido": 1.23
+      "pj": 2,
+      "xg": 3.93,
+      "xg_concedido": 1.7,
+      "xpts": 4.45,
+      "xg_por_partido": 1.96,
+      "xg_concedido_por_partido": 0.85
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 1,
-      "goles_partido": 3,
-      "posesion": 41.2,
+      "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "xg_total": 3.9,
       "remates_puerta_partido": 5,
-      "xg_total": 2.2,
-      "toques_area_rival": 14,
-      "grandes_ocasiones_total": 5,
-      "xg_concedido_total": 1.2,
-      "amarillas_total": 2,
-      "corners_total": 5,
-      "faltas_partido": 9
+      "posesion": 45.3,
+      "goles_partido": 3.5,
+      "toques_area_rival": 27,
+      "grandes_ocasiones_total": 8,
+      "xg_concedido_total": 1.7,
+      "amarillas_total": 5,
+      "corners_total": 7,
+      "faltas_partido": 12
      }
     }
    },
@@ -4779,20 +4748,26 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Iberia 1999",
    "visitante": "Mjällby",
    "ronda": "2",
    "estadio": "Mikheil Meskhis sakhelobis Stadioni, Tbilisi (grass)",
    "arbitro": {
-    "nombre": "",
-    "stats": {}
+    "nombre": "Lothar D'Hondt",
+    "stats": {
+     "matches": 50,
+     "yellowCards": 4.32,
+     "redCards": 9,
+     "unknown": 6,
+     "penalties": 16,
+     "fouls": 25.3
+    }
    },
    "clima": {
-    "temp_c": 13,
+    "temp_c": 12,
     "viento_kmh": 3,
-    "lluvia_prob": 50,
-    "cielo": "Scattered Thunderstorms"
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -4808,56 +4783,60 @@
      "bajas": [],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Giorgi Makaridze",
        "Giorgi Kobuladze",
        "Aleksandre Amisulashvili",
        "Vahid Selimović",
        "Jemali-Giorgi Jinjolava",
-       "Nika Sikharulashvili",
-       "Bakar Kardava",
        "Nikoloz Dadiani",
+       "Bakar Kardava",
        "Lucas Café",
        "Amiran Dzagania",
-       "Zviad Natchkebia"
+       "Zviad Natchkebia",
+       "Nika Sikharulashvili"
       ]
      },
      "tabla": {
-      "pos": 34,
-      "pj": 1,
-      "g": 0,
+      "pos": 17,
+      "pj": 2,
+      "g": 1,
       "e": 0,
       "p": 1,
-      "goles": "0-2",
-      "pts": 0
+      "goles": "1-2",
+      "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 31,
-      "pj": 0,
-      "g": 0,
+      "pos": 15,
+      "pj": 1,
+      "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "0-0",
-      "pts": 0
+      "goles": "1-0",
+      "pts": 3
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 0.15,
-      "xg_concedido": 1.73,
-      "xpts": 0.22,
-      "xg_por_partido": 0.15,
-      "xg_concedido_por_partido": 1.73
+      "pj": 2,
+      "xg": 1.14,
+      "xg_concedido": 3.17,
+      "xpts": 1.22,
+      "xg_por_partido": 0.57,
+      "xg_concedido_por_partido": 1.58
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 1,
-      "posesion": 42.5,
+      "goles_concedidos_partido": 1,
+      "pj_stats": 2,
+      "xg_total": 1.1,
       "remates_puerta_partido": 1,
-      "xg_total": 0.1,
-      "toques_area_rival": 2,
-      "xg_concedido_total": 1.7,
-      "faltas_partido": 11
+      "posesion": 44.7,
+      "goles_partido": 0.5,
+      "toques_area_rival": 9,
+      "grandes_ocasiones_total": 1,
+      "xg_concedido_total": 3.2,
+      "amarillas_total": 3,
+      "corners_total": 2,
+      "faltas_partido": 10
      }
     },
     "visitante": {
@@ -4884,61 +4863,61 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "3-5-2",
+      "formacion": "5-4-1",
       "titulares": [
        "Alexander Lundin",
        "Tony Miettinen",
        "Axel Norén",
        "Abdullah Iqbal",
        "Villiam Granath",
+       "Ian Hoffmann",
        "Olle Lindberg",
        "Jesper Gustavsson",
-       "Ian Hoffmann",
+       "Viktor Gustafson",
        "Áki Samuelsen",
-       "Jacob Bergström",
-       "Viktor Gustafson"
+       "Jacob Bergström"
       ]
      },
      "tabla": {
-      "pos": 6,
-      "pj": 1,
+      "pos": 11,
+      "pj": 2,
       "g": 1,
       "e": 0,
-      "p": 0,
-      "goles": "2-0",
+      "p": 1,
+      "goles": "2-1",
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 11,
-      "pj": 0,
+      "pos": 28,
+      "pj": 1,
       "g": 0,
       "e": 0,
-      "p": 0,
-      "goles": "0-0",
+      "p": 1,
+      "goles": "0-1",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.42,
-      "xg_concedido": 0.48,
-      "xpts": 2.16,
-      "xg_por_partido": 1.42,
-      "xg_concedido_por_partido": 0.48
+      "pj": 2,
+      "xg": 2.86,
+      "xg_concedido": 1.47,
+      "xpts": 3.89,
+      "xg_por_partido": 1.43,
+      "xg_concedido_por_partido": 0.73
      },
      "stats_temporada": {
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
       "porterias_cero": 1,
-      "pj_stats": 1,
-      "goles_concedidos_partido": 0,
-      "goles_partido": 2,
-      "posesion": 43.5,
-      "remates_puerta_partido": 7,
-      "xg_total": 1.4,
-      "toques_area_rival": 25,
-      "grandes_ocasiones_total": 4,
-      "xg_concedido_total": 0.5,
-      "amarillas_total": 3,
-      "corners_total": 6,
-      "faltas_partido": 9
+      "xg_total": 2.9,
+      "remates_puerta_partido": 4,
+      "posesion": 48.3,
+      "goles_partido": 1,
+      "toques_area_rival": 50,
+      "grandes_ocasiones_total": 6,
+      "xg_concedido_total": 1.5,
+      "amarillas_total": 5,
+      "corners_total": 12,
+      "faltas_partido": 10
      }
     }
    },
@@ -4953,20 +4932,26 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Inter Club d'Escaldes",
    "visitante": "Universitatea Craiova",
    "ronda": "2",
    "estadio": "Estadi de la FAF d'Encamp, Encamp (grass)",
    "arbitro": {
-    "nombre": "",
-    "stats": {}
+    "nombre": "Christos Vergetis",
+    "stats": {
+     "matches": 28,
+     "yellowCards": 5.21,
+     "redCards": 5,
+     "unknown": 6,
+     "penalties": 7,
+     "fouls": 32.12
+    }
    },
    "clima": {
-    "temp_c": 9,
+    "temp_c": 8,
     "viento_kmh": 2,
-    "lluvia_prob": 2,
-    "cielo": "Partly Cloudy"
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -4982,23 +4967,32 @@
      "bajas": [],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-1-4-1",
       "titulares": [
        "Javi Díaz",
        "Maurizio Pochettino",
        "Álex Sánchez",
        "Anwar Hernández",
        "Jilmar Torres",
-       "Pablo Molina",
        "Víctor Alonso",
-       "David López",
        "Domi Berlanga",
-       "Faysal Chouaib",
-       "Sol Sidibe"
+       "Pablo Molina",
+       "David López",
+       "Sol Sidibe",
+       "Faysal Chouaib"
       ]
      },
      "tabla": {
-      "pos": 33,
+      "pos": 35,
+      "pj": 2,
+      "g": 0,
+      "e": 0,
+      "p": 2,
+      "goles": "0-4",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 34,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -5006,34 +5000,26 @@
       "goles": "0-2",
       "pts": 0
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 30,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 0.48,
-      "xg_concedido": 1.42,
-      "xpts": 0.58,
-      "xg_por_partido": 0.48,
-      "xg_concedido_por_partido": 1.42
+      "pj": 2,
+      "xg": 0.88,
+      "xg_concedido": 2.69,
+      "xpts": 1.17,
+      "xg_por_partido": 0.44,
+      "xg_concedido_por_partido": 1.35
      },
      "stats_temporada": {
       "goles_concedidos_partido": 2,
-      "pj_stats": 1,
-      "posesion": 56.5,
-      "xg_total": 0.5,
-      "toques_area_rival": 8,
-      "grandes_ocasiones_total": 1,
-      "xg_concedido_total": 1.4,
-      "amarillas_total": 1,
-      "corners_total": 3,
-      "faltas_partido": 14
+      "pj_stats": 2,
+      "xg_total": 0.9,
+      "remates_puerta_partido": 1.5,
+      "posesion": 60,
+      "toques_area_rival": 11,
+      "grandes_ocasiones_total": 3,
+      "xg_concedido_total": 2.7,
+      "amarillas_total": 2,
+      "corners_total": 5,
+      "faltas_partido": 14.5
      }
     },
     "visitante": {
@@ -5071,44 +5057,44 @@
       ]
      },
      "tabla": {
-      "pos": 20,
-      "pj": 1,
-      "g": 0,
+      "pos": 6,
+      "pj": 2,
+      "g": 1,
       "e": 1,
       "p": 0,
-      "goles": "1-1",
-      "pts": 1
+      "goles": "3-1",
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 21,
-      "pj": 0,
-      "g": 0,
+      "pos": 5,
+      "pj": 1,
+      "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "0-0",
-      "pts": 0
+      "goles": "2-0",
+      "pts": 3
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 0.85,
-      "xg_concedido": 1.5,
-      "xpts": 0.84,
-      "xg_por_partido": 0.85,
-      "xg_concedido_por_partido": 1.5
+      "pj": 2,
+      "xg": 2.12,
+      "xg_concedido": 1.9,
+      "xpts": 2.96,
+      "xg_por_partido": 1.06,
+      "xg_concedido_por_partido": 0.95
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 43,
-      "remates_puerta_partido": 4,
-      "xg_total": 0.8,
-      "toques_area_rival": 9,
-      "grandes_ocasiones_total": 2,
-      "xg_concedido_total": 1.5,
-      "amarillas_total": 4,
-      "corners_total": 4,
-      "faltas_partido": 14
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
+      "xg_total": 2.1,
+      "remates_puerta_partido": 5,
+      "posesion": 39.8,
+      "goles_partido": 1.5,
+      "toques_area_rival": 24,
+      "grandes_ocasiones_total": 6,
+      "xg_concedido_total": 1.9,
+      "amarillas_total": 5,
+      "corners_total": 9,
+      "faltas_partido": 9.5
      }
     }
    },
@@ -5126,7 +5112,7 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Jablonec",
    "visitante": "Brighton & Hove Albion",
    "ronda": "2",
@@ -5143,9 +5129,8 @@
     }
    },
    "clima": {
-    "temp_c": 6,
+    "temp_c": 5,
     "viento_kmh": 4,
-    "lluvia_prob": 2,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -5194,44 +5179,44 @@
       ]
      },
      "tabla": {
-      "pos": 23,
-      "pj": 1,
+      "pos": 22,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
       "goles": "2-3",
-      "pts": 0
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 22,
-      "pj": 0,
+      "pos": 21,
+      "pj": 1,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "0-0",
-      "pts": 0
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.27,
-      "xg_concedido": 1.78,
-      "xpts": 0.99,
-      "xg_por_partido": 1.27,
-      "xg_concedido_por_partido": 1.78
+      "pj": 2,
+      "xg": 1.55,
+      "xg_concedido": 2.67,
+      "xpts": 1.69,
+      "xg_por_partido": 0.77,
+      "xg_concedido_por_partido": 1.34
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 3,
-      "pj_stats": 1,
-      "goles_partido": 2,
-      "posesion": 39.7,
-      "remates_puerta_partido": 2,
-      "xg_total": 1.3,
-      "toques_area_rival": 15,
+      "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "xg_total": 1.5,
+      "remates_puerta_partido": 1.5,
+      "posesion": 34.5,
+      "goles_partido": 1,
+      "toques_area_rival": 20,
       "grandes_ocasiones_total": 3,
-      "xg_concedido_total": 1.8,
-      "amarillas_total": 3,
-      "corners_total": 1,
-      "faltas_partido": 14
+      "xg_concedido_total": 2.7,
+      "amarillas_total": 4,
+      "corners_total": 2,
+      "faltas_partido": 9
      }
     },
     "visitante": {
@@ -5283,60 +5268,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Bart Verbruggen",
        "Costinha",
        "Michael Svoboda",
        "Olivier Boscagli",
        "Jaouen Hadjam",
-       "Malick Junior Yalcouyé",
-       "Jack Hinshelwood",
        "Pascal Groß",
+       "Malick Junior Yalcouyé",
+       "Matthew O'Riley",
+       "Jack Hinshelwood",
        "Ibrahim Osman",
-       "Georginio Rutter",
-       "Matthew O'Riley"
+       "Georginio Rutter"
       ]
      },
      "tabla": {
-      "pos": 2,
-      "pj": 1,
+      "pos": 5,
+      "pj": 2,
       "g": 1,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "4-0",
-      "pts": 3
+      "pts": 4
      },
      "tabla_como_local_o_visitante": {
-      "pos": 8,
-      "pj": 0,
+      "pos": 12,
+      "pj": 1,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "0-0",
-      "pts": 0
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 4.15,
-      "xg_concedido": 0.05,
-      "xpts": 3,
-      "xg_por_partido": 4.15,
-      "xg_concedido_por_partido": 0.05
+      "pj": 2,
+      "xg": 5.04,
+      "xg_concedido": 0.33,
+      "xpts": 4.92,
+      "xg_por_partido": 2.52,
+      "xg_concedido_por_partido": 0.17
      },
      "stats_temporada": {
-      "porterias_cero": 1,
-      "pj_stats": 1,
       "goles_concedidos_partido": 0,
-      "goles_partido": 4,
-      "posesion": 77.5,
-      "remates_puerta_partido": 9,
-      "xg_total": 4.1,
-      "toques_area_rival": 70,
+      "pj_stats": 2,
+      "porterias_cero": 1,
+      "xg_total": 5,
+      "remates_puerta_partido": 6,
+      "posesion": 74.2,
+      "goles_partido": 2,
+      "toques_area_rival": 106,
       "grandes_ocasiones_total": 9,
-      "xg_concedido_total": 0.1,
-      "corners_total": 13,
-      "faltas_partido": 11
+      "xg_concedido_total": 0.3,
+      "corners_total": 17,
+      "faltas_partido": 10
      }
     }
    },
@@ -5354,7 +5339,7 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Pafos FC",
    "visitante": "Riga FC",
    "ronda": "2",
@@ -5371,10 +5356,9 @@
     }
    },
    "clima": {
-    "temp_c": 22,
+    "temp_c": 21,
     "viento_kmh": 1,
-    "lluvia_prob": 1,
-    "cielo": "Mostly Clear"
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -5389,7 +5373,7 @@
      ],
      "bajas": [],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Radosław Majecki",
@@ -5397,52 +5381,53 @@
        "Samy Mmaee",
        "David Luiz",
        "Nikolas Ioannou",
-       "Pêpê",
-       "Ivan Šunjić",
-       "Quina",
+       "João Correia",
+       "Alexandre Brito",
+       "Guga",
        "Vlad Dragomir",
-       "Lelê",
+       "Anderson Silva",
        "Biel"
       ]
      },
      "tabla": {
-      "pos": 32,
-      "pj": 1,
+      "pos": 24,
+      "pj": 2,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 1,
       "goles": "1-3",
-      "pts": 0
+      "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 29,
-      "pj": 0,
+      "pos": 22,
+      "pj": 1,
       "g": 0,
-      "e": 0,
+      "e": 1,
       "p": 0,
       "goles": "0-0",
-      "pts": 0
+      "pts": 1
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 0.94,
-      "xg_concedido": 3.02,
-      "xpts": 0.24,
-      "xg_por_partido": 0.94,
-      "xg_concedido_por_partido": 3.02
+      "pj": 2,
+      "xg": 1.71,
+      "xg_concedido": 3.85,
+      "xpts": 1.5,
+      "xg_por_partido": 0.85,
+      "xg_concedido_por_partido": 1.93
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 3,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 34.9,
-      "remates_puerta_partido": 5,
-      "xg_total": 0.9,
-      "toques_area_rival": 12,
-      "grandes_ocasiones_total": 3,
-      "xg_concedido_total": 3,
-      "corners_total": 2,
-      "faltas_partido": 11
+      "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "xg_total": 1.7,
+      "remates_puerta_partido": 3.5,
+      "posesion": 40.3,
+      "goles_partido": 0.5,
+      "toques_area_rival": 27,
+      "grandes_ocasiones_total": 5,
+      "xg_concedido_total": 3.9,
+      "amarillas_total": 1,
+      "corners_total": 7,
+      "faltas_partido": 8.5
      }
     },
     "visitante": {
@@ -5457,60 +5442,60 @@
      ],
      "bajas": [],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-3-1-2",
       "titulares": [
-       "Frenks Orols",
+       "Kenan Pirić",
        "Maksims Toņiševs",
-       "Antonijs Černomordijs",
-       "Abner",
-       "Andrés Salazar",
-       "Coli Saco",
+       "Baba Musah",
        "Karl Gameni Wassom",
+       "Raivis Jurkovskis",
+       "Meïssa Diop",
+       "Ahmed Ankrah",
        "Raki Aouani",
        "Iago Siqueira",
-       "Samuel Pedro",
-       "Reginaldo Ramires"
+       "Reginaldo Ramires",
+       "Salah Oulad M'Hand"
       ]
      },
      "tabla": {
-      "pos": 21,
+      "pos": 19,
+      "pj": 2,
+      "g": 0,
+      "e": 2,
+      "p": 0,
+      "goles": "1-1",
+      "pts": 2
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 13,
       "pj": 1,
       "g": 0,
       "e": 1,
       "p": 0,
-      "goles": "1-1",
+      "goles": "0-0",
       "pts": 1
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 22,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 2.19,
-      "xg_concedido": 1.15,
-      "xpts": 2.13,
-      "xg_por_partido": 2.19,
-      "xg_concedido_por_partido": 1.15
+      "pj": 2,
+      "xg": 3.02,
+      "xg_concedido": 1.93,
+      "xpts": 3.51,
+      "xg_por_partido": 1.51,
+      "xg_concedido_por_partido": 0.96
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 63.7,
-      "remates_puerta_partido": 8,
-      "xg_total": 2.2,
-      "toques_area_rival": 38,
-      "grandes_ocasiones_total": 3,
-      "xg_concedido_total": 1.2,
-      "corners_total": 2,
-      "faltas_partido": 8
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
+      "xg_total": 3,
+      "remates_puerta_partido": 4.5,
+      "posesion": 59.1,
+      "goles_partido": 0.5,
+      "toques_area_rival": 52,
+      "grandes_ocasiones_total": 4,
+      "xg_concedido_total": 1.9,
+      "corners_total": 5,
+      "faltas_partido": 9
      }
     }
    },
@@ -5527,7 +5512,7 @@
    "competicion": "Conference League (INT)",
    "inicio_utc": "2026-10-22T16:45:00.000Z",
    "inicio_colombia": "2026-10-22 11:45",
-   "ya_empezo": false,
+   "ya_empezo": true,
    "local": "Trabzonspor",
    "visitante": "Heart of Midlothian",
    "ronda": "2",
@@ -5545,9 +5530,8 @@
    },
    "clima": {
     "temp_c": 18,
-    "viento_kmh": 3,
-    "lluvia_prob": 3,
-    "cielo": "Mostly Clear"
+    "viento_kmh": 2,
+    "cielo": "Fair"
    },
    "equipos": {
     "local": {
@@ -5605,44 +5589,44 @@
       ]
      },
      "tabla": {
+      "pos": 3,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "6-2",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
       "pos": 4,
       "pj": 1,
       "g": 1,
       "e": 0,
       "p": 0,
-      "goles": "4-2",
+      "goles": "2-0",
       "pts": 3
      },
-     "tabla_como_local_o_visitante": {
-      "pos": 17,
-      "pj": 0,
-      "g": 0,
-      "e": 0,
-      "p": 0,
-      "goles": "0-0",
-      "pts": 0
-     },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 3.68,
-      "xg_concedido": 2.4,
-      "xpts": 2.22,
-      "xg_por_partido": 3.68,
-      "xg_concedido_por_partido": 2.4
+      "pj": 2,
+      "xg": 5.14,
+      "xg_concedido": 3,
+      "xpts": 4.3,
+      "xg_por_partido": 2.57,
+      "xg_concedido_por_partido": 1.5
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 1,
-      "goles_partido": 4,
-      "posesion": 54.5,
-      "remates_puerta_partido": 8,
-      "xg_total": 3.7,
-      "toques_area_rival": 37,
-      "grandes_ocasiones_total": 6,
-      "xg_concedido_total": 2.4,
-      "amarillas_total": 2,
-      "corners_total": 6,
-      "faltas_partido": 12
+      "goles_concedidos_partido": 1,
+      "pj_stats": 2,
+      "xg_total": 5.1,
+      "remates_puerta_partido": 6,
+      "posesion": 57.8,
+      "goles_partido": 3,
+      "toques_area_rival": 51,
+      "grandes_ocasiones_total": 7,
+      "xg_concedido_total": 3,
+      "amarillas_total": 4,
+      "corners_total": 9,
+      "faltas_partido": 11
      }
     },
     "visitante": {
@@ -5679,60 +5663,60 @@
      ],
      "alineacion": {
       "tipo": "standard",
-      "formacion": "4-3-3",
+      "formacion": "4-4-2",
       "titulares": [
        "Beau Reus",
-       "Jordi Altena",
+       "Christian Dahle Borchgrevink",
        "Malachi Fagan-Walcott",
        "Jamie McCart",
-       "Christian Dahle Borchgrevink",
-       "Cláudio Braga",
-       "Tómas Magnússon",
-       "Sabri Guendouz",
+       "Rogers Mato",
        "Calvin Miller",
-       "James Wilson",
-       "Rogers Mato"
+       "Tómas Magnússon",
+       "Jordi Altena",
+       "Sabri Guendouz",
+       "Cláudio Braga",
+       "James Wilson"
       ]
      },
      "tabla": {
-      "pos": 18,
-      "pj": 1,
+      "pos": 25,
+      "pj": 2,
       "g": 0,
       "e": 1,
-      "p": 0,
-      "goles": "1-1",
+      "p": 1,
+      "goles": "1-3",
       "pts": 1
      },
      "tabla_como_local_o_visitante": {
-      "pos": 19,
-      "pj": 0,
+      "pos": 33,
+      "pj": 1,
       "g": 0,
       "e": 0,
-      "p": 0,
-      "goles": "0-0",
+      "p": 1,
+      "goles": "0-2",
       "pts": 0
      },
      "xg_temporada": {
-      "pj": 1,
-      "xg": 1.89,
-      "xg_concedido": 1,
-      "xpts": 2.05,
-      "xg_por_partido": 1.89,
-      "xg_concedido_por_partido": 1
+      "pj": 2,
+      "xg": 2.48,
+      "xg_concedido": 2.46,
+      "xpts": 2.71,
+      "xg_por_partido": 1.24,
+      "xg_concedido_por_partido": 1.23
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 43.2,
-      "remates_puerta_partido": 7,
-      "xg_total": 1.9,
-      "toques_area_rival": 26,
-      "grandes_ocasiones_total": 5,
-      "xg_concedido_total": 1,
-      "amarillas_total": 3,
-      "corners_total": 6,
-      "faltas_partido": 14
+      "goles_concedidos_partido": 1.5,
+      "pj_stats": 2,
+      "xg_total": 2.5,
+      "remates_puerta_partido": 4,
+      "posesion": 41.1,
+      "goles_partido": 0.5,
+      "toques_area_rival": 39,
+      "grandes_ocasiones_total": 6,
+      "xg_concedido_total": 2.5,
+      "amarillas_total": 5,
+      "corners_total": 7,
+      "faltas_partido": 11.5
      }
     }
    },
@@ -5757,10 +5741,10 @@
     "stats": {}
    },
    "clima": {
-    "temp_c": 9,
-    "viento_kmh": 4,
-    "lluvia_prob": 15,
-    "cielo": "Cloudy"
+    "temp_c": 10,
+    "viento_kmh": 5,
+    "lluvia_prob": 43,
+    "cielo": "Showers"
    },
    "equipos": {
     "local": {
@@ -5791,24 +5775,24 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "3-4-3",
       "titulares": [
-       "Mads Hedenstad Christiansen",
+       "Jesper Hansen",
        "Colin Rösler",
-       "Daníel Grétarsson",
+       "Frederik Tingager",
        "Eric Kahl",
-       "Jacob Andersen",
+       "Rasmus Carstensen",
        "Kristian Arnstad",
        "Markus Solbakken",
-       "Frederik Emmery",
-       "Tobias Bech",
-       "Stefen Tchamche",
+       "Jacob Andersen",
+       "Sebastian Jørgensen",
+       "Janni Serra",
        "Callum McCowatt"
       ]
      },
      "tabla": {
-      "pos": 29,
+      "pos": 31,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -5817,7 +5801,7 @@
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
-      "pos": 27,
+      "pos": 28,
       "pj": 0,
       "g": 0,
       "e": 0,
@@ -5834,16 +5818,16 @@
       "xg_concedido_por_partido": 2.24
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "posesion": 47.6,
-      "remates_puerta_partido": 1,
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
       "xg_total": 0.2,
+      "remates_puerta_partido": 0.5,
+      "posesion": 47.6,
       "toques_area_rival": 13,
       "xg_concedido_total": 2.2,
       "amarillas_total": 2,
       "corners_total": 2,
-      "faltas_partido": 15
+      "faltas_partido": 7.5
      }
     },
     "visitante": {
@@ -5858,7 +5842,7 @@
      ],
      "bajas": [],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Mario Dajsinani",
@@ -5866,16 +5850,16 @@
        "Eljon Sota",
        "Eneo Bitri",
        "Andrey Yago",
-       "Altin Kryeziu",
-       "Albano Aleksi",
        "Karim Loukili",
+       "Albano Aleksi",
+       "Altin Kryeziu",
        "Ildi Gruda",
        "Daniel Adjessa",
        "Alessandro Albanese"
       ]
      },
      "tabla": {
-      "pos": 19,
+      "pos": 21,
       "pj": 1,
       "g": 0,
       "e": 1,
@@ -5901,18 +5885,18 @@
       "xg_concedido_por_partido": 1.87
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1,
-      "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 52.4,
-      "remates_puerta_partido": 5,
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
       "xg_total": 0.7,
+      "remates_puerta_partido": 2.5,
+      "posesion": 52.4,
+      "goles_partido": 0.5,
       "toques_area_rival": 17,
       "grandes_ocasiones_total": 2,
       "xg_concedido_total": 1.9,
       "amarillas_total": 1,
       "corners_total": 2,
-      "faltas_partido": 12
+      "faltas_partido": 6
      }
     }
    },
@@ -5945,8 +5929,8 @@
    },
    "clima": {
     "temp_c": 10,
-    "viento_kmh": 3,
-    "lluvia_prob": 2,
+    "viento_kmh": 4,
+    "lluvia_prob": 3,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -5967,14 +5951,14 @@
        "regreso": "Late November 2026"
       },
       {
+       "jugador": "Steven Berghuis",
+       "tipo": "injury",
+       "regreso": "Back in training"
+      },
+      {
        "jugador": "Caio Henrique",
        "tipo": "injury",
        "regreso": "Day to day"
-      },
-      {
-       "jugador": "Daley Blind",
-       "tipo": "injury",
-       "regreso": "Back in training"
       },
       {
        "jugador": "Kasper Dolberg",
@@ -5982,22 +5966,22 @@
        "regreso": "Out for season"
       },
       {
-       "jugador": "Steven Berghuis",
+       "jugador": "Daley Blind",
        "tipo": "injury",
        "regreso": "Back in training"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
+      "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
        "Marc ter Stegen",
        "Lucas Rosa",
        "Aaron Bouwman",
-       "Dies Janse",
+       "Youri Baas",
        "Owen Wijndal",
-       "Davy Klaassen",
        "Sofyan Amrabat",
+       "Davy Klaassen",
        "Jorthy Mokio",
        "Julian Brandt",
        "Marcos Leonardo",
@@ -6005,7 +5989,7 @@
       ]
      },
      "tabla": {
-      "pos": 25,
+      "pos": 28,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -6014,7 +5998,7 @@
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
-      "pos": 24,
+      "pos": 25,
       "pj": 0,
       "g": 0,
       "e": 0,
@@ -6033,10 +6017,10 @@
      "stats_temporada": {
       "goles_concedidos_partido": 2,
       "pj_stats": 1,
-      "goles_partido": 1,
-      "posesion": 56.4,
-      "remates_puerta_partido": 4,
       "xg_total": 1.4,
+      "remates_puerta_partido": 4,
+      "posesion": 56.4,
+      "goles_partido": 1,
       "toques_area_rival": 28,
       "grandes_ocasiones_total": 2,
       "xg_concedido_total": 1.8,
@@ -6062,12 +6046,12 @@
        "regreso": "About 1-2 weeks"
       },
       {
-       "jugador": "Franck Kessié",
+       "jugador": "Giacomo Raspadori",
        "tipo": "injury",
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Thomas Pompei",
+       "jugador": "Franck Kessié",
        "tipo": "injury",
        "regreso": "Early November 2026"
       },
@@ -6077,9 +6061,9 @@
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Isak Hien",
+       "jugador": "Thomas Pompei",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Early November 2026"
       },
       {
        "jugador": "Odilon Kossounou",
@@ -6087,35 +6071,35 @@
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Giacomo Raspadori",
+       "jugador": "Kamaldeen Sulemana",
        "tipo": "injury",
        "regreso": "Early November 2026"
       },
       {
-       "jugador": "Kamaldeen Sulemana",
+       "jugador": "Isak Hien",
        "tipo": "injury",
-       "regreso": "Early November 2026"
+       "regreso": "Doubtful"
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-3-3",
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Marco Carnesecchi",
        "Raoul Bellanova",
        "Thomas Kristensen",
-       "Sead Kolašinac",
-       "Lorenzo Bernasconi",
-       "Lazar Samardžić",
+       "Relja Obrić",
+       "Davide Zappacosta",
+       "Gianluca Gaetano",
        "Éderson",
-       "Mario Pašalić",
+       "Eljif Elmas",
        "Charles De Ketelaere",
-       "Nikola Krstović",
-       "Jonathan Rowe"
+       "Nicola Zalewski",
+       "Gianluca Scamacca"
       ]
      },
      "tabla": {
-      "pos": 5,
+      "pos": 8,
       "pj": 1,
       "g": 1,
       "e": 0,
@@ -6124,7 +6108,7 @@
       "pts": 3
      },
      "tabla_como_local_o_visitante": {
-      "pos": 10,
+      "pos": 14,
       "pj": 0,
       "g": 0,
       "e": 0,
@@ -6143,10 +6127,10 @@
      "stats_temporada": {
       "goles_concedidos_partido": 1,
       "pj_stats": 1,
-      "goles_partido": 3,
-      "posesion": 65.1,
-      "remates_puerta_partido": 7,
       "xg_total": 3,
+      "remates_puerta_partido": 7,
+      "posesion": 65.1,
+      "goles_partido": 3,
       "toques_area_rival": 35,
       "grandes_ocasiones_total": 6,
       "xg_concedido_total": 0.9,
@@ -6173,5 +6157,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-22T15:51:23.916Z"
+ "generado_utc": "2026-10-22T18:09:31.208Z"
 }
