@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-22T23:00Z",
    "inicio_colombia": "2026-10-22 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Xfinity Mobile Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -21,18 +21,8 @@
      "Home: 0-0",
      "Road: 0-0"
     ],
-    "lesiones": [
-     "Jarrett Allen: Day-To-Day (Knee)",
-     "Khalifa Diop: Out (Knee)",
-     "Nae'Qwan Tomlin: Out (Back)"
-    ],
-    "ultimos_5": [
-     "2026-05-24 vs NY L 121-108",
-     "2026-05-26 vs NY L 130-93",
-     "2026-10-08 vs BOS L 124-113",
-     "2026-10-11 vs ORL W 119-105",
-     "2026-10-13 @ ORL L 132-116"
-    ],
+    "lesiones": [],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "James Harden",
@@ -190,7 +180,7 @@
      {
       "jugador": "Jarrett Allen",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -445,18 +435,12 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Dean Wade: Day-To-Day (Ankle)",
+     "Dean Wade: Out (Ankle)",
      "Tacko Fall: Out (Quadriceps)",
      "Dominick Barlow: Out (Back)",
      "Ariel Hukporti: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-10-05 vs NY W 120-97",
-     "2026-10-08 @ BKN L 114-108",
-     "2026-10-11 @ BOS L 144-106",
-     "2026-10-16 vs BOS L 125-120 OT",
-     "2026-10-20 @ NY W 106-100"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Rayan Rupert",
@@ -822,7 +806,7 @@
      {
       "jugador": "Dean Wade",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1936,5 +1920,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-22T19:27:20.762Z"
+ "generado_utc": "2026-10-22T23:17:48.074Z"
 }
