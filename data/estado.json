@@ -1,7 +1,7 @@
 {
  "futbol": {
   "fecha": "2026-10-23",
-  "generado_utc": "2026-10-23T15:42:38.916Z",
+  "generado_utc": "2026-10-23T17:57:09.059Z",
   "partidos": 20,
   "errores": 0,
   "primeros_errores": [],
@@ -9,7 +9,7 @@
  },
  "beisbol": {
   "fecha": "2026-10-23",
-  "generado_utc": "2026-10-23T15:42:39.380Z",
+  "generado_utc": "2026-10-23T17:57:09.491Z",
   "partidos": 1,
   "errores": 0,
   "primeros_errores": [],
@@ -17,10 +17,10 @@
  },
  "baloncesto": {
   "fecha": "2026-10-23",
-  "generado_utc": "2026-10-23T15:42:43.299Z",
+  "generado_utc": "2026-10-23T17:57:11.808Z",
   "partidos": 12,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 4
+  "segundos": 2
  }
 }

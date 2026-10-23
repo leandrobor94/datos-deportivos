@@ -22,11 +22,7 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Jordan Hawkins: Day-To-Day (Illness)",
-     "Dailyn Swain: Day-To-Day (Illness)",
-     "Zach Collins: Day-To-Day (Quadriceps)",
-     "Tobe Awaka: Day-To-Day (Knee)",
-     "Josh Giddey: Day-To-Day (Wrist)"
+     "Nic Claxton: Out (Hamstring)"
     ],
     "ultimos_5": [
      "2026-10-10 vs MEM L 104-100",
@@ -137,7 +133,7 @@
      {
       "jugador": "Josh Giddey",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -329,7 +325,7 @@
      {
       "jugador": "Tobe Awaka",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 3,
@@ -464,7 +460,7 @@
      {
       "jugador": "Jordan Hawkins",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5968,9 +5964,7 @@
      "Home: 1-0",
      "Road: 0-0"
     ],
-    "lesiones": [
-     "Taurean Prince: Day-To-Day (Personal)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-10-05 vs PHX W 109-107",
      "2026-10-10 @ WSH L 114-108 OT",
@@ -6033,7 +6027,7 @@
      {
       "jugador": "Taurean Prince",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7423,8 +7417,8 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "De'Aaron Fox: Day-To-Day (Wrist)",
      "Keldon Johnson: Day-To-Day (Mouth)",
+     "De'Aaron Fox: Day-To-Day (Wrist)",
      "Tobias Harris: Out (Calf)",
      "Jayden Quaintance: Out (Knee)"
     ],
@@ -8419,7 +8413,6 @@
     ],
     "lesiones": [
      "Trey Alexander: Out (Knee)",
-     "Tony Bradley: Day-To-Day (Quadriceps)",
      "Jusuf Nurkic: Out (Foot)"
     ],
     "ultimos_5": [
@@ -11914,5 +11907,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-23T15:42:43.299Z"
+ "generado_utc": "2026-10-23T17:57:11.808Z"
 }

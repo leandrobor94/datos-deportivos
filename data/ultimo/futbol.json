@@ -25,8 +25,8 @@
    },
    "clima": {
     "temp_c": 8,
-    "viento_kmh": 10,
-    "lluvia_prob": 24,
+    "viento_kmh": 11,
+    "lluvia_prob": 19,
     "cielo": "Cloudy/Wind"
    },
    "equipos": {
@@ -54,18 +54,18 @@
      ],
      "alineacion": {
       "tipo": "predicted",
-      "formacion": "3-4-2-1",
+      "formacion": "4-2-3-1",
       "titulares": [
        "Christian Walton",
+       "Abdoul Ouattara",
        "Dara O'Shea",
        "Issa Diop",
-       "Jacob Greaves",
-       "Abdoul Ouattara",
+       "Leif Davis",
        "Florentino",
        "Exequiel Palacios",
-       "Leif Davis",
        "Abdul Fatawu",
        "Julio Enciso",
+       "Jaden Philogene-Bidace",
        "Emersonn"
       ]
      },
@@ -99,15 +99,15 @@
       "posesion": 43.1,
       "pj_stats": 7,
       "goles_concedidos_partido": 2.1,
-      "goles_partido": 1.6,
       "xg_total": 10.7,
-      "grandes_ocasiones_total": 15,
-      "remates_puerta_partido": 4.4,
+      "goles_partido": 1.6,
       "toques_area_rival": 138,
-      "corners_total": 23,
+      "remates_puerta_partido": 4.4,
       "xg_concedido_total": 14.1,
-      "faltas_partido": 11.7,
-      "amarillas_total": 13
+      "grandes_ocasiones_total": 15,
+      "corners_total": 23,
+      "amarillas_total": 13,
+      "faltas_partido": 11.7
      }
     },
     "visitante": {
@@ -176,19 +176,19 @@
       "xg_concedido_por_partido": 1.19
      },
      "stats_temporada": {
-      "porterias_cero": 1,
-      "pj_stats": 7,
       "posesion": 45.7,
+      "pj_stats": 7,
+      "porterias_cero": 1,
       "goles_concedidos_partido": 1.3,
-      "goles_partido": 0.7,
       "xg_total": 11.5,
-      "grandes_ocasiones_total": 21,
-      "remates_puerta_partido": 3.6,
+      "goles_partido": 0.7,
       "toques_area_rival": 181,
-      "corners_total": 33,
+      "remates_puerta_partido": 3.6,
       "xg_concedido_total": 8.3,
-      "faltas_partido": 14.1,
-      "amarillas_total": 16
+      "grandes_ocasiones_total": 21,
+      "corners_total": 33,
+      "amarillas_total": 16,
+      "faltas_partido": 14.1
      }
     }
    },
@@ -240,7 +240,7 @@
    "clima": {
     "temp_c": 10,
     "viento_kmh": 3,
-    "lluvia_prob": 3,
+    "lluvia_prob": 2,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -312,17 +312,17 @@
      "stats_temporada": {
       "posesion": 42.1,
       "pj_stats": 9,
+      "porterias_cero": 3,
       "goles_concedidos_partido": 1.1,
       "xg_total": 11.3,
       "goles_partido": 1.4,
-      "porterias_cero": 3,
-      "remates_puerta_partido": 4.8,
       "grandes_ocasiones_total": 21,
+      "toques_area_rival": 175,
+      "remates_puerta_partido": 4.8,
       "xg_concedido_total": 11.5,
       "corners_total": 34,
-      "toques_area_rival": 175,
-      "faltas_partido": 13.7,
-      "amarillas_total": 15
+      "amarillas_total": 15,
+      "faltas_partido": 13.7
      }
     },
     "visitante": {
@@ -413,17 +413,17 @@
      "stats_temporada": {
       "posesion": 50.9,
       "pj_stats": 9,
+      "porterias_cero": 1,
       "goles_concedidos_partido": 2,
       "xg_total": 7.8,
       "goles_partido": 0.7,
-      "porterias_cero": 1,
-      "remates_puerta_partido": 3,
       "grandes_ocasiones_total": 8,
+      "toques_area_rival": 190,
+      "remates_puerta_partido": 3,
       "xg_concedido_total": 15.2,
       "corners_total": 50,
-      "toques_area_rival": 190,
-      "faltas_partido": 11.6,
-      "amarillas_total": 23
+      "amarillas_total": 23,
+      "faltas_partido": 11.6
      }
     }
    },
@@ -447,8 +447,8 @@
     "Haven't won a match in 5 attempts",
     "9866 and 9864 have not drawn any of their last 5 matches against each other.",
     "Have scored 5 goals in their last 5 matches",
-    "Haven't kept a clean sheet in 5 matches",
-    "Haven't won a match in 10 attempts"
+    "Haven't won a match in 10 attempts",
+    "Haven't kept a clean sheet in 5 matches"
    ]
   },
   {
@@ -473,7 +473,7 @@
     }
    },
    "clima": {
-    "temp_c": 11,
+    "temp_c": 12,
     "viento_kmh": 2,
     "lluvia_prob": 2,
     "cielo": "Clear"
@@ -507,7 +507,7 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
        "Lucas Perri",
@@ -516,7 +516,7 @@
        "Ardian Ismajli",
        "Pietro Comuzzo",
        "Nikola Vlašić",
-       "Daniel Bragança",
+       "Kian Fitz-Jim",
        "Rolando Mandragora",
        "Alessio Cacciamani",
        "Giovanni Simeone",
@@ -550,18 +550,18 @@
       "xg_concedido_por_partido": 1.54
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.3,
-      "pj_stats": 7,
-      "goles_partido": 1.4,
-      "porterias_cero": 1,
       "posesion": 50.8,
+      "pj_stats": 7,
+      "goles_concedidos_partido": 1.3,
+      "porterias_cero": 1,
+      "goles_partido": 1.4,
       "xg_total": 9.3,
-      "toques_area_rival": 122,
-      "remates_puerta_partido": 3.1,
       "grandes_ocasiones_total": 17,
+      "remates_puerta_partido": 3.1,
+      "toques_area_rival": 122,
       "corners_total": 23,
-      "faltas_partido": 9.6,
       "xg_concedido_total": 10.8,
+      "faltas_partido": 9.6,
       "amarillas_total": 6
      }
     },
@@ -603,11 +603,11 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "3-4-2-1",
       "titulares": [
        "Noel Törnqvist",
-       "Eddy Kouadio",
+       "Lorenzo Lucchesi",
        "Saba Goglichidze",
        "Andrea Carboni",
        "Samuele Birindelli",
@@ -646,18 +646,18 @@
       "xg_concedido_por_partido": 1.36
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2.1,
-      "pj_stats": 7,
-      "goles_partido": 1.9,
-      "porterias_cero": 1,
       "posesion": 44.4,
+      "pj_stats": 7,
+      "goles_concedidos_partido": 2.1,
+      "porterias_cero": 1,
+      "goles_partido": 1.9,
       "xg_total": 12.5,
-      "toques_area_rival": 157,
-      "remates_puerta_partido": 6,
       "grandes_ocasiones_total": 27,
+      "remates_puerta_partido": 6,
+      "toques_area_rival": 157,
       "corners_total": 30,
-      "faltas_partido": 12.1,
       "xg_concedido_total": 9.5,
+      "faltas_partido": 12.1,
       "amarillas_total": 11
      }
     }
@@ -710,8 +710,8 @@
    "clima": {
     "temp_c": 13,
     "viento_kmh": 7,
-    "lluvia_prob": 19,
-    "cielo": "Cloudy"
+    "lluvia_prob": 68,
+    "cielo": "Showers"
    },
    "equipos": {
     "local": {
@@ -752,20 +752,20 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-4-2",
       "titulares": [
-       "Fabian Bredlow",
+       "Dennis Seimen",
        "Lorenz Assignon",
        "Finn Jeltsch",
-       "Jeff Chabot",
        "Ramon Hendriks",
+       "Maximilian Mittelstädt",
+       "Leo Sauer",
        "Atakan Karazor",
-       "Grischa Prömel",
-       "Jamie Leweling",
-       "Bilal El Khannouss",
+       "Angelo Stiller",
        "Chris Führich",
-       "Ermedin Demirović"
+       "Ermedin Demirović",
+       "Dženan Pejčinović"
       ]
      },
      "tabla": {
@@ -795,18 +795,18 @@
       "xg_concedido_por_partido": 2.4
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "posesion": 54.5,
       "pj_stats": 6,
       "goles_concedidos_partido": 1.7,
       "porterias_cero": 1,
-      "posesion": 54.5,
-      "remates_puerta_partido": 5.8,
-      "xg_total": 12.3,
-      "toques_area_rival": 174,
       "grandes_ocasiones_total": 24,
-      "xg_concedido_total": 14.4,
-      "corners_total": 40,
+      "goles_partido": 1.3,
+      "xg_total": 12.3,
+      "remates_puerta_partido": 5.8,
+      "toques_area_rival": 174,
       "faltas_partido": 9.8,
+      "corners_total": 40,
+      "xg_concedido_total": 14.4,
       "amarillas_total": 6
      }
     },
@@ -829,7 +829,7 @@
       {
        "jugador": "Ko Itakura",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Back in training"
       },
       {
        "jugador": "Enzo Leopold",
@@ -859,7 +859,7 @@
       {
        "jugador": "Nicolas-Gerrit Kühn",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Back in training"
       },
       {
        "jugador": "Tim Kleindienst",
@@ -868,7 +868,7 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "3-4-2-1",
       "titulares": [
        "Moritz Nicolas",
@@ -879,8 +879,8 @@
        "Zento Uno",
        "Florian Neuhaus",
        "Lukas Ullrich",
-       "Hugo Bolin",
        "Wael Mohya",
+       "Hugo Bolin",
        "Shuto Machino"
       ]
      },
@@ -911,17 +911,17 @@
       "xg_concedido_por_partido": 2.47
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "posesion": 48.4,
       "pj_stats": 6,
       "goles_concedidos_partido": 3.3,
-      "posesion": 48.4,
-      "remates_puerta_partido": 4.5,
-      "xg_total": 8.5,
-      "toques_area_rival": 157,
       "grandes_ocasiones_total": 13,
-      "xg_concedido_total": 14.8,
-      "corners_total": 36,
+      "goles_partido": 1.3,
+      "xg_total": 8.5,
+      "remates_puerta_partido": 4.5,
+      "toques_area_rival": 157,
       "faltas_partido": 14.8,
+      "corners_total": 36,
+      "xg_concedido_total": 14.8,
       "amarillas_total": 17
      }
     }
@@ -944,10 +944,10 @@
    "datos_curiosos": [
     "Have scored 11 goals in their last 5 matches",
     "10269 have won the previous 2 matches against 9788.",
-    "840241 has the most shots on target per match for 10269 (2)",
+    "614384 has created the most big chances for 10269 (5)",
     "Have scored 8 goals in their last 5 matches",
-    "501543 has created the most big chances for 9788 (2)",
-    "784146 is ranked 2 in saves per match in the competition (5.5)"
+    "784146 is ranked 2 in saves per match in the competition (5.5)",
+    "1351569 has the most shots on target per match for 9788 (1.1)"
    ]
   },
   {
@@ -974,8 +974,8 @@
    "clima": {
     "temp_c": 11,
     "viento_kmh": 7,
-    "lluvia_prob": 63,
-    "cielo": "Light Rain"
+    "lluvia_prob": 47,
+    "cielo": "Showers"
    },
    "equipos": {
     "local": {
@@ -1006,7 +1006,7 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Egil Selvik",
@@ -1049,18 +1049,18 @@
       "xg_concedido_por_partido": 1.34
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.4,
-      "pj_stats": 7,
       "posesion": 45.7,
-      "goles_partido": 1.9,
-      "grandes_ocasiones_total": 28,
+      "pj_stats": 7,
+      "goles_concedidos_partido": 1.4,
       "xg_total": 14.4,
-      "corners_total": 34,
+      "goles_partido": 1.9,
       "remates_puerta_partido": 5.7,
       "toques_area_rival": 168,
+      "corners_total": 34,
+      "grandes_ocasiones_total": 28,
       "xg_concedido_total": 9.4,
-      "faltas_partido": 14.3,
-      "amarillas_total": 9
+      "amarillas_total": 9,
+      "faltas_partido": 14.3
      }
     },
     "visitante": {
@@ -1096,16 +1096,16 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "3-4-2-1",
       "titulares": [
        "Yéhvann Diouf",
-       "Mohamed Abdelmonem",
+       "Alidu Seidu",
        "Youssouf Ndayishimiye",
-       "Xavier Mandza",
+       "Mohamed Abdelmonem",
        "Jonathan Clauss",
-       "Axel Witsel",
        "Hicham Boudaoui",
+       "Axel Witsel",
        "Niels Nkounkou",
        "Gauthier Hein",
        "Mohamed Amoura",
@@ -1139,19 +1139,19 @@
       "xg_concedido_por_partido": 1.52
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.3,
-      "pj_stats": 7,
       "posesion": 54.6,
+      "pj_stats": 7,
+      "goles_concedidos_partido": 1.3,
       "porterias_cero": 1,
-      "goles_partido": 0.9,
-      "grandes_ocasiones_total": 15,
       "xg_total": 8.3,
-      "corners_total": 40,
+      "goles_partido": 0.9,
       "remates_puerta_partido": 3.7,
       "toques_area_rival": 155,
+      "corners_total": 40,
+      "grandes_ocasiones_total": 15,
       "xg_concedido_total": 10.6,
-      "faltas_partido": 9.4,
-      "amarillas_total": 13
+      "amarillas_total": 13,
+      "faltas_partido": 9.4
      }
     }
    },
@@ -1173,7 +1173,7 @@
    "datos_curiosos": [
     "Have scored 9 goals in their last 5 matches",
     "Haven't kept a clean sheet in 22 matches",
-    "1514456 has the most shots on target per match for 8521 (1.6)",
+    "471153 has created the most big chances for 8521 (5)",
     "Have scored 6 goals in their last 5 matches",
     "Haven't kept a clean sheet in 6 matches",
     "1213430 has the most shots on target per match for 9831 (1)"
@@ -1273,19 +1273,19 @@
       "xg_concedido_por_partido": 1.21
      },
      "stats_temporada": {
-      "posesion": 42.4,
-      "pj_stats": 14,
-      "goles_concedidos_partido": 1.8,
-      "goles_partido": 0.8,
       "porterias_cero": 4,
+      "pj_stats": 14,
+      "goles_partido": 0.8,
+      "posesion": 42.4,
+      "goles_concedidos_partido": 1.8,
       "grandes_ocasiones_total": 12,
       "remates_puerta_partido": 2.7,
-      "xg_concedido_total": 17,
-      "toques_area_rival": 189,
       "xg_total": 11.5,
-      "faltas_partido": 12.9,
+      "toques_area_rival": 189,
+      "amarillas_total": 32,
       "corners_total": 65,
-      "amarillas_total": 32
+      "xg_concedido_total": 17,
+      "faltas_partido": 12.9
      }
     },
     "visitante": {
@@ -1354,19 +1354,19 @@
       "xg_concedido_por_partido": 1.45
      },
      "stats_temporada": {
-      "posesion": 42.6,
-      "pj_stats": 13,
-      "goles_concedidos_partido": 0.9,
-      "goles_partido": 1.7,
       "porterias_cero": 3,
+      "pj_stats": 13,
+      "goles_partido": 1.7,
+      "posesion": 42.6,
+      "goles_concedidos_partido": 0.9,
       "grandes_ocasiones_total": 14,
       "remates_puerta_partido": 4,
-      "xg_concedido_total": 18.9,
-      "toques_area_rival": 164,
       "xg_total": 10.6,
-      "faltas_partido": 12.2,
+      "toques_area_rival": 164,
+      "amarillas_total": 40,
       "corners_total": 30,
-      "amarillas_total": 40
+      "xg_concedido_total": 18.9,
+      "faltas_partido": 12.2
      }
     }
    },
@@ -1486,19 +1486,19 @@
       "xg_concedido_por_partido": 1.08
      },
      "stats_temporada": {
-      "posesion": 54.7,
-      "pj_stats": 14,
-      "goles_concedidos_partido": 1.6,
-      "goles_partido": 1.4,
       "porterias_cero": 2,
+      "pj_stats": 14,
+      "goles_partido": 1.4,
+      "posesion": 54.7,
+      "goles_concedidos_partido": 1.6,
       "grandes_ocasiones_total": 19,
       "remates_puerta_partido": 4.5,
-      "xg_concedido_total": 15.1,
-      "toques_area_rival": 318,
       "xg_total": 20.4,
-      "faltas_partido": 12.6,
+      "toques_area_rival": 318,
+      "amarillas_total": 37,
       "corners_total": 65,
-      "amarillas_total": 37
+      "xg_concedido_total": 15.1,
+      "faltas_partido": 12.6
      }
     },
     "visitante": {
@@ -1562,19 +1562,19 @@
       "xg_concedido_por_partido": 0.98
      },
      "stats_temporada": {
-      "posesion": 57.3,
-      "pj_stats": 14,
-      "goles_concedidos_partido": 1.4,
-      "goles_partido": 1.4,
       "porterias_cero": 1,
+      "pj_stats": 14,
+      "goles_partido": 1.4,
+      "posesion": 57.3,
+      "goles_concedidos_partido": 1.4,
       "grandes_ocasiones_total": 18,
       "remates_puerta_partido": 4.6,
-      "xg_concedido_total": 13.8,
-      "toques_area_rival": 305,
       "xg_total": 21.9,
-      "faltas_partido": 10.4,
+      "toques_area_rival": 305,
+      "amarillas_total": 36,
       "corners_total": 83,
-      "amarillas_total": 36
+      "xg_concedido_total": 13.8,
+      "faltas_partido": 10.4
      }
     }
    },
@@ -2176,16 +2176,16 @@
       "porterias_cero": 6,
       "pj_stats": 31,
       "goles_partido": 1.6,
-      "posesion": 55.5,
       "goles_concedidos_partido": 1.5,
-      "toques_area_rival": 753,
-      "xg_total": 48.2,
+      "posesion": 55.5,
       "remates_puerta_partido": 5.3,
+      "xg_total": 48.2,
+      "toques_area_rival": 753,
       "grandes_ocasiones_total": 78,
+      "corners_total": 166,
       "xg_concedido_total": 42,
       "amarillas_total": 74,
-      "faltas_partido": 14.2,
-      "corners_total": 166
+      "faltas_partido": 14.2
      }
     },
     "visitante": {
@@ -2287,16 +2287,16 @@
       "porterias_cero": 4,
       "pj_stats": 31,
       "goles_partido": 1.1,
-      "posesion": 43.8,
       "goles_concedidos_partido": 1.6,
-      "toques_area_rival": 504,
-      "xg_total": 32.8,
+      "posesion": 43.8,
       "remates_puerta_partido": 4,
+      "xg_total": 32.8,
+      "toques_area_rival": 504,
       "grandes_ocasiones_total": 52,
+      "corners_total": 159,
       "xg_concedido_total": 50.9,
       "amarillas_total": 61,
-      "faltas_partido": 11.3,
-      "corners_total": 159
+      "faltas_partido": 11.3
      }
     }
    },
@@ -2395,17 +2395,17 @@
       "xg_concedido_por_partido": 1.63
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2,
-      "pj_stats": 13,
-      "goles_partido": 1.2,
       "posesion": 48.6,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 2,
+      "goles_partido": 1.2,
       "xg_total": 23.3,
       "grandes_ocasiones_total": 37,
-      "toques_area_rival": 282,
       "remates_puerta_partido": 4.7,
-      "xg_concedido_total": 21.2,
-      "faltas_partido": 14,
+      "toques_area_rival": 282,
       "corners_total": 72,
+      "faltas_partido": 14,
+      "xg_concedido_total": 21.2,
       "amarillas_total": 27
      }
     },
@@ -2485,18 +2485,18 @@
       "xg_concedido_por_partido": 1.94
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 2.5,
-      "pj_stats": 13,
-      "goles_partido": 0.6,
       "posesion": 45.9,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 2.5,
       "porterias_cero": 1,
+      "goles_partido": 0.6,
       "xg_total": 12.3,
       "grandes_ocasiones_total": 21,
-      "toques_area_rival": 176,
       "remates_puerta_partido": 2.5,
-      "xg_concedido_total": 25.3,
-      "faltas_partido": 13,
+      "toques_area_rival": 176,
       "corners_total": 55,
+      "faltas_partido": 13,
+      "xg_concedido_total": 25.3,
       "amarillas_total": 37
      }
     }
@@ -2597,18 +2597,18 @@
       "xg_concedido_por_partido": 1.39
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.5,
-      "pj_stats": 13,
-      "goles_partido": 1.1,
       "posesion": 42.9,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 1.5,
       "porterias_cero": 2,
+      "goles_partido": 1.1,
       "xg_total": 17.3,
       "grandes_ocasiones_total": 29,
-      "toques_area_rival": 265,
       "remates_puerta_partido": 4.9,
-      "xg_concedido_total": 18.1,
-      "faltas_partido": 14,
+      "toques_area_rival": 265,
       "corners_total": 70,
+      "faltas_partido": 14,
+      "xg_concedido_total": 18.1,
       "amarillas_total": 22
      }
     },
@@ -2678,18 +2678,18 @@
       "xg_concedido_por_partido": 1.59
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.7,
-      "pj_stats": 13,
-      "goles_partido": 1.4,
       "posesion": 51.3,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 1.7,
       "porterias_cero": 1,
+      "goles_partido": 1.4,
       "xg_total": 16.6,
       "grandes_ocasiones_total": 29,
-      "toques_area_rival": 227,
       "remates_puerta_partido": 4.2,
-      "xg_concedido_total": 20.7,
-      "faltas_partido": 9.5,
+      "toques_area_rival": 227,
       "corners_total": 41,
+      "faltas_partido": 9.5,
+      "xg_concedido_total": 20.7,
       "amarillas_total": 12
      }
     }
@@ -2733,9 +2733,9 @@
     }
    },
    "clima": {
-    "temp_c": 12,
-    "viento_kmh": 11,
-    "lluvia_prob": 100,
+    "temp_c": 11,
+    "viento_kmh": 10,
+    "lluvia_prob": 92,
     "cielo": "Rain/Wind"
    },
    "equipos": {
@@ -2767,12 +2767,12 @@
       }
      ],
      "alineacion": {
-      "tipo": "predicted",
+      "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
        "Kjetil Haug",
        "Alfons Sampsted",
-       "Giovanni van Zwam",
+       "Julius Dirksen",
        "Joris Kramer",
        "Dean James",
        "Melle Meulensteen",
@@ -2780,7 +2780,7 @@
        "Søren Tengstedt",
        "Victor Edvardsen",
        "Mathis Suray",
-       "Stefán Sigurðarson"
+       "Oskar Siira Sivertsen"
       ]
      },
      "tabla": {
@@ -2812,13 +2812,13 @@
      "stats_temporada": {
       "posesion": 55.1,
       "pj_stats": 9,
-      "goles_concedidos_partido": 2.3,
       "goles_partido": 2.2,
       "xg_total": 18.7,
+      "goles_concedidos_partido": 2.3,
       "remates_puerta_partido": 6.2,
       "grandes_ocasiones_total": 31,
-      "toques_area_rival": 251,
       "corners_total": 57,
+      "toques_area_rival": 251,
       "xg_concedido_total": 15.6,
       "faltas_partido": 7.1,
       "amarillas_total": 7
@@ -2834,28 +2834,22 @@
       "D 2 - 2 Telstar-ADO Den Haag",
       "L 3 - 4 Telstar-Feyenoord"
      ],
-     "bajas": [
-      {
-       "jugador": "Rui Mendes",
-       "tipo": "injury",
-       "regreso": "Mid November 2026"
-      }
-     ],
+     "bajas": [],
      "alineacion": {
-      "tipo": "predicted",
-      "formacion": "4-3-3",
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
       "titulares": [
        "Ronald Koeman",
-       "Gerald Alders",
        "Sem Valk",
        "Abdelnor Soualhia",
        "Marvin Peersman",
-       "Noach Shenkman",
-       "Tyrone Owusu",
+       "Gabi Caschili",
        "Nils Rossen",
+       "Tyrone Owusu",
+       "Noach Shenkman",
        "Arjany Martha",
-       "Nökkvi Thorisson",
-       "Patrick Brouwer"
+       "Patrick Brouwer",
+       "Nökkvi Thorisson"
       ]
      },
      "tabla": {
@@ -2887,14 +2881,14 @@
      "stats_temporada": {
       "posesion": 45.1,
       "pj_stats": 9,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 2,
       "goles_partido": 1.1,
       "xg_total": 11.5,
+      "porterias_cero": 1,
+      "goles_concedidos_partido": 2,
       "remates_puerta_partido": 3.1,
       "grandes_ocasiones_total": 16,
-      "toques_area_rival": 206,
       "corners_total": 43,
+      "toques_area_rival": 206,
       "xg_concedido_total": 20.2,
       "faltas_partido": 10.7,
       "amarillas_total": 13
@@ -2965,9 +2959,9 @@
      ],
      "bajas": [
       {
-       "jugador": "Thiago Balieiro",
-       "tipo": "injury",
-       "regreso": "Day to day"
+       "jugador": "Alioune Ndoye",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
       },
       {
        "jugador": "Gui",
@@ -2983,11 +2977,6 @@
        "jugador": "Francisco Dias",
        "tipo": "injury",
        "regreso": "Mid November 2026"
-      },
-      {
-       "jugador": "Alioune Ndoye",
-       "tipo": "suspension",
-       "regreso": "Late October 2026"
       }
      ],
      "alineacion": {
@@ -2997,7 +2986,7 @@
        "Oliwier Zych",
        "Tony Strata",
        "Toni Borevković",
-       "Óscar Rivas",
+       "Thiago Balieiro",
        "João Mendes",
        "Lohann Doucet",
        "Gonçalo Nogueira",
@@ -3036,17 +3025,17 @@
      "stats_temporada": {
       "posesion": 53.5,
       "pj_stats": 8,
-      "goles_partido": 0.6,
-      "porterias_cero": 2,
-      "goles_concedidos_partido": 1.3,
       "xg_total": 13.1,
+      "goles_partido": 0.6,
+      "goles_concedidos_partido": 1.3,
+      "porterias_cero": 2,
       "remates_puerta_partido": 4.1,
-      "corners_total": 46,
+      "xg_concedido_total": 7.9,
       "grandes_ocasiones_total": 22,
       "toques_area_rival": 205,
-      "amarillas_total": 21,
-      "xg_concedido_total": 7.9,
-      "faltas_partido": 15.8
+      "corners_total": 46,
+      "faltas_partido": 15.8,
+      "amarillas_total": 21
      }
     },
     "visitante": {
@@ -3071,13 +3060,13 @@
       "formacion": "4-2-3-1",
       "titulares": [
        "Francisco Vieites",
-       "Igor Julião",
+       "Tomás Tavares",
        "Romain Correia",
        "Gábor Szalai",
        "Paulo Henrique",
        "Ibrahim Alani",
        "Raphael Guzzo",
-       "Simo Bouzaidi",
+       "Igor Julião",
        "Maxime Dominguez",
        "Martín Tejón",
        "Adrián Butzke"
@@ -3112,17 +3101,17 @@
      "stats_temporada": {
       "posesion": 44.7,
       "pj_stats": 8,
-      "goles_partido": 1.1,
-      "porterias_cero": 1,
-      "goles_concedidos_partido": 1.8,
       "xg_total": 7.4,
+      "goles_partido": 1.1,
+      "goles_concedidos_partido": 1.8,
+      "porterias_cero": 1,
       "remates_puerta_partido": 3.3,
-      "corners_total": 23,
+      "xg_concedido_total": 11.1,
       "grandes_ocasiones_total": 14,
       "toques_area_rival": 125,
-      "amarillas_total": 14,
-      "xg_concedido_total": 11.1,
-      "faltas_partido": 15.5
+      "corners_total": 23,
+      "faltas_partido": 15.5,
+      "amarillas_total": 14
      }
     }
    },
@@ -3147,7 +3136,7 @@
     "1393510 has the most shots on target per match for 7844 (1.2)",
     "Have scored 5 goals in their last 5 matches",
     "Haven't kept a clean sheet in 8 matches",
-    "1102246 has created the most big chances for 10212 (3)"
+    "1521007 has the most shots on target per match for 10212 (1.5)"
    ]
   },
   {
@@ -3239,19 +3228,19 @@
       "xg_concedido_por_partido": 1.76
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.6,
-      "pj_stats": 11,
       "posesion": 50.2,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.6,
+      "remates_puerta_partido": 4.7,
       "porterias_cero": 3,
       "goles_partido": 1.4,
       "xg_total": 15.7,
       "grandes_ocasiones_total": 25,
       "toques_area_rival": 273,
+      "xg_concedido_total": 19.4,
       "corners_total": 59,
       "faltas_partido": 10.8,
-      "remates_puerta_partido": 4.7,
-      "amarillas_total": 19,
-      "xg_concedido_total": 19.4
+      "amarillas_total": 19
      }
     },
     "visitante": {
@@ -3325,19 +3314,19 @@
       "xg_concedido_por_partido": 1.03
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.5,
-      "pj_stats": 11,
       "posesion": 59.6,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.5,
+      "remates_puerta_partido": 6.2,
       "porterias_cero": 2,
       "goles_partido": 2,
       "xg_total": 21.9,
       "grandes_ocasiones_total": 38,
       "toques_area_rival": 362,
+      "xg_concedido_total": 11.3,
       "corners_total": 64,
       "faltas_partido": 10.1,
-      "remates_puerta_partido": 6.2,
-      "amarillas_total": 12,
-      "xg_concedido_total": 11.3
+      "amarillas_total": 12
      }
     }
    },
@@ -3373,8 +3362,8 @@
     "stats": {}
    },
    "clima": {
-    "temp_c": 28,
-    "viento_kmh": 6,
+    "temp_c": 27,
+    "viento_kmh": 7,
     "cielo": "Partly Cloudy"
    },
    "equipos": {
@@ -3559,9 +3548,9 @@
    },
    "clima": {
     "temp_c": 20,
-    "viento_kmh": 2,
+    "viento_kmh": 3,
     "lluvia_prob": 5,
-    "cielo": "Cloudy"
+    "cielo": "Mostly Cloudy"
    },
    "equipos": {
     "local": {
@@ -3607,5 +3596,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-23T15:42:38.916Z"
+ "generado_utc": "2026-10-23T17:57:09.059Z"
 }
