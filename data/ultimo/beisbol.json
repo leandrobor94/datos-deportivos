@@ -9,9 +9,13 @@
    "serie": "World Series",
    "inicio_utc": "2026-10-24T00:00:00Z",
    "inicio_colombia": "2026-10-23 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "American Family Field",
-   "clima": null,
+   "clima": {
+    "condition": "Roof Closed",
+    "temp": "70",
+    "wind": "0 mph, None"
+   },
    "visitante": {
     "equipo": "Tampa Bay Rays",
     "record": "0-0",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Yandy Díaz",
+     "Jonathan Aranda",
+     "Chandler Simpson",
+     "Junior Caminero",
+     "Liam Hicks",
+     "Jonny DeLuca",
+     "Victor Mesa Jr.",
+     "Ben Williamson",
+     "Taylor Walls"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -217,7 +231,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Jackson Chourio",
+     "Jake Bauers",
+     "Christian Yelich",
+     "William Contreras",
+     "Brice Turang",
+     "Garrett Mitchell",
+     "Cooper Pratt",
+     "Sal Frelick",
+     "David Hamilton"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -281,5 +305,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-23T19:31:41.442Z"
+ "generado_utc": "2026-10-23T23:05:13.826Z"
 }
