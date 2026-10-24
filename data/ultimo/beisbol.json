@@ -1,104 +1,90 @@
 {
  "fuente": "MLB Stats API (statsapi.mlb.com)",
- "fecha": "2026-10-23",
+ "fecha": "2026-10-24",
  "nota": "FIP calculado con constante aproximada 3.15. Factores de estadio y umpire no vienen en esta API.",
  "partidos": [
   {
-   "id": 849805,
+   "id": 849802,
    "tipo": "W",
    "serie": "World Series",
-   "inicio_utc": "2026-10-24T00:00:00Z",
-   "inicio_colombia": "2026-10-23 19:00",
-   "estado": "Pre-Game",
+   "inicio_utc": "2026-10-25T00:00:00Z",
+   "inicio_colombia": "2026-10-24 19:00",
+   "estado": "Scheduled",
    "estadio": "American Family Field",
-   "clima": {
-    "condition": "Roof Closed",
-    "temp": "70",
-    "wind": "0 mph, None"
-   },
+   "clima": null,
    "visitante": {
     "equipo": "Tampa Bay Rays",
-    "record": "0-0",
+    "record": "0-1",
     "abridor_probable": {
-     "nombre": "Nick Martinez",
+     "nombre": "Drew Rasmussen",
      "mano": "R",
      "temporada": {
-      "aperturas": 31,
-      "juegos": 31,
-      "era": 3.1,
-      "whip": 1.09,
-      "entradas": 180,
-      "fip": 4.01,
-      "k_pct": 15.1,
-      "bb_pct": 3.6,
-      "k_menos_bb_pct": 11.5,
-      "hr_por_9": 1.1,
-      "bateadores": 722
+      "aperturas": 30,
+      "juegos": 30,
+      "era": 2.67,
+      "whip": 0.91,
+      "entradas": 172,
+      "fip": 2.87,
+      "k_pct": 26.01,
+      "bb_pct": 4.78,
+      "k_menos_bb_pct": 21.23,
+      "hr_por_9": 0.73,
+      "bateadores": 669
      },
      "ultimas_aperturas": [
       {
-       "fecha": "2026-09-04",
-       "rival": "Texas Rangers",
-       "ip": "6.1",
-       "carreras_limpias": 3,
-       "k": 4,
+       "fecha": "2026-08-30",
+       "rival": "San Diego Padres",
+       "ip": "6.0",
+       "carreras_limpias": 2,
+       "k": 6,
        "bb": 2,
-       "hr": 1,
-       "lanzamientos": 90
+       "hr": 0,
+       "lanzamientos": 97
       },
       {
-       "fecha": "2026-09-10",
-       "rival": "Atlanta Braves",
-       "ip": "6.1",
-       "carreras_limpias": 0,
-       "k": 3,
+       "fecha": "2026-09-05",
+       "rival": "Texas Rangers",
+       "ip": "7.0",
+       "carreras_limpias": 1,
+       "k": 7,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 97
+      },
+      {
+       "fecha": "2026-09-11",
+       "rival": "Houston Astros",
+       "ip": "7.0",
+       "carreras_limpias": 1,
+       "k": 4,
        "bb": 0,
        "hr": 0,
-       "lanzamientos": 68
+       "lanzamientos": 92
       },
       {
-       "fecha": "2026-09-16",
+       "fecha": "2026-09-17",
        "rival": "Athletics",
        "ip": "5.0",
-       "carreras_limpias": 2,
+       "carreras_limpias": 0,
        "k": 3,
-       "bb": 0,
-       "hr": 2,
-       "lanzamientos": 72
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 76
       },
       {
        "fecha": "2026-09-22",
        "rival": "New York Yankees",
-       "ip": "6.0",
-       "carreras_limpias": 2,
-       "k": 7,
-       "bb": 1,
-       "hr": 1,
-       "lanzamientos": 94
-      },
-      {
-       "fecha": "2026-09-27",
-       "rival": "Philadelphia Phillies",
-       "ip": "2.2",
-       "carreras_limpias": 4,
-       "k": 1,
-       "bb": 1,
+       "ip": "6.2",
+       "carreras_limpias": 1,
+       "k": 11,
+       "bb": 3,
        "hr": 0,
-       "lanzamientos": 50
+       "lanzamientos": 114
       }
      ]
     },
-    "alineacion_confirmada": [
-     "Yandy Díaz",
-     "Jonathan Aranda",
-     "Chandler Simpson",
-     "Junior Caminero",
-     "Liam Hicks",
-     "Jonny DeLuca",
-     "Victor Mesa Jr.",
-     "Ben Williamson",
-     "Taylor Walls"
-    ],
+    "alineacion_confirmada": null,
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -154,94 +140,97 @@
      }
     },
     "bullpen_ultimos_3_dias": {
-     "dias": "2026-10-20 a 2026-10-22",
-     "juegos": 0,
-     "relevistas": {}
+     "dias": "2026-10-21 a 2026-10-23",
+     "juegos": 1,
+     "relevistas": {
+      "Steven Matz": [
+       "2026-10-23: 31 lanz."
+      ],
+      "Kevin Kelly": [
+       "2026-10-23: 12 lanz."
+      ],
+      "Garrett Cleavinger": [
+       "2026-10-23: 10 lanz."
+      ],
+      "Cole Sulser": [
+       "2026-10-23: 4 lanz."
+      ]
+     }
     }
    },
    "local": {
     "equipo": "Milwaukee Brewers",
-    "record": "0-0",
+    "record": "1-0",
     "abridor_probable": {
-     "nombre": "Jacob Misiorowski",
+     "nombre": "Logan Henderson",
      "mano": "R",
      "temporada": {
-      "aperturas": 30,
-      "juegos": 30,
-      "era": 1.8,
-      "whip": 0.8,
-      "entradas": 174.67,
-      "fip": 2.22,
-      "k_pct": 37.89,
-      "bb_pct": 6.62,
-      "k_menos_bb_pct": 31.28,
-      "hr_por_9": 0.72,
-      "bateadores": 665
+      "aperturas": 18,
+      "juegos": 18,
+      "era": 2.47,
+      "whip": 0.84,
+      "entradas": 98.33,
+      "fip": 3.37,
+      "k_pct": 29.65,
+      "bb_pct": 5.12,
+      "k_menos_bb_pct": 24.53,
+      "hr_por_9": 1.28,
+      "bateadores": 371
      },
      "ultimas_aperturas": [
       {
-       "fecha": "2026-09-02",
-       "rival": "Chicago Cubs",
-       "ip": "4.0",
-       "carreras_limpias": 5,
-       "k": 5,
-       "bb": 4,
-       "hr": 1,
-       "lanzamientos": 92
-      },
-      {
-       "fecha": "2026-09-08",
-       "rival": "Chicago Cubs",
-       "ip": "6.1",
+       "fecha": "2026-08-28",
+       "rival": "Texas Rangers",
+       "ip": "7.0",
        "carreras_limpias": 1,
-       "k": 9,
-       "bb": 2,
-       "hr": 0,
-       "lanzamientos": 93
+       "k": 7,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 91
       },
       {
-       "fecha": "2026-09-15",
-       "rival": "Pittsburgh Pirates",
+       "fecha": "2026-09-03",
+       "rival": "Chicago Cubs",
+       "ip": "7.0",
+       "carreras_limpias": 2,
+       "k": 7,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 102
+      },
+      {
+       "fecha": "2026-09-09",
+       "rival": "Chicago Cubs",
        "ip": "5.0",
        "carreras_limpias": 0,
-       "k": 7,
+       "k": 6,
        "bb": 1,
        "hr": 0,
-       "lanzamientos": 82
+       "lanzamientos": 95
       },
       {
-       "fecha": "2026-09-20",
-       "rival": "Baltimore Orioles",
-       "ip": "3.0",
-       "carreras_limpias": 0,
-       "k": 4,
-       "bb": 0,
-       "hr": 0,
-       "lanzamientos": 44
+       "fecha": "2026-09-16",
+       "rival": "Pittsburgh Pirates",
+       "ip": "5.0",
+       "carreras_limpias": 3,
+       "k": 8,
+       "bb": 1,
+       "hr": 2,
+       "lanzamientos": 87
       },
       {
-       "fecha": "2026-09-27",
-       "rival": "St. Louis Cardinals",
-       "ip": "5.1",
-       "carreras_limpias": 0,
-       "k": 5,
-       "bb": 2,
+       "fecha": "2026-09-23",
+       "rival": "Philadelphia Phillies",
+       "ip": "5.0",
+       "carreras_limpias": 1,
+       "k": 3,
+       "bb": 3,
        "hr": 0,
-       "lanzamientos": 68
+       "lanzamientos": 87
       }
      ]
     },
-    "alineacion_confirmada": [
-     "Jackson Chourio",
-     "Jake Bauers",
-     "Christian Yelich",
-     "William Contreras",
-     "Brice Turang",
-     "Garrett Mitchell",
-     "Cooper Pratt",
-     "Sal Frelick",
-     "David Hamilton"
-    ],
+    "alineacion_confirmada": null,
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -297,13 +286,23 @@
      }
     },
     "bullpen_ultimos_3_dias": {
-     "dias": "2026-10-20 a 2026-10-22",
-     "juegos": 0,
-     "relevistas": {}
+     "dias": "2026-10-21 a 2026-10-23",
+     "juegos": 1,
+     "relevistas": {
+      "Abner Uribe": [
+       "2026-10-23: 15 lanz."
+      ],
+      "Aaron Ashby": [
+       "2026-10-23: 20 lanz."
+      ],
+      "Trevor Megill": [
+       "2026-10-23: 20 lanz."
+      ]
+     }
     }
    }
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-23T23:05:13.826Z"
+ "generado_utc": "2026-10-24T14:26:07.977Z"
 }
