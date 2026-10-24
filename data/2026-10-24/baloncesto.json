@@ -21,7 +21,9 @@
      "Home: 0-2",
      "Road: 0-0"
     ],
-    "lesiones": [],
+    "lesiones": [
+     "Pelle Larsson: Day-To-Day (Finger)"
+    ],
     "ultimos_5": [
      "2026-10-11 vs MIN L 125-124",
      "2026-10-14 vs BKN W 144-128",
@@ -126,7 +128,7 @@
      {
       "jugador": "Pelle Larsson",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -507,9 +509,10 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Grant Williams: Day-To-Day (Hamstring)",
-     "Coby White: Day-To-Day (Calf)",
-     "Kon Knueppel: Day-To-Day (Hamstring)",
+     "Grant Williams: Out (Hamstring)",
+     "Christian Anderson: Day-To-Day (Ankle)",
+     "Coby White: Out (Calf)",
+     "Kon Knueppel: Out (Hamstring)",
      "Kylan Boswell: Out (Knee)"
     ],
     "ultimos_5": [
@@ -523,7 +526,7 @@
      {
       "jugador": "Kon Knueppel",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -897,7 +900,7 @@
      {
       "jugador": "Grant Williams",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -948,7 +951,7 @@
      {
       "jugador": "Coby White",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2499,9 +2502,9 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "LeBron James: Out (Back)",
      "Tacko Fall: Out (Quadriceps)",
      "Dean Wade: Day-To-Day (Ankle)",
-     "LeBron James: Day-To-Day (Back)",
      "Dominick Barlow: Out (Back)",
      "Ariel Hukporti: Out (Achilles)"
     ],
@@ -2704,7 +2707,7 @@
      {
       "jugador": "LeBron James",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -3000,7 +3003,7 @@
      "Road: 0-0"
     ],
     "lesiones": [
-     "AJ Dybantsa: Day-To-Day (Ankle)",
+     "AJ Dybantsa: Out (Ankle)",
      "Tristan Vukcevic: Out (Hip)",
      "Jamir Watkins: Out (Knee)"
     ],
@@ -3299,7 +3302,7 @@
      {
       "jugador": "AJ Dybantsa",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -4502,11 +4505,11 @@
      "Road: 1-1"
     ],
     "lesiones": [
+     "Tarik Biberovic: Out (Heel)",
+     "Santi Aldama: Out (Knee)",
+     "Cooper Flagg: Out (Shoulder)",
      "Kyrie Irving: Day-To-Day (Rest)",
-     "Caleb Martin: Day-To-Day (Thumb)",
-     "Jett Howard: Day-To-Day (Calf)",
-     "Tarik Biberovic: Day-To-Day (Heel)",
-     "Santi Aldama: Day-To-Day (Knee)"
+     "Caleb Martin: Day-To-Day (Thumb)"
     ],
     "ultimos_5": [
      "2026-10-11 vs HOU W 132-115",
@@ -4519,7 +4522,7 @@
      {
       "jugador": "Santi Aldama",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5002,9 +5005,9 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Steven Adams: Day-To-Day (Rest)",
-     "Fred VanVleet: Day-To-Day (Rest)",
-     "Reed Sheppard: Day-To-Day (Knee)"
+     "Steven Adams: Out (Ankle)",
+     "Reed Sheppard: Day-To-Day (Knee)",
+     "Fred VanVleet: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-09 vs DAL W 135-117",
@@ -5063,7 +5066,7 @@
      {
       "jugador": "Fred VanVleet",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -7995,7 +7998,7 @@
    "nota": "WNBA Finals - Game 4",
    "inicio_utc": "2026-10-24T17:00Z",
    "inicio_colombia": "2026-10-24 12:00",
-   "estado": "Scheduled",
+   "estado": "Halftime",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "GS wins series 3-0",
@@ -8011,13 +8014,7 @@
     "lesiones": [
      "Iliana Rupert: Out (Not Injury Related)"
     ],
-    "ultimos_5": [
-     "2026-10-08 vs LV W 83-81",
-     "2026-10-10 @ LV W 87-77 OT",
-     "2026-10-17 vs ATL W 68-64",
-     "2026-10-20 vs ATL L 79-65",
-     "2026-10-22 @ ATL L 97-71"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Gabby Williams",
@@ -8440,13 +8437,7 @@
      "Matilde Villa: Out (Coach's Decision)",
      "Brionna Jones: Out (Leg)"
     ],
-    "ultimos_5": [
-     "2026-10-07 vs NY W 101-98 OT",
-     "2026-10-09 @ NY W 85-83",
-     "2026-10-17 @ GS L 68-64",
-     "2026-10-20 @ GS W 79-65",
-     "2026-10-22 vs GS W 97-71"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Rhyne Howard",
@@ -8860,5 +8851,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-24T16:56:15.056Z"
+ "generado_utc": "2026-10-24T18:20:52.852Z"
 }
