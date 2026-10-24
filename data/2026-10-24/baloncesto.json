@@ -3496,6 +3496,7 @@
      "Road: 1-1"
     ],
     "lesiones": [
+     "Noa Essengue: Day-To-Day (Head)",
      "Nic Claxton: Out (Hamstring)"
     ],
     "ultimos_5": [
@@ -4501,11 +4502,11 @@
      "Road: 1-1"
     ],
     "lesiones": [
+     "Kyrie Irving: Day-To-Day (Rest)",
      "Caleb Martin: Day-To-Day (Thumb)",
      "Jett Howard: Day-To-Day (Calf)",
      "Tarik Biberovic: Day-To-Day (Heel)",
-     "Santi Aldama: Day-To-Day (Knee)",
-     "Cooper Flagg: Out (Shoulder)"
+     "Santi Aldama: Day-To-Day (Knee)"
     ],
     "ultimos_5": [
      "2026-10-11 vs HOU W 132-115",
@@ -4754,7 +4755,7 @@
      {
       "jugador": "Kyrie Irving",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -5001,6 +5002,8 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Steven Adams: Day-To-Day (Rest)",
+     "Fred VanVleet: Day-To-Day (Rest)",
      "Reed Sheppard: Day-To-Day (Knee)"
     ],
     "ultimos_5": [
@@ -5060,7 +5063,7 @@
      {
       "jugador": "Fred VanVleet",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -8857,5 +8860,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-24T14:26:09.987Z"
+ "generado_utc": "2026-10-24T16:56:15.056Z"
 }
