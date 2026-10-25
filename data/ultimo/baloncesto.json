@@ -1504,7 +1504,7 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Tyler Bilodeau: Day-To-Day (Shoulder)",
+     "Tyler Bilodeau: Out (Shoulder)",
      "Mikel Brown Jr.: Out (Rest)"
     ],
     "ultimos_5": [
@@ -5467,11 +5467,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "LeBron James: Day-To-Day",
-     "Joel Embiid: Day-To-Day (Rest)",
-     "Jabari Walker: Day-To-Day (Knee)",
      "Tacko Fall: Out (Quadriceps)",
-     "Dominick Barlow: Out (Back)"
+     "Jabari Walker: Out (Knee)",
+     "Joel Embiid: Out (Heel)",
+     "Dominick Barlow: Out (Back)",
+     "Ariel Hukporti: Out (Achilles)"
     ],
     "ultimos_5": [
      "2026-10-11 @ BOS L 144-106",
@@ -6973,5 +6973,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-25T17:12:48.067Z"
+ "generado_utc": "2026-10-25T18:32:41.512Z"
 }
