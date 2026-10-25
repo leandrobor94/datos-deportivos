@@ -5467,7 +5467,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "LeBron James: Day-To-Day (Back)",
+     "LeBron James: Day-To-Day",
      "Joel Embiid: Day-To-Day (Rest)",
      "Jabari Walker: Day-To-Day (Knee)",
      "Tacko Fall: Out (Quadriceps)",
@@ -5535,7 +5535,7 @@
      {
       "jugador": "Joel Embiid",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5722,7 +5722,7 @@
      {
       "jugador": "LeBron James",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -6973,5 +6973,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-25T14:55:45.093Z"
+ "generado_utc": "2026-10-25T17:12:48.067Z"
 }
