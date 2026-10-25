@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-25T21:00Z",
    "inicio_colombia": "2026-10-25 16:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Delta Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -25,13 +25,7 @@
      "Adou Thiero: Out (Knee)",
      "Cameron Carr: Out (Oblique)"
     ],
-    "ultimos_5": [
-     "2026-10-09 vs SAC W 114-110",
-     "2026-10-14 vs GS L 101-89",
-     "2026-10-17 vs DEN L 121-106",
-     "2026-10-22 vs GS W 127-105",
-     "2026-10-24 vs LAC W 125-117"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Austin Reaves",
@@ -503,13 +497,7 @@
      "Trey Alexander: Out (Knee)",
      "Jusuf Nurkic: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-10-07 vs DEN L 117-106",
-     "2026-10-13 vs SA W 119-109",
-     "2026-10-17 @ PHX W 119-116",
-     "2026-10-22 @ MEM L 123-103",
-     "2026-10-24 vs NO W 120-119"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jusuf Nurkic",
@@ -998,7 +986,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-25T22:00Z",
    "inicio_colombia": "2026-10-25 17:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Barclays Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -1011,18 +999,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Aaron Nesmith: Day-To-Day (Hamstring)",
      "T.J. McConnell: Out (Hamstring)",
      "Ben Sheppard: Out (Knee)",
      "Johnny Furphy: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-10 vs ATL L 119-117",
-     "2026-10-14 @ OKC L 114-112 OT",
-     "2026-10-16 vs MIL L 128-127 OT",
-     "2026-10-22 @ NO W 123-120",
-     "2026-10-23 vs DAL L 121-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Andrew Nembhard",
@@ -1453,7 +1434,7 @@
      {
       "jugador": "Aaron Nesmith",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 3,
@@ -1507,13 +1488,7 @@
      "Tyler Bilodeau: Out (Shoulder)",
      "Mikel Brown Jr.: Out (Rest)"
     ],
-    "ultimos_5": [
-     "2026-10-08 vs PHI W 114-108",
-     "2026-10-12 @ WSH W 131-122",
-     "2026-10-14 @ MIA L 144-128",
-     "2026-10-21 vs CHA L 110-103",
-     "2026-10-24 @ CLE L 125-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Drake Powell",
@@ -2023,7 +1998,6 @@
     ],
     "lesiones": [
      "Jonathan Isaac: Out (Knee)",
-     "Anthony Black: Day-To-Day (Ankle)",
      "Paolo Banchero: Out (Ankle)",
      "Noah Penda: Out (Hamstring)",
      "Izaiyah Nelson: Out (Ankle)"
@@ -2039,7 +2013,7 @@
      {
       "jugador": "Anthony Black",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2516,7 +2490,7 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Jose Alvarado: Day-To-Day (Ankle)"
+     "Jose Alvarado: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-10-12 vs MIN L 122-104",
@@ -2905,7 +2879,7 @@
      {
       "jugador": "Jose Alvarado",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2972,6 +2946,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Kawhi Leonard: Out (Knee)",
      "Nate Bittle: Out (Foot)"
     ],
     "ultimos_5": [
@@ -3130,7 +3105,7 @@
      {
       "jugador": "Kawhi Leonard",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -4971,7 +4946,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Ausar Thompson: Day-To-Day (Ankle)",
+     "Ausar Thompson: Out (Ankle)",
      "Jalen Duren: Out (Hamstring)"
     ],
     "ultimos_5": [
@@ -5227,7 +5202,7 @@
      {
       "jugador": "Ausar Thompson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5467,11 +5442,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "VJ Edgecombe: Day-To-Day (Abdomen)",
      "Tacko Fall: Out (Quadriceps)",
      "Jabari Walker: Out (Knee)",
      "Joel Embiid: Out (Heel)",
-     "Dominick Barlow: Out (Back)",
-     "Ariel Hukporti: Out (Achilles)"
+     "Dominick Barlow: Out (Back)"
     ],
     "ultimos_5": [
      "2026-10-11 @ BOS L 144-106",
@@ -5675,7 +5650,7 @@
      {
       "jugador": "VJ Edgecombe",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5970,6 +5945,7 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Karim Lopez: Day-To-Day (Knee)",
      "Cedric Coward: Day-To-Day (Wrist)",
      "Zach Edey: Out (Ankle)"
     ],
@@ -6973,5 +6949,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-25T18:32:41.512Z"
+ "generado_utc": "2026-10-25T22:30:42.973Z"
 }
