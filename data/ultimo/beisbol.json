@@ -1,8 +1,330 @@
 {
  "fuente": "MLB Stats API (statsapi.mlb.com)",
- "fecha": "2026-10-25",
+ "fecha": "2026-10-26",
  "nota": "FIP calculado con constante aproximada 3.15. Factores de estadio y umpire no vienen en esta API.",
- "partidos": [],
+ "partidos": [
+  {
+   "id": 849804,
+   "tipo": "W",
+   "serie": "World Series",
+   "inicio_utc": "2026-10-27T00:00:00Z",
+   "inicio_colombia": "2026-10-26 19:00",
+   "estado": "Scheduled",
+   "estadio": "Tropicana Field",
+   "clima": null,
+   "visitante": {
+    "equipo": "Milwaukee Brewers",
+    "record": "2-0",
+    "abridor_probable": {
+     "nombre": "Robert Gasser",
+     "mano": "L",
+     "temporada": {
+      "aperturas": 20,
+      "juegos": 21,
+      "era": 3.87,
+      "whip": 1.19,
+      "entradas": 109.33,
+      "fip": 4.28,
+      "k_pct": 22.25,
+      "bb_pct": 7.56,
+      "k_menos_bb_pct": 14.69,
+      "hr_por_9": 1.23,
+      "bateadores": 463
+     },
+     "ultimas_aperturas": [
+      {
+       "fecha": "2026-09-01",
+       "rival": "Chicago Cubs",
+       "ip": "4.1",
+       "carreras_limpias": 2,
+       "k": 4,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 76
+      },
+      {
+       "fecha": "2026-09-07",
+       "rival": "Chicago Cubs",
+       "ip": "4.2",
+       "carreras_limpias": 1,
+       "k": 5,
+       "bb": 2,
+       "hr": 1,
+       "lanzamientos": 83
+      },
+      {
+       "fecha": "2026-09-13",
+       "rival": "Cincinnati Reds",
+       "ip": "5.0",
+       "carreras_limpias": 1,
+       "k": 5,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 89
+      },
+      {
+       "fecha": "2026-09-19",
+       "rival": "Baltimore Orioles",
+       "ip": "7.0",
+       "carreras_limpias": 0,
+       "k": 2,
+       "bb": 3,
+       "hr": 0,
+       "lanzamientos": 107
+      },
+      {
+       "fecha": "2026-09-25",
+       "rival": "St. Louis Cardinals",
+       "ip": "6.0",
+       "carreras_limpias": 1,
+       "k": 9,
+       "bb": 1,
+       "hr": 1,
+       "lanzamientos": 87
+      }
+     ]
+    },
+    "alineacion_confirmada": null,
+    "stats": {
+     "temporada": {
+      "carreras_anotadas_por_juego": 5.14,
+      "ops": 0.744,
+      "carreras_permitidas_por_juego": 3.81,
+      "era_equipo": 3.51
+     },
+     "ofensiva": {
+      "contra_zurdos": {
+       "ops": 0.706,
+       "obp": 0.327,
+       "slg": 0.379,
+       "avg": 0.245,
+       "pa": 1925,
+       "k_pct": 21.14,
+       "bb_pct": 10.18,
+       "hr": 40
+      },
+      "contra_derechos": {
+       "ops": 0.759,
+       "obp": 0.346,
+       "slg": 0.413,
+       "avg": 0.264,
+       "pa": 4374,
+       "k_pct": 22.31,
+       "bb_pct": 10.79,
+       "hr": 114
+      }
+     },
+     "pitcheo": {
+      "abridores": {
+       "era": 3.61,
+       "whip": 1.14,
+       "entradas": 806,
+       "fip": 3.78,
+       "k_pct": 27.39,
+       "bb_pct": 7.82,
+       "k_menos_bb_pct": 19.57,
+       "hr_por_9": 1.21,
+       "bateadores": 3312
+      },
+      "bullpen": {
+       "era": 3.4,
+       "whip": 1.23,
+       "entradas": 640.67,
+       "fip": 3.75,
+       "k_pct": 23.78,
+       "bb_pct": 9.67,
+       "k_menos_bb_pct": 14.11,
+       "hr_por_9": 0.89,
+       "bateadores": 2679
+      }
+     }
+    },
+    "bullpen_ultimos_3_dias": {
+     "dias": "2026-10-23 a 2026-10-25",
+     "juegos": 2,
+     "relevistas": {
+      "Abner Uribe": [
+       "2026-10-23: 15 lanz.",
+       "2026-10-24: 26 lanz."
+      ],
+      "Aaron Ashby": [
+       "2026-10-23: 20 lanz.",
+       "2026-10-24: 28 lanz."
+      ],
+      "Trevor Megill": [
+       "2026-10-23: 20 lanz."
+      ],
+      "JoJo Romero": [
+       "2026-10-24: 16 lanz."
+      ],
+      "Dustin May": [
+       "2026-10-24: 12 lanz."
+      ],
+      "DL Hall": [
+       "2026-10-24: 11 lanz."
+      ]
+     }
+    }
+   },
+   "local": {
+    "equipo": "Tampa Bay Rays",
+    "record": "0-2",
+    "abridor_probable": {
+     "nombre": "Freddy Peralta",
+     "mano": "R",
+     "temporada": {
+      "aperturas": 32,
+      "juegos": 32,
+      "era": 4.42,
+      "whip": 1.33,
+      "entradas": 169,
+      "fip": 4.33,
+      "k_pct": 21.37,
+      "bb_pct": 8.63,
+      "k_menos_bb_pct": 12.74,
+      "hr_por_9": 1.22,
+      "bateadores": 730
+     },
+     "ultimas_aperturas": [
+      {
+       "fecha": "2026-09-01",
+       "rival": "New York Mets",
+       "ip": "6.0",
+       "carreras_limpias": 1,
+       "k": 7,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 74
+      },
+      {
+       "fecha": "2026-09-08",
+       "rival": "Atlanta Braves",
+       "ip": "6.0",
+       "carreras_limpias": 1,
+       "k": 2,
+       "bb": 1,
+       "hr": 0,
+       "lanzamientos": 92
+      },
+      {
+       "fecha": "2026-09-13",
+       "rival": "Houston Astros",
+       "ip": "5.0",
+       "carreras_limpias": 0,
+       "k": 4,
+       "bb": 3,
+       "hr": 0,
+       "lanzamientos": 86
+      },
+      {
+       "fecha": "2026-09-19",
+       "rival": "Boston Red Sox",
+       "ip": "5.2",
+       "carreras_limpias": 1,
+       "k": 6,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 97
+      },
+      {
+       "fecha": "2026-09-25",
+       "rival": "Philadelphia Phillies",
+       "ip": "5.1",
+       "carreras_limpias": 0,
+       "k": 4,
+       "bb": 3,
+       "hr": 0,
+       "lanzamientos": 93
+      }
+     ]
+    },
+    "alineacion_confirmada": null,
+    "stats": {
+     "temporada": {
+      "carreras_anotadas_por_juego": 4.54,
+      "ops": 0.728,
+      "carreras_permitidas_por_juego": 4.01,
+      "era_equipo": 3.7
+     },
+     "ofensiva": {
+      "contra_zurdos": {
+       "ops": 0.679,
+       "obp": 0.315,
+       "slg": 0.364,
+       "avg": 0.248,
+       "pa": 1972,
+       "k_pct": 18.05,
+       "bb_pct": 7.91,
+       "hr": 36
+      },
+      "contra_derechos": {
+       "ops": 0.752,
+       "obp": 0.332,
+       "slg": 0.42,
+       "avg": 0.263,
+       "pa": 4134,
+       "k_pct": 19.09,
+       "bb_pct": 8.66,
+       "hr": 133
+      }
+     },
+     "pitcheo": {
+      "abridores": {
+       "era": 3.51,
+       "whip": 1.09,
+       "entradas": 811,
+       "fip": 3.84,
+       "k_pct": 22.27,
+       "bb_pct": 5.75,
+       "k_menos_bb_pct": 16.52,
+       "hr_por_9": 1.18,
+       "bateadores": 3287
+      },
+      "bullpen": {
+       "era": 3.99,
+       "whip": 1.2,
+       "entradas": 632,
+       "fip": 4.4,
+       "k_pct": 22.25,
+       "bb_pct": 8.3,
+       "k_menos_bb_pct": 13.95,
+       "hr_por_9": 1.35,
+       "bateadores": 2652
+      }
+     }
+    },
+    "bullpen_ultimos_3_dias": {
+     "dias": "2026-10-23 a 2026-10-25",
+     "juegos": 2,
+     "relevistas": {
+      "Steven Matz": [
+       "2026-10-23: 31 lanz.",
+       "2026-10-24: 8 lanz."
+      ],
+      "Kevin Kelly": [
+       "2026-10-23: 12 lanz.",
+       "2026-10-24: 32 lanz."
+      ],
+      "Garrett Cleavinger": [
+       "2026-10-23: 10 lanz."
+      ],
+      "Cole Sulser": [
+       "2026-10-23: 4 lanz."
+      ],
+      "Cam Booser": [
+       "2026-10-24: 13 lanz."
+      ],
+      "Ian Seymour": [
+       "2026-10-24: 34 lanz."
+      ],
+      "Tyler Wells": [
+       "2026-10-24: 8 lanz."
+      ]
+     }
+    }
+   }
+  }
+ ],
  "errores": [],
- "generado_utc": "2026-10-25T22:30:39.803Z"
+ "generado_utc": "2026-10-26T17:16:43.212Z"
 }
