@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-26T23:00Z",
    "inicio_colombia": "2026-10-26 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Spectrum Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -26,13 +26,7 @@
      "Tristan Vukcevic: Out (Hip)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-12 vs BKN L 131-122",
-     "2026-10-17 @ NO L 107-106",
-     "2026-10-21 vs MIL W 128-116",
-     "2026-10-23 vs TOR L 112-102",
-     "2026-10-25 @ CHI W 124-120"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Trae Young",
@@ -419,7 +413,7 @@
      {
       "jugador": "Justin Champagnie",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -525,19 +519,12 @@
      "Road: 1-0"
     ],
     "lesiones": [
-     "Naz Reid: Day-To-Day (Illness)",
-     "Kon Knueppel: Out (Hamstring)",
      "Coby White: Out (Calf)",
+     "Kon Knueppel: Out (Hamstring)",
      "Grant Williams: Out (Hamstring)",
      "Kylan Boswell: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-14 @ BOS L 114-93",
-     "2026-10-17 @ MEM L 116-98",
-     "2026-10-21 @ BKN W 110-103",
-     "2026-10-23 vs ATL L 128-81",
-     "2026-10-24 vs MIA W 115-110"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Kon Knueppel",
@@ -640,7 +627,7 @@
      {
       "jugador": "Naz Reid",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1032,10 +1019,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-26T23:00Z",
    "inicio_colombia": "2026-10-26 18:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Rocket Arena",
    "serie_temporada": [
-    "Series starts 10/26"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Minnesota Timberwolves",
@@ -1045,21 +1032,14 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Anthony Edwards: Day-To-Day (Knee)",
      "Donte DiVincenzo: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-10-15 vs DET L 128-106",
-     "2026-10-17 @ CHI L 133-116",
-     "2026-10-21 @ MIA W 131-106",
-     "2026-10-23 @ ORL W 115-93",
-     "2026-10-25 vs TOR W 117-94"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Anthony Edwards",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1551,13 +1531,7 @@
      "Road: 0-1"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-10-08 vs BOS L 124-113",
-     "2026-10-11 vs ORL W 119-105",
-     "2026-10-13 @ ORL L 132-116",
-     "2026-10-22 @ PHI L 114-106",
-     "2026-10-24 vs BKN W 125-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "James Harden",
@@ -2025,7 +1999,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-26T23:30Z",
    "inicio_colombia": "2026-10-26 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "TD Garden",
    "serie_temporada": [
     "Regular Season Series"
@@ -2038,17 +2012,10 @@
      "Road: 1-1"
     ],
     "lesiones": [
-     "Patrick Williams: Day-To-Day (Groin)",
-     "Noa Essengue: Day-To-Day (Head)",
-     "Nic Claxton: Out (Hamstring)"
+     "Nic Claxton: Out (Hamstring)",
+     "Patrick Williams: Out (Groin)"
     ],
-    "ultimos_5": [
-     "2026-10-15 @ MIL W 125-104",
-     "2026-10-17 vs MIN W 133-116",
-     "2026-10-21 @ TOR L 135-92",
-     "2026-10-23 @ MIL W 132-125",
-     "2026-10-25 vs WSH L 124-120"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Caleb Wilson",
@@ -2102,7 +2069,7 @@
      {
       "jugador": "Patrick Williams",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2547,13 +2514,7 @@
     "lesiones": [
      "Devin Carter: Out (Illness)"
     ],
-    "ultimos_5": [
-     "2026-10-11 vs PHI W 144-106",
-     "2026-10-14 vs CHA W 114-93",
-     "2026-10-16 @ PHI W 125-120 OT",
-     "2026-10-20 @ DET L 121-113",
-     "2026-10-23 vs NY W 107-103"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jayson Tatum",
@@ -3025,10 +2986,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-26T23:30Z",
    "inicio_colombia": "2026-10-26 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Kaseya Center",
    "serie_temporada": [
-    "Series starts 10/26"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Dallas Mavericks",
@@ -3039,18 +3000,12 @@
     ],
     "lesiones": [
      "Caleb Martin: Out (Thumb)",
-     "Cooper Flagg: Day-To-Day (Shoulder)",
      "Naji Marshall: Out (Illness)",
      "Tarik Biberovic: Out (Heel)",
-     "Santi Aldama: Out (Knee)"
+     "Santi Aldama: Out (Knee)",
+     "Dereck Lively II: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-10-15 vs NO L 101-97",
-     "2026-10-17 vs ATL L 135-111",
-     "2026-10-22 @ HOU L 128-110",
-     "2026-10-23 @ IND W 121-105",
-     "2026-10-25 vs SA L 122-106"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Santi Aldama",
@@ -3248,7 +3203,7 @@
      {
       "jugador": "Cooper Flagg",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3531,13 +3486,7 @@
      "Road: 0-1"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-10-14 vs BKN W 144-128",
-     "2026-10-16 @ ORL L 136-115",
-     "2026-10-21 vs MIN L 131-106",
-     "2026-10-24 vs DET L 128-111",
-     "2026-10-24 @ CHA L 115-110"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Pelle Larsson",
@@ -4039,11 +3988,11 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Andrew Nembhard: Day-To-Day (Neck)",
+     "Ben Sheppard: Out (Knee)",
+     "Andrew Nembhard: Out (Back)",
      "T.J. McConnell: Out (Hamstring)",
-     "Aaron Nesmith: Day-To-Day (Hamstring)",
      "Ivica Zubac: Out (Ankle)",
-     "Ben Sheppard: Out (Knee)"
+     "Johnny Furphy: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-14 @ OKC L 114-112 OT",
@@ -4056,7 +4005,7 @@
      {
       "jugador": "Andrew Nembhard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4391,7 +4340,7 @@
      {
       "jugador": "Aaron Nesmith",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -5552,11 +5501,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Jalen Williams: Out (Leg)",
+     "Cason Wallace: Out (Shoulder)",
      "Nikola Topic: Out (Back)",
      "Thomas Sorber: Out (Knee)",
-     "Cason Wallace: Out (Shoulder)",
-     "Chet Holmgren: Out (Knee)",
-     "Jalen Williams: Out (Ankle)"
+     "Chet Holmgren: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-14 vs IND W 114-112 OT",
@@ -6556,8 +6505,8 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Marcus Smart: Out (Forearm)",
-     "Steven Adams: Out (Calf)"
+     "Steven Adams: Out (Calf)",
+     "Marcus Smart: Out (Forearm)"
     ],
     "ultimos_5": [
      "2026-10-11 vs DAL L 132-115",
@@ -9917,5 +9866,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-26T20:44:13.219Z"
+ "generado_utc": "2026-10-26T23:48:37.959Z"
 }

@@ -9,7 +9,7 @@
    "serie": "World Series",
    "inicio_utc": "2026-10-27T00:00:00Z",
    "inicio_colombia": "2026-10-26 19:00",
-   "estado": "Pre-Game",
+   "estado": "Warmup",
    "estadio": "Tropicana Field",
    "clima": {
     "condition": "Dome",
@@ -350,5 +350,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-26T20:44:10.412Z"
+ "generado_utc": "2026-10-26T23:48:35.712Z"
 }
