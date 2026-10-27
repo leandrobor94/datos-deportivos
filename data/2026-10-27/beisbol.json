@@ -9,9 +9,13 @@
    "serie": "World Series",
    "inicio_utc": "2026-10-28T00:00:00Z",
    "inicio_colombia": "2026-10-27 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Tropicana Field",
-   "clima": null,
+   "clima": {
+    "condition": "Roof Closed",
+    "temp": "70",
+    "wind": "0 mph, None"
+   },
    "visitante": {
     "equipo": "Milwaukee Brewers",
     "record": "3-0",
@@ -171,7 +175,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Yandy Díaz",
+     "Jonathan Aranda",
+     "Junior Caminero",
+     "Liam Hicks",
+     "Jonny DeLuca",
+     "Chandler Simpson",
+     "Ryan Vilade",
+     "Richie Palacios",
+     "Taylor Walls"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -260,5 +274,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-27T18:56:41.811Z"
+ "generado_utc": "2026-10-27T20:13:38.964Z"
 }
