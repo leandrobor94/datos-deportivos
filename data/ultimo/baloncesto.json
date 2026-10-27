@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-27T23:30Z",
    "inicio_colombia": "2026-10-27 18:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "TD Garden",
    "serie_temporada": [
     "Regular Season Series"
@@ -24,13 +24,7 @@
     "lesiones": [
      "Tyler Bilodeau: Out (Shoulder)"
     ],
-    "ultimos_5": [
-     "2026-10-12 @ WSH W 131-122",
-     "2026-10-14 @ MIA L 144-128",
-     "2026-10-21 vs CHA L 110-103",
-     "2026-10-24 @ CLE L 125-121",
-     "2026-10-25 vs IND L 136-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Julius Randle",
@@ -519,16 +513,9 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Derrick White: Day-To-Day (Hip)",
      "Devin Carter: Out (Illness)"
     ],
-    "ultimos_5": [
-     "2026-10-14 vs CHA W 114-93",
-     "2026-10-16 @ PHI W 125-120 OT",
-     "2026-10-20 @ DET L 121-113",
-     "2026-10-23 vs NY W 107-103",
-     "2026-10-26 vs CHI W 134-99"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jayson Tatum",
@@ -722,7 +709,7 @@
      {
       "jugador": "Derrick White",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1022,8 +1009,7 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Ausar Thompson: Day-To-Day (Ankle)",
-     "Isaiah Joe: Day-To-Day (Hip)",
+     "Isaiah Joe: Out (Hip)",
      "Jalen Duren: Out (Hamstring)"
     ],
     "ultimos_5": [
@@ -1282,7 +1268,7 @@
      {
       "jugador": "Ausar Thompson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4028,5 +4014,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-27T20:13:40.383Z"
+ "generado_utc": "2026-10-27T23:43:54.626Z"
 }

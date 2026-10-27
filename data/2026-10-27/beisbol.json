@@ -19,8 +19,86 @@
    "visitante": {
     "equipo": "Milwaukee Brewers",
     "record": "3-0",
-    "abridor_probable": null,
-    "alineacion_confirmada": null,
+    "abridor_probable": {
+     "nombre": "Dustin May",
+     "mano": "R",
+     "temporada": {
+      "aperturas": 31,
+      "juegos": 31,
+      "era": 4.7,
+      "whip": 1.32,
+      "entradas": 145.67,
+      "fip": 3.68,
+      "k_pct": 23.19,
+      "bb_pct": 8.05,
+      "k_menos_bb_pct": 15.14,
+      "hr_por_9": 0.86,
+      "bateadores": 621
+     },
+     "ultimas_aperturas": [
+      {
+       "fecha": "2026-09-05",
+       "rival": "Cincinnati Reds",
+       "ip": "3.2",
+       "carreras_limpias": 2,
+       "k": 5,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 56
+      },
+      {
+       "fecha": "2026-09-11",
+       "rival": "Cincinnati Reds",
+       "ip": "6.0",
+       "carreras_limpias": 0,
+       "k": 6,
+       "bb": 1,
+       "hr": 0,
+       "lanzamientos": 84
+      },
+      {
+       "fecha": "2026-09-18",
+       "rival": "Baltimore Orioles",
+       "ip": "2.1",
+       "carreras_limpias": 3,
+       "k": 4,
+       "bb": 1,
+       "hr": 1,
+       "lanzamientos": 70
+      },
+      {
+       "fecha": "2026-09-22",
+       "rival": "Philadelphia Phillies",
+       "ip": "2.0",
+       "carreras_limpias": 2,
+       "k": 2,
+       "bb": 2,
+       "hr": 1,
+       "lanzamientos": 36
+      },
+      {
+       "fecha": "2026-09-26",
+       "rival": "St. Louis Cardinals",
+       "ip": "3.0",
+       "carreras_limpias": 2,
+       "k": 5,
+       "bb": 1,
+       "hr": 1,
+       "lanzamientos": 58
+      }
+     ]
+    },
+    "alineacion_confirmada": [
+     "Jackson Chourio",
+     "Jake Bauers",
+     "Christian Yelich",
+     "William Contreras",
+     "Brice Turang",
+     "Sal Frelick",
+     "Cooper Pratt",
+     "Garrett Mitchell",
+     "David Hamilton"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -274,5 +352,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-27T20:13:38.964Z"
+ "generado_utc": "2026-10-27T23:43:53.607Z"
 }
