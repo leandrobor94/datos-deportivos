@@ -11285,7 +11285,9 @@
     ],
     "lesiones": [
      "Cameron Carr: Out (Oblique)",
-     "Adou Thiero: Out (Knee)"
+     "Adou Thiero: Out (Knee)",
+     "Ziaire Williams: Out (Foot)",
+     "Luka Doncic: Out (Back)"
     ],
     "ultimos_5": [
      "2026-10-17 vs DEN L 121-106",
@@ -11346,7 +11348,7 @@
      {
       "jugador": "Luka Doncic",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -11491,7 +11493,7 @@
      {
       "jugador": "Ziaire Williams",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -12281,5 +12283,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-28T19:05:22.386Z"
+ "generado_utc": "2026-10-28T20:31:57.298Z"
 }

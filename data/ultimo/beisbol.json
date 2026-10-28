@@ -9,9 +9,13 @@
    "serie": "World Series",
    "inicio_utc": "2026-10-29T00:00:00Z",
    "inicio_colombia": "2026-10-28 19:00",
-   "estado": "Scheduled",
+   "estado": "Pre-Game",
    "estadio": "Tropicana Field",
-   "clima": null,
+   "clima": {
+    "condition": "Dome",
+    "temp": "70",
+    "wind": "0 mph, None"
+   },
    "visitante": {
     "equipo": "Milwaukee Brewers",
     "record": "3-1",
@@ -84,7 +88,17 @@
       }
      ]
     },
-    "alineacion_confirmada": null,
+    "alineacion_confirmada": [
+     "Jackson Chourio",
+     "Jake Bauers",
+     "Christian Yelich",
+     "William Contreras",
+     "Brice Turang",
+     "Sal Frelick",
+     "Cooper Pratt",
+     "Garrett Mitchell",
+     "David Hamilton"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 5.14,
@@ -174,8 +188,86 @@
    "local": {
     "equipo": "Tampa Bay Rays",
     "record": "1-3",
-    "abridor_probable": null,
-    "alineacion_confirmada": null,
+    "abridor_probable": {
+     "nombre": "Drew Rasmussen",
+     "mano": "R",
+     "temporada": {
+      "aperturas": 30,
+      "juegos": 30,
+      "era": 2.67,
+      "whip": 0.91,
+      "entradas": 172,
+      "fip": 2.87,
+      "k_pct": 26.01,
+      "bb_pct": 4.78,
+      "k_menos_bb_pct": 21.23,
+      "hr_por_9": 0.73,
+      "bateadores": 669
+     },
+     "ultimas_aperturas": [
+      {
+       "fecha": "2026-08-30",
+       "rival": "San Diego Padres",
+       "ip": "6.0",
+       "carreras_limpias": 2,
+       "k": 6,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 97
+      },
+      {
+       "fecha": "2026-09-05",
+       "rival": "Texas Rangers",
+       "ip": "7.0",
+       "carreras_limpias": 1,
+       "k": 7,
+       "bb": 0,
+       "hr": 1,
+       "lanzamientos": 97
+      },
+      {
+       "fecha": "2026-09-11",
+       "rival": "Houston Astros",
+       "ip": "7.0",
+       "carreras_limpias": 1,
+       "k": 4,
+       "bb": 0,
+       "hr": 0,
+       "lanzamientos": 92
+      },
+      {
+       "fecha": "2026-09-17",
+       "rival": "Athletics",
+       "ip": "5.0",
+       "carreras_limpias": 0,
+       "k": 3,
+       "bb": 2,
+       "hr": 0,
+       "lanzamientos": 76
+      },
+      {
+       "fecha": "2026-09-22",
+       "rival": "New York Yankees",
+       "ip": "6.2",
+       "carreras_limpias": 1,
+       "k": 11,
+       "bb": 3,
+       "hr": 0,
+       "lanzamientos": 114
+      }
+     ]
+    },
+    "alineacion_confirmada": [
+     "Yandy Díaz",
+     "Jonathan Aranda",
+     "Junior Caminero",
+     "Liam Hicks",
+     "Jonny DeLuca",
+     "Chandler Simpson",
+     "Ben Williamson",
+     "Ryan Vilade",
+     "Taylor Walls"
+    ],
     "stats": {
      "temporada": {
       "carreras_anotadas_por_juego": 4.54,
@@ -269,5 +361,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-28T19:05:18.952Z"
+ "generado_utc": "2026-10-28T20:31:53.704Z"
 }
