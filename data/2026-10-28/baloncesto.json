@@ -3579,8 +3579,8 @@
      "Road: 2-1"
     ],
     "lesiones": [
+     "Tyrese Haliburton: Out (Hamstring)",
      "Andrew Nembhard: Day-To-Day (Neck)",
-     "Tyrese Haliburton: Day-To-Day (Hamstring)",
      "Obi Toppin: Day-To-Day (Hand)",
      "Aaron Nesmith: Day-To-Day (Hamstring)",
      "T.J. McConnell: Out (Hamstring)"
@@ -3596,7 +3596,7 @@
      {
       "jugador": "Tyrese Haliburton",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5105,7 +5105,7 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Jose Alvarado: Day-To-Day (Ankle)"
+     "Jose Alvarado: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-10-15 vs TOR W 122-120",
@@ -5508,7 +5508,7 @@
      {
       "jugador": "Jose Alvarado",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6138,7 +6138,7 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Marcus Smart: Day-To-Day (Forearm)",
+     "Marcus Smart: Out (Forearm)",
      "Alperen Sengun: Out (Back)",
      "Steven Adams: Out (Calf)"
     ],
@@ -6484,7 +6484,7 @@
      {
       "jugador": "Marcus Smart",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -7161,8 +7161,8 @@
      "Road: 1-2"
     ],
     "lesiones": [
-     "Kristaps Porzingis: Out (Illness)",
      "Yaxel Lendeborg: Day-To-Day (Foot)",
+     "Kristaps Porzingis: Out (Illness)",
      "Moses Moody: Out (Knee)",
      "Jimmy Butler III: Out (Knee)"
     ],
@@ -8716,7 +8716,6 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Jordan Poole: Day-To-Day (Illness)",
      "Yves Missi: Out (Knee)"
     ],
     "ultimos_5": [
@@ -9164,7 +9163,7 @@
      {
       "jugador": "Jordan Poole",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -10272,11 +10271,11 @@
      "Road: 1-0"
     ],
     "lesiones": [
+     "Alex Caruso: Out (Ankle)",
      "Thomas Sorber: Out (Knee)",
      "Chet Holmgren: Out (Knee)",
      "Nikola Topic: Out (Back)",
-     "Ajay Mitchell: Day-To-Day (Ankle)",
-     "Alex Caruso: Out (Ankle)"
+     "Ajay Mitchell: Day-To-Day (Ankle)"
     ],
     "ultimos_5": [
      "2026-10-16 @ HOU L 116-89",
@@ -10772,11 +10771,11 @@
      "Road: 2-1"
     ],
     "lesiones": [
-     "Santi Aldama: Out (Knee)",
+     "Naji Marshall: Day-To-Day (Illness)",
      "Tarik Biberovic: Out (Heel)",
+     "Santi Aldama: Out (Knee)",
      "Sergio de Larrea: Out (Knee)",
-     "Caleb Martin: Out (Thumb)",
-     "Naji Marshall: Day-To-Day (Illness)"
+     "Caleb Martin: Out (Thumb)"
     ],
     "ultimos_5": [
      "2026-10-17 vs ATL L 135-111",
@@ -12282,5 +12281,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-28T17:07:51.421Z"
+ "generado_utc": "2026-10-28T19:05:22.386Z"
 }
