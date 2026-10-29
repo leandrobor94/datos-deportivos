@@ -22,8 +22,7 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Meleek Thomas: Day-To-Day (Foot)",
-     "Jaylon Tyson: Day-To-Day (Neck)"
+     "Meleek Thomas: Out (Foot)"
     ],
     "ultimos_5": [
      "2026-10-13 @ ORL L 132-116",
@@ -275,7 +274,7 @@
      {
       "jugador": "Jaylon Tyson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -370,7 +369,7 @@
      {
       "jugador": "Meleek Thomas",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1557,7 +1556,8 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Jordan Poole: Day-To-Day (Ankle)",
+     "Dejounte Murray: Out (Personal)",
+     "Jordan Poole: Out (Ankle)",
      "Yves Missi: Out (Knee)"
     ],
     "ultimos_5": [
@@ -1622,7 +1622,7 @@
      {
       "jugador": "Dejounte Murray",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3943,5 +3943,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-29T20:33:08.985Z"
+ "generado_utc": "2026-10-29T23:54:25.077Z"
 }
