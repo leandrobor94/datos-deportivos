@@ -1,0 +1,1843 @@
+{
+ "fuente": "FotMob (fotmob.com)",
+ "fecha": "2026-10-29",
+ "partidos": [
+  {
+   "id": 5749723,
+   "competicion": "Serie A (ITA)",
+   "inicio_utc": "2026-10-29T17:30:00.000Z",
+   "inicio_colombia": "2026-10-29 12:30",
+   "ya_empezo": false,
+   "local": "Frosinone",
+   "visitante": "Lecce",
+   "ronda": "9",
+   "estadio": "Stadio Benito Stirpe, Frosinone (grass)",
+   "arbitro": {
+    "nombre": "Rosario Abisso",
+    "stats": {
+     "matches": 12,
+     "yellowCards": 4.58,
+     "redCards": 3,
+     "unknown": 2,
+     "penalties": 5,
+     "fouls": 32.92
+    }
+   },
+   "clima": {
+    "temp_c": 13,
+    "viento_kmh": 1,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 9891,
+     "nombre": "Frosinone",
+     "forma_ult5": [
+      "D 1 - 1 Genoa-Frosinone",
+      "W 2 - 0 Frosinone-Como",
+      "L 3 - 0 Napoli-Frosinone",
+      "W 4 - 2 Frosinone-Sassuolo",
+      "D 4 - 4 Atalanta-Frosinone"
+     ],
+     "bajas": [
+      {
+       "jugador": "Florian Grillitsch",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Lorenzo Palmisani",
+       "Anthony Oyono",
+       "Gabriele Calvani",
+       "Ilario Monterisi",
+       "Aleksa Terzić",
+       "Giacomo Calò",
+       "Matteo Cichella",
+       "Farès Ghedjemis",
+       "Romano Schmid",
+       "Giorgi Kvernadze",
+       "Antonio Raimondo"
+      ]
+     },
+     "tabla": {
+      "pos": 7,
+      "pj": 8,
+      "g": 4,
+      "e": 2,
+      "p": 2,
+      "goles": "17-13",
+      "pts": 14
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 7,
+      "pj": 4,
+      "g": 3,
+      "e": 0,
+      "p": 1,
+      "goles": "9-5",
+      "pts": 9
+     },
+     "xg_temporada": {
+      "pj": 8,
+      "xg": 13.13,
+      "xg_concedido": 19.49,
+      "xpts": 7.3,
+      "xg_por_partido": 1.64,
+      "xg_concedido_por_partido": 2.44
+     },
+     "stats_temporada": {
+      "posesion": 44.1,
+      "pj_stats": 8,
+      "porterias_cero": 2,
+      "goles_partido": 2.1,
+      "goles_concedidos_partido": 1.6,
+      "xg_total": 13.1,
+      "remates_puerta_partido": 6.1,
+      "grandes_ocasiones_total": 22,
+      "toques_area_rival": 259,
+      "corners_total": 47,
+      "xg_concedido_total": 19.5,
+      "faltas_partido": 15.6,
+      "amarillas_total": 16
+     }
+    },
+    "visitante": {
+     "id": 9888,
+     "nombre": "Lecce",
+     "forma_ult5": [
+      "W 3 - 2 Lecce-Monza",
+      "L 3 - 0 Milan-Lecce",
+      "L 1 - 2 Lecce-Bologna",
+      "W 0 - 3 Udinese-Lecce",
+      "L 0 - 2 Lecce-Juventus"
+     ],
+     "bajas": [
+      {
+       "jugador": "Ivan Ilić",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Kialonda Gaspar",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Lassana Coulibaly",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Medon Berisha",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Santiago Pierotti",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-5-2",
+      "titulares": [
+       "Wladimiro Falcone",
+       "Jamil Siebert",
+       "Tiago Gabriel",
+       "Corrie Ndaba",
+       "Danilo Veiga",
+       "Youssef Maleh",
+       "Oumar Ngom",
+       "Omri Gandelman",
+       "Antonino Gallo",
+       "Joël Monteiro",
+       "Willem Geubbels"
+      ]
+     },
+     "tabla": {
+      "pos": 14,
+      "pj": 8,
+      "g": 3,
+      "e": 0,
+      "p": 5,
+      "goles": "9-14",
+      "pts": 9
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 11,
+      "pj": 4,
+      "g": 2,
+      "e": 0,
+      "p": 2,
+      "goles": "5-4",
+      "pts": 6
+     },
+     "xg_temporada": {
+      "pj": 8,
+      "xg": 11.1,
+      "xg_concedido": 15.17,
+      "xpts": 8.2,
+      "xg_por_partido": 1.39,
+      "xg_concedido_por_partido": 1.9
+     },
+     "stats_temporada": {
+      "posesion": 40.6,
+      "pj_stats": 8,
+      "porterias_cero": 2,
+      "goles_partido": 1.1,
+      "goles_concedidos_partido": 1.8,
+      "xg_total": 11.1,
+      "remates_puerta_partido": 4.6,
+      "grandes_ocasiones_total": 20,
+      "toques_area_rival": 169,
+      "corners_total": 36,
+      "xg_concedido_total": 15.2,
+      "faltas_partido": 12.6,
+      "amarillas_total": 14
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     4,
+     5
+    ],
+    "ultimos": [
+     "2024-03-03 Frosinone 1 - 1 Lecce",
+     "2023-12-16 Lecce 2 - 1 Frosinone",
+     "2022-04-02 Lecce 1 - 0 Frosinone",
+     "2021-11-20 Frosinone 0 - 0 Lecce",
+     "2021-03-20 Frosinone 0 - 3 Lecce",
+     "2020-12-12 Lecce 2 - 2 Frosinone"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 11 goals in their last 5 matches",
+    "Have conceded the most penalties this season (3)",
+    "746829 has created the most big chances for 9891 (5)",
+    "Have scored 7 goals in their last 5 matches",
+    "9888 haven't lost to 9891 in their last 7 meetings (4W, 3D).",
+    "883824 has the most shots on target per match for 9888 (1.2)"
+   ]
+  },
+  {
+   "id": 5749722,
+   "competicion": "Serie A (ITA)",
+   "inicio_utc": "2026-10-29T19:45:00.000Z",
+   "inicio_colombia": "2026-10-29 14:45",
+   "ya_empezo": false,
+   "local": "Fiorentina",
+   "visitante": "Atalanta",
+   "ronda": "9",
+   "estadio": "Stadio Artemio Franchi, Firenze (grass)",
+   "arbitro": {
+    "nombre": "Federico La Penna",
+    "stats": {
+     "matches": 13,
+     "yellowCards": 4.62,
+     "redCards": 4,
+     "unknown": 1,
+     "penalties": 4,
+     "fouls": 32
+    }
+   },
+   "clima": {
+    "temp_c": 13,
+    "viento_kmh": 2,
+    "lluvia_prob": 2,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 8535,
+     "nombre": "Fiorentina",
+     "forma_ult5": [
+      "W 3 - 0 Fiorentina-Pisa",
+      "D 1 - 1 Fiorentina-Napoli",
+      "L 2 - 1 Genoa-Fiorentina",
+      "L 1 - 3 Fiorentina-Como",
+      "L 2 - 1 Inter-Fiorentina"
+     ],
+     "bajas": [
+      {
+       "jugador": "Luca Ranieri",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Marin Pongračić",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Arthur Atta",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Fabiano Parisi",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-3-3",
+      "titulares": [
+       "David de Gea",
+       "Álex Jiménez",
+       "Radu Drăgușin",
+       "Viery",
+       "Valde",
+       "Cher Ndour",
+       "Nicolò Fagioli",
+       "Marco Brescianini",
+       "Franco Mastantuono",
+       "Mateo Pellegrino",
+       "Alieu Njie"
+      ]
+     },
+     "tabla": {
+      "pos": 19,
+      "pj": 8,
+      "g": 1,
+      "e": 1,
+      "p": 6,
+      "goles": "9-19",
+      "pts": 4
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 19,
+      "pj": 4,
+      "g": 0,
+      "e": 1,
+      "p": 3,
+      "goles": "3-9",
+      "pts": 1
+     },
+     "xg_temporada": {
+      "pj": 8,
+      "xg": 11.76,
+      "xg_concedido": 12.85,
+      "xpts": 11.11,
+      "xg_por_partido": 1.47,
+      "xg_concedido_por_partido": 1.61
+     },
+     "stats_temporada": {
+      "posesion": 45.5,
+      "pj_stats": 8,
+      "goles_partido": 1.1,
+      "goles_concedidos_partido": 2.4,
+      "xg_total": 11.8,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 15,
+      "toques_area_rival": 249,
+      "corners_total": 38,
+      "xg_concedido_total": 12.8,
+      "faltas_partido": 11.4,
+      "amarillas_total": 17
+     }
+    },
+    "visitante": {
+     "id": 8524,
+     "nombre": "Atalanta",
+     "forma_ult5": [
+      "W 3 - 1 Atalanta-Venezia",
+      "W 3 - 1 Atalanta-Pafos FC",
+      "L 3 - 2 Milan-Atalanta",
+      "L 2 - 0 Ajax-Atalanta",
+      "D 4 - 4 Atalanta-Frosinone"
+     ],
+     "bajas": [
+      {
+       "jugador": "Thomas Pompei",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Isak Hien",
+       "tipo": "injury",
+       "regreso": "Back in training"
+      },
+      {
+       "jugador": "Odilon Kossounou",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Sead Kolašinac",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Franck Kessié",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Giacomo Raspadori",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Raoul Bellanova",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Gianluca Scamacca",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Marco Carnesecchi",
+       "Davide Zappacosta",
+       "Thomas Kristensen",
+       "Relja Obrić",
+       "Lorenzo Bernasconi",
+       "Éderson",
+       "Mario Pašalić",
+       "Eljif Elmas",
+       "Charles De Ketelaere",
+       "Jonathan Rowe",
+       "Nikola Krstović"
+      ]
+     },
+     "tabla": {
+      "pos": 12,
+      "pj": 8,
+      "g": 3,
+      "e": 1,
+      "p": 4,
+      "goles": "14-15",
+      "pts": 10
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 17,
+      "pj": 3,
+      "g": 0,
+      "e": 0,
+      "p": 3,
+      "goles": "3-7",
+      "pts": 0
+     },
+     "xg_temporada": {
+      "pj": 8,
+      "xg": 11.9,
+      "xg_concedido": 16.36,
+      "xpts": 7.96,
+      "xg_por_partido": 1.49,
+      "xg_concedido_por_partido": 2.05
+     },
+     "stats_temporada": {
+      "posesion": 45.8,
+      "pj_stats": 8,
+      "porterias_cero": 1,
+      "goles_partido": 1.8,
+      "goles_concedidos_partido": 1.9,
+      "xg_total": 11.9,
+      "remates_puerta_partido": 5.1,
+      "grandes_ocasiones_total": 18,
+      "toques_area_rival": 191,
+      "corners_total": 32,
+      "xg_concedido_total": 16.4,
+      "faltas_partido": 9.9,
+      "amarillas_total": 7
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     18,
+     9,
+     10
+    ],
+    "ultimos": [
+     "2026-05-22 Fiorentina 1 - 1 Atalanta",
+     "2025-11-30 Atalanta 2 - 0 Fiorentina",
+     "2025-03-30 Fiorentina 1 - 0 Atalanta",
+     "2024-09-15 Atalanta 3 - 2 Fiorentina",
+     "2024-06-02 Atalanta 2 - 3 Fiorentina",
+     "2024-04-24 Atalanta 4 - 1 Fiorentina"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 7 goals in their last 5 matches",
+    "Have lost their last 3 matches",
+    "1607566 has the most shots on target per match for 8535 (1.3)",
+    "Have scored 12 goals in their last 5 matches",
+    "Have conceded the most penalties this season (3)",
+    "Haven't kept a clean sheet in 8 matches"
+   ]
+  },
+  {
+   "id": 1000014094,
+   "competicion": "Primera A (COL)",
+   "inicio_utc": "2026-10-29T23:30:00.000Z",
+   "inicio_colombia": "2026-10-29 18:30",
+   "ya_empezo": false,
+   "local": "América de Cali",
+   "visitante": "Fortaleza FC",
+   "ronda": "Clausura - Round 5",
+   "estadio": "Estadio Olímpico Pascual Guerrero, Santiago de Cali (grass)",
+   "arbitro": {
+    "nombre": "Camilo Colmenares",
+    "stats": {
+     "matches": 26,
+     "yellowCards": 4.65,
+     "redCards": 7,
+     "unknown": 2,
+     "penalties": 3
+    }
+   },
+   "clima": {
+    "temp_c": 27,
+    "viento_kmh": 3,
+    "lluvia_prob": 71,
+    "cielo": "Thunderstorms"
+   },
+   "equipos": {
+    "local": {
+     "id": 10280,
+     "nombre": "América de Cali",
+     "forma_ult5": [
+      "W 1 - 2 Llaneros FC-América de Cali",
+      "L 1 - 2 América de Cali-Independiente Medellín",
+      "D 1 - 1 Bucaramanga-América de Cali",
+      "W 0 - 4 Barranquilla FC-América de Cali",
+      "W 3 - 1 América de Cali-Cúcuta"
+     ],
+     "bajas": [
+      {
+       "jugador": "Yhorman Hurtado",
+       "tipo": "suspension",
+       "regreso": "Late December 2026"
+      },
+      {
+       "jugador": "Luis Quiñones",
+       "tipo": "injury",
+       "regreso": "A few days"
+      },
+      {
+       "jugador": "Marcos Mina",
+       "tipo": "injury",
+       "regreso": "A few days"
+      },
+      {
+       "jugador": "Jorge Valencia",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Mateo Castillo",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Adrián Ramos",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Jean",
+       "Jhon Palacios",
+       "Dany Rosero",
+       "Marlon Torres",
+       "Nicolás Hernández",
+       "José Cavadía",
+       "Rafael Carrascal",
+       "Luis Quiñones",
+       "Yeison Guzmán",
+       "Jhon Murillo",
+       "Tomás Ángel"
+      ]
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 15,
+      "g": 9,
+      "e": 4,
+      "p": 2,
+      "goles": "29-11",
+      "pts": 31
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
+      "pj": 8,
+      "g": 6,
+      "e": 0,
+      "p": 2,
+      "goles": "20-6",
+      "pts": 18
+     },
+     "xg_temporada": {
+      "pj": 15,
+      "xg": 18.4,
+      "xg_concedido": 13.75,
+      "xpts": 24.05,
+      "xg_por_partido": 1.23,
+      "xg_concedido_por_partido": 0.92
+     },
+     "stats_temporada": {
+      "posesion": 54.5,
+      "pj_stats": 15,
+      "goles_concedidos_partido": 0.7,
+      "goles_partido": 1.9,
+      "porterias_cero": 7,
+      "remates_puerta_partido": 5.1,
+      "grandes_ocasiones_total": 23,
+      "xg_total": 18.4,
+      "toques_area_rival": 340,
+      "corners_total": 76,
+      "xg_concedido_total": 13.8,
+      "faltas_partido": 11.7,
+      "amarillas_total": 37
+     }
+    },
+    "visitante": {
+     "id": 244167,
+     "nombre": "Fortaleza FC",
+     "forma_ult5": [
+      "D 0 - 0 Deportivo Pasto-Fortaleza FC",
+      "D 1 - 1 Fortaleza FC-Millonarios",
+      "D 2 - 2 Santa Fe-Fortaleza FC",
+      "L 2 - 1 Internacional de Bogotá-Fortaleza FC",
+      "D 1 - 1 Fortaleza FC-Deportivo Cali"
+     ],
+     "bajas": [
+      {
+       "jugador": "Brandón Mejía",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Richardson Rivas",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Williams Barlasina",
+       "Joan Cajares",
+       "Yesid Díaz",
+       "Jeferson Medina",
+       "Santiago Cuero",
+       "Sebastián Navarro",
+       "Leonardo Pico",
+       "Santiago Vivas",
+       "Franco Pulicastro",
+       "Sebastián Herrera",
+       "Jhonier Salas"
+      ]
+     },
+     "tabla": {
+      "pos": 19,
+      "pj": 15,
+      "g": 1,
+      "e": 9,
+      "p": 5,
+      "goles": "16-22",
+      "pts": 12
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 15,
+      "pj": 7,
+      "g": 0,
+      "e": 5,
+      "p": 2,
+      "goles": "7-10",
+      "pts": 5
+     },
+     "xg_temporada": {
+      "pj": 15,
+      "xg": 11.57,
+      "xg_concedido": 15.51,
+      "xpts": 17.16,
+      "xg_por_partido": 0.77,
+      "xg_concedido_por_partido": 1.03
+     },
+     "stats_temporada": {
+      "posesion": 50.8,
+      "pj_stats": 15,
+      "goles_concedidos_partido": 1.5,
+      "goles_partido": 1.1,
+      "porterias_cero": 4,
+      "remates_puerta_partido": 3.9,
+      "grandes_ocasiones_total": 12,
+      "xg_total": 11.6,
+      "toques_area_rival": 228,
+      "corners_total": 60,
+      "xg_concedido_total": 15.5,
+      "faltas_partido": 12.5,
+      "amarillas_total": 34
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     2,
+     1
+    ],
+    "ultimos": [
+     "2026-04-23 Fortaleza FC 1 - 2 América de Cali",
+     "2025-09-13 Fortaleza FC 1 - 0 América de Cali",
+     "2025-03-31 América de Cali 1 - 0 Fortaleza FC",
+     "2024-09-28 América de Cali 1 - 1 Fortaleza FC",
+     "2024-03-17 Fortaleza FC 0 - 0 América de Cali"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000014087,
+   "competicion": "Primera A (COL)",
+   "inicio_utc": "2026-10-30T01:30:00.000Z",
+   "inicio_colombia": "2026-10-29 20:30",
+   "ya_empezo": false,
+   "local": "Atlético Nacional",
+   "visitante": "Santa Fe",
+   "ronda": "Clausura - Round 5",
+   "estadio": "Estadio Atanasio Girardot, Medellín (grass)",
+   "arbitro": {
+    "nombre": "José Alexander Ortiz Novoa",
+    "stats": {
+     "matches": 54,
+     "yellowCards": 5.93,
+     "redCards": 31,
+     "unknown": 8,
+     "penalties": 21,
+     "fouls": 23.7
+    }
+   },
+   "clima": {
+    "temp_c": 21,
+    "viento_kmh": 1,
+    "lluvia_prob": 24,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6368,
+     "nombre": "Atlético Nacional",
+     "forma_ult5": [
+      "W 3 - 2 Atlético Nacional-Independiente Medellín",
+      "W 1 - 4 Chicó FC-Atlético Nacional",
+      "L 1 - 0 Cúcuta-Atlético Nacional",
+      "W 3 - 0 Atlético Nacional-Deportivo Pasto",
+      "W 2 - 1 Atlético Nacional-Independiente Medellín"
+     ],
+     "bajas": [
+      {
+       "jugador": "Edwin Cardona",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Neider Parra",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Ian Poveda",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Marlos Moreno",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Cristian Arango",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Franco Armani",
+       "Andrés Román",
+       "Neider Parra",
+       "William Tesillo",
+       "Samuel Velásquez",
+       "Elías Cabrera",
+       "Jorman Campuzano",
+       "Mateus Uribe",
+       "Andrés Marín",
+       "Edwin Cardona",
+       "James Rodríguez"
+      ]
+     },
+     "tabla": {
+      "pos": 1,
+      "pj": 15,
+      "g": 10,
+      "e": 2,
+      "p": 3,
+      "goles": "30-13",
+      "pts": 32
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 7,
+      "g": 5,
+      "e": 2,
+      "p": 0,
+      "goles": "13-4",
+      "pts": 17
+     },
+     "xg_temporada": {
+      "pj": 15,
+      "xg": 20.47,
+      "xg_concedido": 11.51,
+      "xpts": 27.54,
+      "xg_por_partido": 1.36,
+      "xg_concedido_por_partido": 0.77
+     },
+     "stats_temporada": {
+      "posesion": 63.3,
+      "pj_stats": 15,
+      "goles_concedidos_partido": 0.9,
+      "goles_partido": 2,
+      "porterias_cero": 4,
+      "remates_puerta_partido": 6.6,
+      "grandes_ocasiones_total": 18,
+      "xg_total": 20.5,
+      "toques_area_rival": 299,
+      "corners_total": 93,
+      "xg_concedido_total": 11.5,
+      "faltas_partido": 12.7,
+      "amarillas_total": 32
+     }
+    },
+    "visitante": {
+     "id": 7818,
+     "nombre": "Santa Fe",
+     "forma_ult5": [
+      "W 0 - 1 Independiente Medellín-Santa Fe",
+      "D 2 - 2 Santa Fe-Fortaleza FC",
+      "L 1 - 0 Llaneros FC-Santa Fe",
+      "W 2 - 1 Santa Fe-CD Jaguares",
+      "W 2 - 1 Santa Fe-Bucaramanga"
+     ],
+     "bajas": [
+      {
+       "jugador": "Christian Mafla",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Andrés Mosquera",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Víctor Moreno",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Nahuel Lautaro Bustos",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Kevin Balanta",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Weimar Asprilla",
+       "Helibelton Palacios",
+       "Emanuel Olivera",
+       "Iván Scarpeta",
+       "Mateo Puerta",
+       "Jáder Obrian",
+       "Daniel Torres",
+       "Jhojan Torres",
+       "Emerson Rodríguez",
+       "Hugo Rodallega",
+       "Franco Fagúndez"
+      ]
+     },
+     "tabla": {
+      "pos": 4,
+      "pj": 15,
+      "g": 8,
+      "e": 4,
+      "p": 3,
+      "goles": "23-15",
+      "pts": 28
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 7,
+      "pj": 6,
+      "g": 3,
+      "e": 1,
+      "p": 2,
+      "goles": "9-6",
+      "pts": 10
+     },
+     "xg_temporada": {
+      "pj": 15,
+      "xg": 17.59,
+      "xg_concedido": 14.69,
+      "xpts": 22.71,
+      "xg_por_partido": 1.17,
+      "xg_concedido_por_partido": 0.98
+     },
+     "stats_temporada": {
+      "posesion": 46,
+      "pj_stats": 15,
+      "goles_concedidos_partido": 1,
+      "goles_partido": 1.5,
+      "porterias_cero": 4,
+      "remates_puerta_partido": 5.2,
+      "grandes_ocasiones_total": 31,
+      "xg_total": 17.6,
+      "toques_area_rival": 255,
+      "corners_total": 70,
+      "xg_concedido_total": 14.7,
+      "faltas_partido": 10.5,
+      "amarillas_total": 32
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     19,
+     17,
+     9
+    ],
+    "ultimos": [
+     "2026-02-26 Santa Fe 1 - 2 Atlético Nacional",
+     "2025-07-26 Atlético Nacional 1 - 1 Santa Fe",
+     "2025-06-13 Santa Fe 1 - 2 Atlético Nacional",
+     "2025-06-08 Atlético Nacional 1 - 2 Santa Fe",
+     "2025-02-13 Santa Fe 2 - 2 Atlético Nacional",
+     "2024-12-09 Santa Fe 0 - 3 Atlético Nacional"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5103689,
+   "competicion": "Série A (BRA)",
+   "inicio_utc": "2026-10-29T22:30:00.000Z",
+   "inicio_colombia": "2026-10-29 17:30",
+   "ya_empezo": false,
+   "local": "Atlético-MG",
+   "visitante": "Cruzeiro",
+   "ronda": "33",
+   "estadio": "Arena MRV, Belo Horizonte, Minas Gerais (artificial turf)",
+   "arbitro": {
+    "nombre": "Raphael Claus",
+    "stats": {
+     "matches": 44,
+     "yellowCards": 3.93,
+     "redCards": 8,
+     "unknown": 1,
+     "penalties": 10,
+     "fouls": 22.43
+    }
+   },
+   "clima": {
+    "temp_c": 21,
+    "viento_kmh": 3,
+    "lluvia_prob": 73,
+    "cielo": "Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 10272,
+     "nombre": "Atlético-MG",
+     "forma_ult5": [
+      "W 2 - 1 Atlético-MG-Santos",
+      "W 3 - 0 Atlético-MG-Montevideo City Torque",
+      "W 1 - 0 Atlético-MG-Coritiba",
+      "L 2 - 0 Montevideo City Torque-Atlético-MG",
+      "L 3 - 2 Flamengo-Atlético-MG"
+     ],
+     "bajas": [
+      {
+       "jugador": "Vitor Hugo",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Tomás Cuello",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Thiago Borbas",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Fred",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Mateo Cassierra",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Everson",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Ruan",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Gabriel Delfim",
+       "Natanael",
+       "Vitão",
+       "Lyanco",
+       "Renan Lodi",
+       "Ángelo Preciado",
+       "Maycon",
+       "Alan Franco",
+       "Bernard",
+       "Victor Hugo",
+       "Igor Gomes"
+      ]
+     },
+     "tabla": {
+      "pos": 7,
+      "pj": 32,
+      "g": 14,
+      "e": 8,
+      "p": 10,
+      "goles": "44-38",
+      "pts": 50
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
+      "pj": 16,
+      "g": 10,
+      "e": 5,
+      "p": 1,
+      "goles": "27-17",
+      "pts": 35
+     },
+     "xg_temporada": {
+      "pj": 32,
+      "xg": 44.71,
+      "xg_concedido": 41.54,
+      "xpts": 46.28,
+      "xg_por_partido": 1.4,
+      "xg_concedido_por_partido": 1.3
+     },
+     "stats_temporada": {
+      "goles_partido": 1.4,
+      "pj_stats": 32,
+      "posesion": 48.7,
+      "goles_concedidos_partido": 1.2,
+      "porterias_cero": 8,
+      "xg_total": 44.7,
+      "remates_puerta_partido": 4.9,
+      "grandes_ocasiones_total": 82,
+      "toques_area_rival": 666,
+      "corners_total": 165,
+      "xg_concedido_total": 41.5,
+      "faltas_partido": 11.9,
+      "amarillas_total": 53
+     }
+    },
+    "visitante": {
+     "id": 9781,
+     "nombre": "Cruzeiro",
+     "forma_ult5": [
+      "W 1 - 3 Vitória-Cruzeiro",
+      "W 2 - 0 Cruzeiro-São Paulo",
+      "L 4 - 2 RB Bragantino-Cruzeiro",
+      "W 2 - 4 Grêmio-Cruzeiro",
+      "W 1 - 0 Cruzeiro-Remo"
+     ],
+     "bajas": [
+      {
+       "jugador": "Keny Arroyo",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Felipe Morais",
+       "tipo": "injury",
+       "regreso": "Back in training"
+      },
+      {
+       "jugador": "Luis Sinisterra",
+       "tipo": "injury",
+       "regreso": "Late December 2026"
+      },
+      {
+       "jugador": "Gabriel Pec",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Otávio",
+       "William",
+       "Fabrício Bruno",
+       "Jonathan Jesus",
+       "Lucas Villalba",
+       "Zé Lucas",
+       "Lucas Daniel Romero",
+       "Keny Arroyo",
+       "Matheus Pereira",
+       "Gérson",
+       "Kaio Jorge"
+      ]
+     },
+     "tabla": {
+      "pos": 3,
+      "pj": 32,
+      "g": 16,
+      "e": 6,
+      "p": 10,
+      "goles": "51-46",
+      "pts": 54
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
+      "pj": 16,
+      "g": 7,
+      "e": 2,
+      "p": 7,
+      "goles": "24-30",
+      "pts": 23
+     },
+     "xg_temporada": {
+      "pj": 32,
+      "xg": 49.22,
+      "xg_concedido": 42.33,
+      "xpts": 49.11,
+      "xg_por_partido": 1.54,
+      "xg_concedido_por_partido": 1.32
+     },
+     "stats_temporada": {
+      "goles_partido": 1.6,
+      "pj_stats": 32,
+      "posesion": 55.3,
+      "goles_concedidos_partido": 1.4,
+      "porterias_cero": 7,
+      "xg_total": 49.2,
+      "remates_puerta_partido": 5.3,
+      "grandes_ocasiones_total": 79,
+      "toques_area_rival": 770,
+      "corners_total": 173,
+      "xg_concedido_total": 42.3,
+      "faltas_partido": 14.2,
+      "amarillas_total": 74
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     21,
+     11,
+     12
+    ],
+    "ultimos": [
+     "2026-09-02 Atlético-MG 2 - 1 Cruzeiro",
+     "2026-08-26 Cruzeiro 1 - 1 Atlético-MG",
+     "2026-05-03 Cruzeiro 1 - 3 Atlético-MG",
+     "2026-03-08 Cruzeiro 1 - 0 Atlético-MG",
+     "2026-01-25 Atlético-MG 2 - 1 Cruzeiro",
+     "2025-10-16 Atlético-MG 1 - 1 Cruzeiro"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5103685,
+   "competicion": "Série A (BRA)",
+   "inicio_utc": "2026-10-29T23:00:00.000Z",
+   "inicio_colombia": "2026-10-29 18:00",
+   "ya_empezo": false,
+   "local": "Vasco da Gama",
+   "visitante": "Flamengo",
+   "ronda": "33",
+   "estadio": "Estádio Olímpico Nilton Santos, Rio de Janeiro (artificial turf)",
+   "arbitro": {
+    "nombre": "Bruno Arleu de Araújo",
+    "stats": {
+     "matches": 43,
+     "yellowCards": 5.53,
+     "redCards": 3,
+     "unknown": 6,
+     "penalties": 12,
+     "fouls": 28.15
+    }
+   },
+   "clima": {
+    "temp_c": 22,
+    "viento_kmh": 2,
+    "lluvia_prob": 95,
+    "cielo": "Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 10276,
+     "nombre": "Vasco da Gama",
+     "forma_ult5": [
+      "D 0 - 0 Vasco da Gama-Remo",
+      "W 0 - 1 Boca Juniors-Vasco da Gama",
+      "L 1 - 0 São Paulo-Vasco da Gama",
+      "L 1 - 3 Vasco da Gama-Boca Juniors",
+      "W 3 - 2 Vasco da Gama-Corinthians"
+     ],
+     "bajas": [
+      {
+       "jugador": "Andrés Gómez",
+       "tipo": "injury",
+       "regreso": "A few days"
+      },
+      {
+       "jugador": "Cauan Barros",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Carlos Cuesta",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Léo",
+       "José Rodriguez",
+       "Alan Saldivia",
+       "Robert Renan",
+       "Cuiabano",
+       "Alan Lescano",
+       "Santiago Sosa",
+       "Andrés Gómez",
+       "Thiago Mendes",
+       "Facundo Colidio",
+       "Bruno Duarte"
+      ]
+     },
+     "tabla": {
+      "pos": 13,
+      "pj": 31,
+      "g": 10,
+      "e": 8,
+      "p": 13,
+      "goles": "39-45",
+      "pts": 38
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 11,
+      "pj": 16,
+      "g": 8,
+      "e": 3,
+      "p": 5,
+      "goles": "24-20",
+      "pts": 27
+     },
+     "xg_temporada": {
+      "pj": 31,
+      "xg": 49.92,
+      "xg_concedido": 34.19,
+      "xpts": 52.11,
+      "xg_por_partido": 1.61,
+      "xg_concedido_por_partido": 1.1
+     },
+     "stats_temporada": {
+      "goles_partido": 1.3,
+      "pj_stats": 31,
+      "posesion": 54.6,
+      "goles_concedidos_partido": 1.5,
+      "porterias_cero": 4,
+      "xg_total": 49.9,
+      "remates_puerta_partido": 5.4,
+      "grandes_ocasiones_total": 71,
+      "toques_area_rival": 858,
+      "corners_total": 181,
+      "xg_concedido_total": 34.2,
+      "faltas_partido": 13,
+      "amarillas_total": 61
+     }
+    },
+    "visitante": {
+     "id": 9770,
+     "nombre": "Flamengo",
+     "forma_ult5": [
+      "W 1 - 0 Flamengo-Fluminense",
+      "D 0 - 0 Estudiantes-Flamengo",
+      "W 0 - 3 Bahia-Flamengo",
+      "D 0 - 0 Flamengo-Estudiantes",
+      "W 3 - 2 Flamengo-Atlético-MG"
+     ],
+     "bajas": [
+      {
+       "jugador": "Jorge Carrascal",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Danilo",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Evertton Araújo",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Agustín Rossi",
+       "Guillermo Varela",
+       "Léo Ortiz",
+       "Léo Pereira",
+       "Alex Sandro",
+       "Erick Pulgar",
+       "Jorginho",
+       "Gonzalo Plata",
+       "Giorgian De Arrascaeta",
+       "Samuel Lino",
+       "Pedro"
+      ]
+     },
+     "tabla": {
+      "pos": 1,
+      "pj": 32,
+      "g": 21,
+      "e": 7,
+      "p": 4,
+      "goles": "64-27",
+      "pts": 70
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
+      "pj": 16,
+      "g": 9,
+      "e": 4,
+      "p": 3,
+      "goles": "32-15",
+      "pts": 31
+     },
+     "xg_temporada": {
+      "pj": 32,
+      "xg": 57.38,
+      "xg_concedido": 31.38,
+      "xpts": 62.13,
+      "xg_por_partido": 1.79,
+      "xg_concedido_por_partido": 0.98
+     },
+     "stats_temporada": {
+      "goles_partido": 2,
+      "pj_stats": 32,
+      "posesion": 57.4,
+      "goles_concedidos_partido": 0.8,
+      "porterias_cero": 14,
+      "xg_total": 57.4,
+      "remates_puerta_partido": 5.8,
+      "grandes_ocasiones_total": 110,
+      "toques_area_rival": 897,
+      "corners_total": 184,
+      "xg_concedido_total": 31.4,
+      "faltas_partido": 11.9,
+      "amarillas_total": 67
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     4,
+     16,
+     19
+    ],
+    "ultimos": [
+     "2026-05-03 Flamengo 2 - 2 Vasco da Gama",
+     "2026-01-22 Flamengo 1 - 0 Vasco da Gama",
+     "2025-09-21 Flamengo 1 - 1 Vasco da Gama",
+     "2025-04-19 Vasco da Gama 0 - 0 Flamengo",
+     "2025-03-08 Flamengo 2 - 1 Vasco da Gama",
+     "2025-03-01 Vasco da Gama 0 - 1 Flamengo"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5103690,
+   "competicion": "Série A (BRA)",
+   "inicio_utc": "2026-10-30T00:30:00.000Z",
+   "inicio_colombia": "2026-10-29 19:30",
+   "ya_empezo": false,
+   "local": "Grêmio",
+   "visitante": "Athletico Paranaense",
+   "ronda": "33",
+   "estadio": "Arena do Grêmio, Porto Alegre, Rio Grande do Sul (grass)",
+   "arbitro": {
+    "nombre": "Alex Gomes Stefano",
+    "stats": {
+     "matches": 38,
+     "yellowCards": 5.16,
+     "redCards": 12,
+     "unknown": 2,
+     "penalties": 12,
+     "fouls": 30.2
+    }
+   },
+   "clima": {
+    "temp_c": 19,
+    "viento_kmh": 4,
+    "lluvia_prob": 7,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 9769,
+     "nombre": "Grêmio",
+     "forma_ult5": [
+      "D 0 - 0 Grêmio-Palmeiras",
+      "D 1 - 1 Remo-Grêmio",
+      "D 1 - 1 Grêmio-Internacional",
+      "L 2 - 4 Grêmio-Cruzeiro",
+      "W 0 - 1 Coritiba-Grêmio"
+     ],
+     "bajas": [
+      {
+       "jugador": "Cristian Pavón",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Diego Caito",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Danilo",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Juan Nardoni",
+       "tipo": "injury",
+       "regreso": "Early November 2026"
+      },
+      {
+       "jugador": "Jovane Cabral",
+       "tipo": "injury",
+       "regreso": "Late October 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "3-4-3",
+      "titulares": [
+       "Weverton",
+       "Gustavo Martins",
+       "Fabián Balbuena",
+       "Wallace",
+       "Diego Caito",
+       "Erick Noriega",
+       "Mathías Villasanti",
+       "Marlon",
+       "Cristian Pavón",
+       "Carlos Vinícius",
+       "Francis Amuzu"
+      ]
+     },
+     "tabla": {
+      "pos": 17,
+      "pj": 32,
+      "g": 8,
+      "e": 10,
+      "p": 14,
+      "goles": "35-44",
+      "pts": 34
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 13,
+      "pj": 16,
+      "g": 7,
+      "e": 5,
+      "p": 4,
+      "goles": "25-21",
+      "pts": 26
+     },
+     "xg_temporada": {
+      "pj": 32,
+      "xg": 35.03,
+      "xg_concedido": 52.62,
+      "xpts": 33.74,
+      "xg_por_partido": 1.09,
+      "xg_concedido_por_partido": 1.64
+     },
+     "stats_temporada": {
+      "goles_partido": 1.1,
+      "pj_stats": 32,
+      "posesion": 49.8,
+      "goles_concedidos_partido": 1.4,
+      "porterias_cero": 7,
+      "xg_total": 35,
+      "remates_puerta_partido": 3.8,
+      "grandes_ocasiones_total": 59,
+      "toques_area_rival": 576,
+      "corners_total": 143,
+      "xg_concedido_total": 52.6,
+      "faltas_partido": 13.5,
+      "amarillas_total": 80
+     }
+    },
+    "visitante": {
+     "id": 10273,
+     "nombre": "Athletico Paranaense",
+     "forma_ult5": [
+      "W 2 - 1 Athletico Paranaense-Bahia",
+      "D 2 - 2 Athletico Paranaense-Atlético-MG",
+      "W 1 - 4 Chapecoense-Athletico Paranaense",
+      "L 0 - 2 Athletico Paranaense-Palmeiras",
+      "D 1 - 1 Vitória-Athletico Paranaense"
+     ],
+     "bajas": [
+      {
+       "jugador": "Jádson",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Gilberto",
+       "tipo": "suspension",
+       "regreso": "Late October 2026"
+      },
+      {
+       "jugador": "Claudinho",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Mycael",
+       "Bruno Baldini",
+       "Juan Aguirre",
+       "Lucas Esquivel",
+       "Gilberto",
+       "Jádson",
+       "Luiz Gustavo",
+       "Stiven Mendoza",
+       "Leozinho",
+       "João Cruz",
+       "Kevin Viveros"
+      ]
+     },
+     "tabla": {
+      "pos": 4,
+      "pj": 32,
+      "g": 15,
+      "e": 9,
+      "p": 8,
+      "goles": "50-38",
+      "pts": 54
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 6,
+      "pj": 16,
+      "g": 6,
+      "e": 4,
+      "p": 6,
+      "goles": "23-23",
+      "pts": 22
+     },
+     "xg_temporada": {
+      "pj": 32,
+      "xg": 44.64,
+      "xg_concedido": 38.53,
+      "xpts": 48.29,
+      "xg_por_partido": 1.39,
+      "xg_concedido_por_partido": 1.2
+     },
+     "stats_temporada": {
+      "goles_partido": 1.6,
+      "pj_stats": 32,
+      "posesion": 47.3,
+      "goles_concedidos_partido": 1.2,
+      "porterias_cero": 8,
+      "xg_total": 44.6,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 88,
+      "toques_area_rival": 628,
+      "corners_total": 170,
+      "xg_concedido_total": 38.5,
+      "faltas_partido": 13.8,
+      "amarillas_total": 65
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     19,
+     6,
+     10
+    ],
+    "ultimos": [
+     "2026-05-02 Athletico Paranaense 0 - 0 Grêmio",
+     "2024-08-04 Athletico Paranaense 0 - 2 Grêmio",
+     "2024-04-17 Grêmio 2 - 0 Athletico Paranaense",
+     "2023-10-18 Grêmio 1 - 2 Athletico Paranaense",
+     "2023-05-27 Athletico Paranaense 1 - 2 Grêmio",
+     "2021-09-26 Athletico Paranaense 4 - 2 Grêmio"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022276,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-10-29T17:00:00.000Z",
+   "inicio_colombia": "2026-10-29 12:00",
+   "ya_empezo": true,
+   "local": "Rosenborg BK",
+   "visitante": "Brøndby IF",
+   "ronda": "8th Finals",
+   "estadio": "Koteng Arena, Trondheim (artificial turf)",
+   "arbitro": {
+    "nombre": "Shona Shukrula",
+    "stats": {
+     "matches": 11,
+     "yellowCards": 1.91,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 0,
+     "fouls": 21.8
+    }
+   },
+   "clima": {
+    "temp_c": 10,
+    "viento_kmh": 6,
+    "lluvia_prob": 35,
+    "cielo": "Showers"
+   },
+   "equipos": {
+    "local": {
+     "id": 4484,
+     "nombre": "Rosenborg BK",
+     "forma_ult5": [
+      "W 4 - 1 Rosenborg BK-Slovan Liberec",
+      "D 1 - 1 Vålerenga-Rosenborg BK",
+      "D 1 - 1 Rosenborg BK-Brann",
+      "W 0 - 5 Rana FK-Rosenborg BK",
+      "W 0 - 2 Hønefoss-Rosenborg BK"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Rugile Rulyte",
+       "Matilde Alsaker Rogde",
+       "Andrea Buberg",
+       "Synne Aunehaugen",
+       "Milena Kokosz",
+       "Cille Nilsen",
+       "Beate Marcussen",
+       "Karna Sødahl",
+       "Ine Strømstad Berre",
+       "Joshualyn Reeves",
+       "Mari Kristine Vik"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.6,
+      "pj_stats": 5
+     }
+    },
+    "visitante": {
+     "id": 8502,
+     "nombre": "Brøndby IF",
+     "forma_ult5": [
+      "W 3 - 0 Brøndby IF-ASA Aarhus",
+      "D 2 - 2 Sporting CP-Brøndby IF",
+      "W 1 - 2 FC København-Brøndby IF",
+      "D 1 - 1 HB Køge-Brøndby IF",
+      "L 1 - 2 Brøndby IF-FC Midtjylland"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Jalen Tompkins",
+       "Elvira Bull Nejmann",
+       "Michaela Kovacs",
+       "Malin Johnsen Brenn",
+       "Hafrún Halldórsdóttir",
+       "Emma Pelkowski",
+       "Amy Rodgers",
+       "Hanna Andersson",
+       "Mila Bischoff",
+       "Rakel Engesvik",
+       "Tilde Lindwall"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 3,
+      "pj_stats": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     0
+    ],
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022279,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-10-29T17:00:00.000Z",
+   "inicio_colombia": "2026-10-29 12:00",
+   "ya_empezo": true,
+   "local": "Sparta Prague",
+   "visitante": "Torreense",
+   "ronda": "8th Finals",
+   "estadio": "epet ARENA, Praha (grass)",
+   "arbitro": {
+    "nombre": "Sofiya Prychyna",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 7,
+    "viento_kmh": 1,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 401652,
+     "nombre": "Sparta Prague",
+     "forma_ult5": [
+      "L 2 - 0 Hammarby IF-Sparta Prague",
+      "W 3 - 2 Sparta Prague-Servette",
+      "L 3 - 0 Servette-Sparta Prague",
+      "W 4 - 1 Sparta Prague-Farul Constanța",
+      "W 0 - 4 Farul Constanța-Sparta Prague"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Nikola Harantová",
+       "Laura Retkesová",
+       "Tori Hansen",
+       "Aneta Pochmanová",
+       "Anna Petryk",
+       "Eva Bartonová",
+       "Eliška Sonntágová",
+       "Elizabeth Ospeck",
+       "Franny Cerná",
+       "Natalie Peskova",
+       "Hallie Bergford"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2.7,
+      "pj_stats": 3
+     }
+    },
+    "visitante": {
+     "id": 1508200,
+     "nombre": "Torreense",
+     "forma_ult5": [
+      "W 5 - 2 Torreense-Apolonia",
+      "W 6 - 1 Torreense-FC Kolos Kovalivka",
+      "W 1 - 3 FC Kolos Kovalivka-Torreense",
+      "W 1 - 2 FC Kharkiv-Torreense",
+      "W 4 - 1 Torreense-FC Kharkiv"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-1-4-2",
+      "titulares": [
+       "Rute Costa",
+       "Núria Mendoza",
+       "Ella Tonkin",
+       "Bárbara Lopes",
+       "Raquel Ferreira",
+       "Gerda Konst",
+       "Nicole Nunes",
+       "Maria Guerreiro",
+       "Daniela Silva",
+       "Maile Hayes",
+       "Janaina Weimer"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 3,
+      "pj_stats": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     0
+    ],
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-10-29T17:23:20.059Z"
+}
