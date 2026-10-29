@@ -2588,6 +2588,7 @@
      "Road: 2-0"
     ],
     "lesiones": [
+     "Robert Williams III: Day-To-Day (Knee)",
      "Chris Youngblood: Out (Ankle)",
      "Shaedon Sharpe: Out (Knee)"
     ],
@@ -2984,7 +2985,7 @@
      {
       "jugador": "Robert Williams III",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3088,11 +3089,11 @@
    "nota": "WNBA Finals - Game 6",
    "inicio_utc": "2026-10-29T16:30Z",
    "inicio_colombia": "2026-10-29 11:30",
-   "estado": "In Progress",
+   "estado": "Final",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "GS wins series 3-0",
-    "GS leads series 3-2"
+    "Series tied 3-3"
    ],
    "visitante": {
     "nombre": "Golden State Valkyries",
@@ -3215,39 +3216,38 @@
       "promedios": {
        "ult5": {
         "pj": 5,
-        "min": 29.4,
-        "pts": 5.6,
+        "min": 28.4,
+        "pts": 3.8,
         "reb": 10.6,
-        "ast": 0.6,
+        "ast": 0.4,
         "triples": 0.6
        },
        "ult10": {
         "pj": 10,
-        "min": 30.1,
+        "min": 29.6,
         "pts": 4.5,
-        "reb": 10.2,
-        "ast": 1.3,
+        "reb": 10.4,
+        "ast": 1.2,
         "triples": 0.4
        },
        "ult20": {
         "pj": 20,
-        "min": 25.85,
+        "min": 26.05,
         "pts": 3.6,
-        "reb": 8.8,
-        "ast": 1.45,
+        "reb": 8.95,
+        "ast": 1.4,
         "triples": 0.3
        },
        "temporada": {
-        "pj": 55,
-        "min": 23.44,
-        "pts": 3.65,
-        "reb": 6.6,
-        "ast": 1.27,
-        "triples": 0.44
+        "pj": 56,
+        "min": 23.38,
+        "pts": 3.59,
+        "reb": 6.61,
+        "ast": 1.25,
+        "triples": 0.43
        }
       },
       "ultimos_10": [
-       "2026-10-01 vs DAL: 25min 0p 5r 1a 0t",
        "2026-10-03 vs DAL: 35min 6p 13r 3a 0t",
        "2026-10-04 vs LV: 27min 0p 14r 2a 0t",
        "2026-10-08 vs LV: 29min 0p 7r 1a 0t",
@@ -3256,7 +3256,8 @@
        "2026-10-20 vs ATL: 30min 0p 11r 0a 0t",
        "2026-10-22 vs ATL: 26min 2p 11r 1a 0t",
        "2026-10-24 vs ATL: 31min 4p 16r 0a 0t",
-       "2026-10-27 vs ATL: 35min 13p 8r 1a 3t"
+       "2026-10-27 vs ATL: 35min 13p 8r 1a 3t",
+       "2026-10-29 vs ATL: 20min 0p 7r 0a 0t"
       ]
      },
      {
@@ -3589,38 +3590,37 @@
        "ult5": {
         "pj": 5,
         "min": 34,
-        "pts": 16,
-        "reb": 12.8,
-        "ast": 2.8,
-        "triples": 0.6
+        "pts": 16.2,
+        "reb": 13.2,
+        "ast": 4,
+        "triples": 1
        },
        "ult10": {
         "pj": 10,
-        "min": 33.8,
-        "pts": 17,
-        "reb": 10.6,
-        "ast": 2.4,
-        "triples": 0.8
+        "min": 34.3,
+        "pts": 17.2,
+        "reb": 10.8,
+        "ast": 2.9,
+        "triples": 0.9
        },
        "ult20": {
         "pj": 20,
-        "min": 32.75,
-        "pts": 18.05,
-        "reb": 11.45,
-        "ast": 3.05,
-        "triples": 0.65
+        "min": 32.55,
+        "pts": 17.75,
+        "reb": 11.65,
+        "ast": 3.15,
+        "triples": 0.7
        },
        "temporada": {
-        "pj": 56,
-        "min": 30.48,
-        "pts": 15.95,
-        "reb": 11.48,
-        "ast": 2.68,
-        "triples": 0.34
+        "pj": 57,
+        "min": 30.56,
+        "pts": 15.93,
+        "reb": 11.53,
+        "ast": 2.74,
+        "triples": 0.37
        }
       },
       "ultimos_10": [
-       "2026-09-27 vs WSH: 30min 13p 12r 1a 1t",
        "2026-09-30 vs WSH: 28min 15p 7r 2a 0t",
        "2026-10-04 vs NY: 34min 17p 7r 2a 1t",
        "2026-10-07 vs NY: 39min 23p 7r 2a 1t",
@@ -3629,7 +3629,8 @@
        "2026-10-20 vs GS: 34min 30p 16r 3a 1t",
        "2026-10-22 vs GS: 34min 21p 12r 3a 2t",
        "2026-10-24 vs GS: 34min 8p 9r 3a 0t",
-       "2026-10-27 vs GS: 33min 7p 15r 5a 0t"
+       "2026-10-27 vs GS: 33min 7p 15r 5a 0t",
+       "2026-10-29 vs GS: 35min 15p 14r 6a 2t"
       ]
      },
      {
@@ -3640,38 +3641,37 @@
        "ult5": {
         "pj": 5,
         "min": 31.4,
-        "pts": 6,
-        "reb": 5.6,
-        "ast": 0.2,
+        "pts": 6.4,
+        "reb": 6.2,
+        "ast": 0.8,
         "triples": 0.8
        },
        "ult10": {
         "pj": 10,
-        "min": 32.4,
-        "pts": 5.6,
-        "reb": 5,
-        "ast": 1.4,
-        "triples": 0.7
+        "min": 33.3,
+        "pts": 5.9,
+        "reb": 5.2,
+        "ast": 1.6,
+        "triples": 0.8
        },
        "ult20": {
         "pj": 20,
-        "min": 30.3,
+        "min": 30.2,
         "pts": 7.45,
-        "reb": 4.95,
-        "ast": 1.65,
+        "reb": 5,
+        "ast": 1.75,
         "triples": 1.15
        },
        "temporada": {
-        "pj": 54,
-        "min": 29.09,
-        "pts": 8.28,
-        "reb": 4.57,
-        "ast": 1.54,
+        "pj": 55,
+        "min": 29.11,
+        "pts": 8.25,
+        "reb": 4.58,
+        "ast": 1.56,
         "triples": 1.09
        }
       },
       "ultimos_10": [
-       "2026-09-27 vs WSH: 21min 4p 3r 1a 0t",
        "2026-09-30 vs WSH: 33min 10p 3r 0a 2t",
        "2026-10-04 vs NY: 37min 0p 4r 4a 0t",
        "2026-10-07 vs NY: 44min 12p 8r 5a 1t",
@@ -3680,7 +3680,8 @@
        "2026-10-20 vs GS: 30min 2p 4r 0a 0t",
        "2026-10-22 vs GS: 27min 15p 2r 0a 3t",
        "2026-10-24 vs GS: 36min 6p 9r 1a 0t",
-       "2026-10-27 vs GS: 34min 2p 11r 0a 0t"
+       "2026-10-27 vs GS: 34min 2p 11r 0a 0t",
+       "2026-10-29 vs GS: 30min 7p 5r 3a 1t"
       ]
      },
      {
@@ -3891,5 +3892,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-29T17:23:22.463Z"
+ "generado_utc": "2026-10-29T19:11:56.661Z"
 }
