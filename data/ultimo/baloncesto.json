@@ -5190,11 +5190,11 @@
      "Road: 2-1"
     ],
     "lesiones": [
+     "T.J. McConnell: Out (Hamstring)",
+     "Johnny Furphy: Out (Knee)",
      "Andrew Nembhard: Day-To-Day (Neck)",
      "Aaron Nesmith: Day-To-Day (Hamstring)",
-     "Ivica Zubac: Out (Ankle)",
-     "T.J. McConnell: Out (Hamstring)",
-     "Ben Sheppard: Out (Knee)"
+     "Ivica Zubac: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-10-22 @ NO W 123-120",
@@ -5401,7 +5401,7 @@
      {
       "jugador": "Johnny Furphy",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8503,7 +8503,7 @@
      {
       "jugador": "Ziaire Williams",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -10347,5 +10347,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-30T18:49:39.441Z"
+ "generado_utc": "2026-10-30T20:06:55.371Z"
 }
