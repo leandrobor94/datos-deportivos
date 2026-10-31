@@ -1066,11 +1066,11 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Joel Embiid: Day-To-Day (Rest)",
-     "LeBron James: Day-To-Day (Rest)",
-     "Jaylen Brown: Day-To-Day (Knee)",
      "Jabari Walker: Out (Knee)",
-     "Tacko Fall: Out (Quadriceps)"
+     "LeBron James: Out (Back)",
+     "Tacko Fall: Out (Quadriceps)",
+     "Joel Embiid: Out (Foot)",
+     "Jaylen Brown: Day-To-Day (Knee)"
     ],
     "ultimos_5": [
      "2026-10-22 vs CLE W 114-106",
@@ -1134,7 +1134,7 @@
      {
       "jugador": "Joel Embiid",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1281,7 +1281,7 @@
      {
       "jugador": "LeBron James",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6766,54 +6766,51 @@
       ]
      },
      {
-      "jugador": "Ochai Agbaji",
+      "jugador": "Alex Caruso",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
-        "min": 15.8,
-        "pts": 6.8,
-        "reb": 2.2,
-        "ast": 0.6,
-        "triples": 0.8
+        "min": 18.4,
+        "pts": 8,
+        "reb": 4.4,
+        "ast": 3.4,
+        "triples": 1.6
        },
        "ult10": {
-        "pj": 10,
-        "min": 17.9,
-        "pts": 8.1,
-        "reb": 2.5,
-        "ast": 0.7,
-        "triples": 1.1
+        "pj": 7,
+        "min": 17.71,
+        "pts": 8.29,
+        "reb": 4.14,
+        "ast": 2.86,
+        "triples": 1.71
        },
        "ult20": {
-        "pj": 20,
-        "min": 16.15,
-        "pts": 6.65,
-        "reb": 2.3,
-        "ast": 0.85,
-        "triples": 1.1
+        "pj": 7,
+        "min": 17.71,
+        "pts": 8.29,
+        "reb": 4.14,
+        "ast": 2.86,
+        "triples": 1.71
        },
        "temporada": {
-        "pj": 68,
-        "min": 16.01,
-        "pts": 5.19,
-        "reb": 2.44,
-        "ast": 0.74,
-        "triples": 0.56
+        "pj": 7,
+        "min": 17.71,
+        "pts": 8.29,
+        "reb": 4.14,
+        "ast": 2.86,
+        "triples": 1.71
        }
       },
       "ultimos_10": [
-       "2026-03-09 vs MEM: 22min 18p 3r 1a 2t",
-       "2026-03-16 vs POR: 25min 8p 4r 1a 1t",
-       "2026-03-18 vs OKC: 20min 10p 2r 0a 2t",
-       "2026-03-20 vs NY: 24min 8p 4r 1a 2t",
-       "2026-03-22 vs SAC: 9min 3p 1r 1a 0t",
-       "2026-03-24 vs POR: 6min 0p 0r 0a 0t",
-       "2026-03-28 vs LAL: 21min 2p 5r 1a 0t",
-       "2026-03-29 vs SAC: 25min 18p 1r 0a 2t",
-       "2026-03-31 vs CHA: 9min 2p 1r 0a 0t",
-       "2026-04-05 vs WSH: 18min 12p 4r 2a 2t"
+       "2026-10-08 vs MIL: 17min 12p 4r 2a 4t",
+       "2026-10-14 vs IND: 15min 6p 3r 1a 0t",
+       "2026-10-16 vs HOU: 16min 3p 3r 2a 0t",
+       "2026-10-21 vs SA: 25min 9p 6r 1a 2t",
+       "2026-10-23 vs DEN: 20min 7p 4r 5a 1t",
+       "2026-10-25 vs LAC: 22min 12p 7r 6a 2t",
+       "2026-10-27 vs PHX: 9min 9p 2r 3a 3t"
       ]
      }
     ]
@@ -6826,8 +6823,8 @@
      "Road: 3-1"
     ],
     "lesiones": [
-     "Reed Sheppard: Day-To-Day (Back)",
-     "Alperen Sengun: Day-To-Day (Back)",
+     "Reed Sheppard: Out (Back)",
+     "Fred VanVleet: Out (Knee)",
      "Steven Adams: Out (Calf)"
     ],
     "ultimos_5": [
@@ -6990,7 +6987,7 @@
      {
       "jugador": "Alperen Sengun",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7037,7 +7034,7 @@
      {
       "jugador": "Fred VanVleet",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7135,7 +7132,7 @@
      {
       "jugador": "Reed Sheppard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8200,5 +8197,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-31T16:01:44.258Z"
+ "generado_utc": "2026-10-31T17:55:09.258Z"
 }
