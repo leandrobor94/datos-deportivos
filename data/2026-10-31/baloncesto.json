@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-10-31T19:00Z",
    "inicio_colombia": "2026-10-31 14:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Delta Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -22,18 +22,10 @@
      "Road: 2-0"
     ],
     "lesiones": [
-     "Robert Williams III: Day-To-Day (Knee)",
-     "Chris Youngblood: Out (Ankle)",
      "Ja Morant: Out (Hamstring)",
      "Shaedon Sharpe: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-17 @ GS L 128-118",
-     "2026-10-22 vs PHX W 124-83",
-     "2026-10-24 @ SAC W 128-120",
-     "2026-10-28 @ LAL W 136-129",
-     "2026-10-30 vs MEM L 124-103"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Damian Lillard",
@@ -428,7 +420,7 @@
      {
       "jugador": "Robert Williams III",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -532,18 +524,11 @@
      "Road: 0-1"
     ],
     "lesiones": [
-     "Lauri Markkanen: Day-To-Day (Wrist)",
      "Jaren Jackson Jr.: Out (Knee)",
      "Trey Alexander: Out (Knee)",
      "Jusuf Nurkic: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-10-22 @ MEM L 123-103",
-     "2026-10-24 vs NO W 120-119",
-     "2026-10-25 vs LAL L 132-123",
-     "2026-10-27 vs MEM L 110-105",
-     "2026-10-29 vs SA L 117-111 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jusuf Nurkic",
@@ -749,7 +734,7 @@
      {
       "jugador": "Lauri Markkanen",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -893,57 +878,6 @@
       ]
      },
      {
-      "jugador": "Blake Hinson",
-      "posicion": "F",
-      "lesion": "Out",
-      "promedios": {
-       "ult5": {
-        "pj": 5,
-        "min": 20.6,
-        "pts": 17,
-        "reb": 2.4,
-        "ast": 1.8,
-        "triples": 3.2
-       },
-       "ult10": {
-        "pj": 10,
-        "min": 21.1,
-        "pts": 13.3,
-        "reb": 2.3,
-        "ast": 1.4,
-        "triples": 2.9
-       },
-       "ult20": {
-        "pj": 14,
-        "min": 20.43,
-        "pts": 11.93,
-        "reb": 2.36,
-        "ast": 1.14,
-        "triples": 2.64
-       },
-       "temporada": {
-        "pj": 14,
-        "min": 20.43,
-        "pts": 11.93,
-        "reb": 2.36,
-        "ast": 1.14,
-        "triples": 2.64
-       }
-      },
-      "ultimos_10": [
-       "2026-03-05 vs PHI: 19min 11p 1r 0a 3t",
-       "2026-03-06 vs WSH: 22min 10p 4r 0a 2t",
-       "2026-03-08 vs MIL: 23min 8p 2r 3a 2t",
-       "2026-03-10 vs GS: 28min 12p 2r 1a 4t",
-       "2026-03-16 vs SAC: 16min 7p 2r 1a 2t",
-       "2026-03-20 vs MIL: 20min 14p 3r 1a 4t",
-       "2026-03-26 vs WSH: 11min 21p 0r 1a 4t",
-       "2026-04-08 vs NO: 11min 10p 1r 3a 2t",
-       "2026-04-11 vs MEM: 35min 30p 2r 2a 4t",
-       "2026-04-13 vs LAL: 26min 10p 6r 2a 2t"
-      ]
-     },
-     {
       "jugador": "Isaiah Collier",
       "posicion": "G",
       "lesion": null,
@@ -1041,6 +975,55 @@
        "2026-10-25 vs LAL: 14min 2p 3r 0a 0t",
        "2026-10-27 vs MEM: 13min 0p 1r 0a 0t",
        "2026-10-29 vs SA: 15min 3p 2r 1a 1t"
+      ]
+     },
+     {
+      "jugador": "Josh Okogie",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 16.8,
+        "pts": 1.8,
+        "reb": 3.2,
+        "ast": 1.4,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 8,
+        "min": 16.75,
+        "pts": 3.13,
+        "reb": 2.5,
+        "ast": 1.5,
+        "triples": 0.63
+       },
+       "ult20": {
+        "pj": 8,
+        "min": 16.75,
+        "pts": 3.13,
+        "reb": 2.5,
+        "ast": 1.5,
+        "triples": 0.63
+       },
+       "temporada": {
+        "pj": 8,
+        "min": 16.75,
+        "pts": 3.13,
+        "reb": 2.5,
+        "ast": 1.5,
+        "triples": 0.63
+       }
+      },
+      "ultimos_10": [
+       "2026-10-04 vs DEN: 14min 3p 1r 1a 1t",
+       "2026-10-07 vs DEN: 25min 8p 3r 3a 2t",
+       "2026-10-13 vs SA: 11min 5p 0r 1a 1t",
+       "2026-10-17 vs PHX: 17min 2p 2r 2a 0t",
+       "2026-10-22 vs MEM: 8min 0p 1r 0a 0t",
+       "2026-10-25 vs LAL: 10min 2p 2r 2a 0t",
+       "2026-10-27 vs MEM: 21min 0p 2r 0a 0t",
+       "2026-10-29 vs SA: 28min 5p 9r 3a 1t"
       ]
      }
     ]
@@ -4217,8 +4200,8 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Jaylon Tyson: Out (Ankle)",
-     "Meleek Thomas: Day-To-Day (Foot)"
+     "Meleek Thomas: Day-To-Day (Foot)",
+     "Jaylon Tyson: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-10-22 @ PHI L 114-106",
@@ -5253,6 +5236,7 @@
      "Road: 2-1"
     ],
     "lesiones": [
+     "Rudy Gobert: Day-To-Day (Back)",
      "Anthony Edwards: Out (Knee)",
      "Donte DiVincenzo: Out (Achilles)"
     ],
@@ -5367,7 +5351,7 @@
      {
       "jugador": "Rudy Gobert",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5781,6 +5765,7 @@
      "Road: 2-0"
     ],
     "lesiones": [
+     "Stephon Castle: Day-To-Day (Head)",
      "Tobias Harris: Out (Calf)",
      "Jayden Quaintance: Out (Knee)"
     ],
@@ -5994,7 +5979,7 @@
      {
       "jugador": "Stephon Castle",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8197,5 +8182,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-10-31T17:55:09.258Z"
+ "generado_utc": "2026-10-31T19:32:06.965Z"
 }
