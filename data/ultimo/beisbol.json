@@ -1,8 +1,8 @@
 {
  "fuente": "MLB Stats API (statsapi.mlb.com)",
- "fecha": "2026-10-31",
+ "fecha": "2026-11-01",
  "nota": "FIP calculado con constante aproximada 3.15. Factores de estadio y umpire no vienen en esta API.",
  "partidos": [],
  "errores": [],
- "generado_utc": "2026-10-31T23:19:42.480Z"
+ "generado_utc": "2026-11-01T17:05:11.917Z"
 }
