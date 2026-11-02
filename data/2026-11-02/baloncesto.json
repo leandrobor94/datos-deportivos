@@ -2127,8 +2127,8 @@
      "Road: 2-2"
     ],
     "lesiones": [
+     "Jalen Johnson: Out (Ankle)",
      "Kingston Flemings: Suspension (Suspension)",
-     "Jalen Johnson: Day-To-Day (Ankle)",
      "Jock Landale: Out (Hip)",
      "Mouhamed Gueye: Out (Foot)",
      "Henri Veesaar: Out (Knee)"
@@ -2144,7 +2144,7 @@
      {
       "jugador": "Jalen Johnson",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2654,10 +2654,10 @@
      "Road: 2-2"
     ],
     "lesiones": [
+     "Larry Nance Jr.: Out (Illness)",
+     "Obi Toppin: Out (Coach's Decision)",
      "T.J. McConnell: Out (Hamstring)",
      "Ivica Zubac: Out (Ankle)",
-     "Larry Nance Jr.: Day-To-Day (Illness)",
-     "Obi Toppin: Day-To-Day (Back)",
      "Aaron Nesmith: Out (Rest)"
     ],
     "ultimos_5": [
@@ -3069,7 +3069,7 @@
      {
       "jugador": "Obi Toppin",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3711,9 +3711,7 @@
      "Home: 1-2",
      "Road: 1-2"
     ],
-    "lesiones": [
-     "Jose Alvarado: Out (Ankle)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-10-23 @ BOS L 107-103",
      "2026-10-25 vs ORL L 111-102",
@@ -4128,7 +4126,7 @@
      {
       "jugador": "Jose Alvarado",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5299,8 +5297,6 @@
      "Road: 1-3"
     ],
     "lesiones": [
-     "Jalen Smith: Day-To-Day (Finger)",
-     "Tobe Awaka: Day-To-Day (Ankle)",
      "Nic Claxton: Out (Hamstring)"
     ],
     "ultimos_5": [
@@ -5620,7 +5616,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5772,7 +5768,7 @@
      {
       "jugador": "Tobe Awaka",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7097,7 +7093,7 @@
      {
       "jugador": "Kyrie Irving",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7406,7 +7402,7 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Dejounte Murray: Day-To-Day (Personal)",
+     "Dejounte Murray: Out (Personal)",
      "Jordan Poole: Out (Ankle)",
      "Yves Missi: Out (Knee)"
     ],
@@ -7421,7 +7417,7 @@
      {
       "jugador": "Dejounte Murray",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -15842,5 +15838,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-02T22:27:52.419Z"
+ "generado_utc": "2026-11-02T23:12:28.956Z"
 }
