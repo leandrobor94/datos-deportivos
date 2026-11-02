@@ -13205,9 +13205,9 @@
      "Road: 2-2"
     ],
     "lesiones": [
+     "Brandon Williams: Day-To-Day (Quadriceps)",
+     "Al Horford: Out (Rest)",
      "Gui Santos: Out (Knee)",
-     "Draymond Green: Day-To-Day (Rest)",
-     "Stephen Curry: Day-To-Day (Rest)",
      "Kristaps Porzingis: Out (Illness)",
      "Moses Moody: Out (Knee)"
     ],
@@ -13477,7 +13477,7 @@
      {
       "jugador": "Draymond Green",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -13527,7 +13527,7 @@
      {
       "jugador": "Stephen Curry",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -13751,6 +13751,7 @@
      "Road: 1-2"
     ],
     "lesiones": [
+     "Scottie Barnes: Day-To-Day (Hip)",
      "Jakob Poeltl: Day-To-Day (Shoulder)",
      "Nate Bittle: Out (Foot)",
      "Kawhi Leonard: Out (Knee)"
@@ -13817,7 +13818,7 @@
      {
       "jugador": "Scottie Barnes",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -14273,10 +14274,10 @@
      "Road: 0-4"
     ],
     "lesiones": [
+     "Rui Hachimura: Out (Quadriceps)",
+     "Derrick Jones Jr.: Out (Knee)",
      "Yanic Konan Niederhauser: Out (Foot)",
      "Brandon Ingram: Out (Achilles)",
-     "Max Strus: Out (Foot)",
-     "Derrick Jones Jr.: Day-To-Day (Knee)",
      "Bradley Beal: Out (Knee)"
     ],
     "ultimos_5": [
@@ -14391,7 +14392,7 @@
      {
       "jugador": "Max Strus",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -14442,7 +14443,7 @@
      {
       "jugador": "Rui Hachimura",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -14541,7 +14542,7 @@
      {
       "jugador": "Derrick Jones Jr.",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -15330,7 +15331,6 @@
      "Road: 2-1"
     ],
     "lesiones": [
-     "Ziaire Williams: Out (Foot)",
      "Adou Thiero: Out (Knee)"
     ],
     "ultimos_5": [
@@ -15546,7 +15546,7 @@
      {
       "jugador": "Ziaire Williams",
       "posicion": "F",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -15842,5 +15842,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-02T20:42:58.979Z"
+ "generado_utc": "2026-11-02T22:27:52.419Z"
 }
