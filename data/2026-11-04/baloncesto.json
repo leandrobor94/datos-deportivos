@@ -6414,8 +6414,8 @@
      "Road: 0-2"
     ],
     "lesiones": [
-     "Jusuf Nurkic: Out (Foot)",
      "Mo Bamba: Day-To-Day (Ankle)",
+     "Jusuf Nurkic: Out (Foot)",
      "Jaren Jackson Jr.: Out (Knee)",
      "Trey Alexander: Out (Knee)"
     ],
@@ -6944,8 +6944,8 @@
      "Road: 1-2"
     ],
     "lesiones": [
-     "Jordan Poole: Out (Ankle)",
      "Trey Murphy III: Day-To-Day (Knee)",
+     "Jordan Poole: Out (Ankle)",
      "Yves Missi: Out (Knee)"
     ],
     "ultimos_5": [
@@ -9063,7 +9063,7 @@
      "Road: 3-1"
     ],
     "lesiones": [
-     "Clint Capela: Day-To-Day (Ankle)",
+     "Clint Capela: Out (Ankle)",
      "Steven Adams: Out (Calf)"
     ],
     "ultimos_5": [
@@ -9476,7 +9476,7 @@
      {
       "jugador": "Clint Capela",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -11184,8 +11184,8 @@
      "Road: 0-3"
     ],
     "lesiones": [
+     "Rasheer Fleming: Out (Ankle)",
      "Jordan Goodwin: Day-To-Day (Calf)",
-     "Rasheer Fleming: Day-To-Day (Ankle)",
      "Mark Williams: Out (Shoulder)"
     ],
     "ultimos_5": [
@@ -13789,7 +13789,6 @@
      "Road: 1-2"
     ],
     "lesiones": [
-     "Myron Gardner: Day-To-Day (Quadriceps)",
      "Giannis Antetokounmpo: Day-To-Day (Wrist)"
     ],
     "ultimos_5": [
@@ -14318,6 +14317,7 @@
      "Road: 0-4"
     ],
     "lesiones": [
+     "Isaiah Jackson: Day-To-Day (Groin)",
      "Yanic Konan Niederhauser: Out (Foot)",
      "Brandon Ingram: Out (Achilles)",
      "Bradley Beal: Out (Knee)",
@@ -14735,7 +14735,7 @@
      {
       "jugador": "Isaiah Jackson",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -14836,5 +14836,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-04T18:34:36.669Z"
+ "generado_utc": "2026-11-04T20:32:13.768Z"
 }
