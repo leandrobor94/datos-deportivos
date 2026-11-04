@@ -13251,7 +13251,7 @@
      "Road: 1-4"
     ],
     "lesiones": [
-     "Precious Achiuwa: Day-To-Day (Ankle)",
+     "Daeqwon Plowden: Out (Illness)",
      "Maxime Raynaud: Out (Knee)",
      "Keegan Murray: Out (Ankle)",
      "Ben Simmons: Out (Achilles)"
@@ -13470,7 +13470,7 @@
      {
       "jugador": "Precious Achiuwa",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -14836,5 +14836,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-04T20:32:13.768Z"
+ "generado_utc": "2026-11-04T21:28:45.851Z"
 }
