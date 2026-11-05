@@ -538,8 +538,8 @@
      "Road: 0-3"
     ],
     "lesiones": [
-     "Jordan Goodwin: Day-To-Day (Calf)",
-     "Rasheer Fleming: Day-To-Day (Ankle)",
+     "Rasheer Fleming: Out (Ankle)",
+     "Jordan Goodwin: Out (Calf)",
      "Mark Williams: Out (Shoulder)"
     ],
     "ultimos_5": [
@@ -956,7 +956,7 @@
      {
       "jugador": "Jordan Goodwin",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2134,5 +2134,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-05T18:40:01.023Z"
+ "generado_utc": "2026-11-05T20:48:43.638Z"
 }
