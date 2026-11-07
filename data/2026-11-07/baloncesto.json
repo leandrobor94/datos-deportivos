@@ -9,10 +9,10 @@
    "nota": "NBA Mexico City Game",
    "inicio_utc": "2026-11-07T22:00Z",
    "inicio_colombia": "2026-11-07 17:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Arena CDMX",
    "serie_temporada": [
-    "Series starts 11/7"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Denver Nuggets",
@@ -22,16 +22,9 @@
      "Road: 2-1"
     ],
     "lesiones": [
-     "DeMar DeRozan: Day-To-Day (Back)",
      "Julian Strawther: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-27 vs GS L 134-114",
-     "2026-10-29 @ NO W 104-91",
-     "2026-10-31 @ PHX W 127-120",
-     "2026-11-03 vs POR L 118-110",
-     "2026-11-05 vs TOR W 128-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jamal Murray",
@@ -341,7 +334,7 @@
      {
       "jugador": "DeMar DeRozan",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -552,19 +545,11 @@
      "Road: 3-2"
     ],
     "lesiones": [
-     "T.J. McConnell: Out (Hamstring)",
-     "Kelly Oubre Jr.: Day-To-Day (Calf)",
+     "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)",
-     "Ben Sheppard: Out (Knee)",
-     "Tyrese Haliburton: Out (Hamstring)"
+     "Ben Sheppard: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-28 vs PHI L 114-109",
-     "2026-10-31 @ MIA L 145-125",
-     "2026-11-01 vs BKN L 98-90",
-     "2026-11-03 vs ATL L 108-104",
-     "2026-11-05 @ MEM W 107-103"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Pascal Siakam",
@@ -820,7 +805,7 @@
      {
       "jugador": "Kelly Oubre Jr.",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1093,7 +1078,6 @@
      "Road: 1-3"
     ],
     "lesiones": [
-     "Noah Clowney: Day-To-Day (Illness)",
      "Day'Ron Sharpe: Day-To-Day (Undisclosed)",
      "Egor Demin: Out (Leg)"
     ],
@@ -1460,7 +1444,7 @@
      {
       "jugador": "Noah Clowney",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1623,8 +1607,8 @@
      "Keshon Gilbert: Out (Knee)",
      "Asa Newell: Out (Toe)",
      "Jock Landale: Out (Hip)",
-     "Jalen Johnson: Out (Ankle)",
-     "Mouhamed Gueye: Out (Foot)"
+     "Mouhamed Gueye: Out (Foot)",
+     "Henri Veesaar: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-30 vs CLE W 114-111",
@@ -1739,7 +1723,7 @@
      {
       "jugador": "Jalen Johnson",
       "posicion": "F",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3229,7 +3213,7 @@
      "Road: 2-3"
     ],
     "lesiones": [
-     "Anthony Davis: Day-To-Day (Ankle)",
+     "Anthony Davis: Out (Ankle)",
      "Reece Beekman: Out (Shoulder)",
      "Tristan Vukcevic: Out (Hip)",
      "Justin Champagnie: Out (Foot)",
@@ -4294,11 +4278,11 @@
      "Road: 2-2"
     ],
     "lesiones": [
+     "Desmond Bane: Out (Illness)",
      "Jonathan Isaac: Out (Knee)",
      "Jalen Suggs: Out (Knee)",
      "Paolo Banchero: Out (Ankle)",
-     "Noah Penda: Out (Hamstring)",
-     "Izaiyah Nelson: Out (Ankle)"
+     "Noah Penda: Out (Hamstring)"
     ],
     "ultimos_5": [
      "2026-10-28 @ TOR L 129-99",
@@ -6957,6 +6941,7 @@
      "Road: 5-1"
     ],
     "lesiones": [
+     "Robert Williams III: Out (Rest)",
      "Vit Krejci: Out (Ankle)",
      "Ja Morant: Out (Hamstring)",
      "Shaedon Sharpe: Out (Knee)"
@@ -7429,7 +7414,7 @@
      {
       "jugador": "Robert Williams III",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7481,5 +7466,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-07T19:36:06.867Z"
+ "generado_utc": "2026-11-07T23:37:00.639Z"
 }
