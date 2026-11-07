@@ -1621,8 +1621,8 @@
      "Road: 4-2"
     ],
     "lesiones": [
-     "Keshon Gilbert: Day-To-Day (Knee)",
-     "Asa Newell: Day-To-Day (Toe)",
+     "Asa Newell: Out (Toe)",
+     "Keshon Gilbert: Out (Knee)",
      "Jalen Johnson: Out (Ankle)",
      "Jock Landale: Out (Hip)",
      "Mouhamed Gueye: Out (Foot)"
@@ -2097,7 +2097,7 @@
      {
       "jugador": "Keshon Gilbert",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 4,
@@ -2688,8 +2688,8 @@
      "Road: 1-3"
     ],
     "lesiones": [
-     "Sam Merrill: Day-To-Day (Elbow)",
-     "Jarrett Allen: Day-To-Day (Knee)",
+     "Sam Merrill: Out (Elbow)",
+     "Jarrett Allen: Out (Knee)",
      "Jaylon Tyson: Out (Ankle)"
     ],
     "ultimos_5": [
@@ -2907,7 +2907,7 @@
      {
       "jugador": "Jarrett Allen",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2958,7 +2958,7 @@
      {
       "jugador": "Sam Merrill",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7482,5 +7482,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-07T16:48:37.311Z"
+ "generado_utc": "2026-11-07T18:17:15.637Z"
 }
