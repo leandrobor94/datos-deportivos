@@ -1095,8 +1095,7 @@
     "lesiones": [
      "Noah Clowney: Day-To-Day (Illness)",
      "Day'Ron Sharpe: Day-To-Day (Undisclosed)",
-     "Egor Demin: Out (Leg)",
-     "Tyler Bilodeau: Out (Shoulder)"
+     "Egor Demin: Out (Leg)"
     ],
     "ultimos_5": [
      "2026-10-27 @ BOS L 125-124 OT",
@@ -1621,10 +1620,10 @@
      "Road: 4-2"
     ],
     "lesiones": [
-     "Asa Newell: Out (Toe)",
      "Keshon Gilbert: Out (Knee)",
-     "Jalen Johnson: Out (Ankle)",
+     "Asa Newell: Out (Toe)",
      "Jock Landale: Out (Hip)",
+     "Jalen Johnson: Out (Ankle)",
      "Mouhamed Gueye: Out (Foot)"
     ],
     "ultimos_5": [
@@ -2688,9 +2687,9 @@
      "Road: 1-3"
     ],
     "lesiones": [
+     "Jaylon Tyson: Out (Ankle)",
      "Sam Merrill: Out (Elbow)",
-     "Jarrett Allen: Out (Knee)",
-     "Jaylon Tyson: Out (Ankle)"
+     "Jarrett Allen: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-30 @ ATL L 114-111",
@@ -3763,7 +3762,7 @@
      "Road: 3-2"
     ],
     "lesiones": [
-     "Jaylin Williams: Day-To-Day (Back)",
+     "Jaylin Williams: Out (Back)",
      "Thomas Sorber: Out (Knee)",
      "Cason Wallace: Out (Shoulder)",
      "Chet Holmgren: Out (Knee)",
@@ -4177,7 +4176,7 @@
      {
       "jugador": "Jaylin Williams",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4363,7 +4362,7 @@
      {
       "jugador": "Desmond Bane",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7482,5 +7481,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-07T18:17:15.637Z"
+ "generado_utc": "2026-11-07T19:36:06.867Z"
 }
