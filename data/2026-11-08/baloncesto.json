@@ -549,10 +549,7 @@
      "Road: 1-5"
     ],
     "lesiones": [
-     "Norman Powell: Day-To-Day (Shoulder)",
-     "Tobe Awaka: Day-To-Day (Knee)",
-     "Jalen Smith: Day-To-Day (Finger)",
-     "Nic Claxton: Out (Hamstring)",
+     "Norman Powell: Out (Shoulder)",
      "Zach Collins: Out (Illness)"
     ],
     "ultimos_5": [
@@ -617,7 +614,7 @@
      {
       "jugador": "Norman Powell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -770,7 +767,7 @@
      {
       "jugador": "Nic Claxton",
       "posicion": "C",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -821,7 +818,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7473,5 +7470,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-08T18:29:30.884Z"
+ "generado_utc": "2026-11-08T19:56:00.904Z"
 }
