@@ -1096,7 +1096,7 @@
      "Road: 3-1"
     ],
     "lesiones": [
-     "Luka Doncic: Day-To-Day (Back)"
+     "Luka Doncic: Out (Back)"
     ],
     "ultimos_5": [
      "2026-10-31 @ GS L 112-95",
@@ -1160,7 +1160,7 @@
      {
       "jugador": "Luka Doncic",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2687,7 +2687,6 @@
      "Road: 4-2"
     ],
     "lesiones": [
-     "Joan Beringer: Day-To-Day (Fracture)",
      "Anthony Edwards: Out (Knee)",
      "Donte DiVincenzo: Out (Achilles)"
     ],
@@ -3159,7 +3158,7 @@
      {
       "jugador": "Joan Beringer",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4290,7 +4289,9 @@
      "Home: 5-0",
      "Road: 2-2"
     ],
-    "lesiones": [],
+    "lesiones": [
+     "Mitchell Robinson: Day-To-Day (Illness)"
+    ],
     "ultimos_5": [
      "2026-10-30 vs CHI W 125-111",
      "2026-11-01 @ ORL W 108-97",
@@ -4710,7 +4711,7 @@
      {
       "jugador": "Mitchell Robinson",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4818,7 +4819,9 @@
      "Home: 1-4",
      "Road: 0-4"
     ],
-    "lesiones": [],
+    "lesiones": [
+     "Gary Trent Jr.: Day-To-Day (Illness)"
+    ],
     "ultimos_5": [
      "2026-10-29 vs HOU L 132-100",
      "2026-11-01 vs CLE L 136-111",
@@ -7470,5 +7473,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-08T16:59:57.956Z"
+ "generado_utc": "2026-11-08T18:29:30.884Z"
 }
