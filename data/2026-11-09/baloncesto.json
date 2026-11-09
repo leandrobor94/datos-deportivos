@@ -22,8 +22,8 @@
      "Road: 4-1"
     ],
     "lesiones": [
-     "Quentin Grimes: Out (Finger)",
-     "Austin Reaves: Day-To-Day (Illness)"
+     "Austin Reaves: Out (Illness)",
+     "Quentin Grimes: Out (Finger)"
     ],
     "ultimos_5": [
      "2026-11-02 vs TOR W 131-125",
@@ -36,7 +36,7 @@
      {
       "jugador": "Austin Reaves",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -550,7 +550,6 @@
     "lesiones": [
      "Asa Newell: Out (Toe)",
      "Keshon Gilbert: Out (Knee)",
-     "Jock Landale: Out (Hip)",
      "Mouhamed Gueye: Out (Foot)",
      "Henri Veesaar: Out (Knee)"
     ],
@@ -1619,7 +1618,7 @@
      "Road: 1-3"
     ],
     "lesiones": [
-     "Moussa Diabate: Day-To-Day (Quadriceps)",
+     "Moussa Diabate: Out (Quadriceps)",
      "Grant Williams: Out (Hamstring)",
      "Kon Knueppel: Out (Hamstring)",
      "Dennis Schroder: Out (Hamstring)",
@@ -1789,7 +1788,7 @@
      {
       "jugador": "Moussa Diabate",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2159,11 +2158,11 @@
      "Road: 2-4"
     ],
     "lesiones": [
-     "Bilal Coulibaly: Day-To-Day (Hand)",
+     "Bilal Coulibaly: Out (Hand)",
      "Tristan Vukcevic: Out (Hip)",
-     "Anthony Davis: Day-To-Day (Ankle)",
      "Reece Beekman: Out (Shoulder)",
-     "Justin Champagnie: Out (Foot)"
+     "Justin Champagnie: Out (Foot)",
+     "Jamir Watkins: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-10-30 vs CHA W 95-79",
@@ -2278,7 +2277,7 @@
      {
       "jugador": "Anthony Davis",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2431,7 +2430,7 @@
      {
       "jugador": "Bilal Coulibaly",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3760,10 +3759,10 @@
      "Road: 3-3"
     ],
     "lesiones": [
-     "Collin Murray-Boyles: Day-To-Day (Illness)",
+     "Immanuel Quickley: Out (Hamstring)",
+     "Collin Murray-Boyles: Out (Illness)",
+     "Scottie Barnes: Out (Groin)",
      "Nate Bittle: Out (Foot)",
-     "Immanuel Quickley: Day-To-Day (Hamstring)",
-     "Scottie Barnes: Day-To-Day (Groin)",
      "Kawhi Leonard: Out (Knee)"
     ],
     "ultimos_5": [
@@ -3828,7 +3827,7 @@
      {
       "jugador": "Scottie Barnes",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3879,7 +3878,7 @@
      {
       "jugador": "Immanuel Quickley",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4128,7 +4127,7 @@
      {
       "jugador": "Collin Murray-Boyles",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4830,7 +4829,7 @@
      "Road: 2-2"
     ],
     "lesiones": [
-     "Morez Johnson Jr.: Day-To-Day (Leg)",
+     "Morez Johnson Jr.: Out (Leg)",
      "Sergio de Larrea: Out (Knee)",
      "Tarik Biberovic: Out (Heel)",
      "Dereck Lively II: Out (Foot)"
@@ -7457,6 +7456,7 @@
      "Road: 1-3"
     ],
     "lesiones": [
+     "Zion Williamson: Out (Rest)",
      "Trendon Watford: Out (Ankle)",
      "Trey Murphy III: Out (Knee)",
      "Yves Missi: Out (Knee)"
@@ -7472,7 +7472,7 @@
      {
       "jugador": "Zion Williamson",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8510,5 +8510,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-09T21:23:43.206Z"
+ "generado_utc": "2026-11-09T23:08:30.816Z"
 }

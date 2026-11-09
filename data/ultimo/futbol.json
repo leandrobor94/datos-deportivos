@@ -101,18 +101,18 @@
       "xg_concedido_por_partido": 1.05
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.6,
+      "posesion": 53.5,
       "pj_stats": 17,
       "porterias_cero": 3,
-      "xg_total": 23.6,
       "goles_partido": 1.4,
-      "posesion": 53.5,
+      "goles_concedidos_partido": 1.6,
+      "xg_total": 23.6,
+      "remates_puerta_partido": 4.3,
+      "toques_area_rival": 381,
+      "xg_concedido_total": 17.8,
       "grandes_ocasiones_total": 21,
       "corners_total": 74,
-      "remates_puerta_partido": 4.3,
-      "xg_concedido_total": 17.8,
       "faltas_partido": 12.8,
-      "toques_area_rival": 381,
       "amarillas_total": 45
      }
     },
@@ -182,18 +182,18 @@
       "xg_concedido_por_partido": 1.18
      },
      "stats_temporada": {
-      "goles_concedidos_partido": 1.4,
+      "posesion": 44.6,
       "pj_stats": 17,
       "porterias_cero": 6,
-      "xg_total": 17.1,
       "goles_partido": 1.1,
-      "posesion": 44.6,
+      "goles_concedidos_partido": 1.4,
+      "xg_total": 17.1,
+      "remates_puerta_partido": 4.1,
+      "toques_area_rival": 264,
+      "xg_concedido_total": 20.1,
       "grandes_ocasiones_total": 14,
       "corners_total": 63,
-      "remates_puerta_partido": 4.1,
-      "xg_concedido_total": 20.1,
       "faltas_partido": 11.5,
-      "toques_area_rival": 264,
       "amarillas_total": 43
      }
     }
@@ -217,5 +217,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-09T21:23:41.639Z"
+ "generado_utc": "2026-11-09T23:08:29.014Z"
 }
