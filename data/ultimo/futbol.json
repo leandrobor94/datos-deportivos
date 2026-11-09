@@ -25,9 +25,9 @@
    },
    "clima": {
     "temp_c": 29,
-    "viento_kmh": 6,
+    "viento_kmh": 4,
     "lluvia_prob": 2,
-    "cielo": "Clear"
+    "cielo": "Partly Cloudy"
    },
    "equipos": {
     "local": {
@@ -42,11 +42,6 @@
      ],
      "bajas": [
       {
-       "jugador": "Harold Rivera",
-       "tipo": "injury",
-       "regreso": "Late November 2026"
-      },
-      {
        "jugador": "Edwin Herrera",
        "tipo": "injury",
        "regreso": "Unknown"
@@ -58,20 +53,20 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-2-3-1",
+      "tipo": "standard",
+      "formacion": "4-4-2",
       "titulares": [
        "Mauro Silveira",
-       "Daniel Socarras",
+       "Carlos Pérez",
        "Jermein Peña",
-       "Pablo Ortíz",
+       "Jean Pestaña",
        "Yeison Suárez",
-       "Fabián Ángel",
        "Jesús Rivas",
-       "Déiber Caicedo",
+       "Juan Ríos",
        "Yimmi Chará",
-       "Kevin Pérez",
-       "Luis Muriel"
+       "Bryan Castrillón",
+       "Francisco Fydriszewski",
+       "Guillermo Paiva"
       ]
      },
      "tabla": {
@@ -101,19 +96,19 @@
       "xg_concedido_por_partido": 1.05
      },
      "stats_temporada": {
-      "posesion": 53.5,
-      "pj_stats": 17,
-      "porterias_cero": 3,
       "goles_partido": 1.4,
+      "pj_stats": 17,
+      "posesion": 53.5,
       "goles_concedidos_partido": 1.6,
+      "porterias_cero": 3,
       "xg_total": 23.6,
       "remates_puerta_partido": 4.3,
-      "toques_area_rival": 381,
-      "xg_concedido_total": 17.8,
       "grandes_ocasiones_total": 21,
+      "toques_area_rival": 381,
       "corners_total": 74,
-      "faltas_partido": 12.8,
-      "amarillas_total": 45
+      "xg_concedido_total": 17.8,
+      "amarillas_total": 45,
+      "faltas_partido": 12.8
      }
     },
     "visitante": {
@@ -128,9 +123,14 @@
      ],
      "bajas": [
       {
-       "jugador": "Jaime Peralta",
+       "jugador": "Kevin Londoño",
        "tipo": "injury",
-       "regreso": "Mid November 2026"
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Lucas Ríos",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
       },
       {
        "jugador": "Samir Mayo",
@@ -139,20 +139,20 @@
       }
      ],
      "alineacion": {
-      "tipo": "lastStarting11",
-      "formacion": "4-3-3",
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
       "titulares": [
        "Federico Abadía",
-       "Tobías Sánchez",
+       "Diego Calcaterra",
        "Hernán Lópes",
        "Brayan Montaño",
        "Mauricio Duarte",
+       "Jader Manyoma",
+       "Jhonathan Agudelo",
        "Léider Berdugo",
-       "Diego Calcaterra",
-       "Neneco",
+       "Víctor Mejía",
        "Dayan Pérez",
-       "Gustavo Torres",
-       "Marlon Carabali"
+       "Jaime Peralta"
       ]
      },
      "tabla": {
@@ -182,19 +182,19 @@
       "xg_concedido_por_partido": 1.18
      },
      "stats_temporada": {
-      "posesion": 44.6,
-      "pj_stats": 17,
-      "porterias_cero": 6,
       "goles_partido": 1.1,
+      "pj_stats": 17,
+      "posesion": 44.6,
       "goles_concedidos_partido": 1.4,
+      "porterias_cero": 6,
       "xg_total": 17.1,
       "remates_puerta_partido": 4.1,
-      "toques_area_rival": 264,
-      "xg_concedido_total": 20.1,
       "grandes_ocasiones_total": 14,
+      "toques_area_rival": 264,
       "corners_total": 63,
-      "faltas_partido": 11.5,
-      "amarillas_total": 43
+      "xg_concedido_total": 20.1,
+      "amarillas_total": 43,
+      "faltas_partido": 11.5
      }
     }
    },
@@ -217,5 +217,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-09T23:08:29.014Z"
+ "generado_utc": "2026-11-09T23:51:01.818Z"
 }

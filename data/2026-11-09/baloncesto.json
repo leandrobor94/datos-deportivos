@@ -1089,7 +1089,6 @@
     ],
     "lesiones": [
      "Sam Merrill: Out (Elbow)",
-     "Jarrett Allen: Day-To-Day (Knee)",
      "Jaylon Tyson: Out (Ankle)"
     ],
     "ultimos_5": [
@@ -1307,7 +1306,7 @@
      {
       "jugador": "Jarrett Allen",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4300,7 +4299,6 @@
      "Road: 3-2"
     ],
     "lesiones": [
-     "T.J. McConnell: Day-To-Day (Hamstring)",
      "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)",
      "Ben Sheppard: Out (Knee)"
@@ -8510,5 +8508,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-09T23:08:30.816Z"
+ "generado_utc": "2026-11-09T23:51:03.357Z"
 }
