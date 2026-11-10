@@ -2695,7 +2695,6 @@
      "Road: 0-3"
     ],
     "lesiones": [
-     "Jordan Goodwin: Out (Calf)",
      "Mark Williams: Out (Shoulder)"
     ],
     "ultimos_5": [
@@ -3168,7 +3167,7 @@
      {
       "jugador": "Jordan Goodwin",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6412,5 +6411,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-10T18:37:15.331Z"
+ "generado_utc": "2026-11-10T20:35:52.866Z"
 }

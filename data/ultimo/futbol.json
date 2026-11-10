@@ -25,7 +25,7 @@
    },
    "clima": {
     "temp_c": 4,
-    "viento_kmh": 4,
+    "viento_kmh": 5,
     "cielo": "Fog"
    },
    "equipos": {
@@ -91,7 +91,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 3.8,
+      "goles_partido": 4.5,
       "pj_stats": 4
      }
     }
@@ -110,5 +110,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-10T18:37:14.123Z"
+ "generado_utc": "2026-11-10T20:35:49.774Z"
 }
