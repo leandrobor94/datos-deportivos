@@ -4833,8 +4833,6 @@
     ],
     "lesiones": [
      "Maxime Raynaud: Out (Knee)",
-     "Keegan Murray: Day-To-Day (Wrist)",
-     "Domantas Sabonis: Day-To-Day (Knee)",
      "Ben Simmons: Out (Achilles)"
     ],
     "ultimos_5": [
@@ -4899,7 +4897,7 @@
      {
       "jugador": "Domantas Sabonis",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5203,7 +5201,7 @@
      {
       "jugador": "Keegan Murray",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6411,5 +6409,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-10T20:35:52.866Z"
+ "generado_utc": "2026-11-10T21:24:26.545Z"
 }
