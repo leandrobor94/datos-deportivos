@@ -1,0 +1,114 @@
+{
+ "fuente": "FotMob (fotmob.com)",
+ "fecha": "2026-11-10",
+ "partidos": [
+  {
+   "id": 1000022290,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-10T18:00:00.000Z",
+   "inicio_colombia": "2026-11-10 13:00",
+   "ya_empezo": true,
+   "local": "Feyenoord (W)",
+   "visitante": "VfL Wolfsburg (W)",
+   "ronda": "8th Finals",
+   "estadio": "Sportcomplex Varkenoord Hoofdveld, Rotterdam (grass)",
+   "arbitro": {
+    "nombre": "Déborah Anex",
+    "stats": {
+     "matches": 18,
+     "yellowCards": 5.22,
+     "redCards": 1,
+     "unknown": 4,
+     "penalties": 5,
+     "fouls": 22.33
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 4,
+    "cielo": "Fog"
+   },
+   "equipos": {
+    "local": {
+     "id": 1354263,
+     "nombre": "Feyenoord (W)",
+     "forma_ult5": [
+      "L 2 - 1 Vålerenga (W)-Feyenoord (W)",
+      "L 1 - 4 Feyenoord-Ajax",
+      "L 1 - 0 De Graafschap-Feyenoord",
+      "L 7 - 0 VfL Wolfsburg (W)-Feyenoord (W)",
+      "W 0 - 1 ADO Den Haag-Feyenoord"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Oliwia Szymczak",
+       "Esmee De Graaf",
+       "Avani Brandt",
+       "Tatum Haverhoek",
+       "Joni Paliama",
+       "Kirsten van de Westeringh",
+       "Eva van Deursen",
+       "Kokona Iwasaki",
+       "Romée van de Lavoir",
+       "Victoria DellaPeruta",
+       "Ilayah Dostmohamed"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.5,
+      "pj_stats": 6
+     }
+    },
+    "visitante": {
+     "id": 394121,
+     "nombre": "VfL Wolfsburg (W)",
+     "forma_ult5": [
+      "W 0 - 5 Mainz 05-VfL Wolfsburg",
+      "W 3 - 0 VfL Wolfsburg-FC Köln",
+      "W 7 - 0 VfL Wolfsburg (W)-Feyenoord (W)",
+      "W 8 - 0 VfL Wolfsburg-TSG 1899 Hoffenheim",
+      "W 1 - 3 Eintracht Frankfurt-VfL Wolfsburg"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Martina Tufeković",
+       "Joelle Wedemeyer",
+       "Sophia Kleinherne",
+       "Camilla Küver",
+       "Sarai Linder",
+       "Katharina Piljić",
+       "Janina Minge",
+       "Kessya Bussy",
+       "Smilla Vallotto",
+       "Mara Alber",
+       "Cecilie Fløe"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 3.8,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2026-10-28 VfL Wolfsburg 7 - 0 Feyenoord"
+    ]
+   },
+   "datos_curiosos": []
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-11-10T18:37:14.123Z"
+}
