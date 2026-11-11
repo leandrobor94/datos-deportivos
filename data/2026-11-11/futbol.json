@@ -215,7 +215,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 2.8,
+      "goles_partido": 3,
       "pj_stats": 6
      }
     },
@@ -387,7 +387,7 @@
    },
    "clima": {
     "temp_c": 9,
-    "viento_kmh": 0,
+    "viento_kmh": 1,
     "cielo": "Cloudy"
    },
    "equipos": {
@@ -420,7 +420,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 2,
+      "goles_partido": 2.3,
       "pj_stats": 4
      }
     },
@@ -453,7 +453,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 0.3,
+      "goles_partido": 0.5,
       "pj_stats": 4
      }
     }
@@ -528,7 +528,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 2,
+      "goles_partido": 3,
       "pj_stats": 4
      }
     },
@@ -601,7 +601,7 @@
    },
    "clima": {
     "temp_c": 7,
-    "viento_kmh": 4,
+    "viento_kmh": 3,
     "cielo": "Cloudy"
    },
    "equipos": {
@@ -667,7 +667,7 @@
       ]
      },
      "stats_temporada": {
-      "goles_partido": 2.3,
+      "goles_partido": 2.8,
       "pj_stats": 4
      }
     }
@@ -686,5 +686,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-11T18:35:55.161Z"
+ "generado_utc": "2026-11-11T22:14:12.923Z"
 }

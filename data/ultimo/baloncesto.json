@@ -3770,9 +3770,9 @@
      "Road: 1-5"
     ],
     "lesiones": [
+     "Tobe Awaka: Out (Back)",
      "Caleb Wilson: Day-To-Day (Hip)",
      "Norman Powell: Day-To-Day (Shoulder)",
-     "Tobe Awaka: Day-To-Day (Back)",
      "Zach Collins: Day-To-Day (Illness)"
     ],
     "ultimos_5": [
@@ -5369,7 +5369,7 @@
      "Road: 5-1"
     ],
     "lesiones": [
-     "Quentin Grimes: Day-To-Day (Finger)"
+     "Quentin Grimes: Out (Finger)"
     ],
     "ultimos_5": [
      "2026-11-03 vs MIA W 138-117",
@@ -5535,7 +5535,7 @@
      {
       "jugador": "Quentin Grimes",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5895,7 +5895,8 @@
      "Road: 0-5"
     ],
     "lesiones": [
-     "Tyler Herro: Day-To-Day (Knee)"
+     "Tyler Herro: Day-To-Day (Knee)",
+     "Myles Turner: Out (Rest)"
     ],
     "ultimos_5": [
      "2026-11-03 @ MIN L 112-100",
@@ -6112,7 +6113,7 @@
      {
       "jugador": "Myles Turner",
       "posicion": "C",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6438,8 +6439,8 @@
      "Road: 1-5"
     ],
     "lesiones": [
-     "Mikel Brown Jr.: Out (Illness)",
-     "Nolan Traore: Day-To-Day (Calf)"
+     "Nolan Traore: Out (Calf)",
+     "Mikel Brown Jr.: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-11-01 @ IND W 98-90",
@@ -6705,7 +6706,7 @@
      {
       "jugador": "Nolan Traore",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7505,11 +7506,11 @@
      "Road: 3-3"
     ],
     "lesiones": [
+     "Jamal Cain: Day-To-Day (Shoulder)",
      "Tristan da Silva: Day-To-Day (Calf)",
      "Jalen Suggs: Out (Knee)",
      "Jonathan Isaac: Out (Knee)",
-     "Paolo Banchero: Out (Ankle)",
-     "Noah Penda: Out (Hamstring)"
+     "Paolo Banchero: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-11-01 vs BOS L 108-97",
@@ -7918,7 +7919,7 @@
      {
       "jugador": "Jamal Cain",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8027,8 +8028,8 @@
      "Road: 0-5"
     ],
     "lesiones": [
-     "Lauri Markkanen: Out (Wrist)",
      "Keyonte George: Day-To-Day (Ankle)",
+     "Lauri Markkanen: Out (Hand)",
      "Jusuf Nurkic: Out (Foot)",
      "Jaren Jackson Jr.: Out (Knee)"
     ],
@@ -9597,10 +9598,10 @@
     ],
     "lesiones": [
      "Jaylin Williams: Out (Back)",
+     "Ajay Mitchell: Out (Ankle)",
      "Thomas Sorber: Out (Knee)",
      "Cason Wallace: Out (Shoulder)",
-     "Chet Holmgren: Out (Knee)",
-     "Jalen Williams: Out (Leg)"
+     "Chet Holmgren: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-03 @ CLE W 117-112",
@@ -9708,7 +9709,7 @@
      {
       "jugador": "Ajay Mitchell",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -10119,8 +10120,9 @@
      "Road: 5-1"
     ],
     "lesiones": [
-     "Ja Morant: Out (Hamstring)",
+     "Chris Youngblood: Out (Foot)",
      "Vit Krejci: Out (Ankle)",
+     "Ja Morant: Out (Hamstring)",
      "Shaedon Sharpe: Out (Knee)"
     ],
     "ultimos_5": [
@@ -10644,5 +10646,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-11T18:35:57.872Z"
+ "generado_utc": "2026-11-11T22:14:16.237Z"
 }
