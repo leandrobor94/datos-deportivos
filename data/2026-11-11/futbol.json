@@ -1,0 +1,690 @@
+{
+ "fuente": "FotMob (fotmob.com)",
+ "fecha": "2026-11-11",
+ "partidos": [
+  {
+   "id": 6539338,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-11T12:00:00.000Z",
+   "inicio_colombia": "2026-11-11 07:00",
+   "ya_empezo": true,
+   "local": "Vietnam",
+   "visitante": "Chinese Taipei",
+   "ronda": null,
+   "estadio": "Sân vận động Thiên Trường (Thien Truong Stadium), Nam Định (Nam Dinh) (grass)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 19,
+    "viento_kmh": 1,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 5894,
+     "nombre": "Vietnam",
+     "forma_ult5": [
+      "D 2 - 2 Vietnam-Thailand",
+      "W 1 - 0 Vietnam-Philippines",
+      "L 2 - 0 Thailand-Vietnam",
+      "W 4 - 2 Vietnam-Pakistan",
+      "L 1 - 0 Malaysia-Vietnam"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5896,
+     "nombre": "Chinese Taipei",
+     "forma_ult5": [
+      "L 6 - 0 Indonesia-Chinese Taipei",
+      "L 2 - 0 Thailand-Chinese Taipei",
+      "L 1 - 6 Chinese Taipei-Thailand",
+      "L 3 - 1 Turkmenistan-Chinese Taipei",
+      "L 1 - 3 Chinese Taipei-Sri Lanka"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2016-03-24 Vietnam 4 - 1 Chinese Taipei",
+     "2015-09-08 Chinese Taipei 1 - 2 Vietnam"
+    ]
+   },
+   "datos_curiosos": [
+    "5894 have won the previous 2 matches against 5896.",
+    "Have lost their last 7 matches"
+   ]
+  },
+  {
+   "id": 1000022285,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T16:00:00.000Z",
+   "inicio_colombia": "2026-11-11 11:00",
+   "ya_empezo": true,
+   "local": "Czarni Sosnowiec (W)",
+   "visitante": "Brann (W)",
+   "ronda": "8th Finals",
+   "estadio": "ArcelorMittal Park, Sosnowiec (grass)",
+   "arbitro": {
+    "nombre": "Olivia Tschon",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 3,
+    "cielo": "Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 1269306,
+     "nombre": "Czarni Sosnowiec (W)",
+     "forma_ult5": [
+      "L 1 - 4 Czarni Sosnowiec-Oud-Heverlee Leuven",
+      "L 2 - 1 Oud-Heverlee Leuven-Czarni Sosnowiec",
+      "W 2 - 6 Breidablik (W)-Czarni Sosnowiec (W)",
+      "W 1 - 0 Czarni Sosnowiec (W)-Breidablik (W)",
+      "L 3 - 0 Brann (W)-Czarni Sosnowiec (W)"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "5-3-2",
+      "titulares": [
+       "Anna Palińska",
+       "Oliwia Łapińska",
+       "Daria Kurzawa",
+       "Natalia Chudzik",
+       "Zofia Buszewska",
+       "Zofia Burzan",
+       "Emilia Sobierajska",
+       "Patrycja Sarapata",
+       "Karlīna Miksone",
+       "Nicola Gałuszka",
+       "Nikol Kaletka"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2,
+      "pj_stats": 4
+     }
+    },
+    "visitante": {
+     "id": 4182,
+     "nombre": "Brann (W)",
+     "forma_ult5": [
+      "W 0 - 3 Fyllingsdalen-Brann",
+      "W 1 - 0 Brann-Vålerenga",
+      "W 3 - 0 Brann (W)-Czarni Sosnowiec (W)",
+      "W 1 - 4 LSK Kvinner-Brann",
+      "W 2 - 0 Brann-Molde"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Sunniva Skoglund",
+       "Josefine Birkelund",
+       "Mia Authen",
+       "Joanna Tynnilä",
+       "Nea Lehtola",
+       "Emma Peuhkurinen",
+       "Lauren Davidson",
+       "Diljá Ýr Zomers",
+       "Karoline Haugland",
+       "Monica Nedgård Isaksen",
+       "Brenna Lovera"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 3.5,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2026-10-28 Brann 3 - 0 Czarni Sosnowiec"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022284,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T17:00:00.000Z",
+   "inicio_colombia": "2026-11-11 12:00",
+   "ya_empezo": true,
+   "local": "Brøndby IF (W)",
+   "visitante": "Rosenborg BK (W)",
+   "ronda": "8th Finals",
+   "estadio": "1964 Park, Brøndby (artificial turf)",
+   "arbitro": {
+    "nombre": "Merima Čelik",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 6,
+    "viento_kmh": 3,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 8502,
+     "nombre": "Brøndby IF (W)",
+     "forma_ult5": [
+      "D 1 - 1 HB Køge-Brøndby IF",
+      "L 1 - 2 Brøndby IF-FC Midtjylland",
+      "D 1 - 1 Rosenborg BK (W)-Brøndby IF (W)",
+      "W 2 - 0 Brøndby IF-OB Q",
+      "W 1 - 2 Fortuna Hjørring-Brøndby IF"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Jalen Tompkins",
+       "Elvira Bull Nejmann",
+       "Michaela Kovacs",
+       "Malin Johnsen Brenn",
+       "Hafrún Halldórsdóttir",
+       "Amy Rodgers",
+       "Mila Bischoff",
+       "Emma Pelkowski",
+       "Rakel Engesvik",
+       "Tilde Lindwall",
+       "Mathilde Rasmussen"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2.8,
+      "pj_stats": 6
+     }
+    },
+    "visitante": {
+     "id": 4484,
+     "nombre": "Rosenborg BK (W)",
+     "forma_ult5": [
+      "W 0 - 5 Rana FK-Rosenborg BK",
+      "W 0 - 2 Hønefoss-Rosenborg BK",
+      "D 1 - 1 Rosenborg BK (W)-Brøndby IF (W)",
+      "W 6 - 0 Rosenborg BK-Røa",
+      "W 0 - 2 Bodø/Glimt-Rosenborg BK"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Rugile Rulyte",
+       "Matilde Alsaker Rogde",
+       "Andrea Buberg",
+       "Synne Aunehaugen",
+       "Milena Kokosz",
+       "Cille Nilsen",
+       "Beate Marcussen",
+       "Karna Sødahl",
+       "Ine Strømstad Berre",
+       "Joshualyn Reeves",
+       "Mari Kristine Vik"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.5,
+      "pj_stats": 6
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2026-10-29 Rosenborg BK 1 - 1 Brøndby IF"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022283,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T17:00:00.000Z",
+   "inicio_colombia": "2026-11-11 12:00",
+   "ya_empezo": true,
+   "local": "Fenerbahçe (W)",
+   "visitante": "Real Sociedad (W)",
+   "ronda": "8th Finals",
+   "estadio": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi, İstanbul (grass)",
+   "arbitro": {
+    "nombre": "Michaela Pachtova",
+    "stats": {
+     "matches": 5,
+     "yellowCards": 4,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 0,
+     "fouls": 20.33
+    }
+   },
+   "clima": {
+    "temp_c": 17,
+    "viento_kmh": 0,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 2038345,
+     "nombre": "Fenerbahçe (W)",
+     "forma_ult5": [
+      "W 1 - 2 FC Kharkiv-Fenerbahçe",
+      "D 1 - 1 Oud-Heverlee Leuven-Fenerbahçe",
+      "W 1 - 4 FC Minsk (W)-Fenerbahçe (W)",
+      "W 1 - 0 Fenerbahçe (W)-FC Minsk (W)",
+      "L 2 - 0 Real Sociedad (W)-Fenerbahçe (W)"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Natalia Munteanu",
+       "Fatma Şakar",
+       "Konya Plummer",
+       "Katie Bowen",
+       "Colette Ndzana",
+       "Ece Türkoğlu",
+       "Regina Otu",
+       "Zsanett Kaján",
+       "Busem Şeker",
+       "Suliat Abideen",
+       "Andrea Stasková"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.3,
+      "pj_stats": 4
+     }
+    },
+    "visitante": {
+     "id": 858300,
+     "nombre": "Real Sociedad (W)",
+     "forma_ult5": [
+      "W 2 - 1 Real Sociedad-Barcelona",
+      "D 1 - 1 Real Sociedad-Espanyol",
+      "W 2 - 0 Real Sociedad (W)-Fenerbahçe (W)",
+      "D 1 - 1 Deportivo Alavés-Real Sociedad",
+      "W 1 - 2 Eibar-Real Sociedad"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Julia Arrula",
+       "Esther Laborde",
+       "Nahia Aparicio",
+       "Claudia",
+       "Laura Camino",
+       "Ainoa Campo",
+       "Arola Aparicio",
+       "Klára Cahynová",
+       "Intza Eguiguren",
+       "Cecilia Marcos",
+       "Sonya Keefe"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2026-10-28 Real Sociedad 2 - 0 Fenerbahçe"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022289,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T17:30:00.000Z",
+   "inicio_colombia": "2026-11-11 12:30",
+   "ya_empezo": true,
+   "local": "Eintracht Frankfurt (W)",
+   "visitante": "PSV (W)",
+   "ronda": "8th Finals",
+   "estadio": "Stadion am Brentanobad, Frankfurt am Main (grass)",
+   "arbitro": {
+    "nombre": "Jelena Cvetković",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 9,
+    "viento_kmh": 0,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 294857,
+     "nombre": "Eintracht Frankfurt (W)",
+     "forma_ult5": [
+      "D 1 - 1 Bayer Leverkusen-Eintracht Frankfurt",
+      "W 0 - 3 VfB Stuttgart-Eintracht Frankfurt",
+      "W 0 - 2 PSV (W)-Eintracht Frankfurt (W)",
+      "D 0 - 0 Nürnberg-Eintracht Frankfurt",
+      "L 1 - 3 Eintracht Frankfurt-VfL Wolfsburg"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-1-2",
+      "titulares": [
+       "Sophia Winkler",
+       "Pia-Sophie Wolter",
+       "Sara Doorsoun",
+       "Amanda Ilestedt",
+       "Nina Lührssen",
+       "Erëleta Memeti",
+       "Hanna Bennison",
+       "Dilara Acikgöz",
+       "Larissa Michelle Mühlhaus",
+       "Rebecka Blomqvist",
+       "Laura Freigang"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2,
+      "pj_stats": 4
+     }
+    },
+    "visitante": {
+     "id": 856501,
+     "nombre": "PSV (W)",
+     "forma_ult5": [
+      "D 0 - 0 Fortuna Hjørring (W)-PSV (W)",
+      "W 0 - 3 ADO Den Haag-PSV",
+      "W 1 - 4 Ajax-PSV",
+      "L 0 - 2 PSV (W)-Eintracht Frankfurt (W)",
+      "W 5 - 2 PSV-SC Heerenveen"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Nicky Evrard",
+       "Sara Thrige",
+       "Gwyneth Hendriks",
+       "Sisca Folkertsma",
+       "Melanie Bross",
+       "Janice Cayman",
+       "Rosalie Renfurm",
+       "Chimera Ripa",
+       "Shanice van de Sanden",
+       "Lore Jacobs",
+       "Liz Rijsbergen"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 0.3,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2026-10-28 PSV 0 - 2 Eintracht Frankfurt",
+     "2025-11-20 Eintracht Frankfurt 3 - 1 PSV",
+     "2025-11-12 PSV 1 - 2 Eintracht Frankfurt"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022288,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T18:00:00.000Z",
+   "inicio_colombia": "2026-11-11 13:00",
+   "ya_empezo": true,
+   "local": "Hammarby IF (W)",
+   "visitante": "Spartak Myjava (W)",
+   "ronda": "8th Finals",
+   "estadio": "Hammarby IP, Stockholm (artificial turf)",
+   "arbitro": {
+    "nombre": "Aleksandra Česen",
+    "stats": {
+     "matches": 5,
+     "yellowCards": 3.6,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 0,
+     "fouls": 22
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 1,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 181469,
+     "nombre": "Hammarby IF (W)",
+     "forma_ult5": [
+      "L 3 - 0 BK Häcken-Hammarby IF",
+      "W 3 - 0 Hammarby IF-Djurgården",
+      "W 1 - 3 Spartak Myjava (W)-Hammarby IF (W)",
+      "W 0 - 7 IK Uppsala Fotboll-Hammarby IF",
+      "W 0 - 2 FC Rosengård-Hammarby IF"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Emma Holmgren",
+       "Stina Lennartsson",
+       "Alice Carlsson",
+       "Gudrún Arnardóttir",
+       "Sofia Reidy",
+       "Mathilde Janzen",
+       "Vilma Koivisto",
+       "Elin Åhgren Sørum",
+       "Anna Walter",
+       "Vilde Hasund",
+       "Mari Rosendal Nyhagen"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2,
+      "pj_stats": 4
+     }
+    },
+    "visitante": {
+     "id": 1378255,
+     "nombre": "Spartak Myjava (W)",
+     "forma_ult5": [
+      "W 1 - 2 KF Vllaznia-Spartak Myjava",
+      "L 2 - 4 Spartak Myjava-Czarni Sosnowiec",
+      "W 2 - 3 PAOK Thessaloniki FC (W)-Spartak Myjava (W)",
+      "D 1 - 1 Spartak Myjava (W)-PAOK Thessaloniki FC (W)",
+      "L 1 - 3 Spartak Myjava (W)-Hammarby IF (W)"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-2-1",
+      "titulares": [
+       "Viktória Opalková",
+       "Nina Matusicová",
+       "Sára Krsiaková",
+       "Maja Dimitrijevic",
+       "Nadja Stanović",
+       "Madelyn Dougherty",
+       "Zuzana Nározná",
+       "Katarína Vredíková",
+       "Eliška Dvoráková",
+       "Tamara Kramlíková",
+       "Stela Semanová"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.3,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2026-10-28 Spartak Myjava 1 - 3 Hammarby IF"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000022286,
+   "competicion": "UEFA Women's Europa Cup - 8th Finals (INT)",
+   "inicio_utc": "2026-11-11T18:00:00.000Z",
+   "inicio_colombia": "2026-11-11 13:00",
+   "ya_empezo": true,
+   "local": "Malmö FF (W)",
+   "visitante": "Ajax (W)",
+   "ronda": "8th Finals",
+   "estadio": "Eleda Stadion, Malmö (grass)",
+   "arbitro": {
+    "nombre": "Nanna Løf Lindby",
+    "stats": {
+     "matches": 22,
+     "yellowCards": 3.5,
+     "redCards": 0,
+     "unknown": 1,
+     "penalties": 8,
+     "fouls": 22.91
+    }
+   },
+   "clima": {
+    "temp_c": 7,
+    "viento_kmh": 4,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 1598854,
+     "nombre": "Malmö FF (W)",
+     "forma_ult5": [
+      "W 3 - 2 Malmö FF-AIK",
+      "W 1 - 2 Kristianstads DFF-Malmö FF",
+      "W 1 - 2 Ajax (W)-Malmö FF (W)",
+      "D 1 - 1 Malmö FF-IFK Norrköping",
+      "D 1 - 1 Piteå IF-Malmö FF"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Zećira Mušović",
+       "Agnes Mårtensson",
+       "Ellen Löfqvist",
+       "Emma Petrović",
+       "Charlotte Grant",
+       "Amy Sayer",
+       "Mia Persson",
+       "Larkin Russell",
+       "Izzy D'Aquila",
+       "Stinalisa Johansson",
+       "Tuva Skoog"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 1.8,
+      "pj_stats": 4
+     }
+    },
+    "visitante": {
+     "id": 856500,
+     "nombre": "Ajax (W)",
+     "forma_ult5": [
+      "L 1 - 0 Aktobe W (W)-Ajax (W)",
+      "W 1 - 4 Feyenoord-Ajax",
+      "L 1 - 4 Ajax-PSV",
+      "L 1 - 2 Ajax (W)-Malmö FF (W)",
+      "W 2 - 0 Ajax-FC Twente"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Danae van der Vilet",
+       "Daliyah de Klonia",
+       "Sari Kees",
+       "Anna Vera Knol",
+       "Amber Visscher",
+       "Sherida Spitse",
+       "Kealyn Thomas",
+       "Nadine Noordam",
+       "Xanne Kip",
+       "Mirte van Koppen",
+       "Ella Touon"
+      ]
+     },
+     "stats_temporada": {
+      "goles_partido": 2.3,
+      "pj_stats": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2026-10-28 Ajax 1 - 2 Malmö FF"
+    ]
+   },
+   "datos_curiosos": []
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-11-11T18:35:55.161Z"
+}
