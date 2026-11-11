@@ -22,8 +22,7 @@
      "Road: 0-4"
     ],
     "lesiones": [
-     "Kel'el Ware: Day-To-Day (Ankle)",
-     "Tyler Herro: Day-To-Day (Knee)"
+     "Tyler Herro: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-01 vs CLE L 136-111",
@@ -36,7 +35,7 @@
      {
       "jugador": "Tyler Herro",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -553,7 +552,7 @@
      "Road: 2-2"
     ],
     "lesiones": [
-     "Josh Hart: Day-To-Day (Ankle)"
+     "Josh Hart: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-10-29 @ CHI W 133-127",
@@ -719,7 +718,7 @@
      {
       "jugador": "Josh Hart",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6409,5 +6408,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-10T21:24:26.545Z"
+ "generado_utc": "2026-11-11T00:37:05.265Z"
 }
