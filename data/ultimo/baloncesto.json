@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T00:00Z",
    "inicio_colombia": "2026-11-11 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Gainbridge Fieldhouse",
    "serie_temporada": [
     "Regular Season Series"
@@ -27,13 +27,7 @@
      "Justin Champagnie: Out (Foot)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-03 @ ORL W 103-94",
-     "2026-11-05 vs ATL L 120-105",
-     "2026-11-07 @ ATL L 139-132",
-     "2026-11-08 @ OKC L 114-75",
-     "2026-11-10 @ DET L 122-111"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Trae Young",
@@ -555,18 +549,11 @@
      "Road: 3-3"
     ],
     "lesiones": [
-     "T.J. McConnell: Day-To-Day (Hamstring)",
      "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)",
      "Ben Sheppard: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-01 vs BKN L 98-90",
-     "2026-11-03 vs ATL L 108-104",
-     "2026-11-05 @ MEM W 107-103",
-     "2026-11-07 vs DEN L 114-102",
-     "2026-11-10 @ DAL L 125-122"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Pascal Siakam",
@@ -1085,7 +1072,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T00:00Z",
    "inicio_colombia": "2026-11-11 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Madison Square Garden",
    "serie_temporada": [
     "NY leads series 1-0"
@@ -1098,16 +1085,9 @@
      "Road: 1-4"
     ],
     "lesiones": [
-     "Sam Merrill: Out (Elbow)",
-     "Jaylon Tyson: Out (Ankle)"
+     "Sam Merrill: Out (Elbow)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs OKC L 117-112",
-     "2026-11-05 @ OKC L 124-116",
-     "2026-11-07 vs PHI W 119-95",
-     "2026-11-08 vs NY L 109-97",
-     "2026-11-10 @ CHA L 124-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "James Harden",
@@ -1469,7 +1449,7 @@
      {
       "jugador": "Jaylon Tyson",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1626,17 +1606,8 @@
      "Home: 4-2",
      "Road: 2-2"
     ],
-    "lesiones": [
-     "Karl-Anthony Towns: Day-To-Day (Calf)",
-     "Josh Hart: Out (Illness)"
-    ],
-    "ultimos_5": [
-     "2026-10-30 @ PHI L 98-93",
-     "2026-11-03 vs BKN W 103-90",
-     "2026-11-05 vs CHI W 135-105",
-     "2026-11-08 @ CLE W 109-97",
-     "2026-11-11 vs MIL W 117-85"
-    ],
+    "lesiones": [],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Brunson",
@@ -1743,7 +1714,7 @@
      {
       "jugador": "Karl-Anthony Towns",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1794,7 +1765,7 @@
      {
       "jugador": "Josh Hart",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2158,7 +2129,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T00:00Z",
    "inicio_colombia": "2026-11-11 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Scotiabank Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -2173,13 +2144,7 @@
     "lesiones": [
      "Paul George: Out (Illness)"
     ],
-    "ultimos_5": [
-     "2026-11-03 @ HOU L 109-93",
-     "2026-11-05 vs MIL W 109-102",
-     "2026-11-07 @ CHA W 119-80",
-     "2026-11-09 @ MIL W 117-97",
-     "2026-11-11 @ PHI W 123-101"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jayson Tatum",
@@ -2701,19 +2666,12 @@
      "Road: 3-3"
     ],
     "lesiones": [
+     "Kawhi Leonard: Out (Knee)",
      "Trayce Jackson-Davis: Out (Illness)",
-     "Collin Murray-Boyles: Day-To-Day (Illness)",
-     "Immanuel Quickley: Day-To-Day (Hamstring)",
      "Scottie Barnes: Out (Groin)",
-     "Kawhi Leonard: Out (Knee)"
+     "Nate Bittle: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-11-02 @ LAL L 131-125",
-     "2026-11-03 @ LAC W 125-118",
-     "2026-11-05 @ DEN L 128-109",
-     "2026-11-07 @ MIL W 121-107",
-     "2026-11-10 vs MEM L 118-102"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "RJ Barrett",
@@ -2820,7 +2778,7 @@
      {
       "jugador": "Immanuel Quickley",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2934,7 +2892,7 @@
        },
        "ult10": {
         "pj": 10,
-        "min": 24.2,
+        "min": 24.3,
         "pts": 7.4,
         "reb": 2.2,
         "ast": 7,
@@ -2942,7 +2900,7 @@
        },
        "ult20": {
         "pj": 14,
-        "min": 23.14,
+        "min": 23.21,
         "pts": 7.07,
         "reb": 2.07,
         "ast": 6.29,
@@ -2950,7 +2908,7 @@
        },
        "temporada": {
         "pj": 14,
-        "min": 23.14,
+        "min": 23.21,
         "pts": 7.07,
         "reb": 2.07,
         "ast": 6.29,
@@ -2959,7 +2917,7 @@
       },
       "ultimos_10": [
        "2026-10-21 vs CHI: 16min 2p 2r 5a 0t",
-       "2026-10-23 vs WSH: 24min 5p 2r 5a 0t",
+       "2026-10-23 vs WSH: 25min 5p 2r 5a 0t",
        "2026-10-25 vs MIN: 21min 4p 1r 0a 0t",
        "2026-10-28 vs ORL: 23min 13p 4r 7a 1t",
        "2026-10-30 vs ORL: 23min 2p 1r 8a 0t",
@@ -3069,7 +3027,7 @@
      {
       "jugador": "Collin Murray-Boyles",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3225,10 +3183,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T01:00Z",
    "inicio_colombia": "2026-11-11 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "United Center",
    "serie_temporada": [
-    "Series starts 11/11"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "San Antonio Spurs",
@@ -3238,17 +3196,11 @@
      "Road: 5-0"
     ],
     "lesiones": [
-     "Devin Vassell: Day-To-Day (Groin)",
+     "Devin Vassell: Out (Groin)",
      "Tobias Harris: Out (Calf)",
      "Jayden Quaintance: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs UTAH W 119-97",
-     "2026-11-05 vs DAL W 112-111",
-     "2026-11-07 @ SAC W 124-109",
-     "2026-11-08 @ POR W 125-103",
-     "2026-11-10 @ PHX W 122-96"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tobias Harris",
@@ -3355,7 +3307,7 @@
      {
       "jugador": "Devin Vassell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3770,23 +3722,16 @@
      "Road: 1-5"
     ],
     "lesiones": [
-     "Tobe Awaka: Out (Back)",
-     "Caleb Wilson: Day-To-Day (Hip)",
-     "Norman Powell: Day-To-Day (Shoulder)",
-     "Zach Collins: Day-To-Day (Illness)"
+     "Dailyn Swain: Out (Back)",
+     "Norman Powell: Out (Shoulder)",
+     "Tobe Awaka: Out (Back)"
     ],
-    "ultimos_5": [
-     "2026-10-29 vs NY L 133-127",
-     "2026-10-30 @ BOS L 125-111",
-     "2026-11-03 @ PHI L 126-107",
-     "2026-11-05 @ NY L 135-105",
-     "2026-11-08 vs PHI L 127-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Caleb Wilson",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3888,7 +3833,7 @@
      {
       "jugador": "Norman Powell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4236,7 +4181,7 @@
      {
       "jugador": "Dailyn Swain",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4291,7 +4236,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T01:00Z",
    "inicio_colombia": "2026-11-11 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "FedExForum",
    "serie_temporada": [
     "Regular Season Series"
@@ -4306,13 +4251,7 @@
     "lesiones": [
      "Julian Strawther: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-10-31 @ PHX W 127-120",
-     "2026-11-03 vs POR L 118-110",
-     "2026-11-05 vs TOR W 128-109",
-     "2026-11-07 vs IND W 114-102",
-     "2026-11-10 @ HOU L 110-100"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jamal Murray",
@@ -4826,18 +4765,11 @@
      "Road: 5-0"
     ],
     "lesiones": [
-     "Isaiah Stewart: Day-To-Day (Knee)",
      "Scotty Pippen Jr.: Out (Back)",
      "Quinten Post: Out (Head)",
      "Richie Saunders: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-01 vs SAC W 136-105",
-     "2026-11-03 vs NO L 135-134 OT",
-     "2026-11-05 vs IND L 107-103",
-     "2026-11-07 vs OKC L 128-97",
-     "2026-11-10 @ TOR W 118-102"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cameron Boozer",
@@ -5199,7 +5131,7 @@
      {
       "jugador": "Isaiah Stewart",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5356,10 +5288,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T01:00Z",
    "inicio_colombia": "2026-11-11 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Fiserv Forum",
    "serie_temporada": [
-    "Series starts 11/11"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Los Angeles Lakers",
@@ -5371,13 +5303,7 @@
     "lesiones": [
      "Quentin Grimes: Out (Finger)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs MIA W 138-117",
-     "2026-11-05 @ SAC W 116-103",
-     "2026-11-07 vs POR W 124-118",
-     "2026-11-08 @ DET W 121-116",
-     "2026-11-10 @ ATL W 124-114"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Austin Reaves",
@@ -5895,21 +5821,14 @@
      "Road: 0-5"
     ],
     "lesiones": [
-     "Tyler Herro: Day-To-Day (Knee)",
      "Myles Turner: Out (Rest)"
     ],
-    "ultimos_5": [
-     "2026-11-03 @ MIN L 112-100",
-     "2026-11-05 @ BOS L 109-102",
-     "2026-11-07 vs TOR L 121-107",
-     "2026-11-09 vs BOS L 117-97",
-     "2026-11-11 @ NY L 117-85"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyler Herro",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6426,10 +6345,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-12T01:00Z",
    "inicio_colombia": "2026-11-11 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Smoothie King Center",
    "serie_temporada": [
-    "Series starts 11/11"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Brooklyn Nets",
@@ -6442,13 +6361,7 @@
      "Nolan Traore: Out (Calf)",
      "Mikel Brown Jr.: Out (Illness)"
     ],
-    "ultimos_5": [
-     "2026-11-01 @ IND W 98-90",
-     "2026-11-03 @ NY L 103-90",
-     "2026-11-05 vs CHA W 114-104",
-     "2026-11-08 @ ATL L 124-121",
-     "2026-11-09 @ DAL L 130-93"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Julius Randle",
@@ -6966,18 +6879,12 @@
      "Road: 1-4"
     ],
     "lesiones": [
+     "Trey Murphy III: Out (Knee)",
      "Bennedict Mathurin: Out (Thumb)",
-     "Trey Murphy III: Day-To-Day (Knee)",
      "Trendon Watford: Out (Ankle)",
      "Yves Missi: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-03 @ MEM W 135-134 OT",
-     "2026-11-05 vs UTAH W 120-113 OT",
-     "2026-11-07 vs MIN L 115-109",
-     "2026-11-09 @ LAC L 139-123",
-     "2026-11-10 @ GS L 138-87"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Zion Williamson",
@@ -7033,7 +6940,7 @@
      {
       "jugador": "Trey Murphy III",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7506,8 +7413,8 @@
      "Road: 3-3"
     ],
     "lesiones": [
-     "Jamal Cain: Day-To-Day (Shoulder)",
-     "Tristan da Silva: Day-To-Day (Calf)",
+     "Jamal Cain: Out (Shoulder)",
+     "Tristan da Silva: Out (Calf)",
      "Jalen Suggs: Out (Knee)",
      "Jonathan Isaac: Out (Knee)",
      "Paolo Banchero: Out (Ankle)"
@@ -7724,7 +7631,7 @@
      {
       "jugador": "Tristan da Silva",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7919,7 +7826,7 @@
      {
       "jugador": "Jamal Cain",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8028,7 +7935,6 @@
      "Road: 0-5"
     ],
     "lesiones": [
-     "Keyonte George: Day-To-Day (Ankle)",
      "Lauri Markkanen: Out (Hand)",
      "Jusuf Nurkic: Out (Foot)",
      "Jaren Jackson Jr.: Out (Knee)"
@@ -8044,7 +7950,7 @@
      {
       "jugador": "Keyonte George",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8572,11 +8478,11 @@
      "Road: 2-2"
     ],
     "lesiones": [
-     "Will Richard: Day-To-Day (Thumb)",
      "Gary Payton II: Out (Knee)",
      "Brandon Williams: Out (Hamstring)",
      "Kristaps Porzingis: Out (Illness)",
-     "Moses Moody: Out (Knee)"
+     "Moses Moody: Out (Knee)",
+     "Jimmy Butler III: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-02 vs LAC W 124-112",
@@ -9481,7 +9387,7 @@
       "promedios": {
        "ult5": {
         "pj": 5,
-        "min": 18.2,
+        "min": 17,
         "pts": 8.6,
         "reb": 1.2,
         "ast": 1.4,
@@ -9489,7 +9395,7 @@
        },
        "ult10": {
         "pj": 10,
-        "min": 20.2,
+        "min": 19.6,
         "pts": 10.6,
         "reb": 2,
         "ast": 2.6,
@@ -9497,7 +9403,7 @@
        },
        "ult20": {
         "pj": 11,
-        "min": 20.09,
+        "min": 19.55,
         "pts": 11.09,
         "reb": 1.91,
         "ast": 2.45,
@@ -9505,7 +9411,7 @@
        },
        "temporada": {
         "pj": 11,
-        "min": 20.09,
+        "min": 19.55,
         "pts": 11.09,
         "reb": 1.91,
         "ast": 2.45,
@@ -9518,7 +9424,7 @@
        "2026-10-22 vs DAL: 16min 3p 2r 4a 1t",
        "2026-10-25 vs ATL: 30min 19p 6r 7a 5t",
        "2026-10-27 vs ATL: 24min 13p 0r 4a 2t",
-       "2026-10-29 vs MIL: 23min 7p 3r 4a 1t",
+       "2026-10-29 vs MIL: 17min 7p 3r 4a 1t",
        "2026-11-03 vs BOS: 17min 8p 1r 1a 2t",
        "2026-11-05 vs MIN: 21min 14p 2r 2a 3t",
        "2026-11-08 vs PHX: 13min 6p 0r 0a 2t",
@@ -10646,5 +10552,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-11T22:14:16.237Z"
+ "generado_utc": "2026-11-12T01:52:47.623Z"
 }
