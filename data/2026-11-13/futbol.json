@@ -1,0 +1,3712 @@
+{
+ "fuente": "FotMob (fotmob.com)",
+ "fecha": "2026-11-13",
+ "partidos": [
+  {
+   "id": 5181833,
+   "competicion": "UEFA Nations League A Grp. 2 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Netherlands",
+   "visitante": "Greece",
+   "ronda": "5",
+   "estadio": "Johan Cruijff ArenA, Amsterdam (grass)",
+   "arbitro": {
+    "nombre": "Rohit Saggi",
+    "stats": {
+     "matches": 36,
+     "yellowCards": 3.5,
+     "redCards": 2,
+     "unknown": 6,
+     "penalties": 9,
+     "fouls": 24.11
+    }
+   },
+   "clima": {
+    "temp_c": 6,
+    "viento_kmh": 2,
+    "lluvia_prob": 22,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6708,
+     "nombre": "Netherlands",
+     "forma_ult5": [
+      "D 1 - 1 Netherlands-Morocco",
+      "D 1 - 1 Netherlands-Germany",
+      "W 1 - 2 Serbia-Netherlands",
+      "D 2 - 2 Greece-Netherlands",
+      "W 2 - 1 Netherlands-Serbia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Nathan Aké",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Virgil van Dijk",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Brian Brobbey",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Bart Verbruggen",
+       "Denzel Dumfries",
+       "Jurriën Timber",
+       "Jan Paul van Hecke",
+       "Micky van de Ven",
+       "Quinten Timber",
+       "Frenkie de Jong",
+       "Joey Veerman",
+       "Crysencio Summerville",
+       "Donyell Malen",
+       "Cody Gakpo"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 1.8,
+      "pj_stats": 4,
+      "posesion": 64,
+      "goles_concedidos_partido": 1.3,
+      "xg_total": 9.9,
+      "toques_area_rival": 161,
+      "remates_puerta_partido": 7.5,
+      "grandes_ocasiones_total": 16,
+      "corners_total": 30,
+      "faltas_partido": 10.5,
+      "xg_concedido_total": 5.5,
+      "amarillas_total": 5
+     }
+    },
+    "visitante": {
+     "id": 6383,
+     "nombre": "Greece",
+     "forma_ult5": [
+      "L 0 - 1 Greece-Italy",
+      "W 1 - 2 Serbia-Greece",
+      "W 0 - 1 Germany-Greece",
+      "D 2 - 2 Greece-Netherlands",
+      "D 0 - 0 Greece-Germany"
+     ],
+     "bajas": [
+      {
+       "jugador": "Giannis Michailidis",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Dimitrios Pelkas",
+       "tipo": "injury",
+       "regreso": "About a week"
+      },
+      {
+       "jugador": "Manolis Saliakas",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Christos Zafeiris",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Konstantinos Tzolakis",
+       "Georgios Vagiannidis",
+       "Konstantinos Mavropanos",
+       "Konstantinos Koulierakis",
+       "Konstantinos Tsimikas",
+       "Giorgos Masouras",
+       "Dimitrios Kourbelis",
+       "Thanasis Androutsos",
+       "Christos Tzolis",
+       "Vangelis Pavlidis",
+       "Fotis Ioannidis"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 1.3,
+      "pj_stats": 4,
+      "posesion": 36,
+      "goles_concedidos_partido": 0.8,
+      "porterias_cero": 2,
+      "xg_total": 4.9,
+      "toques_area_rival": 76,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 7,
+      "corners_total": 16,
+      "faltas_partido": 8,
+      "xg_concedido_total": 5.2,
+      "amarillas_total": 10
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     1,
+     1
+    ],
+    "ultimos": [
+     "2026-10-01 Greece 2 - 2 Netherlands",
+     "2023-10-16 Greece 0 - 1 Netherlands",
+     "2023-09-07 Netherlands 3 - 0 Greece",
+     "2016-09-01 Netherlands 1 - 2 Greece"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 12 matches"
+   ]
+  },
+  {
+   "id": 5181834,
+   "competicion": "UEFA Nations League A Grp. 2 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Serbia",
+   "visitante": "Germany",
+   "ronda": "5",
+   "estadio": "Stadion Rajko Mitić, Beograd (grass)",
+   "arbitro": {
+    "nombre": "Javier Alberola Rojas",
+    "stats": {
+     "matches": 41,
+     "yellowCards": 4,
+     "redCards": 10,
+     "unknown": 2,
+     "penalties": 19,
+     "fouls": 27.82
+    }
+   },
+   "clima": {
+    "temp_c": 7,
+    "viento_kmh": 4,
+    "lluvia_prob": 100,
+    "cielo": "Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 8205,
+     "nombre": "Serbia",
+     "forma_ult5": [
+      "L 5 - 1 Mexico-Serbia",
+      "L 1 - 2 Serbia-Greece",
+      "L 1 - 2 Serbia-Netherlands",
+      "L 2 - 0 Germany-Serbia",
+      "L 2 - 1 Netherlands-Serbia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Saša Lukić",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Nemanja Maksimović",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "5-3-2",
+      "titulares": [
+       "Vanja Milinković-Savić",
+       "Stefan Gudelj",
+       "Srdjan Babić",
+       "Strahinja Eraković",
+       "Kosta Nedeljković",
+       "Petar Sukačev",
+       "Lazar Samardžić",
+       "Milinković-Savić",
+       "Stefan Džodić",
+       "Mihajlo Cvetković",
+       "Aleksandar Mitrović"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 0.8,
+      "pj_stats": 4,
+      "posesion": 33.4,
+      "goles_concedidos_partido": 2,
+      "xg_total": 4.6,
+      "toques_area_rival": 63,
+      "remates_puerta_partido": 3.8,
+      "grandes_ocasiones_total": 12,
+      "corners_total": 10,
+      "faltas_partido": 10.5,
+      "xg_concedido_total": 12,
+      "amarillas_total": 10
+     }
+    },
+    "visitante": {
+     "id": 8570,
+     "nombre": "Germany",
+     "forma_ult5": [
+      "D 1 - 1 Germany-Paraguay",
+      "D 1 - 1 Netherlands-Germany",
+      "L 0 - 1 Germany-Greece",
+      "W 2 - 0 Germany-Serbia",
+      "D 0 - 0 Greece-Germany"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Marc ter Stegen",
+       "Philipp Treu",
+       "Jonathan Tah",
+       "Nico Schlotterbeck",
+       "Nathaniel Brown",
+       "Felix Nmecha",
+       "Joshua Kimmich",
+       "Lennart Karl",
+       "Florian Wirtz",
+       "Saïd El Mala",
+       "Kai Havertz"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 0.8,
+      "pj_stats": 4,
+      "posesion": 66.6,
+      "goles_concedidos_partido": 0.5,
+      "porterias_cero": 2,
+      "xg_total": 7.9,
+      "toques_area_rival": 141,
+      "remates_puerta_partido": 4.8,
+      "grandes_ocasiones_total": 12,
+      "corners_total": 24,
+      "faltas_partido": 13.8,
+      "xg_concedido_total": 4.6,
+      "amarillas_total": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     1,
+     1
+    ],
+    "ultimos": [
+     "2026-10-01 Germany 2 - 0 Serbia",
+     "2019-03-20 Germany 1 - 1 Serbia",
+     "2010-06-18 Germany 0 - 1 Serbia"
+    ]
+   },
+   "datos_curiosos": [
+    "Have lost their last 6 matches",
+    "Haven't won a match in 6 attempts",
+    "Haven't kept a clean sheet in 13 matches"
+   ]
+  },
+  {
+   "id": 5181784,
+   "competicion": "UEFA Nations League B Grp. 1 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Scotland",
+   "visitante": "North Macedonia",
+   "ronda": "5",
+   "estadio": "Barclays Hampden, Glasgow (grass)",
+   "arbitro": {
+    "nombre": "Michal Očenáš",
+    "stats": {
+     "matches": 28,
+     "yellowCards": 4.54,
+     "redCards": 1,
+     "unknown": 4,
+     "penalties": 14,
+     "fouls": 25.26
+    }
+   },
+   "clima": {
+    "temp_c": 6,
+    "viento_kmh": 4,
+    "lluvia_prob": 7,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 8498,
+     "nombre": "Scotland",
+     "forma_ult5": [
+      "L 0 - 3 Scotland-Brazil",
+      "D 0 - 0 Slovenia-Scotland",
+      "L 0 - 3 Scotland-Switzerland",
+      "W 0 - 2 North Macedonia-Scotland",
+      "L 1 - 2 Scotland-Slovenia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Stephen Welsh",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Luis Binks",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Angus Gunn",
+       "Kieran Tierney",
+       "Jack Hendry",
+       "Luke Graham",
+       "Ben Gannon-Doak",
+       "Billy Gilmour",
+       "Lewis Ferguson",
+       "Andrew Robertson",
+       "John McGinn",
+       "Scott McTominay",
+       "Oli McBurnie"
+      ]
+     },
+     "tabla": {
+      "pos": 3,
+      "pj": 4,
+      "g": 1,
+      "e": 1,
+      "p": 2,
+      "goles": "3-5",
+      "pts": 4
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 2,
+      "g": 0,
+      "e": 0,
+      "p": 2,
+      "goles": "1-5",
+      "pts": 0
+     },
+     "xg_temporada": {
+      "pj": 4,
+      "xg": 7.84,
+      "xg_concedido": 3.54,
+      "xpts": 7.84,
+      "xg_por_partido": 1.96,
+      "xg_concedido_por_partido": 0.89
+     },
+     "stats_temporada": {
+      "porterias_cero": 2,
+      "pj_stats": 4,
+      "goles_partido": 0.8,
+      "posesion": 46.5,
+      "goles_concedidos_partido": 1.3,
+      "xg_total": 7.8,
+      "grandes_ocasiones_total": 13,
+      "remates_puerta_partido": 5.3,
+      "toques_area_rival": 92,
+      "xg_concedido_total": 3.5,
+      "amarillas_total": 5,
+      "corners_total": 16,
+      "faltas_partido": 14
+     }
+    },
+    "visitante": {
+     "id": 8260,
+     "nombre": "North Macedonia",
+     "forma_ult5": [
+      "L 4 - 0 Turkiye-North Macedonia",
+      "L 0 - 3 North Macedonia-Switzerland",
+      "L 2 - 0 Slovenia-North Macedonia",
+      "L 0 - 2 North Macedonia-Scotland",
+      "L 3 - 0 Switzerland-North Macedonia"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Stole Dimitrievski",
+       "Bojan Ilievski",
+       "Anes Meljichi",
+       "Visar Musliu",
+       "Ezgjan Alioski",
+       "Matej Gashtarov",
+       "Agon Elezi",
+       "Ljupco Doriev",
+       "Enis Bardhi",
+       "Eljif Elmas",
+       "Elmin Rastoder"
+      ]
+     },
+     "tabla": {
+      "pos": 4,
+      "pj": 4,
+      "g": 0,
+      "e": 0,
+      "p": 4,
+      "goles": "0-10",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
+      "pj": 2,
+      "g": 0,
+      "e": 0,
+      "p": 2,
+      "goles": "0-5",
+      "pts": 0
+     },
+     "xg_temporada": {
+      "pj": 4,
+      "xg": 1.43,
+      "xg_concedido": 9.44,
+      "xpts": 0.96,
+      "xg_por_partido": 0.36,
+      "xg_concedido_por_partido": 2.36
+     },
+     "stats_temporada": {
+      "posesion": 47.1,
+      "pj_stats": 4,
+      "goles_concedidos_partido": 2.5,
+      "xg_total": 1.4,
+      "grandes_ocasiones_total": 2,
+      "remates_puerta_partido": 0.3,
+      "toques_area_rival": 44,
+      "xg_concedido_total": 9.4,
+      "amarillas_total": 12,
+      "corners_total": 7,
+      "faltas_partido": 13
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2026-10-03 North Macedonia 0 - 2 Scotland",
+     "2013-09-10 North Macedonia 1 - 2 Scotland",
+     "2012-09-11 Scotland 1 - 1 North Macedonia"
+    ]
+   },
+   "datos_curiosos": [
+    "8498 have won the previous 2 matches against 8260.",
+    "Have lost their last 5 matches"
+   ]
+  },
+  {
+   "id": 5181785,
+   "competicion": "UEFA Nations League B Grp. 1 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Slovenia",
+   "visitante": "Switzerland",
+   "ronda": "5",
+   "estadio": "Ljudski vrt, Maribor (grass)",
+   "arbitro": {
+    "nombre": "Jasper Vergoote",
+    "stats": {
+     "matches": 50,
+     "yellowCards": 3.3,
+     "redCards": 12,
+     "unknown": 5,
+     "penalties": 13,
+     "fouls": 21.54
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 1,
+    "lluvia_prob": 14,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 5787,
+     "nombre": "Slovenia",
+     "forma_ult5": [
+      "L 2 - 1 Croatia-Slovenia",
+      "D 0 - 0 Slovenia-Scotland",
+      "W 2 - 0 Slovenia-North Macedonia",
+      "L 2 - 1 Switzerland-Slovenia",
+      "W 1 - 2 Scotland-Slovenia"
+     ],
+     "bajas": [
+      {
+       "jugador": "David Zec",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Erik Janža",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "5-4-1",
+      "titulares": [
+       "Jan Oblak",
+       "David Brekalo",
+       "Jaka Bijol",
+       "Vanja Drkušić",
+       "Žan Karničnik",
+       "Srdjan Kuzmić",
+       "Aljoša Matko",
+       "Mark Zabukovnik",
+       "Adam Gnezda Čerin",
+       "Danijel Šturm",
+       "Žan Vipotnik"
+      ]
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 4,
+      "g": 2,
+      "e": 1,
+      "p": 1,
+      "goles": "5-3",
+      "pts": 7
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
+      "pj": 2,
+      "g": 1,
+      "e": 1,
+      "p": 0,
+      "goles": "2-0",
+      "pts": 4
+     },
+     "xg_temporada": {
+      "pj": 4,
+      "xg": 4.08,
+      "xg_concedido": 6.02,
+      "xpts": 4.12,
+      "xg_por_partido": 1.02,
+      "xg_concedido_por_partido": 1.5
+     },
+     "stats_temporada": {
+      "porterias_cero": 2,
+      "pj_stats": 4,
+      "goles_partido": 1.3,
+      "posesion": 41.6,
+      "goles_concedidos_partido": 0.8,
+      "xg_total": 4.1,
+      "grandes_ocasiones_total": 10,
+      "remates_puerta_partido": 3,
+      "toques_area_rival": 72,
+      "xg_concedido_total": 6,
+      "amarillas_total": 13,
+      "corners_total": 18,
+      "faltas_partido": 13.5
+     }
+    },
+    "visitante": {
+     "id": 6717,
+     "nombre": "Switzerland",
+     "forma_ult5": [
+      "L 3 - 1 Argentina-Switzerland",
+      "W 0 - 3 North Macedonia-Switzerland",
+      "W 0 - 3 Scotland-Switzerland",
+      "W 2 - 1 Switzerland-Slovenia",
+      "W 3 - 0 Switzerland-North Macedonia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Winsley Boteli",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "predicted",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Gregor Kobel",
+       "Sascha Britschgi",
+       "Nico Elvedi",
+       "Manuel Akanji",
+       "Ricardo Rodríguez",
+       "Remo Freuler",
+       "Ardon Jashari",
+       "Djibril Sow",
+       "Fabian Rieder",
+       "Dan Ndoye",
+       "Zeki Amdouni"
+      ]
+     },
+     "tabla": {
+      "pos": 1,
+      "pj": 4,
+      "g": 4,
+      "e": 0,
+      "p": 0,
+      "goles": "11-1",
+      "pts": 12
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "6-0",
+      "pts": 6
+     },
+     "xg_temporada": {
+      "pj": 4,
+      "xg": 6.57,
+      "xg_concedido": 0.93,
+      "xpts": 9.73,
+      "xg_por_partido": 1.64,
+      "xg_concedido_por_partido": 0.23
+     },
+     "stats_temporada": {
+      "porterias_cero": 3,
+      "pj_stats": 4,
+      "goles_partido": 2.8,
+      "posesion": 64.8,
+      "goles_concedidos_partido": 0.3,
+      "xg_total": 6.6,
+      "grandes_ocasiones_total": 10,
+      "remates_puerta_partido": 8.3,
+      "toques_area_rival": 125,
+      "xg_concedido_total": 0.9,
+      "amarillas_total": 1,
+      "corners_total": 23,
+      "faltas_partido": 10
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     1,
+     5
+    ],
+    "ultimos": [
+     "2026-10-03 Switzerland 2 - 1 Slovenia",
+     "2025-10-13 Slovenia 0 - 0 Switzerland",
+     "2025-09-08 Switzerland 3 - 0 Slovenia",
+     "2015-09-05 Switzerland 3 - 2 Slovenia",
+     "2014-10-09 Slovenia 1 - 0 Switzerland",
+     "2013-10-15 Switzerland 1 - 0 Slovenia"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5181941,
+   "competicion": "UEFA Nations League C Grp. 3 (INT)",
+   "inicio_utc": "2026-11-13T17:00:00.000Z",
+   "inicio_colombia": "2026-11-13 12:00",
+   "ya_empezo": true,
+   "local": "Moldova",
+   "visitante": "Kazakhstan",
+   "ronda": "5",
+   "estadio": "Stadionul Zimbru, Chișinău (grass)",
+   "arbitro": {
+    "nombre": "Andrea Colombo",
+    "stats": {
+     "matches": 30,
+     "yellowCards": 4.37,
+     "redCards": 1,
+     "unknown": 3,
+     "penalties": 5,
+     "fouls": 26.75
+    }
+   },
+   "clima": {
+    "temp_c": 9,
+    "viento_kmh": 8,
+    "cielo": "Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 5794,
+     "nombre": "Moldova",
+     "forma_ult5": [
+      "D 1 - 1 Armenia-Moldova",
+      "L 2 - 0 Slovakia-Moldova",
+      "D 1 - 1 Moldova-Faroe Islands",
+      "W 1 - 2 Kazakhstan-Moldova",
+      "L 0 - 4 Moldova-Slovakia"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "5-3-2",
+      "titulares": [
+       "Dumitru Celeadnic",
+       "Vladyslav Baboglo",
+       "Iurie Iovu",
+       "Mihail Gherasimencov",
+       "Ioan-Călin Revenco",
+       "Oleg Reabciuk",
+       "Vladimir Fratea",
+       "Vadim Raţă",
+       "Sergiu Perciun",
+       "Nicky Cleșcenco",
+       "Petru Popescu"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.8,
+      "pj_stats": 5,
+      "posesion": 48.3,
+      "goles_partido": 0.8,
+      "remates_puerta_partido": 4.4,
+      "toques_area_rival": 94,
+      "corners_total": 24,
+      "xg_total": 4.8,
+      "grandes_ocasiones_total": 4,
+      "xg_concedido_total": 6.3,
+      "faltas_partido": 10.4,
+      "amarillas_total": 3
+     }
+    },
+    "visitante": {
+     "id": 8265,
+     "nombre": "Kazakhstan",
+     "forma_ult5": [
+      "L 3 - 1 Hungary-Kazakhstan",
+      "D 1 - 1 Faroe Islands-Kazakhstan",
+      "L 2 - 1 Slovakia-Kazakhstan",
+      "L 1 - 2 Kazakhstan-Moldova",
+      "D 2 - 2 Kazakhstan-Faroe Islands"
+     ],
+     "bajas": [
+      {
+       "jugador": "Sergiy Malyi",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Dastan Satpaev",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Stas Pokatilov",
+       "Nauryzbek Zhagorov",
+       "Alibek Kassym",
+       "Temirlan Erlanov",
+       "Nuraly Alip",
+       "Ramazan Orazov",
+       "Zhasulan Amir",
+       "Dinmukhamed Karaman",
+       "Aleksandr Mrynskiy",
+       "Maxim Samorodov",
+       "Islam Chesnokov"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.6,
+      "pj_stats": 5,
+      "posesion": 51.4,
+      "goles_partido": 1.2,
+      "remates_puerta_partido": 3,
+      "toques_area_rival": 87,
+      "corners_total": 24,
+      "xg_total": 4.1,
+      "grandes_ocasiones_total": 7,
+      "xg_concedido_total": 6.1,
+      "faltas_partido": 12,
+      "amarillas_total": 7
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     1,
+     3
+    ],
+    "ultimos": [
+     "2026-10-02 Kazakhstan 1 - 2 Moldova",
+     "2022-03-29 Kazakhstan 0 - 1 Moldova",
+     "2022-03-24 Moldova 1 - 2 Kazakhstan",
+     "2019-02-21 Kazakhstan 1 - 0 Moldova",
+     "2015-02-18 Moldova 1 - 1 Kazakhstan",
+     "2013-02-06 Moldova 1 - 3 Kazakhstan"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 19 matches",
+    "5794 have won the previous 2 matches against 8265.",
+    "Haven't won a match in 6 attempts",
+    "Haven't kept a clean sheet in 6 matches"
+   ]
+  },
+  {
+   "id": 5181942,
+   "competicion": "UEFA Nations League C Grp. 3 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Slovakia",
+   "visitante": "Faroe Islands",
+   "ronda": "5",
+   "estadio": "Košická futbalová aréna, Košice (grass)",
+   "arbitro": {
+    "nombre": "Mohammed Al Emara",
+    "stats": {
+     "matches": 39,
+     "yellowCards": 3.26,
+     "redCards": 5,
+     "unknown": 1,
+     "penalties": 20,
+     "fouls": 23.54
+    }
+   },
+   "clima": {
+    "temp_c": 1,
+    "viento_kmh": 1,
+    "lluvia_prob": 2,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 8497,
+     "nombre": "Slovakia",
+     "forma_ult5": [
+      "D 2 - 2 Slovakia-Montenegro",
+      "W 2 - 0 Slovakia-Moldova",
+      "W 2 - 1 Slovakia-Kazakhstan",
+      "D 1 - 1 Faroe Islands-Slovakia",
+      "W 0 - 4 Moldova-Slovakia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Tomás Suslov",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 2,
+      "pj_stats": 4,
+      "goles_concedidos_partido": 0.5,
+      "posesion": 65.3,
+      "goles_partido": 2.3,
+      "remates_puerta_partido": 5.3,
+      "toques_area_rival": 104,
+      "corners_total": 28,
+      "xg_total": 5.9,
+      "grandes_ocasiones_total": 11,
+      "xg_concedido_total": 2.8,
+      "faltas_partido": 8,
+      "amarillas_total": 4
+     }
+    },
+    "visitante": {
+     "id": 8269,
+     "nombre": "Faroe Islands",
+     "forma_ult5": [
+      "W 0 - 1 Latvia-Faroe Islands",
+      "D 1 - 1 Faroe Islands-Kazakhstan",
+      "D 1 - 1 Moldova-Faroe Islands",
+      "D 1 - 1 Faroe Islands-Slovakia",
+      "D 2 - 2 Kazakhstan-Faroe Islands"
+     ],
+     "bajas": [
+      {
+       "jugador": "Martin Agnarsson",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.3,
+      "pj_stats": 4,
+      "posesion": 35,
+      "goles_partido": 1.3,
+      "remates_puerta_partido": 4,
+      "toques_area_rival": 92,
+      "corners_total": 19,
+      "xg_total": 5.2,
+      "grandes_ocasiones_total": 9,
+      "xg_concedido_total": 5,
+      "faltas_partido": 10.5,
+      "amarillas_total": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2026-10-02 Faroe Islands 1 - 1 Slovakia"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't lost in 7 matches",
+    "Haven't lost in 5 matches"
+   ]
+  },
+  {
+   "id": 5181957,
+   "competicion": "UEFA Nations League C Grp. 4 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Bulgaria",
+   "visitante": "Iceland",
+   "ronda": "5",
+   "estadio": "Stadion Hristo Botev, Plovdiv (grass)",
+   "arbitro": {
+    "nombre": "Florian Badstübner",
+    "stats": {
+     "matches": 29,
+     "yellowCards": 2.48,
+     "redCards": 3,
+     "unknown": 0,
+     "penalties": 6,
+     "fouls": 21.07
+    }
+   },
+   "clima": {
+    "temp_c": 18,
+    "viento_kmh": 5,
+    "lluvia_prob": 2,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 10150,
+     "nombre": "Bulgaria",
+     "forma_ult5": [
+      "D 2 - 2 Moldova-Bulgaria",
+      "L 1 - 2 Bulgaria-Luxembourg",
+      "D 0 - 0 Bulgaria-Estonia",
+      "L 3 - 0 Iceland-Bulgaria",
+      "W 0 - 2 Luxembourg-Bulgaria"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 2,
+      "pj_stats": 4,
+      "goles_concedidos_partido": 1.3,
+      "posesion": 47.8,
+      "goles_partido": 0.8,
+      "remates_puerta_partido": 4.3,
+      "toques_area_rival": 82,
+      "corners_total": 16,
+      "xg_total": 4.5,
+      "grandes_ocasiones_total": 8,
+      "xg_concedido_total": 6.9,
+      "faltas_partido": 12.3,
+      "amarillas_total": 12
+     }
+    },
+    "visitante": {
+     "id": 8536,
+     "nombre": "Iceland",
+     "forma_ult5": [
+      "L 3 - 0 Argentina-Iceland",
+      "D 1 - 1 Iceland-Estonia",
+      "W 0 - 3 Luxembourg-Iceland",
+      "W 3 - 0 Iceland-Bulgaria",
+      "D 0 - 0 Estonia-Iceland"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 3,
+      "pj_stats": 4,
+      "goles_concedidos_partido": 0.3,
+      "posesion": 53.9,
+      "goles_partido": 1.8,
+      "remates_puerta_partido": 4.8,
+      "toques_area_rival": 110,
+      "corners_total": 25,
+      "xg_total": 7.3,
+      "grandes_ocasiones_total": 11,
+      "xg_concedido_total": 3.9,
+      "faltas_partido": 11.5,
+      "amarillas_total": 8
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2026-10-03 Iceland 3 - 0 Bulgaria"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5181958,
+   "competicion": "UEFA Nations League C Grp. 4 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Luxembourg",
+   "visitante": "Estonia",
+   "ronda": "5",
+   "estadio": "Stade de Luxembourg, Lëtzebuerg (Luxembourg) (grass)",
+   "arbitro": {
+    "nombre": "Ishmael Barbara",
+    "stats": {
+     "matches": 6,
+     "yellowCards": 3.5,
+     "redCards": 1,
+     "unknown": 0,
+     "penalties": 4,
+     "fouls": 27.25
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 2,
+    "lluvia_prob": 3,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 5792,
+     "nombre": "Luxembourg",
+     "forma_ult5": [
+      "W 0 - 1 Albania-Luxembourg",
+      "W 1 - 2 Bulgaria-Luxembourg",
+      "L 0 - 3 Luxembourg-Iceland",
+      "L 1 - 0 Estonia-Luxembourg",
+      "L 0 - 2 Luxembourg-Bulgaria"
+     ],
+     "bajas": [
+      {
+       "jugador": "Dirk Carlson",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.8,
+      "pj_stats": 4,
+      "posesion": 56.9,
+      "goles_partido": 0.5,
+      "remates_puerta_partido": 4.3,
+      "toques_area_rival": 78,
+      "corners_total": 14,
+      "xg_total": 4.2,
+      "grandes_ocasiones_total": 5,
+      "xg_concedido_total": 6.3,
+      "faltas_partido": 13.8,
+      "amarillas_total": 11
+     }
+    },
+    "visitante": {
+     "id": 8261,
+     "nombre": "Estonia",
+     "forma_ult5": [
+      "W 1 - 0 Estonia-Lithuania",
+      "D 1 - 1 Iceland-Estonia",
+      "D 0 - 0 Bulgaria-Estonia",
+      "W 1 - 0 Estonia-Luxembourg",
+      "D 0 - 0 Estonia-Iceland"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 3,
+      "pj_stats": 4,
+      "goles_concedidos_partido": 0.3,
+      "posesion": 41.4,
+      "goles_partido": 0.5,
+      "remates_puerta_partido": 4.8,
+      "toques_area_rival": 55,
+      "corners_total": 19,
+      "xg_total": 4.5,
+      "grandes_ocasiones_total": 7,
+      "xg_concedido_total": 3.5,
+      "faltas_partido": 15.5,
+      "amarillas_total": 8
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2026-10-03 Estonia 1 - 0 Luxembourg"
+    ]
+   },
+   "datos_curiosos": [
+    "Have lost their last 3 matches",
+    "Haven't lost in 6 matches"
+   ]
+  },
+  {
+   "id": 5181878,
+   "competicion": "UEFA Nations League D Grp. 1 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "ronda": "5",
+   "estadio": "Estadi de la FAF d'Encamp, Encamp (grass)",
+   "arbitro": {
+    "nombre": "Robert Hennessy",
+    "stats": {
+     "matches": 45,
+     "yellowCards": 4.47,
+     "redCards": 7,
+     "unknown": 4,
+     "penalties": 15,
+     "fouls": 23.98
+    }
+   },
+   "clima": {
+    "temp_c": 8,
+    "viento_kmh": 1,
+    "lluvia_prob": 22,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 10045,
+     "nombre": "Andorra",
+     "forma_ult5": [
+      "L 3 - 0 Kosovo-Andorra",
+      "L 1 - 2 Andorra-Malta",
+      "D 0 - 0 Gibraltar-Andorra",
+      "L 3 - 0 Lithuania-Andorra",
+      "L 1 - 0 Malta-Andorra"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": {
+      "pos": 3,
+      "pj": 3,
+      "g": 0,
+      "e": 1,
+      "p": 2,
+      "goles": "1-3",
+      "pts": 1
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "1-2",
+      "pts": 0
+     },
+     "xg_temporada": {
+      "pj": 3,
+      "xg": 2.06,
+      "xg_concedido": 4.48,
+      "xpts": 3.01,
+      "xg_por_partido": 0.69,
+      "xg_concedido_por_partido": 1.49
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "posesion": 47.4,
+      "goles_partido": 0.3,
+      "porterias_cero": 1,
+      "xg_total": 2.1,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 8,
+      "toques_area_rival": 53,
+      "corners_total": 12,
+      "xg_concedido_total": 4.5,
+      "faltas_partido": 21.3,
+      "amarillas_total": 11
+     }
+    },
+    "visitante": {
+     "id": 507764,
+     "nombre": "Gibraltar",
+     "forma_ult5": [
+      "W 4 - 1 Gibraltar-Cayman Islands",
+      "D 0 - 0 Gibraltar-Sao Tome and Principe",
+      "D 0 - 0 Gibraltar-Andorra",
+      "D 1 - 1 Malta-Gibraltar",
+      "W 0 - 2 Liechtenstein-Gibraltar"
+     ],
+     "bajas": [
+      {
+       "jugador": "Graeme Torrilla",
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 2,
+      "g": 0,
+      "e": 2,
+      "p": 0,
+      "goles": "1-1",
+      "pts": 2
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
+      "pj": 1,
+      "g": 0,
+      "e": 1,
+      "p": 0,
+      "goles": "1-1",
+      "pts": 1
+     },
+     "xg_temporada": {
+      "pj": 2,
+      "xg": 0.57,
+      "xg_concedido": 2.79,
+      "xpts": 1.01,
+      "xg_por_partido": 0.29,
+      "xg_concedido_por_partido": 1.4
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 0.5,
+      "pj_stats": 2,
+      "posesion": 40.8,
+      "goles_partido": 0.5,
+      "porterias_cero": 1,
+      "xg_total": 0.6,
+      "remates_puerta_partido": 1.5,
+      "toques_area_rival": 14,
+      "corners_total": 5,
+      "xg_concedido_total": 2.8,
+      "faltas_partido": 11.5,
+      "amarillas_total": 3
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     2,
+     2
+    ],
+    "ultimos": [
+     "2026-09-27 Gibraltar 0 - 0 Andorra",
+     "2024-09-04 Gibraltar 1 - 0 Andorra",
+     "2022-11-19 Gibraltar 1 - 0 Andorra",
+     "2021-06-07 Andorra 0 - 0 Gibraltar"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 5 attempts",
+    "Haven't lost in 6 matches"
+   ]
+  },
+  {
+   "id": 5181884,
+   "competicion": "UEFA Nations League D Grp. 2 (INT)",
+   "inicio_utc": "2026-11-13T19:45:00.000Z",
+   "inicio_colombia": "2026-11-13 14:45",
+   "ya_empezo": false,
+   "local": "Liechtenstein",
+   "visitante": "Azerbaijan",
+   "ronda": "5",
+   "estadio": "Rheinpark Stadion, Vaduz (grass)",
+   "arbitro": {
+    "nombre": "Kristo Tohver",
+    "stats": {
+     "matches": 31,
+     "yellowCards": 4.29,
+     "redCards": 3,
+     "unknown": 4,
+     "penalties": 6
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 1,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 5799,
+     "nombre": "Liechtenstein",
+     "forma_ult5": [
+      "L 0 - 2 Liechtenstein-Cyprus",
+      "L 0 - 2 Liechtenstein-Lithuania",
+      "L 2 - 0 Malta-Liechtenstein",
+      "D 0 - 0 Azerbaijan-Liechtenstein",
+      "L 0 - 2 Liechtenstein-Gibraltar"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 2,
+      "posesion": 26.5,
+      "porterias_cero": 1,
+      "xg_total": 0.3,
+      "toques_area_rival": 9,
+      "xg_concedido_total": 4.1,
+      "faltas_partido": 15.5,
+      "amarillas_total": 4
+     }
+    },
+    "visitante": {
+     "id": 8566,
+     "nombre": "Azerbaijan",
+     "forma_ult5": [
+      "W 2 - 1 Azerbaijan-San Marino",
+      "W 1 - 0 Azerbaijan-Tajikistan",
+      "D 1 - 1 Lithuania-Azerbaijan",
+      "D 0 - 0 Azerbaijan-Liechtenstein",
+      "W 1 - 0 Azerbaijan-Lithuania"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
+      "posesion": 53.9,
+      "goles_partido": 0.7,
+      "porterias_cero": 2,
+      "xg_total": 5.2,
+      "remates_puerta_partido": 5.3,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 81,
+      "corners_total": 10,
+      "xg_concedido_total": 2.5,
+      "faltas_partido": 12.3,
+      "amarillas_total": 8
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     1
+    ],
+    "ultimos": [
+     "2026-10-01 Azerbaijan 0 - 0 Liechtenstein",
+     "2013-02-06 Azerbaijan 1 - 0 Liechtenstein"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 7 attempts",
+    "Haven't lost in 5 matches"
+   ]
+  },
+  {
+   "id": 1000014228,
+   "competicion": "Primera A (COL)",
+   "inicio_utc": "2026-11-14T01:30:00.000Z",
+   "inicio_colombia": "2026-11-13 20:30",
+   "ya_empezo": false,
+   "local": "Internacional de Bogotá",
+   "visitante": "Santa Fe",
+   "ronda": "Clausura - Round 19",
+   "estadio": "Estadio Metropolitano de Techo, Bogotá, D.C. (grass)",
+   "arbitro": {
+    "nombre": "Javier Villa",
+    "stats": {
+     "matches": 14,
+     "yellowCards": 4.5,
+     "redCards": 2,
+     "unknown": 0,
+     "penalties": 4,
+     "fouls": 23.86
+    }
+   },
+   "clima": {
+    "temp_c": 15,
+    "viento_kmh": 3,
+    "lluvia_prob": 4,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 47240,
+     "nombre": "Internacional de Bogotá",
+     "forma_ult5": [
+      "W 2 - 1 Internacional de Bogotá-Fortaleza FC",
+      "L 1 - 0 Alianza FC-Internacional de Bogotá",
+      "W 3 - 1 Internacional de Bogotá-Independiente Medellín",
+      "L 2 - 1 Chicó FC-Internacional de Bogotá",
+      "L 1 - 2 Internacional de Bogotá-América de Cali"
+     ],
+     "bajas": [
+      {
+       "jugador": "Yulián Gómez",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "3-4-1-2",
+      "titulares": [
+       "Wuilker Fariñez",
+       "Carlos Vivas",
+       "Mateo Rodas",
+       "Agustín Irazoque",
+       "Joan Castro",
+       "Rubén Manjarrés",
+       "Larry Vásquez",
+       "Miguel Pernía",
+       "Johan Caballero",
+       "Cristian Dájome",
+       "Fabricio Sanguinetti"
+      ]
+     },
+     "tabla": {
+      "pos": 14,
+      "pj": 18,
+      "g": 4,
+      "e": 8,
+      "p": 6,
+      "goles": "22-25",
+      "pts": 20
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 12,
+      "pj": 9,
+      "g": 4,
+      "e": 3,
+      "p": 2,
+      "goles": "15-13",
+      "pts": 15
+     },
+     "xg_temporada": {
+      "pj": 18,
+      "xg": 21.08,
+      "xg_concedido": 22.31,
+      "xpts": 23.77,
+      "xg_por_partido": 1.17,
+      "xg_concedido_por_partido": 1.24
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.4,
+      "pj_stats": 18,
+      "goles_partido": 1.2,
+      "posesion": 43.7,
+      "porterias_cero": 3,
+      "xg_total": 21.1,
+      "remates_puerta_partido": 4.4,
+      "toques_area_rival": 273,
+      "faltas_partido": 11.7,
+      "grandes_ocasiones_total": 21,
+      "amarillas_total": 40,
+      "corners_total": 103,
+      "xg_concedido_total": 22.3
+     }
+    },
+    "visitante": {
+     "id": 7818,
+     "nombre": "Santa Fe",
+     "forma_ult5": [
+      "W 2 - 1 Santa Fe-Bucaramanga",
+      "L 2 - 0 Atlético Nacional-Santa Fe",
+      "L 0 - 2 Santa Fe-Once Caldas",
+      "L 1 - 0 Cúcuta-Santa Fe",
+      "W 5 - 0 Santa Fe-Deportivo Pasto"
+     ],
+     "bajas": [
+      {
+       "jugador": "Emanuel Olivera",
+       "tipo": "injury",
+       "regreso": "A few weeks"
+      },
+      {
+       "jugador": "Christian Mafla",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Jeison Angulo",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      },
+      {
+       "jugador": "Kevin Balanta",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Andrés Mosquera",
+       "Helibelton Palacios",
+       "Emanuel Olivera",
+       "Víctor Moreno",
+       "Christian Mafla",
+       "Daniel Torres",
+       "Jhojan Torres",
+       "Jáder Obrian",
+       "Franco Fagúndez",
+       "Emerson Rodríguez",
+       "Hugo Rodallega"
+      ]
+     },
+     "tabla": {
+      "pos": 5,
+      "pj": 18,
+      "g": 9,
+      "e": 4,
+      "p": 5,
+      "goles": "28-18",
+      "pts": 31
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 9,
+      "pj": 8,
+      "g": 3,
+      "e": 1,
+      "p": 4,
+      "goles": "9-9",
+      "pts": 10
+     },
+     "xg_temporada": {
+      "pj": 18,
+      "xg": 21.66,
+      "xg_concedido": 17.02,
+      "xpts": 27.49,
+      "xg_por_partido": 1.2,
+      "xg_concedido_por_partido": 0.95
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 18,
+      "goles_partido": 1.6,
+      "posesion": 47.1,
+      "porterias_cero": 5,
+      "xg_total": 21.7,
+      "remates_puerta_partido": 5.2,
+      "toques_area_rival": 306,
+      "faltas_partido": 10.6,
+      "grandes_ocasiones_total": 33,
+      "amarillas_total": 39,
+      "corners_total": 82,
+      "xg_concedido_total": 17
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     9,
+     11,
+     19
+    ],
+    "ultimos": [
+     "2026-05-03 Santa Fe 3 - 1 Internacional de Bogotá",
+     "2025-09-28 Santa Fe 3 - 0 Internacional de Bogotá",
+     "2025-04-11 Internacional de Bogotá 2 - 1 Santa Fe",
+     "2024-07-27 Santa Fe 0 - 1 Internacional de Bogotá",
+     "2024-05-26 Santa Fe 2 - 0 Internacional de Bogotá",
+     "2024-05-12 Internacional de Bogotá 0 - 2 Santa Fe"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6539341,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T12:00:00.000Z",
+   "inicio_colombia": "2026-11-13 07:00",
+   "ya_empezo": true,
+   "local": "Singapore",
+   "visitante": "Paraguay",
+   "ronda": null,
+   "estadio": "National Stadium, Singapore (grass)",
+   "arbitro": {
+    "nombre": "Wiwat Jumpaoon",
+    "stats": {
+     "matches": 27,
+     "yellowCards": 3.44,
+     "redCards": 5,
+     "unknown": 2,
+     "penalties": 6,
+     "fouls": 24.3
+    }
+   },
+   "clima": {
+    "temp_c": 29,
+    "viento_kmh": 1,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 5825,
+     "nombre": "Singapore",
+     "forma_ult5": [
+      "L 1 - 3 Singapore-Thailand",
+      "W 1 - 2 Thailand-Singapore",
+      "L 2 - 0 Indonesia-Singapore",
+      "W 1 - 0 Singapore-Bangladesh",
+      "L 6 - 0 Malaysia-Singapore"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Izwan Mahbud",
+       "Ryhan Stewart",
+       "Hariss Harun",
+       "Safuwan Baharudin",
+       "Jacob Mahler",
+       "Ui-Young Song",
+       "Shah Shahiran",
+       "Kyoga Nakamura",
+       "Farhan Zulkifli",
+       "Ilhan Fandi",
+       "Harhys Stewart"
+      ]
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 6724,
+     "nombre": "Paraguay",
+     "forma_ult5": [
+      "D 0 - 0 Paraguay-Australia",
+      "D 1 - 1 Germany-Paraguay",
+      "L 0 - 1 Paraguay-France",
+      "W 0 - 2 Bolivia-Paraguay",
+      "W 0 - 1 Colombia-Paraguay"
+     ],
+     "bajas": [
+      {
+       "jugador": "José Canale",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Andrés Cubas",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Antonio Sanabria",
+       "tipo": "injury",
+       "regreso": "Mid November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-3-2",
+      "titulares": [
+       "Orlando Gill",
+       "Alan Benítez",
+       "Mauro Alexis Coronel Gómez",
+       "Júnior Alonso",
+       "Alexandro Maidana",
+       "Mathías Villasanti",
+       "Gustavo Caballero",
+       "Matías Galarza",
+       "Eduardo Delmás",
+       "Mauricio",
+       "Robert Morales"
+      ]
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6539345,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T14:15:00.000Z",
+   "inicio_colombia": "2026-11-13 09:15",
+   "ya_empezo": true,
+   "local": "UAE",
+   "visitante": "Honduras",
+   "ronda": null,
+   "estadio": "Mohammed Bin Zayed Stadium, Abū ẓabī (Abu Dhabi) (grass)",
+   "arbitro": {
+    "nombre": "Ahmad Al Ali",
+    "stats": {
+     "matches": 13,
+     "yellowCards": 3.62,
+     "redCards": 1,
+     "unknown": 0,
+     "penalties": 1,
+     "fouls": 21
+    }
+   },
+   "clima": {
+    "temp_c": 27,
+    "viento_kmh": 5,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5789,
+     "nombre": "UAE",
+     "forma_ult5": [
+      "W 4 - 0 UAE-Yemen",
+      "W 0 - 3 Bahrain-UAE",
+      "D 1 - 1 UAE-Qatar",
+      "W 1 - 0 UAE-Oman",
+      "L 2 - 0 Saudi Arabia-UAE"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Khalid Eisa",
+       "Marcus Meloni",
+       "Alaeddine Zouhir",
+       "Khalifa Al Hammadi",
+       "Rúben Canedo",
+       "Mamadou Coulibaly",
+       "Isam Faiz",
+       "Ousmane Camara",
+       "Bruno",
+       "Luanzinho",
+       "Ali Saleh"
+      ]
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5808,
+     "nombre": "Honduras",
+     "forma_ult5": [
+      "L 2 - 0 Argentina-Honduras",
+      "L 2 - 3 Honduras-Suriname",
+      "W 0 - 1 Jamaica-Honduras",
+      "L 2 - 1 Martinique-Honduras",
+      "D 1 - 1 Honduras-Jamaica"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Edrick Menjívar",
+       "Rigoberto Rivas",
+       "Denil Maldonado",
+       "Julián Martínez",
+       "Joseph Rosales",
+       "David Ruiz",
+       "José Reyes",
+       "Dereck Moncada",
+       "Jonathan Toro",
+       "Luis Palma",
+       "Keyrol Figueroa"
+      ]
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2018-10-11 UAE 1 - 1 Honduras"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6539343,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T14:30:00.000Z",
+   "inicio_colombia": "2026-11-13 09:30",
+   "ya_empezo": true,
+   "local": "Saudi Arabia",
+   "visitante": "South Korea",
+   "ronda": null,
+   "estadio": "Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha) (grass)",
+   "arbitro": {
+    "nombre": "Mohamed Al-Shammari",
+    "stats": {
+     "matches": 7,
+     "yellowCards": 3,
+     "redCards": 3,
+     "unknown": 0,
+     "penalties": 1,
+     "fouls": 24.8
+    }
+   },
+   "clima": {
+    "temp_c": 23,
+    "viento_kmh": 6,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 7795,
+     "nombre": "Saudi Arabia",
+     "forma_ult5": [
+      "W 1 - 0 Saudi Arabia-Kuwait",
+      "W 0 - 3 Oman-Saudi Arabia",
+      "W 2 - 0 Saudi Arabia-Iraq",
+      "D 0 - 0 Saudi Arabia-Qatar",
+      "W 2 - 0 Saudi Arabia-UAE"
+     ],
+     "bajas": [
+      {
+       "jugador": "Hassan Kadish",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Alaa Al Hejji",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Mohammed Al Owais",
+       "Mohammed Abu Al Shamat",
+       "Abdulelah Al Amri",
+       "Hassan Al Tambakti",
+       "Moteb Al-Harbi",
+       "Mohammed Hamad Al Qahtani",
+       "Abdullah Al-Khaibari",
+       "Nasser Al-Dawsari",
+       "Marwan Al-Sahafi",
+       "Abdullah Al-Hamdan",
+       "Mohamed Kanno"
+      ]
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 7804,
+     "nombre": "South Korea",
+     "forma_ult5": [
+      "L 1 - 0 South Africa-South Korea",
+      "W 3 - 0 South Korea-Ecuador",
+      "L 1 - 4 South Korea-Uruguay",
+      "D 0 - 0 South Korea-Venezuela",
+      "W 2 - 0 South Korea-Uzbekistan"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Seung-Gyu Kim",
+       "Young-Woo Seol",
+       "Han-Beom Lee",
+       "Min-Jae Kim",
+       "Hyun-Taek Cho",
+       "Jin-Seob Park",
+       "In-Beom Hwang",
+       "Kang-In Lee",
+       "Heung-Min Son",
+       "Hee-Chan Hwang",
+       "Hyeon-Gyu Oh"
+      ]
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     2,
+     2
+    ],
+    "ultimos": [
+     "2024-01-30 Saudi Arabia 1 - 1 South Korea",
+     "2023-09-12 South Korea 1 - 0 Saudi Arabia",
+     "2018-12-31 Saudi Arabia 0 - 0 South Korea",
+     "2015-01-04 Saudi Arabia 0 - 2 South Korea"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't lost in 6 matches",
+    "7804 have won the previous 2 matches against 7795."
+   ]
+  },
+  {
+   "id": 6220818,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T14:45:00.000Z",
+   "inicio_colombia": "2026-11-13 09:45",
+   "ya_empezo": true,
+   "local": "Qatar",
+   "visitante": "Australia",
+   "ronda": null,
+   "estadio": "Abdullah bin Nasser bin Khalifa Stadium, ad-Dōha (Doha) (grass)",
+   "arbitro": {
+    "nombre": "Yahya Al Mulla",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 23,
+    "viento_kmh": 6,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5902,
+     "nombre": "Qatar",
+     "forma_ult5": [
+      "L 3 - 1 Bosnia and Herzegovina-Qatar",
+      "W 2 - 0 Qatar-Bahrain",
+      "W 0 - 1 Yemen-Qatar",
+      "D 1 - 1 UAE-Qatar",
+      "D 0 - 0 Saudi Arabia-Qatar"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Mahmud Abunada",
+       "Ayoub Al Oui",
+       "Boualem Khoukhi",
+       "Issa Laye",
+       "Sultan Al Brake",
+       "Ahmed Fathi",
+       "Assim Madibo",
+       "Karim Boudiaf",
+       "Almoez Ali",
+       "Hassan Al-Haydos",
+       "Akram Afif"
+      ]
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 6716,
+     "nombre": "Australia",
+     "forma_ult5": [
+      "L 2 - 0 USA-Australia",
+      "D 0 - 0 Paraguay-Australia",
+      "D 1 - 1 Australia-Egypt",
+      "D 1 - 1 Australia-Brazil",
+      "L 2 - 4 Australia-Brazil"
+     ],
+     "bajas": [
+      {
+       "jugador": "Aiden O'Neill",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Mohamed Touré",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "5-4-1",
+      "titulares": [
+       "Patrick Beach",
+       "Alessandro Circati",
+       "Harry Souttar",
+       "Lucas Herrington",
+       "Jacob Italiano",
+       "Aziz Behich",
+       "Riley McGree",
+       "Connor Metcalfe",
+       "Paul Okon-Engstler",
+       "Nestory Irankunda",
+       "Tete Yengi"
+      ]
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     1,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2014-10-14 Qatar 1 - 0 Australia"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 5 attempts"
+   ]
+  },
+  {
+   "id": 6633450,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T15:00:00.000Z",
+   "inicio_colombia": "2026-11-13 10:00",
+   "ya_empezo": true,
+   "local": "Iraq",
+   "visitante": "Lebanon",
+   "ronda": null,
+   "estadio": "Basra International Stadium, al-Baṣra (Basra) (grass)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 16,
+    "viento_kmh": 4,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5819,
+     "nombre": "Iraq",
+     "forma_ult5": [
+      "L 3 - 0 France-Iraq",
+      "L 5 - 0 Senegal-Iraq",
+      "D 1 - 1 Iraq-Oman",
+      "W 2 - 3 Kuwait-Iraq",
+      "L 2 - 0 Saudi Arabia-Iraq"
+     ],
+     "bajas": [
+      {
+       "jugador": "Kevin Yakob",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5897,
+     "nombre": "Lebanon",
+     "forma_ult5": [
+      "W 0 - 3 Brunei-Lebanon",
+      "L 2 - 1 Sudan-Lebanon",
+      "L 0 - 2 Lebanon-Yemen",
+      "W 0 - 6 Maldives-Lebanon",
+      "L 3 - 1 Kyrgyzstan-Lebanon"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     2,
+     0
+    ],
+    "ultimos": [
+     "2022-02-01 Lebanon 1 - 1 Iraq",
+     "2021-10-07 Iraq 0 - 0 Lebanon"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 8 matches"
+   ]
+  },
+  {
+   "id": 6539342,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T16:30:00.000Z",
+   "inicio_colombia": "2026-11-13 11:30",
+   "ya_empezo": true,
+   "local": "Kuwait",
+   "visitante": "Syria",
+   "ronda": null,
+   "estadio": "Al-Sadaqua Walsalam Stadium, Madīnat al-Kuwayt (Kuwait City) (grass)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 19,
+    "viento_kmh": 6,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5821,
+     "nombre": "Kuwait",
+     "forma_ult5": [
+      "L 3 - 1 UAE-Kuwait",
+      "D 2 - 2 Thailand-Kuwait",
+      "L 1 - 0 Saudi Arabia-Kuwait",
+      "L 2 - 3 Kuwait-Iraq",
+      "L 3 - 1 Oman-Kuwait"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 6320,
+     "nombre": "Syria",
+     "forma_ult5": [
+      "L 1 - 0 Morocco-Syria",
+      "W 5 - 1 Syria-Afghanistan",
+      "L 4 - 1 Belarus-Syria",
+      "D 1 - 1 Jordan-Syria",
+      "L 4 - 1 Uzbekistan-Syria"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Have lost their last 3 matches",
+    "Haven't kept a clean sheet in 5 matches"
+   ]
+  },
+  {
+   "id": 6462728,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-13T23:00:00.000Z",
+   "inicio_colombia": "2026-11-13 18:00",
+   "ya_empezo": false,
+   "local": "Argentina",
+   "visitante": "Uruguay",
+   "ronda": null,
+   "estadio": "Estadio Alberto José Armando, Ciudad de Buenos Aires (grass)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 23,
+    "viento_kmh": 4,
+    "lluvia_prob": 2,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6706,
+     "nombre": "Argentina",
+     "forma_ult5": [
+      "W 1 - 2 England-Argentina",
+      "L 1 - 0 Spain-Argentina",
+      "W 4 - 0 Argentina-Bolivia",
+      "W 7 - 0 Argentina-Burkina Faso",
+      "W 3 - 0 Argentina-Benin"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5796,
+     "nombre": "Uruguay",
+     "forma_ult5": [
+      "D 2 - 2 Uruguay-Cape Verde",
+      "L 0 - 1 Uruguay-Spain",
+      "L 3 - 1 Japan-Uruguay",
+      "W 1 - 4 South Korea-Uruguay",
+      "W 1 - 6 India-Uruguay"
+     ],
+     "bajas": [
+      {
+       "jugador": "Brian Rodríguez",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "unavailable",
+      "formacion": "",
+      "titulares": []
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     8,
+     3,
+     3
+    ],
+    "ultimos": [
+     "2025-03-21 Uruguay 0 - 1 Argentina",
+     "2023-11-17 Argentina 0 - 2 Uruguay",
+     "2021-11-12 Uruguay 0 - 1 Argentina",
+     "2021-10-10 Argentina 3 - 0 Uruguay",
+     "2021-06-19 Argentina 1 - 0 Uruguay",
+     "2019-11-18 Argentina 2 - 2 Uruguay"
+    ]
+   },
+   "datos_curiosos": [
+    "6706 and 5796 have not drawn any of their last 5 matches against each other.",
+    "Haven't kept a clean sheet in 6 matches"
+   ]
+  },
+  {
+   "id": 6040337,
+   "competicion": "Africa Cup of Nations Qualification Grp. G (INT)",
+   "inicio_utc": "2026-11-13T13:00:00.000Z",
+   "inicio_colombia": "2026-11-13 08:00",
+   "ya_empezo": true,
+   "local": "Comoros",
+   "visitante": "Congo",
+   "ronda": "3",
+   "estadio": "Stade Omnisports de Malouzini, Moroni (grass)",
+   "arbitro": {
+    "nombre": "Issa Sy",
+    "stats": {
+     "matches": 5,
+     "yellowCards": 4.2,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 2,
+     "fouls": 26
+    }
+   },
+   "clima": {
+    "temp_c": 28,
+    "viento_kmh": 8,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 230692,
+     "nombre": "Comoros",
+     "forma_ult5": [
+      "D 0 - 0 Namibia-Comoros",
+      "L 1 - 0 Kazakhstan-Comoros",
+      "L 3 - 1 Cameroon-Comoros",
+      "W 1 - 0 Comoros-Namibia",
+      "L 1 - 0 Senegal-Comoros"
+     ],
+     "bajas": [
+      {
+       "jugador": "Iyad Mohamed",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Yannick Pandor",
+       "Ismaël Boura",
+       "Warmed Omari",
+       "Yannis Kari",
+       "Abdel Hakim Abdallah",
+       "Yacine Bourhane",
+       "Zaydou Youssouf",
+       "Aymeric Ahmed",
+       "Rayan Lutin",
+       "Rafiki Saïd",
+       "Aboubacar Ali Abdallah"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5801,
+     "nombre": "Congo",
+     "forma_ult5": [
+      "D 1 - 1 Congo-Tanzania",
+      "L 3 - 1 Niger-Congo",
+      "L 1 - 0 Morocco-Congo",
+      "L 1 - 0 Namibia-Congo",
+      "D 1 - 1 Congo-Cameroon"
+     ],
+     "bajas": [
+      {
+       "jugador": "Kevin Mouanga",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Melvin Zinga",
+       "Yhoan Andzouana",
+       "Christ Makosso",
+       "Janard Mbemba",
+       "Bradley Mazikou",
+       "William Hondermarck",
+       "Gaïus Makouta",
+       "Yvan Ikia Dimi",
+       "Merveil Ndockyt",
+       "Geltany Bantsiele",
+       "Beni Namboka"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     0
+    ],
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 15 attempts",
+    "Haven't kept a clean sheet in 15 matches"
+   ]
+  },
+  {
+   "id": 6040361,
+   "competicion": "Africa Cup of Nations Qualification Grp. I (INT)",
+   "inicio_utc": "2026-11-13T13:00:00.000Z",
+   "inicio_colombia": "2026-11-13 08:00",
+   "ya_empezo": true,
+   "local": "Zambia",
+   "visitante": "Burundi",
+   "ronda": "3",
+   "estadio": "Levy Mwanawasa Stadium, Ndola (grass)",
+   "arbitro": {
+    "nombre": "Washington Dolo",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 29,
+    "viento_kmh": 3,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6277,
+     "nombre": "Zambia",
+     "forma_ult5": [
+      "L 0 - 3 Zambia-Morocco",
+      "D 0 - 0 Zambia-Malawi",
+      "L 5 - 0 Argentina-Zambia",
+      "L 3 - 1 Algeria-Zambia",
+      "W 2 - 0 Zambia-Togo"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Willard Mwanza",
+       "Mathews Banda",
+       "Ricky Chanda",
+       "Dominic Chanda",
+       "David Hamansenya",
+       "Prince Mumba",
+       "Miguel Chaiwa",
+       "Edward Chilufya",
+       "Albert Kangwanda",
+       "Fashion Sakala",
+       "Derrick Bulaya"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 121284,
+     "nombre": "Burundi",
+     "forma_ult5": [
+      "L 2 - 0 Gambia-Burundi",
+      "L 0 - 1 Burundi-Kenya",
+      "L 2 - 0 Gabon-Burundi",
+      "L 1 - 0 Togo-Burundi",
+      "D 2 - 2 Burundi-Algeria"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-3",
+      "titulares": [
+       "Jonathan Nahimana",
+       "Youssouf Ndayishimiye",
+       "Frédéric Nsabiyumva",
+       "Omar Moussa",
+       "Emanuel Swedi",
+       "Élie Mokono",
+       "Henry Msanga",
+       "Akbar Muderi",
+       "Bienvenue Kanakimana",
+       "Asman Ndikumana",
+       "Jean-Claude Girumugisha"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     0
+    ],
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 6 attempts",
+    "Haven't kept a clean sheet in 6 matches"
+   ]
+  },
+  {
+   "id": 6040400,
+   "competicion": "Africa Cup of Nations Qualification Grp. J (INT)",
+   "inicio_utc": "2026-11-13T13:00:00.000Z",
+   "inicio_colombia": "2026-11-13 08:00",
+   "ya_empezo": true,
+   "local": "Mozambique",
+   "visitante": "Ethiopia",
+   "ronda": "3",
+   "estadio": "Estádio Nacional do Zimpeto, Maputo (grass)",
+   "arbitro": {
+    "nombre": "Arima Akakpo",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 29,
+    "viento_kmh": 7,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5965,
+     "nombre": "Mozambique",
+     "forma_ult5": [
+      "L 1 - 2 Mozambique-Cameroon",
+      "L 4 - 0 Nigeria-Mozambique",
+      "L 1 - 0 Indonesia-Mozambique",
+      "D 1 - 1 Mozambique-Senegal",
+      "W 4 - 1 Mozambique-Sudan"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Ernan",
+       "Diogo Calila",
+       "Bruno Wilson",
+       "Edmilson Dove",
+       "Bruno Langa",
+       "Alfons Amade",
+       "Manuel Kambala",
+       "Geny Catamo",
+       "Candinho",
+       "Witi",
+       "Stanley Ratifo"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 121282,
+     "nombre": "Ethiopia",
+     "forma_ult5": [
+      "L 2 - 0 Sierra Leone-Ethiopia",
+      "W 1 - 0 Ethiopia-Guinea-Bissau",
+      "L 3 - 1 Burkina Faso-Ethiopia",
+      "L 1 - 0 Sudan-Ethiopia",
+      "L 0 - 1 Ethiopia-Senegal"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Abubeker Nura",
+       "Alelign Muluneh",
+       "Melkamu Bogale",
+       "Bereket Samuel",
+       "Kaleb Beyene",
+       "Gatoch Panom",
+       "Canaan Markneh",
+       "Wogene Gezahegn",
+       "Abel Habtamu",
+       "Carlos Damtew",
+       "Biniyam Fikru"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2023-01-14 Ethiopia 0 - 0 Mozambique"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 9 matches",
+    "Have lost their last 3 matches"
+   ]
+  },
+  {
+   "id": 6040203,
+   "competicion": "Africa Cup of Nations Qualification Grp. A (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "Gabon",
+   "visitante": "Lesotho",
+   "ronda": "3",
+   "estadio": "Stade de Franceville (new), Franceville (grass)",
+   "arbitro": {
+    "nombre": "Daniel Laryea Nii Ayi",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 27,
+    "viento_kmh": 1,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 5889,
+     "nombre": "Gabon",
+     "forma_ult5": [
+      "L 2 - 3 Gabon-Ivory Coast",
+      "L 3 - 1 Uzbekistan-Gabon",
+      "D 2 - 2 Gabon-Trinidad and Tobago",
+      "L 2 - 0 Morocco-Gabon",
+      "W 2 - 0 Gabon-Niger"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Jean-Noël Amonome",
+       "Jérémy Oyono",
+       "Alex Moucketou-Moussounda",
+       "Urie-Michel Mboula",
+       "Jacques Ekomié",
+       "Mario Lemina",
+       "Henrick Do Marcolino",
+       "Jim Allevinah",
+       "Guélor Kanga",
+       "Denis Bouanga",
+       "Rody Junior Effaghe"
+      ]
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 3,
+      "g": 2,
+      "e": 0,
+      "p": 1,
+      "goles": "4-2",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "4-0",
+      "pts": 6
+     },
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 4167,
+     "nombre": "Lesotho",
+     "forma_ult5": [
+      "D 0 - 0 Lesotho-Malawi",
+      "L 0 - 1 Lesotho-Malawi",
+      "D 1 - 1 Kenya-Lesotho",
+      "L 2 - 1 Niger-Lesotho",
+      "L 0 - 2 Lesotho-Morocco"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Sekhoane Moerane",
+       "Thabang Malane",
+       "Motlomelo Mkwanazi",
+       "Thabo Makhele",
+       "Katleho Koaeane",
+       "Tlotliso Phatsisi",
+       "Pheko Molaoa",
+       "Neo Mokhachane",
+       "Lebohang Lesako",
+       "Bakuena Ramakatsa",
+       "Sera Motebang"
+      ]
+     },
+     "tabla": {
+      "pos": 4,
+      "pj": 3,
+      "g": 0,
+      "e": 0,
+      "p": 3,
+      "goles": "1-6",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
+      "pj": 2,
+      "g": 0,
+      "e": 0,
+      "p": 2,
+      "goles": "1-4",
+      "pts": 0
+     },
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     2,
+     0
+    ],
+    "ultimos": [
+     "2024-10-15 Lesotho 0 - 2 Gabon",
+     "2024-10-11 Gabon 0 - 0 Lesotho",
+     "2014-11-19 Gabon 4 - 2 Lesotho",
+     "2014-09-10 Lesotho 1 - 1 Gabon"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 5 attempts"
+   ]
+  },
+  {
+   "id": 6040204,
+   "competicion": "Africa Cup of Nations Qualification Grp. A (INT)",
+   "inicio_utc": "2026-11-13T20:00:00.000Z",
+   "inicio_colombia": "2026-11-13 15:00",
+   "ya_empezo": false,
+   "local": "Morocco",
+   "visitante": "Niger",
+   "ronda": "3",
+   "estadio": "Stade Mohammed V, Casablanca (grass)",
+   "arbitro": {
+    "nombre": "Omar Artan",
+    "stats": {
+     "matches": 8,
+     "yellowCards": 4.25,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 1,
+     "fouls": 24.71
+    }
+   },
+   "clima": {
+    "temp_c": 19,
+    "viento_kmh": 2,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6262,
+     "nombre": "Morocco",
+     "forma_ult5": [
+      "W 0 - 3 Canada-Morocco",
+      "L 2 - 0 France-Morocco",
+      "W 2 - 0 Morocco-Gabon",
+      "W 0 - 2 Lesotho-Morocco",
+      "D 1 - 1 Morocco-Mali"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": {
+      "pos": 1,
+      "pj": 2,
+      "g": 2,
+      "e": 0,
+      "p": 0,
+      "goles": "4-0",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
+      "pj": 1,
+      "g": 1,
+      "e": 0,
+      "p": 0,
+      "goles": "2-0",
+      "pts": 3
+     },
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 121281,
+     "nombre": "Niger",
+     "forma_ult5": [
+      "L 3 - 2 Burkina Faso-Niger",
+      "L 1 - 0 Mauritania-Niger",
+      "W 2 - 1 Niger-Lesotho",
+      "L 2 - 0 Gabon-Niger",
+      "L 2 - 1 Algeria-Niger"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "tabla": {
+      "pos": 3,
+      "pj": 2,
+      "g": 1,
+      "e": 0,
+      "p": 1,
+      "goles": "2-3",
+      "pts": 3
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "0-2",
+      "pts": 0
+     },
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     6,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2025-09-05 Morocco 5 - 0 Niger",
+     "2025-03-21 Niger 1 - 2 Morocco",
+     "2019-09-10 Morocco 1 - 0 Niger",
+     "2012-12-12 Morocco 3 - 0 Niger",
+     "2012-01-31 Niger 0 - 1 Morocco",
+     "2011-02-09 Morocco 3 - 0 Niger"
+    ]
+   },
+   "datos_curiosos": [
+    "6262 haven't lost to 121281 in their last 6 meetings (6W, 0D).",
+    "Haven't kept a clean sheet in 5 matches"
+   ]
+  },
+  {
+   "id": 6040252,
+   "competicion": "Africa Cup of Nations Qualification Grp. D (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "South Africa",
+   "visitante": "Kenya",
+   "ronda": "3",
+   "estadio": "Orlando Amstel Arena, Johannesburg, GA (grass)",
+   "arbitro": {
+    "nombre": "Patrice Mebiame",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 27,
+    "viento_kmh": 1,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6316,
+     "nombre": "South Africa",
+     "forma_ult5": [
+      "W 1 - 0 South Africa-South Korea",
+      "L 0 - 1 South Africa-Canada",
+      "W 2 - 1 South Africa-Guinea",
+      "W 0 - 5 Eritrea-South Africa",
+      "W 0 - 1 Egypt-South Africa"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Ronwen Williams",
+       "Thabang Matuludi",
+       "Ime Okon",
+       "Olwethu Makhanya",
+       "Tshepang Moremi",
+       "Sphephelo Sithole",
+       "Teboho Mokoena",
+       "Aubrey Maphosa Modiba",
+       "Oswin Appollis",
+       "Relebohile Mofokeng",
+       "Iqraam Rayners"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5884,
+     "nombre": "Kenya",
+     "forma_ult5": [
+      "W 0 - 3 Grenada-Kenya",
+      "D 1 - 1 Kenya-Lesotho",
+      "D 1 - 1 Kenya-Eritrea",
+      "L 1 - 0 Guinea-Kenya",
+      "D 0 - 0 Rwanda-Kenya"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Bryne Odhiambo",
+       "Rooney Onyango",
+       "Frank Odhiambo",
+       "Sylvester Owino",
+       "Aboud Omar",
+       "Adam Wilson",
+       "Michael Olunga",
+       "Job Ochieng",
+       "Amos Wanjala",
+       "William Wilson",
+       "Alwyn Tera"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2012-10-16 Kenya 1 - 2 South Africa",
+     "2011-02-09 South Africa 2 - 0 Kenya"
+    ]
+   },
+   "datos_curiosos": [
+    "6316 have won the previous 2 matches against 5884.",
+    "Haven't scored in their last 2 matches"
+   ]
+  },
+  {
+   "id": 6040278,
+   "competicion": "Africa Cup of Nations Qualification Grp. F (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "Burkina Faso",
+   "visitante": "Mauritania",
+   "ronda": "3",
+   "estadio": "Stade du 4 Août, Ouagadougou (grass)",
+   "arbitro": {
+    "nombre": "Alhadi Allaou Mahamat",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 34,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 6323,
+     "nombre": "Burkina Faso",
+     "forma_ult5": [
+      "L 3 - 0 Russia-Burkina Faso",
+      "D 2 - 2 Belarus-Burkina Faso",
+      "D 1 - 1 Burkina Faso-Benin",
+      "W 0 - 1 Central African Republic-Burkina Faso",
+      "L 7 - 0 Argentina-Burkina Faso"
+     ],
+     "bajas": [
+      {
+       "jugador": "Issa Kaboré",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Mohamed Ouédraogo",
+       "tipo": "injury",
+       "regreso": "Late June 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Hervé Koffi",
+       "Mamoutou Ouedraogo",
+       "Nasser Djiga",
+       "Edmond Tapsoba",
+       "Arsène Kouassi",
+       "Sacha Banse",
+       "Ismahila Ouédraogo",
+       "Dango Ouattara",
+       "Ousseni Bouda",
+       "Arthur Zagré",
+       "Lassina Traoré"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 68374,
+     "nombre": "Mauritania",
+     "forma_ult5": [
+      "L 2 - 1 Argentina-Mauritania",
+      "D 1 - 1 Angola-Mauritania",
+      "W 1 - 0 Mauritania-Niger",
+      "W 3 - 1 Mauritania-Central African Republic",
+      "L 2 - 1 Benin-Mauritania"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Mamadou Diop",
+       "Ibrahima Keita",
+       "Mohamed Ali Diadie",
+       "Jordan Lefort",
+       "Aly Abeid",
+       "Maata Magassa",
+       "Mouhsine Bodda",
+       "Abdoullah Ba",
+       "Aboubakary Koïta",
+       "Djeidi Gassama",
+       "Papa Ndiaga Yade"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     2
+    ],
+    "ultimos": [
+     "2025-08-13 Mauritania 1 - 0 Burkina Faso",
+     "2024-01-16 Burkina Faso 1 - 0 Mauritania",
+     "2019-03-22 Burkina Faso 1 - 0 Mauritania",
+     "2018-09-08 Mauritania 2 - 0 Burkina Faso"
+    ]
+   },
+   "datos_curiosos": [
+    "6323 and 68374 have not drawn any of their last 4 matches against each other."
+   ]
+  },
+  {
+   "id": 6040348,
+   "competicion": "Africa Cup of Nations Qualification Grp. H (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "Tunisia",
+   "visitante": "Libya",
+   "ronda": "3",
+   "estadio": "Stade Taïeb Mhiri, Sfax (Safāqis) (grass)",
+   "arbitro": {
+    "nombre": "Hamza El Fareq",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 23,
+    "viento_kmh": 3,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 6719,
+     "nombre": "Tunisia",
+     "forma_ult5": [
+      "L 5 - 1 Sweden-Tunisia",
+      "L 0 - 4 Tunisia-Japan",
+      "L 1 - 3 Tunisia-Netherlands",
+      "D 1 - 1 Tunisia-Uganda",
+      "D 2 - 2 Tunisia-Botswana"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Aymen Dahmen",
+       "Alaa Ghram",
+       "Montassar Talbi",
+       "Ali Maâloul",
+       "Mohamed Dräger",
+       "Mohamed Ali Ben Romdhane",
+       "Aïssa Laïdouni",
+       "Ismaël Gharbi",
+       "Sayfallah Ltaief",
+       "Elias Saad",
+       "Firas Chaouat"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 6328,
+     "nombre": "Libya",
+     "forma_ult5": [
+      "D 0 - 0 Mauritius-Libya",
+      "D 0 - 0 Palestine-Libya",
+      "D 2 - 2 Liberia-Libya",
+      "D 2 - 2 Libya-Botswana",
+      "L 1 - 0 Uganda-Libya"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Ayman Altihar",
+       "Fadel Salama",
+       "Ali Yousef Musrati",
+       "Daniel Elfadli",
+       "Saif Jaddour",
+       "Osamah Al Shuraimi",
+       "Maruwan Al-Hbeishi",
+       "Mouad Eissa",
+       "Muaid Ellafi",
+       "Hamdou El Houni",
+       "Ezoo El Maremi"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     5,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2023-03-28 Libya 0 - 1 Tunisia",
+     "2023-03-24 Tunisia 3 - 0 Libya",
+     "2021-03-25 Libya 2 - 5 Tunisia",
+     "2019-11-15 Tunisia 4 - 1 Libya",
+     "2017-11-11 Tunisia 0 - 0 Libya",
+     "2016-11-11 Libya 0 - 1 Tunisia"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 8 attempts",
+    "Haven't won a match in 6 attempts"
+   ]
+  },
+  {
+   "id": 6040376,
+   "competicion": "Africa Cup of Nations Qualification Grp. K (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "Cape Verde",
+   "visitante": "Liberia",
+   "ronda": "3",
+   "estadio": "Estádio Nacional de Cabo Verde, Praia (artificial turf)",
+   "arbitro": {
+    "nombre": "Abdulrazg Ahmed",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 28,
+    "viento_kmh": 8,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 5888,
+     "nombre": "Cape Verde",
+     "forma_ult5": [
+      "D 2 - 2 Uruguay-Cape Verde",
+      "D 0 - 0 Cape Verde-Saudi Arabia",
+      "L 3 - 2 Argentina-Cape Verde",
+      "L 3 - 1 Mali-Cape Verde",
+      "L 1 - 2 Cape Verde-Rwanda"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Vozinha",
+       "João Paulo",
+       "Diney Borges",
+       "Logan Costa",
+       "Sidny Lopes Cabral",
+       "Ayoni Santos",
+       "Ryan Mendes",
+       "Djé Tavares",
+       "Deroy Duarte",
+       "Hélio Varela",
+       "Dailon Livramento"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5804,
+     "nombre": "Liberia",
+     "forma_ult5": [
+      "D 1 - 1 Equatorial Guinea-Liberia",
+      "L 2 - 0 Guinea-Liberia",
+      "D 2 - 2 Liberia-Libya",
+      "L 3 - 1 Rwanda-Liberia",
+      "L 0 - 1 Liberia-Mali"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Ashley Williams",
+       "Sylvanus Nimely",
+       "Sampson Dweh",
+       "Jamal Arago",
+       "Emmanuel Fully",
+       "Franklin Nyenetue",
+       "Solomon Tweh",
+       "Nohan Kenneh",
+       "Edward Ledlum",
+       "Divine Teah",
+       "Ayouba Kosiah"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2021-10-10 Cape Verde 1 - 0 Liberia",
+     "2021-10-07 Liberia 1 - 2 Cape Verde"
+    ]
+   },
+   "datos_curiosos": [
+    "Have lost their last 3 matches",
+    "Haven't won a match in 6 attempts",
+    "Haven't won a match in 5 attempts",
+    "Haven't kept a clean sheet in 11 matches"
+   ]
+  },
+  {
+   "id": 6040377,
+   "competicion": "Africa Cup of Nations Qualification Grp. K (INT)",
+   "inicio_utc": "2026-11-13T19:00:00.000Z",
+   "inicio_colombia": "2026-11-13 14:00",
+   "ya_empezo": false,
+   "local": "Mali",
+   "visitante": "Rwanda",
+   "ronda": "3",
+   "estadio": "Stade 26 Mars, Bamako (grass)",
+   "arbitro": {
+    "nombre": "Messie Jessie Nkounkou Mvoutou",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 30,
+    "viento_kmh": 1,
+    "lluvia_prob": 0,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 5815,
+     "nombre": "Mali",
+     "forma_ult5": [
+      "D 1 - 1 Mali-Tunisia",
+      "L 0 - 1 Mali-Senegal",
+      "W 3 - 1 Mali-Cape Verde",
+      "W 0 - 1 Liberia-Mali",
+      "D 1 - 1 Morocco-Mali"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Djigui Diarra",
+       "Daouda Guindo",
+       "Nathan Gassama",
+       "Ousmane Camara",
+       "Hamari Traoré",
+       "Moussa Kounfolo Yeo",
+       "Amadou Haidara",
+       "Mamadou Sangaré",
+       "Lassine Sinayoko",
+       "Dorgeles Nene",
+       "Kamory Doumbia"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 5885,
+     "nombre": "Rwanda",
+     "forma_ult5": [
+      "W 4 - 0 Rwanda-Grenada",
+      "W 2 - 0 Rwanda-Estonia",
+      "W 3 - 1 Rwanda-Liberia",
+      "W 1 - 2 Cape Verde-Rwanda",
+      "D 0 - 0 Rwanda-Kenya"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Fiacre Ntwari",
+       "Gilbert Byiringiro",
+       "Ange Mutsinzi",
+       "Phanuel Kavita",
+       "Claude Niyomugabo",
+       "Jojea Kwizera",
+       "Djihad Bizimana",
+       "Darryl Nkulikiyimana",
+       "Elie Tatou Iradukunda",
+       "Joy-Lance Mickels",
+       "Leroy-Jacques Mickels"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2021-11-11 Rwanda 0 - 3 Mali",
+     "2021-09-01 Mali 1 - 0 Rwanda",
+     "2013-06-09 Mali 1 - 1 Rwanda",
+     "2013-03-24 Rwanda 1 - 2 Mali"
+    ]
+   },
+   "datos_curiosos": [
+    "5815 have won the previous 2 matches against 5885.",
+    "Haven't lost in 5 matches"
+   ]
+  },
+  {
+   "id": 6040389,
+   "competicion": "Africa Cup of Nations Qualification Grp. L (INT)",
+   "inicio_utc": "2026-11-13T16:00:00.000Z",
+   "inicio_colombia": "2026-11-13 11:00",
+   "ya_empezo": true,
+   "local": "Nigeria",
+   "visitante": "Tanzania",
+   "ronda": "3",
+   "estadio": "Godswill Akpabio International Stadium, Uyo (grass)",
+   "arbitro": {
+    "nombre": "Jean Jacques Ndala Ngambo",
+    "stats": {
+     "matches": 5,
+     "yellowCards": 2.8,
+     "redCards": 0,
+     "unknown": 0,
+     "penalties": 1,
+     "fouls": 22
+    }
+   },
+   "clima": {
+    "temp_c": 28,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 6346,
+     "nombre": "Nigeria",
+     "forma_ult5": [
+      "D 2 - 2 Poland-Nigeria",
+      "L 2 - 1 Portugal-Nigeria",
+      "W 2 - 1 Nigeria-Madagascar",
+      "L 3 - 0 Guinea-Bissau-Nigeria",
+      "D 3 - 3 Russia-Nigeria"
+     ],
+     "bajas": [
+      {
+       "jugador": "Frank Onyeka",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Victor Osimhen",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Samuel Chukwueze",
+       "tipo": "injury",
+       "regreso": "Mid January 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Stanley Nwabili",
+       "Abdullahi Bewene",
+       "Benjamin Fredrick",
+       "Calvin Bassey",
+       "Ola Aina",
+       "Alhassan Yusuf",
+       "Alex Iwobi",
+       "Wilfred Ndidi",
+       "Tochukwu Nnadi",
+       "Akor Adams",
+       "Ademola Lookman"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 7941,
+     "nombre": "Tanzania",
+     "forma_ult5": [
+      "L 1 - 0 Morocco-Tanzania",
+      "L 0 - 1 Tanzania-Liechtenstein",
+      "W 0 - 6 Macao-Tanzania",
+      "L 0 - 2 Tanzania-Guinea-Bissau",
+      "D 1 - 1 Madagascar-Tanzania"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Aishi Manula",
+       "Haji Mnoga",
+       "Ibrahim Hamad",
+       "Bakari Mwamnyeto",
+       "Anthony Richard Mligo",
+       "Alphonce Msanga",
+       "Novatus Miroshi",
+       "Himid Mao Mkami",
+       "Cyprian Kachwele",
+       "Denis Kibu",
+       "Nathaniel Chilambo"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2025-12-23 Nigeria 2 - 1 Tanzania",
+     "2016-09-03 Nigeria 1 - 0 Tanzania",
+     "2015-09-05 Tanzania 0 - 0 Nigeria"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 5 matches",
+    "6346 have won the previous 2 matches against 7941."
+   ]
+  },
+  {
+   "id": 6040217,
+   "competicion": "Africa Cup of Nations Qualification Grp. B (INT)",
+   "inicio_utc": "2026-11-13T19:00:00.000Z",
+   "inicio_colombia": "2026-11-13 14:00",
+   "ya_empezo": false,
+   "local": "Egypt",
+   "visitante": "Malawi",
+   "ronda": "3",
+   "estadio": "Cairo International Stadium, al-Qāhirah (Cairo) (grass)",
+   "arbitro": {
+    "nombre": "Abdelaziz Bouh",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 22,
+    "viento_kmh": 5,
+    "lluvia_prob": 1,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 10255,
+     "nombre": "Egypt",
+     "forma_ult5": [
+      "D 1 - 1 Australia-Egypt",
+      "L 3 - 2 Argentina-Egypt",
+      "D 0 - 0 Egypt-Angola",
+      "W 0 - 5 South Sudan-Egypt",
+      "L 0 - 1 Egypt-South Africa"
+     ],
+     "bajas": [
+      {
+       "jugador": "Osama Faisal",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "simple",
+      "titulares": [
+       "Mostafa Ahmed Shobeir",
+       "Ahmed Fatouh",
+       "Hossam Abdelmaguid",
+       "Mohamed Hany",
+       "Rami Rabia",
+       "Mohanad Lasheen",
+       "Nasser Maher",
+       "Mohamed Salah",
+       "Omar Marmoush",
+       "Trezeguet",
+       "Zizo"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 6020,
+     "nombre": "Malawi",
+     "forma_ult5": [
+      "D 0 - 0 Lesotho-Malawi",
+      "W 0 - 1 Lesotho-Malawi",
+      "D 0 - 0 Zambia-Malawi",
+      "W 2 - 1 Malawi-South Sudan",
+      "L 3 - 1 Angola-Malawi"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "simple",
+      "titulares": [
+       "George Medulla Chikooka",
+       "Emmanuel Nyirenda",
+       "Gomezgani Chirwa",
+       "Nickson Nyasulu",
+       "Blessings Mpokera",
+       "Charles Petro",
+       "Lloyd Njaliwa",
+       "Patrick Mwaungulu",
+       "Wisdom Mpinganjira",
+       "Babatunde Adepoju",
+       "Richard Mbulu"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2023-03-28 Malawi 0 - 4 Egypt",
+     "2023-03-24 Egypt 2 - 0 Malawi",
+     "2015-06-08 Egypt 2 - 1 Malawi"
+    ]
+   },
+   "datos_curiosos": [
+    "10255 have won the previous 3 matches against 6020."
+   ]
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-11-13T18:28:29.619Z"
+}
