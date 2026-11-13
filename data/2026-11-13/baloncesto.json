@@ -2688,7 +2688,6 @@
     ],
     "lesiones": [
      "Klay Thompson: Day-To-Day (Ankle)",
-     "Giannis Antetokounmpo: Day-To-Day",
      "Pelle Larsson: Day-To-Day (Illness)"
     ],
     "ultimos_5": [
@@ -4827,10 +4826,10 @@
      "Road: 1-4"
     ],
     "lesiones": [
+     "Dejounte Murray: Out (Ankle)",
      "Bryce McGowens: Out (Elbow)",
      "Yves Missi: Out (Knee)",
      "Bennedict Mathurin: Day-To-Day (Thumb)",
-     "Dejounte Murray: Day-To-Day (Ankle)",
      "Trey Murphy III: Out (Knee)"
     ],
     "ultimos_5": [
@@ -4946,7 +4945,7 @@
      {
       "jugador": "Dejounte Murray",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -9592,5 +9591,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-13T18:28:32.258Z"
+ "generado_utc": "2026-11-13T20:38:48.367Z"
 }
