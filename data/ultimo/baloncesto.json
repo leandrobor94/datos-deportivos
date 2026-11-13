@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-13T00:00Z",
    "inicio_colombia": "2026-11-12 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Xfinity Mobile Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -27,13 +27,7 @@
      "Kawhi Leonard: Out (Knee)",
      "Nate Bittle: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-11-03 @ LAC W 125-118",
-     "2026-11-05 @ DEN L 128-109",
-     "2026-11-07 @ MIL W 121-107",
-     "2026-11-10 vs MEM L 118-102",
-     "2026-11-12 vs BOS L 98-93"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "RJ Barrett",
@@ -548,16 +542,9 @@
      "LeBron James: Out (Back)",
      "Dominick Barlow: Out (Back)",
      "Adem Bona: Out (Back)",
-     "Joel Embiid: Day-To-Day (Foot)",
      "Ariel Hukporti: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs CHI W 126-107",
-     "2026-11-05 @ DET W 112-106",
-     "2026-11-07 @ CLE L 119-95",
-     "2026-11-08 @ CHI W 127-121",
-     "2026-11-11 vs BOS L 123-101"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyrese Maxey",
@@ -766,7 +753,7 @@
      {
       "jugador": "Joel Embiid",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1074,7 +1061,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-13T00:00Z",
    "inicio_colombia": "2026-11-12 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Capital One Arena",
    "serie_temporada": [
     "DET leads series 1-0"
@@ -1091,13 +1078,7 @@
      "Isaiah Joe: Out (Hip)",
      "Jalen Duren: Out (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-10-30 @ BKN W 110-94",
-     "2026-11-03 @ CHA W 124-91",
-     "2026-11-05 vs PHI L 112-106",
-     "2026-11-08 vs LAL L 121-116",
-     "2026-11-10 vs WSH W 122-111"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cade Cunningham",
@@ -1618,13 +1599,7 @@
      "Justin Champagnie: Out (Foot)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-05 vs ATL L 120-105",
-     "2026-11-07 @ ATL L 139-132",
-     "2026-11-08 @ OKC L 114-75",
-     "2026-11-10 @ DET L 122-111",
-     "2026-11-12 @ IND L 114-101"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Kyshawn George",
@@ -2161,8 +2136,7 @@
     "lesiones": [
      "Dereck Lively II: Out (Foot)",
      "Tarik Biberovic: Out (Heel)",
-     "Sergio de Larrea: Out (Knee)",
-     "Morez Johnson Jr.: Day-To-Day (Lower Leg)"
+     "Sergio de Larrea: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-03 vs SAC L 115-100",
@@ -4276,5 +4250,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-12T21:54:23.768Z"
+ "generado_utc": "2026-11-13T01:01:42.488Z"
 }
