@@ -3759,10 +3759,11 @@
      "Road: 6-0"
     ],
     "lesiones": [
-     "Quinten Post: Day-To-Day (Concussion)",
+     "Quinten Post: Out (Concussion)",
+     "Jerami Grant: Day-To-Day (Head)",
      "Zach Edey: Day-To-Day (Ankle)",
-     "Scotty Pippen Jr.: Out (Back)",
-     "Richie Saunders: Out (Knee)"
+     "Ty Jerome: Out (Hip)",
+     "Scotty Pippen Jr.: Out (Back)"
     ],
     "ultimos_5": [
      "2026-11-05 vs IND L 107-103",
@@ -3826,7 +3827,7 @@
      {
       "jugador": "Ty Jerome",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3979,7 +3980,7 @@
      {
       "jugador": "Jerami Grant",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5356,5 +5357,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-14T18:50:49.024Z"
+ "generado_utc": "2026-11-14T20:03:59.900Z"
 }
