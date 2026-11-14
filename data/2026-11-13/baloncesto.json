@@ -9,7 +9,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-14T00:00Z",
    "inicio_colombia": "2026-11-13 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Gainbridge Fieldhouse",
    "serie_temporada": [
     "Regular Season Series"
@@ -22,13 +22,7 @@
      "Road: 2-2"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-11-03 vs BKN W 103-90",
-     "2026-11-05 vs CHI W 135-105",
-     "2026-11-08 @ CLE W 109-97",
-     "2026-11-11 vs MIL W 117-85",
-     "2026-11-12 vs CLE L 115-107"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Brunson",
@@ -549,19 +543,11 @@
      "Road: 3-3"
     ],
     "lesiones": [
-     "T.J. McConnell: Day-To-Day (Hamstring)",
-     "Aaron Nesmith: Day-To-Day (Knee)",
      "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)",
      "Ben Sheppard: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs ATL L 108-104",
-     "2026-11-05 @ MEM W 107-103",
-     "2026-11-07 vs DEN L 114-102",
-     "2026-11-10 @ DAL L 125-122",
-     "2026-11-12 vs WSH W 114-101"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Andrew Nembhard",
@@ -716,7 +702,7 @@
      {
       "jugador": "Aaron Nesmith",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1080,7 +1066,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-14T00:00Z",
    "inicio_colombia": "2026-11-13 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Kia Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -1093,13 +1079,7 @@
      "Road: 0-5"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-11-05 @ BOS L 109-102",
-     "2026-11-07 vs TOR L 121-107",
-     "2026-11-09 vs BOS L 117-97",
-     "2026-11-11 @ NY L 117-85",
-     "2026-11-12 vs LAL L 123-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyler Herro",
@@ -1621,19 +1601,12 @@
      "Road: 4-3"
     ],
     "lesiones": [
-     "Jamal Cain: Day-To-Day (Shoulder)",
-     "Tristan da Silva: Day-To-Day (Calf)",
-     "Jalen Suggs: Out (Knee)",
      "Jonathan Isaac: Out (Knee)",
-     "Paolo Banchero: Out (Ankle)"
+     "Paolo Banchero: Out (Ankle)",
+     "Noah Penda: Out (Hamstring)",
+     "Izaiyah Nelson: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-11-03 vs WSH L 103-94",
-     "2026-11-06 @ PHX L 117-104",
-     "2026-11-08 @ GS L 126-119 OT",
-     "2026-11-11 @ SAC W 107-100",
-     "2026-11-12 @ UTAH W 123-108"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Franz Wagner",
@@ -1840,7 +1813,7 @@
      {
       "jugador": "Tristan da Silva",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1891,7 +1864,7 @@
      {
       "jugador": "Jalen Suggs",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2035,7 +2008,7 @@
      {
       "jugador": "Jamal Cain",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2158,7 +2131,8 @@
     ],
     "lesiones": [
      "Evan Mobley: Out (Toe)",
-     "Sam Merrill: Out (Elbow)"
+     "Sam Merrill: Out (Elbow)",
+     "Nae'Qwan Tomlin: Out (Back)"
     ],
     "ultimos_5": [
      "2026-11-05 @ OKC L 124-116",
@@ -2687,8 +2661,8 @@
      "Road: 4-3"
     ],
     "lesiones": [
-     "Klay Thompson: Day-To-Day (Ankle)",
-     "Pelle Larsson: Day-To-Day (Illness)"
+     "Klay Thompson: Out (Ankle)",
+     "Pelle Larsson: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-11-03 @ LAL L 138-117",
@@ -2854,7 +2828,7 @@
      {
       "jugador": "Pelle Larsson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2905,7 +2879,7 @@
      {
       "jugador": "Klay Thompson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3234,7 +3208,6 @@
      "Mouhamed Gueye: Out (Foot)",
      "Keshon Gilbert: Out (Knee)",
      "Asa Newell: Out (Toe)",
-     "Kingston Flemings: Day-To-Day (Back)",
      "Henri Veesaar: Out (Knee)"
     ],
     "ultimos_5": [
@@ -3656,7 +3629,7 @@
      {
       "jugador": "Kingston Flemings",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3759,9 +3732,8 @@
      "Road: 1-5"
     ],
     "lesiones": [
+     "Dailyn Swain: Out (Back)",
      "Tobe Awaka: Out (Back)",
-     "Dailyn Swain: Day-To-Day (Back)",
-     "Norman Powell: Day-To-Day (Shoulder)",
      "Caleb Wilson: Out (Hand)"
     ],
     "ultimos_5": [
@@ -3877,7 +3849,7 @@
      {
       "jugador": "Norman Powell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4829,8 +4801,8 @@
      "Dejounte Murray: Out (Ankle)",
      "Bryce McGowens: Out (Elbow)",
      "Yves Missi: Out (Knee)",
-     "Bennedict Mathurin: Day-To-Day (Thumb)",
-     "Trey Murphy III: Out (Knee)"
+     "Trey Murphy III: Out (Knee)",
+     "Trendon Watford: Out (Ankle)"
     ],
     "ultimos_5": [
      "2026-11-05 vs UTAH W 120-113 OT",
@@ -9591,5 +9563,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-13T21:35:58.359Z"
+ "generado_utc": "2026-11-14T00:51:57.046Z"
 }
