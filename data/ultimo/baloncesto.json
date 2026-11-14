@@ -545,7 +545,7 @@
      "Road: 1-4"
     ],
     "lesiones": [
-     "Yves Missi: Out (Knee)",
+     "Bennedict Mathurin: Out (Foot)",
      "Trendon Watford: Out (Ankle)",
      "Bryce McGowens: Out (Elbow)",
      "Trey Murphy III: Out (Knee)",
@@ -1021,7 +1021,7 @@
      {
       "jugador": "Yves Missi",
       "posicion": "C",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1088,8 +1088,7 @@
      "Road: 2-3"
     ],
     "lesiones": [
-     "Max Christie: Day-To-Day (Ankle)",
-     "Morez Johnson Jr.: Day-To-Day (Lower Leg)",
+     "Max Christie: Out (Ankle)",
      "Dereck Lively II: Out (Foot)",
      "Tarik Biberovic: Out (Heel)",
      "Sergio de Larrea: Out (Knee)"
@@ -1613,11 +1612,11 @@
      "Road: 2-5"
     ],
     "lesiones": [
-     "Peyton Watson: Day-To-Day (Hamstring)",
-     "Evan Mobley: Out (Toe)",
-     "Jarrett Allen: Day-To-Day (Knee)",
-     "Donovan Mitchell: Day-To-Day (Knee)",
-     "James Harden: Day-To-Day (Calf)"
+     "Peyton Watson: Out (Hamstring)",
+     "James Harden: Out (Calf)",
+     "Donovan Mitchell: Out (Knee)",
+     "Jarrett Allen: Out (Knee)",
+     "Evan Mobley: Out (Toe)"
     ],
     "ultimos_5": [
      "2026-11-07 vs PHI W 119-95",
@@ -1630,7 +1629,7 @@
      {
       "jugador": "James Harden",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1681,7 +1680,7 @@
      {
       "jugador": "Donovan Mitchell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1783,7 +1782,7 @@
      {
       "jugador": "Peyton Watson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1834,7 +1833,7 @@
      {
       "jugador": "Jarrett Allen",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2686,9 +2685,7 @@
      "Road: 4-3"
     ],
     "lesiones": [
-     "Pelle Larsson: Day-To-Day (Illness)",
-     "Klay Thompson: Day-To-Day (Ankle)",
-     "Giannis Antetokounmpo: Day-To-Day (Wrist)"
+     "Pelle Larsson: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-11-05 @ LAC W 117-116 OT",
@@ -2752,7 +2749,7 @@
      {
       "jugador": "Giannis Antetokounmpo",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2854,7 +2851,7 @@
      {
       "jugador": "Pelle Larsson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2956,7 +2953,7 @@
      {
       "jugador": "Klay Thompson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3231,8 +3228,7 @@
      "Road: 2-5"
     ],
     "lesiones": [
-     "Mikel Brown Jr.: Day-To-Day (Illness)",
-     "Nolan Traore: Day-To-Day (Calf)"
+     "Michael Porter Jr.: Day-To-Day (Personal)"
     ],
     "ultimos_5": [
      "2026-11-03 @ NY L 103-90",
@@ -3296,7 +3292,7 @@
      {
       "jugador": "Michael Porter Jr.",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3398,7 +3394,7 @@
      {
       "jugador": "Mikel Brown Jr.",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3498,7 +3494,7 @@
      {
       "jugador": "Nolan Traore",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4305,10 +4301,10 @@
      "Road: 1-5"
     ],
     "lesiones": [
+     "Jalen Smith: Out (Finger)",
      "Tobe Awaka: Out (Back)",
      "Nic Claxton: Day-To-Day (Hamstring)",
-     "Jalen Smith: Day-To-Day (Finger)",
-     "Norman Powell: Day-To-Day (Back)",
+     "Norman Powell: Day-To-Day",
      "Caleb Wilson: Out (Hand)"
     ],
     "ultimos_5": [
@@ -4424,7 +4420,7 @@
      {
       "jugador": "Norman Powell",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4526,7 +4522,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4679,7 +4675,7 @@
      {
       "jugador": "Nic Claxton",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 3,
@@ -5357,5 +5353,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-14T20:03:59.900Z"
+ "generado_utc": "2026-11-14T23:51:27.581Z"
 }
