@@ -1,0 +1,5356 @@
+{
+ "fuente": "ESPN (site.api.espn.com)",
+ "fecha": "2026-11-14",
+ "partidos": [
+  {
+   "liga": "NBA",
+   "id": "401909980",
+   "nombre": "Denver Nuggets at New Orleans Pelicans",
+   "nota": "regular-season",
+   "inicio_utc": "2026-11-15T00:00Z",
+   "inicio_colombia": "2026-11-14 19:00",
+   "estado": "Scheduled",
+   "estadio": "Smoothie King Center",
+   "serie_temporada": [
+    "DEN leads series 2-0"
+   ],
+   "visitante": {
+    "nombre": "Denver Nuggets",
+    "record": [
+     "overall: 6-4",
+     "Home: 2-2",
+     "Road: 3-2"
+    ],
+    "lesiones": [
+     "Julian Strawther: Out (Knee)"
+    ],
+    "ultimos_5": [
+     "2026-11-03 vs POR L 118-110",
+     "2026-11-05 vs TOR W 128-109",
+     "2026-11-07 vs IND W 114-102",
+     "2026-11-10 @ HOU L 110-100",
+     "2026-11-12 @ MEM W 123-118"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Nikola Jokic",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 35.6,
+        "pts": 25.8,
+        "reb": 11.8,
+        "ast": 8.8,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 36.3,
+        "pts": 23.5,
+        "reb": 10.8,
+        "ast": 9,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 31.2,
+        "pts": 19.2,
+        "reb": 9.2,
+        "ast": 8.47,
+        "triples": 0.93
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 31.2,
+        "pts": 19.2,
+        "reb": 9.2,
+        "ast": 8.47,
+        "triples": 0.93
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs OKC: 35min 13p 7r 5a 1t",
+       "2026-10-25 vs NO: 44min 35p 15r 10a 3t",
+       "2026-10-27 vs GS: 35min 19p 7r 11a 1t",
+       "2026-10-29 vs NO: 34min 21p 13r 10a 0t",
+       "2026-10-31 vs PHX: 37min 18p 7r 10a 0t",
+       "2026-11-03 vs POR: 36min 26p 9r 8a 2t",
+       "2026-11-05 vs TOR: 30min 32p 10r 11a 0t",
+       "2026-11-07 vs IND: 36min 19p 13r 8a 1t",
+       "2026-11-10 vs HOU: 39min 25p 16r 9a 1t",
+       "2026-11-12 vs MEM: 37min 27p 11r 8a 1t"
+      ]
+     },
+     {
+      "jugador": "Jamal Murray",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 34.4,
+        "pts": 26.6,
+        "reb": 4.4,
+        "ast": 6.2,
+        "triples": 3.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 36.3,
+        "pts": 26.2,
+        "reb": 5,
+        "ast": 5.9,
+        "triples": 4
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 32.36,
+        "pts": 22.43,
+        "reb": 4.43,
+        "ast": 5.29,
+        "triples": 3.07
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 32.36,
+        "pts": 22.43,
+        "reb": 4.43,
+        "ast": 5.29,
+        "triples": 3.07
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs OKC: 37min 6p 10r 3a 0t",
+       "2026-10-25 vs NO: 43min 42p 3r 6a 8t",
+       "2026-10-27 vs GS: 36min 19p 6r 8a 3t",
+       "2026-10-29 vs NO: 38min 23p 1r 6a 5t",
+       "2026-10-31 vs PHX: 37min 39p 8r 5a 7t",
+       "2026-11-03 vs POR: 39min 35p 5r 6a 4t",
+       "2026-11-05 vs TOR: 28min 14p 5r 7a 2t",
+       "2026-11-07 vs IND: 34min 16p 6r 8a 2t",
+       "2026-11-10 vs HOU: 39min 38p 2r 2a 5t",
+       "2026-11-12 vs MEM: 32min 30p 4r 8a 4t"
+      ]
+     },
+     {
+      "jugador": "Christian Braun",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32.6,
+        "pts": 9.4,
+        "reb": 4,
+        "ast": 2.8,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 34.3,
+        "pts": 12.4,
+        "reb": 4.1,
+        "ast": 2.4,
+        "triples": 1.6
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 29.07,
+        "pts": 10.4,
+        "reb": 4.07,
+        "ast": 1.8,
+        "triples": 1.27
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 29.07,
+        "pts": 10.4,
+        "reb": 4.07,
+        "ast": 1.8,
+        "triples": 1.27
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs OKC: 33min 7p 6r 1a 1t",
+       "2026-10-25 vs NO: 40min 15p 8r 2a 0t",
+       "2026-10-27 vs GS: 34min 9p 4r 2a 1t",
+       "2026-10-29 vs NO: 36min 15p 0r 4a 3t",
+       "2026-10-31 vs PHX: 37min 31p 3r 1a 7t",
+       "2026-11-03 vs POR: 37min 14p 3r 3a 1t",
+       "2026-11-05 vs TOR: 28min 11p 3r 3a 1t",
+       "2026-11-07 vs IND: 29min 6p 4r 1a 0t",
+       "2026-11-10 vs HOU: 32min 4p 5r 3a 0t",
+       "2026-11-12 vs MEM: 37min 12p 5r 4a 2t"
+      ]
+     },
+     {
+      "jugador": "Aaron Gordon",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 27.8,
+        "pts": 9.2,
+        "reb": 4,
+        "ast": 1.2,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 29,
+        "pts": 11,
+        "reb": 5,
+        "ast": 2.1,
+        "triples": 1.1
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 25.14,
+        "pts": 12.36,
+        "reb": 5.07,
+        "ast": 1.64,
+        "triples": 1.29
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 25.14,
+        "pts": 12.36,
+        "reb": 5.07,
+        "ast": 1.64,
+        "triples": 1.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs OKC: 29min 20p 6r 1a 3t",
+       "2026-10-25 vs NO: 37min 7p 5r 4a 1t",
+       "2026-10-27 vs GS: 25min 7p 4r 2a 0t",
+       "2026-10-29 vs NO: 31min 15p 11r 3a 2t",
+       "2026-10-31 vs PHX: 29min 15p 4r 5a 2t",
+       "2026-11-03 vs POR: 30min 5p 6r 2a 1t",
+       "2026-11-05 vs TOR: 25min 17p 1r 0a 1t",
+       "2026-11-07 vs IND: 27min 12p 5r 0a 0t",
+       "2026-11-10 vs HOU: 30min 3p 5r 2a 0t",
+       "2026-11-12 vs MEM: 27min 9p 3r 2a 1t"
+      ]
+     },
+     {
+      "jugador": "Cameron Johnson",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30.8,
+        "pts": 13.6,
+        "reb": 3.2,
+        "ast": 1.8,
+        "triples": 2.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 26,
+        "pts": 11.7,
+        "reb": 3.5,
+        "ast": 1.6,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 12,
+        "min": 24.17,
+        "pts": 11.25,
+        "reb": 3.17,
+        "ast": 1.42,
+        "triples": 2.25
+       },
+       "temporada": {
+        "pj": 12,
+        "min": 24.17,
+        "pts": 11.25,
+        "reb": 3.17,
+        "ast": 1.42,
+        "triples": 2.25
+       }
+      },
+      "ultimos_10": [
+       "2026-10-12 vs CHI: 25min 15p 3r 1a 4t",
+       "2026-10-15 vs LAC: 13min 5p 2r 1a 1t",
+       "2026-10-17 vs LAL: 23min 12p 3r 1a 2t",
+       "2026-10-23 vs OKC: 11min 5p 2r 1a 1t",
+       "2026-10-31 vs PHX: 34min 12p 9r 3a 2t",
+       "2026-11-03 vs POR: 34min 7p 4r 2a 1t",
+       "2026-11-05 vs TOR: 30min 12p 2r 2a 4t",
+       "2026-11-07 vs IND: 29min 18p 4r 1a 2t",
+       "2026-11-10 vs HOU: 31min 8p 2r 1a 2t",
+       "2026-11-12 vs MEM: 30min 23p 4r 3a 4t"
+      ]
+     },
+     {
+      "jugador": "DeMar DeRozan",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 21,
+        "pts": 7.6,
+        "reb": 1.4,
+        "ast": 3.4,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 23.9,
+        "pts": 10.4,
+        "reb": 1.9,
+        "ast": 3.2,
+        "triples": 0.2
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 20.69,
+        "pts": 9.08,
+        "reb": 1.77,
+        "ast": 2.77,
+        "triples": 0.23
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 20.69,
+        "pts": 9.08,
+        "reb": 1.77,
+        "ast": 2.77,
+        "triples": 0.23
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs LAL: 27min 14p 1r 5a 0t",
+       "2026-10-23 vs OKC: 28min 13p 2r 0a 0t",
+       "2026-10-25 vs NO: 24min 12p 3r 3a 0t",
+       "2026-10-27 vs GS: 29min 21p 4r 2a 2t",
+       "2026-10-29 vs NO: 26min 6p 2r 5a 0t",
+       "2026-10-31 vs PHX: 24min 3p 1r 5a 0t",
+       "2026-11-03 vs POR: 20min 9p 0r 1a 0t",
+       "2026-11-07 vs IND: 22min 11p 1r 5a 0t",
+       "2026-11-10 vs HOU: 19min 7p 4r 2a 0t",
+       "2026-11-12 vs MEM: 20min 8p 1r 4a 0t"
+      ]
+     },
+     {
+      "jugador": "Trevon Brazile",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 16.4,
+        "pts": 5.4,
+        "reb": 4.6,
+        "ast": 0.8,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 19.6,
+        "pts": 7.1,
+        "reb": 5.6,
+        "ast": 0.5,
+        "triples": 0.8
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 19.6,
+        "pts": 7.93,
+        "reb": 5.07,
+        "ast": 0.47,
+        "triples": 0.93
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 19.6,
+        "pts": 7.93,
+        "reb": 5.07,
+        "ast": 0.47,
+        "triples": 0.93
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs OKC: 18min 4p 12r 0a 0t",
+       "2026-10-25 vs NO: 28min 17p 9r 0a 3t",
+       "2026-10-27 vs GS: 17min 6p 1r 0a 1t",
+       "2026-10-29 vs NO: 32min 11p 8r 0a 1t",
+       "2026-10-31 vs PHX: 19min 6p 3r 1a 1t",
+       "2026-11-03 vs POR: 18min 6p 5r 1a 0t",
+       "2026-11-05 vs TOR: 23min 6p 7r 1a 0t",
+       "2026-11-07 vs IND: 14min 3p 4r 2a 1t",
+       "2026-11-10 vs HOU: 14min 5p 2r 0a 0t",
+       "2026-11-12 vs MEM: 13min 7p 5r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Spencer Jones",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 19,
+        "pts": 5.33,
+        "reb": 2.33,
+        "ast": 0.33,
+        "triples": 1.33
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 19,
+        "pts": 5.33,
+        "reb": 2.33,
+        "ast": 0.33,
+        "triples": 1.33
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 19,
+        "pts": 5.33,
+        "reb": 2.33,
+        "ast": 0.33,
+        "triples": 1.33
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 19,
+        "pts": 5.33,
+        "reb": 2.33,
+        "ast": 0.33,
+        "triples": 1.33
+       }
+      },
+      "ultimos_10": [
+       "2026-11-07 vs IND: 21min 13p 6r 0a 3t",
+       "2026-11-10 vs HOU: 14min 0p 0r 1a 0t",
+       "2026-11-12 vs MEM: 22min 3p 1r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Julian Strawther",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.2,
+        "pts": 12.6,
+        "reb": 3,
+        "ast": 1.4,
+        "triples": 2.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 16.3,
+        "pts": 8.7,
+        "reb": 2,
+        "ast": 1.3,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 14,
+        "pts": 7.25,
+        "reb": 1.8,
+        "ast": 0.9,
+        "triples": 1.25
+       },
+       "temporada": {
+        "pj": 64,
+        "min": 14.89,
+        "pts": 7.17,
+        "reb": 2.11,
+        "ast": 1.02,
+        "triples": 1.05
+       }
+      },
+      "ultimos_10": [
+       "2026-03-28 vs UTAH: 5min 0p 2r 2a 0t",
+       "2026-03-30 vs GS: 18min 7p 2r 2a 1t",
+       "2026-04-02 vs UTAH: 9min 0p 0r 0a 0t",
+       "2026-04-04 vs SA: 11min 6p 1r 2a 2t",
+       "2026-04-07 vs POR: 19min 11p 0r 0a 1t",
+       "2026-04-09 vs MEM: 15min 10p 2r 1a 2t",
+       "2026-04-11 vs OKC: 34min 22p 4r 3a 4t",
+       "2026-04-13 vs SA: 34min 25p 6r 3a 4t",
+       "2026-04-24 vs MIN: 14min 6p 3r 0a 1t",
+       "2026-04-28 vs MIN: 4min 0p 0r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Bryce Hopkins",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15.8,
+        "pts": 7.2,
+        "reb": 2,
+        "ast": 0.4,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 14.1,
+        "pts": 5.6,
+        "reb": 2,
+        "ast": 0.7,
+        "triples": 0.2
+       },
+       "ult20": {
+        "pj": 12,
+        "min": 13.67,
+        "pts": 4.83,
+        "reb": 1.92,
+        "ast": 0.67,
+        "triples": 0.17
+       },
+       "temporada": {
+        "pj": 12,
+        "min": 13.67,
+        "pts": 4.83,
+        "reb": 1.92,
+        "ast": 0.67,
+        "triples": 0.17
+       }
+      },
+      "ultimos_10": [
+       "2026-10-12 vs CHI: 16min 10p 1r 1a 0t",
+       "2026-10-15 vs LAC: 13min 3p 1r 3a 0t",
+       "2026-10-17 vs LAL: 12min 5p 4r 0a 0t",
+       "2026-10-23 vs OKC: 2min 0p 2r 0a 0t",
+       "2026-10-25 vs NO: 19min 2p 2r 1a 0t",
+       "2026-10-27 vs GS: 31min 13p 3r 1a 1t",
+       "2026-10-29 vs NO: 14min 0p 2r 0a 0t",
+       "2026-11-05 vs TOR: 28min 18p 4r 1a 1t",
+       "2026-11-07 vs IND: 3min 3p 1r 0a 0t",
+       "2026-11-10 vs HOU: 3min 2p 0r 0a 0t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "New Orleans Pelicans",
+    "record": [
+     "overall: 4-9",
+     "Home: 3-5",
+     "Road: 1-4"
+    ],
+    "lesiones": [
+     "Bryce McGowens: Day-To-Day (Elbow)",
+     "Dejounte Murray: Out (Ankle)",
+     "Yves Missi: Out (Knee)",
+     "Trey Murphy III: Out (Knee)",
+     "Trendon Watford: Out (Ankle)"
+    ],
+    "ultimos_5": [
+     "2026-11-07 vs MIN L 115-109",
+     "2026-11-09 @ LAC L 139-123",
+     "2026-11-10 @ GS L 138-87",
+     "2026-11-12 vs BKN L 145-111",
+     "2026-11-14 vs MEM L 142-111"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Zion Williamson",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.6,
+        "pts": 22.4,
+        "reb": 5,
+        "ast": 2.8,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.9,
+        "pts": 21.6,
+        "reb": 5.4,
+        "ast": 2.8,
+        "triples": 0.2
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 29.13,
+        "pts": 18.81,
+        "reb": 4.5,
+        "ast": 2.31,
+        "triples": 0.31
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 29.13,
+        "pts": 18.81,
+        "reb": 4.5,
+        "ast": 2.31,
+        "triples": 0.31
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs DEN: 33min 17p 1r 2a 0t",
+       "2026-10-29 vs DEN: 32min 25p 5r 2a 1t",
+       "2026-10-30 vs SAC: 31min 22p 6r 2a 0t",
+       "2026-10-31 vs ATL: 30min 15p 6r 4a 0t",
+       "2026-11-03 vs MEM: 35min 25p 11r 4a 0t",
+       "2026-11-05 vs UTAH: 38min 23p 4r 2a 0t",
+       "2026-11-07 vs MIN: 36min 13p 8r 4a 0t",
+       "2026-11-09 vs LAC: 31min 25p 4r 2a 0t",
+       "2026-11-12 vs BKN: 30min 29p 4r 2a 1t",
+       "2026-11-14 vs MEM: 33min 22p 5r 4a 0t"
+      ]
+     },
+     {
+      "jugador": "Trey Murphy III",
+      "posicion": "F",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33,
+        "pts": 17.6,
+        "reb": 5.2,
+        "ast": 4.2,
+        "triples": 2.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 31.6,
+        "pts": 15.1,
+        "reb": 4.8,
+        "ast": 3.5,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 28.31,
+        "pts": 13.69,
+        "reb": 4.23,
+        "ast": 3.23,
+        "triples": 1.92
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 28.31,
+        "pts": 13.69,
+        "reb": 4.23,
+        "ast": 3.23,
+        "triples": 1.92
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs WSH: 21min 11p 5r 3a 1t",
+       "2026-10-22 vs IND: 32min 11p 4r 1a 2t",
+       "2026-10-24 vs UTAH: 31min 9p 6r 3a 1t",
+       "2026-10-25 vs DEN: 37min 26p 6r 4a 4t",
+       "2026-10-29 vs DEN: 30min 6p 1r 3a 2t",
+       "2026-10-30 vs SAC: 32min 19p 5r 3a 2t",
+       "2026-10-31 vs ATL: 29min 15p 5r 5a 1t",
+       "2026-11-03 vs MEM: 40min 18p 5r 5a 3t",
+       "2026-11-07 vs MIN: 34min 10p 4r 5a 1t",
+       "2026-11-09 vs LAC: 30min 26p 7r 3a 4t"
+      ]
+     },
+     {
+      "jugador": "Jeremiah Fears",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31.2,
+        "pts": 18.4,
+        "reb": 4.6,
+        "ast": 6,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 31.2,
+        "pts": 17.6,
+        "reb": 5,
+        "ast": 6.2,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 17,
+        "min": 26.94,
+        "pts": 14.94,
+        "reb": 4.06,
+        "ast": 4.65,
+        "triples": 1.24
+       },
+       "temporada": {
+        "pj": 17,
+        "min": 26.94,
+        "pts": 14.94,
+        "reb": 4.06,
+        "ast": 4.65,
+        "triples": 1.24
+       }
+      },
+      "ultimos_10": [
+       "2026-10-29 vs DEN: 24min 11p 4r 3a 1t",
+       "2026-10-30 vs SAC: 29min 22p 8r 13a 3t",
+       "2026-10-31 vs ATL: 31min 20p 5r 7a 1t",
+       "2026-11-03 vs MEM: 38min 12p 4r 7a 0t",
+       "2026-11-05 vs UTAH: 34min 19p 6r 2a 1t",
+       "2026-11-07 vs MIN: 36min 24p 5r 5a 0t",
+       "2026-11-09 vs LAC: 29min 25p 6r 5a 3t",
+       "2026-11-10 vs GS: 29min 11p 3r 8a 1t",
+       "2026-11-12 vs BKN: 28min 14p 4r 5a 2t",
+       "2026-11-14 vs MEM: 34min 18p 5r 7a 0t"
+      ]
+     },
+     {
+      "jugador": "Dejounte Murray",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30.8,
+        "pts": 10,
+        "reb": 3.6,
+        "ast": 3.2,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.2,
+        "pts": 12.7,
+        "reb": 4.5,
+        "ast": 4.6,
+        "triples": 0.9
+       },
+       "ult20": {
+        "pj": 10,
+        "min": 30.2,
+        "pts": 12.7,
+        "reb": 4.5,
+        "ast": 4.6,
+        "triples": 0.9
+       },
+       "temporada": {
+        "pj": 10,
+        "min": 30.2,
+        "pts": 12.7,
+        "reb": 4.5,
+        "ast": 4.6,
+        "triples": 0.9
+       }
+      },
+      "ultimos_10": [
+       "2026-10-07 vs OKC: 19min 6p 4r 6a 1t",
+       "2026-10-22 vs IND: 34min 23p 3r 7a 2t",
+       "2026-10-24 vs UTAH: 30min 16p 6r 6a 0t",
+       "2026-10-25 vs DEN: 35min 22p 6r 6a 1t",
+       "2026-10-29 vs DEN: 30min 10p 8r 5a 0t",
+       "2026-11-05 vs UTAH: 45min 20p 8r 4a 1t",
+       "2026-11-07 vs MIN: 35min 7p 2r 4a 1t",
+       "2026-11-09 vs LAC: 28min 6p 3r 3a 0t",
+       "2026-11-10 vs GS: 18min 12p 3r 1a 2t",
+       "2026-11-12 vs BKN: 28min 5p 2r 4a 1t"
+      ]
+     },
+     {
+      "jugador": "Saddiq Bey",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29,
+        "pts": 16.8,
+        "reb": 4,
+        "ast": 2.6,
+        "triples": 2.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.6,
+        "pts": 16.8,
+        "reb": 3.9,
+        "ast": 2.4,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 17,
+        "min": 25.18,
+        "pts": 15,
+        "reb": 3.82,
+        "ast": 1.76,
+        "triples": 1.94
+       },
+       "temporada": {
+        "pj": 17,
+        "min": 25.18,
+        "pts": 15,
+        "reb": 3.82,
+        "ast": 1.76,
+        "triples": 1.94
+       }
+      },
+      "ultimos_10": [
+       "2026-10-29 vs DEN: 26min 9p 0r 3a 1t",
+       "2026-10-30 vs SAC: 24min 10p 4r 3a 1t",
+       "2026-10-31 vs ATL: 26min 25p 6r 1a 1t",
+       "2026-11-03 vs MEM: 36min 18p 5r 1a 2t",
+       "2026-11-05 vs UTAH: 29min 22p 4r 3a 2t",
+       "2026-11-07 vs MIN: 31min 17p 5r 4a 3t",
+       "2026-11-09 vs LAC: 26min 13p 4r 3a 1t",
+       "2026-11-10 vs GS: 24min 9p 0r 4a 1t",
+       "2026-11-12 vs BKN: 29min 15p 1r 2a 3t",
+       "2026-11-14 vs MEM: 35min 30p 10r 0a 6t"
+      ]
+     },
+     {
+      "jugador": "Herbert Jones",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 23,
+        "pts": 4.8,
+        "reb": 2.8,
+        "ast": 1.6,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 25.6,
+        "pts": 6.6,
+        "reb": 3.2,
+        "ast": 1.5,
+        "triples": 0.6
+       },
+       "ult20": {
+        "pj": 17,
+        "min": 22.06,
+        "pts": 5.59,
+        "reb": 2.76,
+        "ast": 1.18,
+        "triples": 0.65
+       },
+       "temporada": {
+        "pj": 17,
+        "min": 22.06,
+        "pts": 5.59,
+        "reb": 2.76,
+        "ast": 1.18,
+        "triples": 0.65
+       }
+      },
+      "ultimos_10": [
+       "2026-10-29 vs DEN: 19min 4p 2r 0a 0t",
+       "2026-10-30 vs SAC: 32min 16p 4r 1a 0t",
+       "2026-10-31 vs ATL: 25min 11p 3r 2a 1t",
+       "2026-11-03 vs MEM: 28min 9p 4r 3a 3t",
+       "2026-11-05 vs UTAH: 37min 2p 5r 1a 0t",
+       "2026-11-07 vs MIN: 14min 0p 4r 0a 0t",
+       "2026-11-09 vs LAC: 20min 4p 0r 1a 0t",
+       "2026-11-10 vs GS: 24min 10p 6r 1a 2t",
+       "2026-11-12 vs BKN: 25min 2p 2r 3a 0t",
+       "2026-11-14 vs MEM: 32min 8p 2r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Derik Queen",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 17.8,
+        "pts": 9.8,
+        "reb": 3.8,
+        "ast": 1.2,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 21,
+        "pts": 11.7,
+        "reb": 5.7,
+        "ast": 2.5,
+        "triples": 0.3
+       },
+       "ult20": {
+        "pj": 17,
+        "min": 20.65,
+        "pts": 10.53,
+        "reb": 6.88,
+        "ast": 2.29,
+        "triples": 0.29
+       },
+       "temporada": {
+        "pj": 17,
+        "min": 20.65,
+        "pts": 10.53,
+        "reb": 6.88,
+        "ast": 2.29,
+        "triples": 0.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-29 vs DEN: 25min 11p 12r 1a 0t",
+       "2026-10-30 vs SAC: 22min 9p 2r 3a 1t",
+       "2026-10-31 vs ATL: 23min 8p 8r 4a 0t",
+       "2026-11-03 vs MEM: 24min 20p 7r 5a 1t",
+       "2026-11-05 vs UTAH: 27min 20p 9r 6a 0t",
+       "2026-11-07 vs MIN: 10min 6p 4r 1a 0t",
+       "2026-11-09 vs LAC: 21min 8p 5r 3a 0t",
+       "2026-11-10 vs GS: 21min 16p 4r 0a 0t",
+       "2026-11-12 vs BKN: 14min 9p 0r 0a 1t",
+       "2026-11-14 vs MEM: 23min 10p 6r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Karlo Matkovic",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 19,
+        "pts": 6,
+        "reb": 3.8,
+        "ast": 1.2,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20.9,
+        "pts": 8.5,
+        "reb": 4.6,
+        "ast": 1.2,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 17.81,
+        "pts": 7.75,
+        "reb": 3.94,
+        "ast": 0.94,
+        "triples": 1.25
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 17.81,
+        "pts": 7.75,
+        "reb": 3.94,
+        "ast": 0.94,
+        "triples": 1.25
+       }
+      },
+      "ultimos_10": [
+       "2026-10-29 vs DEN: 18min 5p 3r 1a 1t",
+       "2026-10-30 vs SAC: 28min 12p 4r 1a 1t",
+       "2026-10-31 vs ATL: 18min 8p 10r 1a 2t",
+       "2026-11-03 vs MEM: 29min 25p 6r 1a 5t",
+       "2026-11-05 vs UTAH: 21min 5p 4r 2a 1t",
+       "2026-11-07 vs MIN: 18min 18p 3r 1a 4t",
+       "2026-11-09 vs LAC: 19min 3p 3r 2a 1t",
+       "2026-11-10 vs GS: 17min 4p 6r 2a 0t",
+       "2026-11-12 vs BKN: 22min 4p 4r 1a 0t",
+       "2026-11-14 vs MEM: 19min 1p 3r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Jordan Poole",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 21.2,
+        "pts": 8.4,
+        "reb": 1.8,
+        "ast": 3,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.9,
+        "pts": 8.4,
+        "reb": 1.8,
+        "ast": 2.9,
+        "triples": 1.1
+       },
+       "ult20": {
+        "pj": 11,
+        "min": 18.64,
+        "pts": 8.45,
+        "reb": 1.73,
+        "ast": 2.64,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 11,
+        "min": 18.64,
+        "pts": 8.45,
+        "reb": 1.73,
+        "ast": 2.64,
+        "triples": 1
+       }
+      },
+      "ultimos_10": [
+       "2026-10-08 vs MIA: 13min 14p 1r 2a 3t",
+       "2026-10-15 vs DAL: 17min 4p 3r 3a 0t",
+       "2026-10-17 vs WSH: 19min 8p 1r 4a 1t",
+       "2026-10-22 vs IND: 15min 4p 2r 3a 0t",
+       "2026-10-24 vs UTAH: 19min 12p 2r 2a 1t",
+       "2026-10-25 vs DEN: 23min 6p 3r 7a 2t",
+       "2026-10-29 vs DEN: 7min 2p 1r 0a 0t",
+       "2026-11-10 vs GS: 34min 7p 3r 2a 1t",
+       "2026-11-12 vs BKN: 21min 14p 0r 1a 2t",
+       "2026-11-14 vs MEM: 21min 13p 2r 5a 1t"
+      ]
+     },
+     {
+      "jugador": "Yves Missi",
+      "posicion": "C",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 18.8,
+        "pts": 8.4,
+        "reb": 8,
+        "ast": 1.2,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 6,
+        "min": 18.83,
+        "pts": 8,
+        "reb": 7.83,
+        "ast": 1.17,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 6,
+        "min": 18.83,
+        "pts": 8,
+        "reb": 7.83,
+        "ast": 1.17,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 6,
+        "min": 18.83,
+        "pts": 8,
+        "reb": 7.83,
+        "ast": 1.17,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-07 vs OKC: 19min 6p 7r 1a 0t",
+       "2026-10-08 vs MIA: 19min 11p 9r 0a 0t",
+       "2026-10-15 vs DAL: 17min 6p 9r 0a 0t",
+       "2026-10-17 vs WSH: 19min 6p 7r 1a 0t",
+       "2026-10-22 vs IND: 30min 13p 14r 5a 0t",
+       "2026-10-24 vs UTAH: 9min 6p 1r 0a 0t"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "liga": "NBA",
+   "id": "401909981",
+   "nombre": "Dallas Mavericks at Cleveland Cavaliers",
+   "nota": "regular-season",
+   "inicio_utc": "2026-11-15T00:30Z",
+   "inicio_colombia": "2026-11-14 19:30",
+   "estado": "Scheduled",
+   "estadio": "Rocket Arena",
+   "serie_temporada": [
+    "Series starts 11/14"
+   ],
+   "visitante": {
+    "nombre": "Dallas Mavericks",
+    "record": [
+     "overall: 7-5",
+     "Home: 5-2",
+     "Road: 2-3"
+    ],
+    "lesiones": [
+     "Max Christie: Day-To-Day (Ankle)",
+     "Morez Johnson Jr.: Day-To-Day (Lower Leg)",
+     "Dereck Lively II: Out (Foot)",
+     "Tarik Biberovic: Out (Heel)",
+     "Sergio de Larrea: Out (Knee)"
+    ],
+    "ultimos_5": [
+     "2026-11-05 @ SA L 112-111",
+     "2026-11-07 vs UTAH W 112-100",
+     "2026-11-09 vs BKN W 130-93",
+     "2026-11-10 vs IND W 125-122",
+     "2026-11-13 @ MIN L 133-94"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Cooper Flagg",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.4,
+        "pts": 24,
+        "reb": 8.4,
+        "ast": 6.6,
+        "triples": 1.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 33.6,
+        "pts": 23.9,
+        "reb": 7.1,
+        "ast": 7,
+        "triples": 1.4
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 31.64,
+        "pts": 23.57,
+        "reb": 7,
+        "ast": 6.14,
+        "triples": 1.36
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 31.64,
+        "pts": 23.57,
+        "reb": 7,
+        "ast": 6.14,
+        "triples": 1.36
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs IND: 17min 14p 5r 6a 2t",
+       "2026-10-26 vs MIA: 40min 29p 6r 11a 2t",
+       "2026-10-29 vs OKC: 33min 26p 5r 8a 2t",
+       "2026-10-31 vs HOU: 39min 33p 9r 6a 0t",
+       "2026-11-03 vs SAC: 40min 17p 4r 6a 0t",
+       "2026-11-05 vs SA: 40min 19p 10r 5a 0t",
+       "2026-11-07 vs UTAH: 33min 21p 10r 7a 1t",
+       "2026-11-09 vs BKN: 28min 25p 5r 12a 3t",
+       "2026-11-10 vs IND: 39min 43p 10r 6a 3t",
+       "2026-11-13 vs MIN: 27min 12p 7r 3a 1t"
+      ]
+     },
+     {
+      "jugador": "P.J. Washington",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29.6,
+        "pts": 15.2,
+        "reb": 6.4,
+        "ast": 1,
+        "triples": 2.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.4,
+        "pts": 14.1,
+        "reb": 6.9,
+        "ast": 1.1,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 29.8,
+        "pts": 12.67,
+        "reb": 6.73,
+        "ast": 1.13,
+        "triples": 2.07
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 29.8,
+        "pts": 12.67,
+        "reb": 6.73,
+        "ast": 1.13,
+        "triples": 2.07
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs SA: 36min 12p 4r 2a 0t",
+       "2026-10-26 vs MIA: 41min 20p 9r 2a 4t",
+       "2026-10-29 vs OKC: 27min 18p 9r 0a 2t",
+       "2026-10-31 vs HOU: 34min 3p 10r 1a 1t",
+       "2026-11-03 vs SAC: 38min 12p 5r 1a 2t",
+       "2026-11-05 vs SA: 39min 21p 9r 3a 3t",
+       "2026-11-07 vs UTAH: 33min 26p 6r 1a 6t",
+       "2026-11-09 vs BKN: 25min 6p 5r 0a 2t",
+       "2026-11-10 vs IND: 35min 13p 9r 1a 2t",
+       "2026-11-13 vs MIN: 16min 10p 3r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Kyrie Irving",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31.6,
+        "pts": 21.8,
+        "reb": 3,
+        "ast": 3.8,
+        "triples": 3.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.2,
+        "pts": 21.6,
+        "reb": 3.2,
+        "ast": 4.3,
+        "triples": 3.2
+       },
+       "ult20": {
+        "pj": 12,
+        "min": 29.08,
+        "pts": 20.92,
+        "reb": 3,
+        "ast": 4.25,
+        "triples": 3.25
+       },
+       "temporada": {
+        "pj": 12,
+        "min": 29.08,
+        "pts": 20.92,
+        "reb": 3,
+        "ast": 4.25,
+        "triples": 3.25
+       }
+      },
+      "ultimos_10": [
+       "2026-10-22 vs HOU: 24min 15p 4r 2a 1t",
+       "2026-10-23 vs IND: 25min 24p 1r 3a 5t",
+       "2026-10-26 vs MIA: 33min 18p 6r 6a 2t",
+       "2026-10-29 vs OKC: 27min 15p 2r 4a 3t",
+       "2026-10-31 vs HOU: 35min 35p 4r 9a 5t",
+       "2026-11-05 vs SA: 36min 29p 7r 5a 5t",
+       "2026-11-07 vs UTAH: 28min 14p 2r 2a 0t",
+       "2026-11-09 vs BKN: 29min 21p 3r 4a 2t",
+       "2026-11-10 vs IND: 38min 35p 0r 4a 7t",
+       "2026-11-13 vs MIN: 27min 10p 3r 4a 2t"
+      ]
+     },
+     {
+      "jugador": "Naji Marshall",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22.8,
+        "pts": 11.2,
+        "reb": 2.6,
+        "ast": 3.2,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 24.1,
+        "pts": 10.8,
+        "reb": 2.6,
+        "ast": 4.5,
+        "triples": 0.8
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 22.85,
+        "pts": 11.15,
+        "reb": 2.46,
+        "ast": 3.77,
+        "triples": 0.85
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 22.85,
+        "pts": 11.15,
+        "reb": 2.46,
+        "ast": 3.77,
+        "triples": 0.85
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs ATL: 20min 6p 1r 5a 0t",
+       "2026-10-22 vs HOU: 29min 16p 2r 6a 2t",
+       "2026-10-23 vs IND: 33min 15p 4r 6a 0t",
+       "2026-10-25 vs SA: 21min 10p 4r 5a 1t",
+       "2026-11-03 vs SAC: 24min 5p 2r 7a 0t",
+       "2026-11-05 vs SA: 26min 22p 5r 3a 3t",
+       "2026-11-07 vs UTAH: 25min 7p 1r 5a 0t",
+       "2026-11-09 vs BKN: 15min 8p 1r 2a 1t",
+       "2026-11-10 vs IND: 25min 6p 5r 2a 0t",
+       "2026-11-13 vs MIN: 23min 13p 1r 4a 1t"
+      ]
+     },
+     {
+      "jugador": "Zaccharie Risacher",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 19,
+        "pts": 8.6,
+        "reb": 3.8,
+        "ast": 1.4,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 23.3,
+        "pts": 8.5,
+        "reb": 4.8,
+        "ast": 1.5,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 24.38,
+        "pts": 9.31,
+        "reb": 5,
+        "ast": 1.63,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 24.38,
+        "pts": 9.31,
+        "reb": 5,
+        "ast": 1.63,
+        "triples": 1
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs SA: 32min 11p 4r 2a 1t",
+       "2026-10-26 vs MIA: 30min 6p 8r 1a 1t",
+       "2026-10-29 vs OKC: 29min 13p 6r 1a 2t",
+       "2026-10-31 vs HOU: 28min 12p 6r 3a 3t",
+       "2026-11-03 vs SAC: 19min 0p 5r 1a 0t",
+       "2026-11-05 vs SA: 18min 2p 1r 2a 0t",
+       "2026-11-07 vs UTAH: 21min 4p 4r 1a 0t",
+       "2026-11-09 vs BKN: 16min 11p 6r 1a 1t",
+       "2026-11-10 vs IND: 15min 4p 2r 0a 0t",
+       "2026-11-13 vs MIN: 25min 22p 6r 3a 4t"
+      ]
+     },
+     {
+      "jugador": "Daniel Gafford",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 18.2,
+        "pts": 7.6,
+        "reb": 3,
+        "ast": 1.6,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.2,
+        "pts": 10.3,
+        "reb": 5.8,
+        "ast": 1.7,
+        "triples": 0.1
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 19.93,
+        "pts": 8.73,
+        "reb": 4.87,
+        "ast": 1.6,
+        "triples": 0.13
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 19.93,
+        "pts": 8.73,
+        "reb": 4.87,
+        "ast": 1.6,
+        "triples": 0.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs SA: 23min 12p 9r 2a 0t",
+       "2026-10-26 vs MIA: 26min 8p 9r 3a 0t",
+       "2026-10-29 vs OKC: 27min 7p 11r 2a 1t",
+       "2026-10-31 vs HOU: 29min 18p 7r 2a 0t",
+       "2026-11-03 vs SAC: 26min 20p 7r 0a 0t",
+       "2026-11-05 vs SA: 18min 2p 4r 1a 0t",
+       "2026-11-07 vs UTAH: 18min 7p 1r 1a 0t",
+       "2026-11-09 vs BKN: 19min 18p 5r 2a 0t",
+       "2026-11-10 vs IND: 20min 8p 2r 3a 0t",
+       "2026-11-13 vs MIN: 16min 3p 3r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Tarik Biberovic",
+      "posicion": "F",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 19.33,
+        "pts": 8.33,
+        "reb": 3,
+        "ast": 2,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 19.33,
+        "pts": 8.33,
+        "reb": 3,
+        "ast": 2,
+        "triples": 2
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 19.33,
+        "pts": 8.33,
+        "reb": 3,
+        "ast": 2,
+        "triples": 2
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 19.33,
+        "pts": 8.33,
+        "reb": 3,
+        "ast": 2,
+        "triples": 2
+       }
+      },
+      "ultimos_10": [
+       "2026-10-09 vs HOU: 19min 9p 3r 2a 3t",
+       "2026-10-11 vs HOU: 13min 8p 2r 1a 2t",
+       "2026-10-15 vs NO: 26min 8p 4r 3a 1t"
+      ]
+     },
+     {
+      "jugador": "Walter Clayton Jr.",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 21.4,
+        "pts": 7.2,
+        "reb": 4.2,
+        "ast": 4.2,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.7,
+        "pts": 7.7,
+        "reb": 3.2,
+        "ast": 3.8,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 15.73,
+        "pts": 6.6,
+        "reb": 2.6,
+        "ast": 3.33,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 15.73,
+        "pts": 6.6,
+        "reb": 2.6,
+        "ast": 3.33,
+        "triples": 1
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs SA: 15min 3p 2r 5a 1t",
+       "2026-10-26 vs MIA: 17min 15p 4r 4a 2t",
+       "2026-10-29 vs OKC: 15min 0p 2r 5a 0t",
+       "2026-10-31 vs HOU: 9min 3p 2r 1a 1t",
+       "2026-11-03 vs SAC: 24min 20p 1r 2a 4t",
+       "2026-11-05 vs SA: 21min 8p 6r 5a 2t",
+       "2026-11-07 vs UTAH: 23min 12p 4r 2a 1t",
+       "2026-11-09 vs BKN: 16min 5p 4r 6a 1t",
+       "2026-11-10 vs IND: 25min 6p 6r 4a 1t",
+       "2026-11-13 vs MIN: 22min 5p 1r 4a 0t"
+      ]
+     },
+     {
+      "jugador": "Sergio de Larrea",
+      "posicion": "F",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 14.4,
+        "pts": 5.8,
+        "reb": 1.8,
+        "ast": 1.8,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 8,
+        "min": 18.5,
+        "pts": 7.38,
+        "reb": 2.75,
+        "ast": 3.13,
+        "triples": 1.38
+       },
+       "ult20": {
+        "pj": 8,
+        "min": 18.5,
+        "pts": 7.38,
+        "reb": 2.75,
+        "ast": 3.13,
+        "triples": 1.38
+       },
+       "temporada": {
+        "pj": 8,
+        "min": 18.5,
+        "pts": 7.38,
+        "reb": 2.75,
+        "ast": 3.13,
+        "triples": 1.38
+       }
+      },
+      "ultimos_10": [
+       "2026-10-09 vs HOU: 24min 11p 2r 6a 3t",
+       "2026-10-11 vs HOU: 22min 9p 7r 4a 1t",
+       "2026-10-15 vs NO: 30min 10p 4r 6a 2t",
+       "2026-10-17 vs ATL: 25min 8p 1r 4a 2t",
+       "2026-10-22 vs HOU: 7min 0p 2r 1a 0t",
+       "2026-10-23 vs IND: 1min 0p 0r 0a 0t",
+       "2026-10-25 vs SA: 33min 21p 5r 4a 3t",
+       "2026-10-26 vs MIA: 6min 0p 1r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Caleb Martin",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 18,
+        "pts": 1.8,
+        "reb": 2,
+        "ast": 2.8,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.3,
+        "pts": 3.8,
+        "reb": 2.3,
+        "ast": 1.8,
+        "triples": 0.6
+       },
+       "ult20": {
+        "pj": 11,
+        "min": 18,
+        "pts": 3.73,
+        "reb": 2.45,
+        "ast": 1.91,
+        "triples": 0.64
+       },
+       "temporada": {
+        "pj": 11,
+        "min": 18,
+        "pts": 3.73,
+        "reb": 2.45,
+        "ast": 1.91,
+        "triples": 0.64
+       }
+      },
+      "ultimos_10": [
+       "2026-10-15 vs NO: 16min 2p 4r 2a 0t",
+       "2026-10-17 vs ATL: 17min 4p 1r 2a 0t",
+       "2026-10-29 vs OKC: 14min 10p 2r 0a 2t",
+       "2026-10-31 vs HOU: 25min 8p 0r 0a 2t",
+       "2026-11-03 vs SAC: 21min 5p 6r 0a 1t",
+       "2026-11-05 vs SA: 20min 0p 3r 2a 0t",
+       "2026-11-07 vs UTAH: 11min 0p 0r 0a 0t",
+       "2026-11-09 vs BKN: 19min 2p 2r 2a 0t",
+       "2026-11-10 vs IND: 19min 0p 3r 5a 0t",
+       "2026-11-13 vs MIN: 21min 7p 2r 5a 1t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "Cleveland Cavaliers",
+    "record": [
+     "overall: 6-7",
+     "Home: 4-2",
+     "Road: 2-5"
+    ],
+    "lesiones": [
+     "Evan Mobley: Day-To-Day (Toe)",
+     "Sam Merrill: Out (Elbow)",
+     "Nae'Qwan Tomlin: Out (Back)"
+    ],
+    "ultimos_5": [
+     "2026-11-07 vs PHI W 119-95",
+     "2026-11-08 vs NY L 109-97",
+     "2026-11-10 @ CHA L 124-112",
+     "2026-11-12 @ NY W 115-107",
+     "2026-11-14 @ MIA L 133-121"
+    ],
+    "rotacion": [
+     {
+      "jugador": "James Harden",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31.4,
+        "pts": 17.4,
+        "reb": 3.8,
+        "ast": 5,
+        "triples": 2.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.1,
+        "pts": 17.3,
+        "reb": 4.5,
+        "ast": 5.4,
+        "triples": 2.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 31.93,
+        "pts": 17.13,
+        "reb": 4.33,
+        "ast": 5.27,
+        "triples": 2.53
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 31.93,
+        "pts": 17.13,
+        "reb": 4.33,
+        "ast": 5.27,
+        "triples": 2.53
+       }
+      },
+      "ultimos_10": [
+       "2026-10-28 vs WSH: 34min 16p 2r 6a 2t",
+       "2026-10-30 vs ATL: 36min 24p 5r 4a 3t",
+       "2026-11-01 vs MIL: 26min 13p 6r 7a 3t",
+       "2026-11-03 vs OKC: 33min 14p 4r 6a 3t",
+       "2026-11-05 vs OKC: 35min 19p 9r 6a 3t",
+       "2026-11-07 vs PHI: 30min 17p 6r 3a 3t",
+       "2026-11-08 vs NY: 34min 7p 2r 5a 1t",
+       "2026-11-10 vs CHA: 25min 11p 3r 5a 2t",
+       "2026-11-12 vs NY: 33min 32p 2r 4a 5t",
+       "2026-11-14 vs MIA: 35min 20p 6r 8a 2t"
+      ]
+     },
+     {
+      "jugador": "Donovan Mitchell",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32.4,
+        "pts": 23.8,
+        "reb": 4.8,
+        "ast": 5.8,
+        "triples": 2.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 31.9,
+        "pts": 21.9,
+        "reb": 4.4,
+        "ast": 5.9,
+        "triples": 2.8
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 30.94,
+        "pts": 21,
+        "reb": 4.44,
+        "ast": 5.63,
+        "triples": 2.44
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 30.94,
+        "pts": 21,
+        "reb": 4.44,
+        "ast": 5.63,
+        "triples": 2.44
+       }
+      },
+      "ultimos_10": [
+       "2026-10-28 vs WSH: 31min 19p 5r 7a 2t",
+       "2026-10-30 vs ATL: 33min 22p 3r 3a 1t",
+       "2026-11-01 vs MIL: 24min 15p 4r 3a 2t",
+       "2026-11-03 vs OKC: 36min 17p 5r 11a 4t",
+       "2026-11-05 vs OKC: 33min 27p 3r 6a 5t",
+       "2026-11-07 vs PHI: 33min 23p 7r 8a 1t",
+       "2026-11-08 vs NY: 37min 37p 4r 4a 5t",
+       "2026-11-10 vs CHA: 23min 11p 2r 4a 1t",
+       "2026-11-12 vs NY: 36min 23p 7r 6a 2t",
+       "2026-11-14 vs MIA: 33min 25p 4r 7a 5t"
+      ]
+     },
+     {
+      "jugador": "Evan Mobley",
+      "posicion": "C",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31,
+        "pts": 13.8,
+        "reb": 6.4,
+        "ast": 3.6,
+        "triples": 1.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 31.6,
+        "pts": 16.5,
+        "reb": 7,
+        "ast": 3.7,
+        "triples": 2
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 30.4,
+        "pts": 15.93,
+        "reb": 6.73,
+        "ast": 3.07,
+        "triples": 1.67
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 30.4,
+        "pts": 15.93,
+        "reb": 6.73,
+        "ast": 3.07,
+        "triples": 1.67
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs MIN: 38min 18p 10r 3a 4t",
+       "2026-10-28 vs WSH: 32min 24p 12r 2a 5t",
+       "2026-10-30 vs ATL: 33min 11p 4r 7a 0t",
+       "2026-11-01 vs MIL: 25min 27p 5r 3a 3t",
+       "2026-11-03 vs OKC: 33min 16p 7r 4a 1t",
+       "2026-11-05 vs OKC: 33min 16p 10r 3a 1t",
+       "2026-11-07 vs PHI: 32min 22p 6r 4a 3t",
+       "2026-11-08 vs NY: 33min 12p 9r 5a 1t",
+       "2026-11-10 vs CHA: 24min 9p 2r 3a 2t",
+       "2026-11-12 vs NY: 33min 10p 5r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Peyton Watson",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 27.6,
+        "pts": 9.8,
+        "reb": 5.2,
+        "ast": 2.4,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27.8,
+        "pts": 10.6,
+        "reb": 4.9,
+        "ast": 2.8,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 26.5,
+        "pts": 9.79,
+        "reb": 4.43,
+        "ast": 2.64,
+        "triples": 0.86
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 26.5,
+        "pts": 9.79,
+        "reb": 4.43,
+        "ast": 2.64,
+        "triples": 0.86
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs BKN: 31min 11p 3r 4a 2t",
+       "2026-10-26 vs MIN: 37min 15p 8r 1a 0t",
+       "2026-10-28 vs WSH: 28min 22p 6r 2a 1t",
+       "2026-10-30 vs ATL: 22min 4p 4r 3a 0t",
+       "2026-11-01 vs MIL: 22min 5p 2r 6a 1t",
+       "2026-11-07 vs PHI: 28min 13p 9r 2a 1t",
+       "2026-11-08 vs NY: 29min 12p 6r 3a 1t",
+       "2026-11-10 vs CHA: 21min 13p 2r 1a 2t",
+       "2026-11-12 vs NY: 30min 7p 5r 4a 2t",
+       "2026-11-14 vs MIA: 30min 4p 4r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Jarrett Allen",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 23.6,
+        "pts": 9.2,
+        "reb": 7.2,
+        "ast": 1.2,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 25.6,
+        "pts": 12.4,
+        "reb": 8.4,
+        "ast": 1.5,
+        "triples": 0.3
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 25.07,
+        "pts": 11.43,
+        "reb": 7.71,
+        "ast": 1.14,
+        "triples": 0.29
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 25.07,
+        "pts": 11.43,
+        "reb": 7.71,
+        "ast": 1.14,
+        "triples": 0.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs BKN: 27min 21p 8r 0a 1t",
+       "2026-10-26 vs MIN: 27min 10p 9r 2a 0t",
+       "2026-10-28 vs WSH: 30min 8p 12r 2a 0t",
+       "2026-10-30 vs ATL: 30min 14p 8r 1a 1t",
+       "2026-11-01 vs MIL: 24min 25p 11r 4a 0t",
+       "2026-11-03 vs OKC: 28min 14p 6r 1a 0t",
+       "2026-11-05 vs OKC: 7min 0p 1r 0a 0t",
+       "2026-11-10 vs CHA: 19min 12p 7r 1a 1t",
+       "2026-11-12 vs NY: 32min 11p 14r 3a 0t",
+       "2026-11-14 vs MIA: 32min 9p 8r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Sam Merrill",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22.4,
+        "pts": 8,
+        "reb": 3.8,
+        "ast": 1.8,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.6,
+        "pts": 7.4,
+        "reb": 3.5,
+        "ast": 2,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 11,
+        "min": 21.45,
+        "pts": 7.45,
+        "reb": 3.18,
+        "ast": 1.91,
+        "triples": 1.55
+       },
+       "temporada": {
+        "pj": 11,
+        "min": 21.45,
+        "pts": 7.45,
+        "reb": 3.18,
+        "ast": 1.91,
+        "triples": 1.55
+       }
+      },
+      "ultimos_10": [
+       "2026-10-11 vs ORL: 18min 5p 4r 3a 1t",
+       "2026-10-22 vs PHI: 24min 5p 5r 2a 1t",
+       "2026-10-24 vs BKN: 21min 7p 2r 3a 1t",
+       "2026-10-26 vs MIN: 31min 9p 4r 2a 1t",
+       "2026-10-28 vs WSH: 20min 8p 1r 1a 2t",
+       "2026-10-30 vs ATL: 27min 16p 2r 3a 4t",
+       "2026-11-01 vs MIL: 19min 6p 4r 3a 1t",
+       "2026-11-03 vs OKC: 26min 8p 3r 2a 2t",
+       "2026-11-05 vs OKC: 27min 10p 7r 1a 2t",
+       "2026-11-07 vs PHI: 13min 0p 3r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Meleek Thomas",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 23.6,
+        "pts": 13,
+        "reb": 2.4,
+        "ast": 2,
+        "triples": 2.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.4,
+        "pts": 13,
+        "reb": 2.5,
+        "ast": 1.4,
+        "triples": 2.6
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 21.38,
+        "pts": 12.38,
+        "reb": 2.38,
+        "ast": 1.38,
+        "triples": 2.23
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 21.38,
+        "pts": 12.38,
+        "reb": 2.38,
+        "ast": 1.38,
+        "triples": 2.23
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs MIN: 19min 16p 2r 0a 4t",
+       "2026-10-28 vs WSH: 20min 10p 4r 1a 0t",
+       "2026-11-01 vs MIL: 23min 13p 1r 2a 3t",
+       "2026-11-03 vs OKC: 26min 17p 5r 1a 3t",
+       "2026-11-05 vs OKC: 18min 9p 1r 0a 3t",
+       "2026-11-07 vs PHI: 27min 12p 1r 3a 2t",
+       "2026-11-08 vs NY: 24min 9p 4r 0a 3t",
+       "2026-11-10 vs CHA: 27min 18p 3r 3a 4t",
+       "2026-11-12 vs NY: 22min 14p 4r 1a 2t",
+       "2026-11-14 vs MIA: 18min 12p 0r 3a 2t"
+      ]
+     },
+     {
+      "jugador": "Jaylon Tyson",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22.4,
+        "pts": 8,
+        "reb": 2.8,
+        "ast": 2,
+        "triples": 1.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22,
+        "pts": 9.7,
+        "reb": 2.9,
+        "ast": 2,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 10,
+        "min": 22,
+        "pts": 9.7,
+        "reb": 2.9,
+        "ast": 2,
+        "triples": 1.5
+       },
+       "temporada": {
+        "pj": 10,
+        "min": 22,
+        "pts": 9.7,
+        "reb": 2.9,
+        "ast": 2,
+        "triples": 1.5
+       }
+      },
+      "ultimos_10": [
+       "2026-10-08 vs BOS: 17min 14p 3r 2a 1t",
+       "2026-10-11 vs ORL: 21min 13p 2r 1a 3t",
+       "2026-10-13 vs ORL: 25min 12p 3r 1a 1t",
+       "2026-10-22 vs PHI: 24min 3p 6r 2a 0t",
+       "2026-10-24 vs BKN: 21min 15p 1r 4a 3t",
+       "2026-10-26 vs MIN: 20min 11p 4r 5a 0t",
+       "2026-10-28 vs WSH: 21min 7p 1r 2a 1t",
+       "2026-10-30 vs ATL: 18min 3p 6r 1a 1t",
+       "2026-11-12 vs NY: 23min 3p 0r 1a 1t",
+       "2026-11-14 vs MIA: 30min 16p 3r 1a 4t"
+      ]
+     },
+     {
+      "jugador": "Tyrese Proctor",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 23,
+        "pts": 10.6,
+        "reb": 3.4,
+        "ast": 2.8,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20,
+        "pts": 9.2,
+        "reb": 3.3,
+        "ast": 2.4,
+        "triples": 1.8
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 17.4,
+        "pts": 7.27,
+        "reb": 2.53,
+        "ast": 2,
+        "triples": 1.4
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 17.4,
+        "pts": 7.27,
+        "reb": 2.53,
+        "ast": 2,
+        "triples": 1.4
+       }
+      },
+      "ultimos_10": [
+       "2026-10-28 vs WSH: 6min 2p 1r 1a 0t",
+       "2026-10-30 vs ATL: 20min 7p 6r 2a 1t",
+       "2026-11-01 vs MIL: 18min 9p 4r 5a 3t",
+       "2026-11-03 vs OKC: 19min 10p 4r 2a 2t",
+       "2026-11-05 vs OKC: 22min 11p 1r 0a 2t",
+       "2026-11-07 vs PHI: 19min 3p 6r 3a 0t",
+       "2026-11-08 vs NY: 23min 7p 3r 3a 2t",
+       "2026-11-10 vs CHA: 23min 6p 1r 4a 0t",
+       "2026-11-12 vs NY: 23min 15p 3r 1a 3t",
+       "2026-11-14 vs MIA: 27min 22p 4r 3a 5t"
+      ]
+     },
+     {
+      "jugador": "Mario Hezonja",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15.8,
+        "pts": 5.8,
+        "reb": 4.4,
+        "ast": 0.4,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.3,
+        "pts": 7.6,
+        "reb": 5.8,
+        "ast": 1.4,
+        "triples": 1.1
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 18.25,
+        "pts": 8,
+        "reb": 5.31,
+        "ast": 1.56,
+        "triples": 1.19
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 18.25,
+        "pts": 8,
+        "reb": 5.31,
+        "ast": 1.56,
+        "triples": 1.19
+       }
+      },
+      "ultimos_10": [
+       "2026-10-28 vs WSH: 17min 5p 3r 2a 1t",
+       "2026-10-30 vs ATL: 17min 10p 6r 2a 2t",
+       "2026-11-01 vs MIL: 20min 8p 11r 4a 1t",
+       "2026-11-03 vs OKC: 27min 12p 8r 3a 3t",
+       "2026-11-05 vs OKC: 23min 12p 8r 1a 2t",
+       "2026-11-07 vs PHI: 27min 15p 10r 1a 2t",
+       "2026-11-08 vs NY: 19min 0p 5r 1a 0t",
+       "2026-11-10 vs CHA: 17min 10p 3r 0a 0t",
+       "2026-11-12 vs NY: 7min 0p 0r 0a 0t",
+       "2026-11-14 vs MIA: 9min 4p 4r 0a 0t"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "liga": "NBA",
+   "id": "401909982",
+   "nombre": "Detroit Pistons at Miami Heat",
+   "nota": "regular-season",
+   "inicio_utc": "2026-11-15T01:00Z",
+   "inicio_colombia": "2026-11-14 20:00",
+   "estado": "Scheduled",
+   "estadio": "Kaseya Center",
+   "serie_temporada": [
+    "DET leads series 1-0"
+   ],
+   "visitante": {
+    "nombre": "Detroit Pistons",
+    "record": [
+     "overall: 8-3",
+     "Home: 3-2",
+     "Road: 5-1"
+    ],
+    "lesiones": [
+     "Ugonna Onyenso: Day-To-Day (Foot)",
+     "Isaiah Joe: Out (Hip)",
+     "Jalen Duren: Out (Hamstring)"
+    ],
+    "ultimos_5": [
+     "2026-11-03 @ CHA W 124-91",
+     "2026-11-05 vs PHI L 112-106",
+     "2026-11-08 vs LAL L 121-116",
+     "2026-11-10 vs WSH W 122-111",
+     "2026-11-13 @ WSH W 144-140 2OT"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Cade Cunningham",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 36,
+        "pts": 28.4,
+        "reb": 4.8,
+        "ast": 8.8,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 34.6,
+        "pts": 25.3,
+        "reb": 5.3,
+        "ast": 7.9,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 32,
+        "pts": 22.64,
+        "reb": 4.43,
+        "ast": 7.43,
+        "triples": 2
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 32,
+        "pts": 22.64,
+        "reb": 4.43,
+        "ast": 7.43,
+        "triples": 2
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 30min 16p 2r 8a 2t",
+       "2026-10-25 vs PHI: 33min 26p 8r 8a 3t",
+       "2026-10-28 vs CHA: 39min 30p 5r 7a 4t",
+       "2026-10-28 vs NY: 36min 19p 9r 8a 2t",
+       "2026-10-30 vs BKN: 28min 20p 5r 4a 1t",
+       "2026-11-03 vs CHA: 27min 33p 5r 7a 4t",
+       "2026-11-05 vs PHI: 40min 26p 7r 11a 1t",
+       "2026-11-08 vs LAL: 38min 14p 4r 8a 1t",
+       "2026-11-10 vs WSH: 27min 17p 3r 7a 0t",
+       "2026-11-13 vs WSH: 48min 52p 5r 11a 3t"
+      ]
+     },
+     {
+      "jugador": "Duncan Robinson",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 34.2,
+        "pts": 19.6,
+        "reb": 1.8,
+        "ast": 2.2,
+        "triples": 4.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.2,
+        "pts": 17.8,
+        "reb": 1.9,
+        "ast": 2.2,
+        "triples": 4
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 28.4,
+        "pts": 16.27,
+        "reb": 2.2,
+        "ast": 2.2,
+        "triples": 3.67
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 28.4,
+        "pts": 16.27,
+        "reb": 2.2,
+        "ast": 2.2,
+        "triples": 3.67
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 28min 17p 1r 2a 5t",
+       "2026-10-25 vs PHI: 32min 21p 3r 3a 5t",
+       "2026-10-28 vs CHA: 32min 13p 2r 2a 3t",
+       "2026-10-28 vs NY: 33min 12p 0r 2a 2t",
+       "2026-10-30 vs BKN: 26min 17p 4r 2a 2t",
+       "2026-11-03 vs CHA: 32min 24p 2r 3a 6t",
+       "2026-11-05 vs PHI: 37min 27p 1r 2a 7t",
+       "2026-11-08 vs LAL: 27min 12p 0r 3a 3t",
+       "2026-11-10 vs WSH: 34min 22p 3r 2a 4t",
+       "2026-11-13 vs WSH: 41min 13p 3r 1a 3t"
+      ]
+     },
+     {
+      "jugador": "Ausar Thompson",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31,
+        "pts": 11.4,
+        "reb": 10,
+        "ast": 5,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.7,
+        "pts": 10.1,
+        "reb": 8.7,
+        "ast": 5.1,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 25.71,
+        "pts": 9.21,
+        "reb": 6.93,
+        "ast": 4.5,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 25.71,
+        "pts": 9.21,
+        "reb": 6.93,
+        "ast": 4.5,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-20 vs BOS: 33min 11p 11r 5a 0t",
+       "2026-10-24 vs MIA: 19min 4p 3r 5a 0t",
+       "2026-10-28 vs CHA: 29min 7p 9r 8a 0t",
+       "2026-10-28 vs NY: 25min 11p 6r 2a 0t",
+       "2026-10-30 vs BKN: 26min 11p 8r 6a 0t",
+       "2026-11-03 vs CHA: 26min 14p 6r 4a 0t",
+       "2026-11-05 vs PHI: 34min 11p 17r 3a 0t",
+       "2026-11-08 vs LAL: 24min 7p 11r 3a 0t",
+       "2026-11-10 vs WSH: 28min 8p 5r 4a 0t",
+       "2026-11-13 vs WSH: 43min 17p 11r 11a 0t"
+      ]
+     },
+     {
+      "jugador": "Daniss Jenkins",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30.8,
+        "pts": 16.2,
+        "reb": 3.8,
+        "ast": 4.6,
+        "triples": 2.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.6,
+        "pts": 14.5,
+        "reb": 4,
+        "ast": 4.4,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 24.67,
+        "pts": 11.6,
+        "reb": 3.2,
+        "ast": 4.27,
+        "triples": 2
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 24.67,
+        "pts": 11.6,
+        "reb": 3.2,
+        "ast": 4.27,
+        "triples": 2
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 22min 15p 5r 5a 1t",
+       "2026-10-25 vs PHI: 38min 18p 8r 6a 3t",
+       "2026-10-28 vs CHA: 24min 14p 2r 3a 2t",
+       "2026-10-28 vs NY: 24min 11p 3r 2a 1t",
+       "2026-10-30 vs BKN: 24min 6p 3r 5a 2t",
+       "2026-11-03 vs CHA: 23min 2p 1r 7a 0t",
+       "2026-11-05 vs PHI: 21min 5p 1r 4a 1t",
+       "2026-11-08 vs LAL: 32min 31p 5r 4a 8t",
+       "2026-11-10 vs WSH: 36min 22p 6r 8a 2t",
+       "2026-11-13 vs WSH: 42min 21p 6r 0a 3t"
+      ]
+     },
+     {
+      "jugador": "Paul Reed",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 27.4,
+        "pts": 8.8,
+        "reb": 8.6,
+        "ast": 2.6,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.1,
+        "pts": 12.1,
+        "reb": 7.9,
+        "ast": 2.2,
+        "triples": 0.5
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 24.8,
+        "pts": 10.6,
+        "reb": 7.07,
+        "ast": 2.2,
+        "triples": 0.33
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 24.8,
+        "pts": 10.6,
+        "reb": 7.07,
+        "ast": 2.2,
+        "triples": 0.33
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 26min 19p 11r 3a 2t",
+       "2026-10-25 vs PHI: 23min 8p 8r 2a 0t",
+       "2026-10-28 vs CHA: 38min 16p 4r 0a 2t",
+       "2026-10-28 vs NY: 26min 22p 9r 3a 1t",
+       "2026-10-30 vs BKN: 31min 12p 4r 1a 0t",
+       "2026-11-03 vs CHA: 28min 11p 5r 4a 0t",
+       "2026-11-05 vs PHI: 30min 8p 7r 4a 0t",
+       "2026-11-08 vs LAL: 20min 8p 10r 0a 0t",
+       "2026-11-10 vs WSH: 21min 4p 10r 2a 0t",
+       "2026-11-13 vs WSH: 38min 13p 11r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "John Collins",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 26,
+        "pts": 12.4,
+        "reb": 4.4,
+        "ast": 1,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 26.4,
+        "pts": 11.1,
+        "reb": 6,
+        "ast": 0.7,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 24.33,
+        "pts": 10.13,
+        "reb": 5.4,
+        "ast": 0.53,
+        "triples": 0.87
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 24.33,
+        "pts": 10.13,
+        "reb": 5.4,
+        "ast": 0.53,
+        "triples": 0.87
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 29min 23p 7r 1a 5t",
+       "2026-10-25 vs PHI: 34min 16p 11r 0a 2t",
+       "2026-10-28 vs CHA: 18min 4p 2r 0a 0t",
+       "2026-10-28 vs NY: 27min 2p 9r 1a 0t",
+       "2026-10-30 vs BKN: 26min 4p 9r 0a 0t",
+       "2026-11-03 vs CHA: 19min 4p 3r 1a 0t",
+       "2026-11-05 vs PHI: 26min 16p 1r 0a 0t",
+       "2026-11-08 vs LAL: 32min 8p 4r 1a 1t",
+       "2026-11-10 vs WSH: 28min 24p 10r 3a 2t",
+       "2026-11-13 vs WSH: 25min 10p 4r 0a 2t"
+      ]
+     },
+     {
+      "jugador": "Kevin Huerter",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 26.4,
+        "pts": 12.8,
+        "reb": 2,
+        "ast": 2.2,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 23.7,
+        "pts": 9.6,
+        "reb": 2.3,
+        "ast": 2.1,
+        "triples": 1.6
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 21,
+        "pts": 7.8,
+        "reb": 2,
+        "ast": 2,
+        "triples": 1.4
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 21,
+        "pts": 7.8,
+        "reb": 2,
+        "ast": 2,
+        "triples": 1.4
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 20min 5p 6r 2a 1t",
+       "2026-10-25 vs PHI: 26min 9p 3r 2a 1t",
+       "2026-10-28 vs CHA: 19min 3p 2r 3a 1t",
+       "2026-10-28 vs NY: 16min 7p 1r 0a 1t",
+       "2026-10-30 vs BKN: 24min 8p 1r 3a 2t",
+       "2026-11-03 vs CHA: 20min 9p 2r 3a 3t",
+       "2026-11-05 vs PHI: 20min 8p 0r 0a 2t",
+       "2026-11-08 vs LAL: 35min 24p 5r 5a 4t",
+       "2026-11-10 vs WSH: 33min 12p 2r 3a 0t",
+       "2026-11-13 vs WSH: 24min 11p 1r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Jalen Duren",
+      "posicion": "C",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 4,
+        "min": 18.25,
+        "pts": 16,
+        "reb": 5.25,
+        "ast": 1.5,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 4,
+        "min": 18.25,
+        "pts": 16,
+        "reb": 5.25,
+        "ast": 1.5,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 4,
+        "min": 18.25,
+        "pts": 16,
+        "reb": 5.25,
+        "ast": 1.5,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 4,
+        "min": 18.25,
+        "pts": 16,
+        "reb": 5.25,
+        "ast": 1.5,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-15 vs MIN: 15min 24p 3r 1a 0t",
+       "2026-10-16 vs TOR: 20min 14p 3r 1a 0t",
+       "2026-10-20 vs BOS: 28min 22p 9r 1a 0t",
+       "2026-10-24 vs MIA: 10min 4p 6r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Javonte Green",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15.6,
+        "pts": 5,
+        "reb": 1.8,
+        "ast": 0.6,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 17.3,
+        "pts": 4.8,
+        "reb": 2.1,
+        "ast": 0.6,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 15.53,
+        "pts": 5.67,
+        "reb": 2.27,
+        "ast": 0.6,
+        "triples": 1.07
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 15.53,
+        "pts": 5.67,
+        "reb": 2.27,
+        "ast": 0.6,
+        "triples": 1.07
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 13min 5p 3r 0a 1t",
+       "2026-10-25 vs PHI: 22min 2p 3r 0a 0t",
+       "2026-10-28 vs CHA: 21min 7p 2r 2a 1t",
+       "2026-10-28 vs NY: 17min 3p 1r 0a 1t",
+       "2026-10-30 vs BKN: 22min 6p 3r 1a 1t",
+       "2026-11-03 vs CHA: 20min 5p 2r 0a 1t",
+       "2026-11-05 vs PHI: 15min 1p 3r 1a 0t",
+       "2026-11-08 vs LAL: 17min 7p 2r 2a 1t",
+       "2026-11-10 vs WSH: 11min 7p 1r 0a 0t",
+       "2026-11-13 vs WSH: 15min 5p 1r 0a 1t"
+      ]
+     },
+     {
+      "jugador": "Ronald Holland II",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15,
+        "pts": 4.4,
+        "reb": 3.2,
+        "ast": 1,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 16.7,
+        "pts": 5.4,
+        "reb": 3.8,
+        "ast": 1.8,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 15.93,
+        "pts": 6.13,
+        "reb": 3.8,
+        "ast": 1.53,
+        "triples": 0.6
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 15.93,
+        "pts": 6.13,
+        "reb": 3.8,
+        "ast": 1.53,
+        "triples": 0.6
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs MIA: 22min 8p 5r 4a 0t",
+       "2026-10-25 vs PHI: 24min 2p 9r 4a 0t",
+       "2026-10-28 vs CHA: 12min 0p 2r 1a 0t",
+       "2026-10-28 vs NY: 12min 4p 3r 2a 0t",
+       "2026-10-30 vs BKN: 22min 18p 3r 2a 2t",
+       "2026-11-03 vs CHA: 20min 11p 2r 0a 3t",
+       "2026-11-05 vs PHI: 12min 3p 2r 0a 1t",
+       "2026-11-08 vs LAL: 14min 5p 2r 1a 1t",
+       "2026-11-10 vs WSH: 15min 1p 5r 2a 0t",
+       "2026-11-13 vs WSH: 14min 2p 5r 2a 0t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "Miami Heat",
+    "record": [
+     "overall: 6-6",
+     "Home: 2-3",
+     "Road: 4-3"
+    ],
+    "lesiones": [
+     "Pelle Larsson: Day-To-Day (Illness)",
+     "Klay Thompson: Day-To-Day (Ankle)"
+    ],
+    "ultimos_5": [
+     "2026-11-05 @ LAC W 117-116 OT",
+     "2026-11-06 @ GS L 120-100",
+     "2026-11-09 @ SAC W 114-108",
+     "2026-11-11 @ UTAH W 115-109",
+     "2026-11-14 vs CLE W 133-121"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Davion Mitchell",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 39.6,
+        "pts": 18.2,
+        "reb": 3.4,
+        "ast": 10.8,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 36.2,
+        "pts": 17,
+        "reb": 2.6,
+        "ast": 8.9,
+        "triples": 2.4
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 31.5,
+        "pts": 14.69,
+        "reb": 2,
+        "ast": 8.13,
+        "triples": 1.94
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 31.5,
+        "pts": 14.69,
+        "reb": 2,
+        "ast": 8.13,
+        "triples": 1.94
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs DET: 33min 18p 2r 5a 3t",
+       "2026-10-26 vs DAL: 33min 21p 0r 2a 2t",
+       "2026-10-28 vs ATL: 34min 10p 1r 10a 0t",
+       "2026-10-31 vs IND: 35min 15p 6r 11a 3t",
+       "2026-11-03 vs LAL: 29min 15p 0r 7a 4t",
+       "2026-11-05 vs LAC: 43min 11p 2r 10a 0t",
+       "2026-11-06 vs GS: 38min 22p 2r 8a 4t",
+       "2026-11-09 vs SAC: 40min 17p 3r 11a 2t",
+       "2026-11-11 vs UTAH: 38min 19p 5r 8a 3t",
+       "2026-11-14 vs CLE: 39min 22p 5r 17a 3t"
+      ]
+     },
+     {
+      "jugador": "Giannis Antetokounmpo",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.6,
+        "pts": 28.6,
+        "reb": 12.4,
+        "ast": 3.8,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 33.6,
+        "pts": 29.3,
+        "reb": 13.6,
+        "ast": 5.5,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 29.8,
+        "pts": 25.93,
+        "reb": 11.4,
+        "ast": 5.27,
+        "triples": 0.47
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 29.8,
+        "pts": 25.93,
+        "reb": 11.4,
+        "ast": 5.27,
+        "triples": 0.47
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs DET: 33min 36p 12r 5a 1t",
+       "2026-10-26 vs DAL: 39min 29p 14r 11a 2t",
+       "2026-10-28 vs ATL: 31min 24p 18r 3a 0t",
+       "2026-10-31 vs IND: 31min 31p 18r 10a 1t",
+       "2026-11-03 vs LAL: 34min 30p 12r 7a 0t",
+       "2026-11-05 vs LAC: 41min 27p 14r 6a 0t",
+       "2026-11-06 vs GS: 31min 20p 14r 4a 1t",
+       "2026-11-09 vs SAC: 34min 29p 14r 3a 0t",
+       "2026-11-11 vs UTAH: 31min 30p 11r 4a 1t",
+       "2026-11-14 vs CLE: 31min 37p 9r 2a 1t"
+      ]
+     },
+     {
+      "jugador": "Bam Adebayo",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 36.6,
+        "pts": 23.8,
+        "reb": 10,
+        "ast": 3,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 33.3,
+        "pts": 19.8,
+        "reb": 9.1,
+        "ast": 3.1,
+        "triples": 0.5
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 30.86,
+        "pts": 18,
+        "reb": 8.29,
+        "ast": 2.93,
+        "triples": 0.71
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 30.86,
+        "pts": 18,
+        "reb": 8.29,
+        "ast": 2.93,
+        "triples": 0.71
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs DET: 23min 4p 6r 3a 0t",
+       "2026-10-26 vs DAL: 30min 8p 8r 3a 0t",
+       "2026-10-28 vs ATL: 33min 24p 9r 3a 0t",
+       "2026-10-31 vs IND: 33min 27p 9r 3a 0t",
+       "2026-11-03 vs LAL: 31min 16p 9r 4a 1t",
+       "2026-11-05 vs LAC: 41min 35p 10r 4a 1t",
+       "2026-11-06 vs GS: 33min 18p 10r 0a 0t",
+       "2026-11-09 vs SAC: 34min 18p 8r 4a 1t",
+       "2026-11-11 vs UTAH: 37min 11p 8r 4a 0t",
+       "2026-11-14 vs CLE: 38min 37p 14r 3a 2t"
+      ]
+     },
+     {
+      "jugador": "Pelle Larsson",
+      "posicion": "G",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29.4,
+        "pts": 10.8,
+        "reb": 3.4,
+        "ast": 3,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.1,
+        "pts": 12.3,
+        "reb": 3.5,
+        "ast": 3.5,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 27.77,
+        "pts": 11.69,
+        "reb": 3.31,
+        "ast": 3.54,
+        "triples": 1.15
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 27.77,
+        "pts": 11.69,
+        "reb": 3.31,
+        "ast": 3.54,
+        "triples": 1.15
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CHA: 36min 15p 7r 4a 1t",
+       "2026-10-24 vs DET: 29min 7p 2r 1a 1t",
+       "2026-10-26 vs DAL: 34min 12p 0r 4a 1t",
+       "2026-10-28 vs ATL: 31min 17p 6r 8a 2t",
+       "2026-10-31 vs IND: 24min 18p 3r 3a 1t",
+       "2026-11-03 vs LAL: 30min 9p 3r 2a 1t",
+       "2026-11-05 vs LAC: 35min 7p 3r 4a 0t",
+       "2026-11-06 vs GS: 29min 13p 1r 4a 3t",
+       "2026-11-09 vs SAC: 22min 11p 3r 3a 3t",
+       "2026-11-11 vs UTAH: 31min 14p 7r 2a 2t"
+      ]
+     },
+     {
+      "jugador": "Andrew Wiggins",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 25.4,
+        "pts": 6.4,
+        "reb": 3.2,
+        "ast": 2,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27,
+        "pts": 8.9,
+        "reb": 3.1,
+        "ast": 1.8,
+        "triples": 1.5
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 23.75,
+        "pts": 10.06,
+        "reb": 2.81,
+        "ast": 1.38,
+        "triples": 1.44
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 23.75,
+        "pts": 10.06,
+        "reb": 2.81,
+        "ast": 1.38,
+        "triples": 1.44
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs DET: 26min 8p 8r 2a 1t",
+       "2026-10-26 vs DAL: 34min 12p 3r 1a 0t",
+       "2026-10-28 vs ATL: 29min 18p 2r 2a 4t",
+       "2026-10-31 vs IND: 30min 12p 2r 1a 2t",
+       "2026-11-03 vs LAL: 24min 7p 0r 2a 2t",
+       "2026-11-05 vs LAC: 23min 3p 4r 1a 1t",
+       "2026-11-06 vs GS: 21min 2p 6r 4a 0t",
+       "2026-11-09 vs SAC: 32min 6p 3r 1a 2t",
+       "2026-11-11 vs UTAH: 19min 13p 0r 0a 2t",
+       "2026-11-14 vs CLE: 32min 8p 3r 4a 1t"
+      ]
+     },
+     {
+      "jugador": "Klay Thompson",
+      "posicion": "G",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29.4,
+        "pts": 18.8,
+        "reb": 1.8,
+        "ast": 2.6,
+        "triples": 4.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 25.6,
+        "pts": 14.8,
+        "reb": 1.6,
+        "ast": 2.1,
+        "triples": 3.9
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 22.47,
+        "pts": 11.67,
+        "reb": 1.47,
+        "ast": 1.8,
+        "triples": 3
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 22.47,
+        "pts": 11.67,
+        "reb": 1.47,
+        "ast": 1.8,
+        "triples": 3
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CHA: 27min 14p 3r 0a 4t",
+       "2026-10-24 vs DET: 24min 6p 2r 2a 2t",
+       "2026-10-26 vs DAL: 15min 6p 1r 1a 2t",
+       "2026-10-28 vs ATL: 17min 3p 1r 2a 1t",
+       "2026-10-31 vs IND: 26min 25p 0r 3a 7t",
+       "2026-11-03 vs LAL: 27min 19p 1r 1a 4t",
+       "2026-11-05 vs LAC: 35min 30p 5r 3a 8t",
+       "2026-11-06 vs GS: 23min 11p 0r 3a 2t",
+       "2026-11-09 vs SAC: 32min 23p 2r 4a 7t",
+       "2026-11-11 vs UTAH: 30min 11p 1r 2a 2t"
+      ]
+     },
+     {
+      "jugador": "Bobby Portis",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 16.8,
+        "pts": 3.6,
+        "reb": 4,
+        "ast": 1.8,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.7,
+        "pts": 6,
+        "reb": 5.5,
+        "ast": 2,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 19.31,
+        "pts": 7.44,
+        "reb": 5.19,
+        "ast": 1.81,
+        "triples": 1.31
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 19.31,
+        "pts": 7.44,
+        "reb": 5.19,
+        "ast": 1.81,
+        "triples": 1.31
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs DET: 21min 11p 8r 2a 3t",
+       "2026-10-26 vs DAL: 24min 10p 12r 2a 3t",
+       "2026-10-28 vs ATL: 23min 11p 9r 4a 1t",
+       "2026-10-31 vs IND: 17min 8p 3r 1a 2t",
+       "2026-11-03 vs LAL: 18min 2p 3r 2a 0t",
+       "2026-11-05 vs LAC: 18min 4p 10r 5a 0t",
+       "2026-11-06 vs GS: 14min 0p 5r 0a 0t",
+       "2026-11-09 vs SAC: 20min 4p 1r 1a 1t",
+       "2026-11-11 vs UTAH: 17min 5p 1r 1a 1t",
+       "2026-11-14 vs CLE: 15min 5p 3r 2a 1t"
+      ]
+     },
+     {
+      "jugador": "Tim Hardaway Jr.",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 11.4,
+        "pts": 2.6,
+        "reb": 0.6,
+        "ast": 0.6,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 14.9,
+        "pts": 4.7,
+        "reb": 1.2,
+        "ast": 0.7,
+        "triples": 0.8
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 15.07,
+        "pts": 6.4,
+        "reb": 1.53,
+        "ast": 1,
+        "triples": 1.13
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 15.07,
+        "pts": 6.4,
+        "reb": 1.53,
+        "ast": 1,
+        "triples": 1.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CHA: 21min 5p 0r 0a 0t",
+       "2026-10-24 vs DET: 21min 8p 4r 1a 2t",
+       "2026-10-26 vs DAL: 16min 5p 2r 1a 1t",
+       "2026-10-28 vs ATL: 22min 14p 2r 1a 2t",
+       "2026-10-31 vs IND: 12min 2p 1r 1a 0t",
+       "2026-11-03 vs LAL: 19min 9p 0r 0a 3t",
+       "2026-11-05 vs LAC: 7min 0p 0r 0a 0t",
+       "2026-11-06 vs GS: 4min 0p 0r 1a 0t",
+       "2026-11-09 vs SAC: 7min 0p 0r 0a 0t",
+       "2026-11-14 vs CLE: 20min 4p 3r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Nikola Jovic",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 11,
+        "pts": 2.6,
+        "reb": 2.4,
+        "ast": 1,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 14.8,
+        "pts": 5,
+        "reb": 3.5,
+        "ast": 1.8,
+        "triples": 0.6
+       },
+       "ult20": {
+        "pj": 12,
+        "min": 15.5,
+        "pts": 5.75,
+        "reb": 3.83,
+        "ast": 2,
+        "triples": 0.75
+       },
+       "temporada": {
+        "pj": 12,
+        "min": 15.5,
+        "pts": 5.75,
+        "reb": 3.83,
+        "ast": 2,
+        "triples": 0.75
+       }
+      },
+      "ultimos_10": [
+       "2026-10-11 vs MIN: 25min 16p 6r 3a 2t",
+       "2026-10-14 vs BKN: 23min 5p 5r 7a 1t",
+       "2026-10-16 vs ORL: 15min 12p 6r 1a 2t",
+       "2026-10-21 vs MIN: 24min 4p 4r 2a 0t",
+       "2026-10-24 vs CHA: 6min 0p 2r 0a 0t",
+       "2026-10-24 vs DET: 13min 5p 4r 1a 0t",
+       "2026-10-28 vs ATL: 7min 5p 3r 0a 1t",
+       "2026-10-31 vs IND: 16min 0p 4r 3a 0t",
+       "2026-11-03 vs LAL: 7min 2p 1r 0a 0t",
+       "2026-11-06 vs GS: 12min 1p 0r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Ryan Conwell",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 24,
+        "pts": 8.8,
+        "reb": 2.8,
+        "ast": 2,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 14.5,
+        "pts": 5.8,
+        "reb": 1.6,
+        "ast": 1.3,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 17.53,
+        "pts": 8.2,
+        "reb": 1.67,
+        "ast": 2.47,
+        "triples": 1.4
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 17.53,
+        "pts": 8.2,
+        "reb": 1.67,
+        "ast": 2.47,
+        "triples": 1.4
+       }
+      },
+      "ultimos_10": [
+       "2026-10-21 vs MIN: 3min 0p 0r 2a 0t",
+       "2026-10-24 vs CHA: 4min 3p 1r 0a 1t",
+       "2026-10-24 vs DET: 3min 2p 0r 0a 0t",
+       "2026-10-31 vs IND: 7min 4p 0r 0a 1t",
+       "2026-11-03 vs LAL: 8min 5p 1r 1a 1t",
+       "2026-11-05 vs LAC: 17min 0p 2r 2a 0t",
+       "2026-11-06 vs GS: 30min 13p 1r 2a 3t",
+       "2026-11-09 vs SAC: 19min 6p 2r 2a 2t",
+       "2026-11-11 vs UTAH: 21min 5p 4r 2a 1t",
+       "2026-11-14 vs CLE: 33min 20p 5r 2a 4t"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "liga": "NBA",
+   "id": "401909983",
+   "nombre": "Brooklyn Nets at Memphis Grizzlies",
+   "nota": "regular-season",
+   "inicio_utc": "2026-11-15T01:00Z",
+   "inicio_colombia": "2026-11-14 20:00",
+   "estado": "Scheduled",
+   "estadio": "FedExForum",
+   "serie_temporada": [
+    "Series starts 11/14"
+   ],
+   "visitante": {
+    "nombre": "Brooklyn Nets",
+    "record": [
+     "overall: 3-8",
+     "Home: 1-3",
+     "Road: 2-5"
+    ],
+    "lesiones": [
+     "Mikel Brown Jr.: Day-To-Day (Illness)",
+     "Nolan Traore: Day-To-Day (Calf)"
+    ],
+    "ultimos_5": [
+     "2026-11-03 @ NY L 103-90",
+     "2026-11-05 vs CHA W 114-104",
+     "2026-11-08 @ ATL L 124-121",
+     "2026-11-09 @ DAL L 130-93",
+     "2026-11-12 @ NO W 145-111"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Julius Randle",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32,
+        "pts": 18.4,
+        "reb": 5.6,
+        "ast": 4.6,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.5,
+        "pts": 18.4,
+        "reb": 6.3,
+        "ast": 4.8,
+        "triples": 1.2
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 30.27,
+        "pts": 18.2,
+        "reb": 5.87,
+        "ast": 4.93,
+        "triples": 1.27
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 30.27,
+        "pts": 18.2,
+        "reb": 5.87,
+        "ast": 4.93,
+        "triples": 1.27
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CLE: 35min 23p 6r 5a 2t",
+       "2026-10-25 vs IND: 24min 10p 7r 7a 0t",
+       "2026-10-27 vs BOS: 44min 24p 9r 4a 0t",
+       "2026-10-30 vs DET: 25min 15p 8r 3a 3t",
+       "2026-11-01 vs IND: 37min 20p 5r 6a 4t",
+       "2026-11-03 vs NY: 36min 21p 11r 2a 0t",
+       "2026-11-05 vs CHA: 31min 22p 3r 4a 2t",
+       "2026-11-08 vs ATL: 34min 19p 6r 8a 1t",
+       "2026-11-09 vs DAL: 30min 13p 4r 4a 0t",
+       "2026-11-12 vs NO: 29min 17p 4r 5a 0t"
+      ]
+     },
+     {
+      "jugador": "Michael Porter Jr.",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.6,
+        "pts": 22,
+        "reb": 7.8,
+        "ast": 1.2,
+        "triples": 3.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 32.4,
+        "pts": 21.1,
+        "reb": 7.6,
+        "ast": 1.3,
+        "triples": 3.4
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 30.43,
+        "pts": 21.57,
+        "reb": 6.64,
+        "ast": 1.21,
+        "triples": 3.5
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 30.43,
+        "pts": 21.57,
+        "reb": 6.64,
+        "ast": 1.21,
+        "triples": 3.5
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CLE: 33min 28p 9r 1a 4t",
+       "2026-10-25 vs IND: 21min 10p 0r 0a 0t",
+       "2026-10-27 vs BOS: 40min 27p 12r 2a 6t",
+       "2026-10-30 vs DET: 26min 13p 7r 1a 2t",
+       "2026-11-01 vs IND: 36min 23p 9r 3a 3t",
+       "2026-11-03 vs NY: 37min 18p 5r 2a 4t",
+       "2026-11-05 vs CHA: 38min 26p 10r 0a 4t",
+       "2026-11-08 vs ATL: 36min 25p 9r 1a 3t",
+       "2026-11-09 vs DAL: 29min 19p 9r 0a 4t",
+       "2026-11-12 vs NO: 28min 22p 6r 3a 4t"
+      ]
+     },
+     {
+      "jugador": "Keon Ellis",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.6,
+        "pts": 4,
+        "reb": 2,
+        "ast": 1.6,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.8,
+        "pts": 5,
+        "reb": 1.9,
+        "ast": 2.1,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 21.86,
+        "pts": 5.86,
+        "reb": 1.71,
+        "ast": 1.57,
+        "triples": 1.14
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 21.86,
+        "pts": 5.86,
+        "reb": 1.71,
+        "ast": 1.57,
+        "triples": 1.14
+       }
+      },
+      "ultimos_10": [
+       "2026-10-21 vs CHA: 34min 7p 2r 4a 1t",
+       "2026-10-24 vs CLE: 22min 6p 2r 1a 2t",
+       "2026-10-25 vs IND: 23min 9p 1r 3a 1t",
+       "2026-10-27 vs BOS: 25min 2p 3r 4a 0t",
+       "2026-10-30 vs DET: 21min 6p 1r 1a 2t",
+       "2026-11-01 vs IND: 20min 0p 2r 1a 0t",
+       "2026-11-03 vs NY: 25min 5p 1r 0a 1t",
+       "2026-11-05 vs CHA: 10min 1p 2r 0a 0t",
+       "2026-11-09 vs DAL: 22min 3p 1r 4a 1t",
+       "2026-11-12 vs NO: 26min 11p 4r 3a 2t"
+      ]
+     },
+     {
+      "jugador": "Mikel Brown Jr.",
+      "posicion": "G",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 24.6,
+        "pts": 15.2,
+        "reb": 2,
+        "ast": 3.8,
+        "triples": 2.2
+       },
+       "ult10": {
+        "pj": 8,
+        "min": 22.63,
+        "pts": 13.13,
+        "reb": 2.25,
+        "ast": 3.75,
+        "triples": 2
+       },
+       "ult20": {
+        "pj": 8,
+        "min": 22.63,
+        "pts": 13.13,
+        "reb": 2.25,
+        "ast": 3.75,
+        "triples": 2
+       },
+       "temporada": {
+        "pj": 8,
+        "min": 22.63,
+        "pts": 13.13,
+        "reb": 2.25,
+        "ast": 3.75,
+        "triples": 2
+       }
+      },
+      "ultimos_10": [
+       "2026-10-14 vs MIA: 18min 15p 3r 3a 2t",
+       "2026-10-21 vs CHA: 20min 6p 3r 3a 1t",
+       "2026-10-24 vs CLE: 20min 8p 2r 5a 2t",
+       "2026-10-27 vs BOS: 28min 17p 5r 5a 4t",
+       "2026-10-30 vs DET: 23min 10p 0r 4a 0t",
+       "2026-11-03 vs NY: 27min 13p 2r 3a 1t",
+       "2026-11-05 vs CHA: 20min 18p 2r 4a 3t",
+       "2026-11-08 vs ATL: 25min 18p 1r 3a 3t"
+      ]
+     },
+     {
+      "jugador": "Day'Ron Sharpe",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 24,
+        "pts": 8.4,
+        "reb": 5.8,
+        "ast": 7,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.6,
+        "pts": 8.2,
+        "reb": 6.7,
+        "ast": 4.2,
+        "triples": 0.5
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 22.29,
+        "pts": 8.07,
+        "reb": 6.43,
+        "ast": 3.93,
+        "triples": 0.5
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 22.29,
+        "pts": 8.07,
+        "reb": 6.43,
+        "ast": 3.93,
+        "triples": 0.5
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CLE: 23min 7p 8r 1a 1t",
+       "2026-10-25 vs IND: 16min 11p 4r 1a 1t",
+       "2026-10-27 vs BOS: 17min 4p 6r 0a 0t",
+       "2026-10-30 vs DET: 24min 3p 7r 1a 0t",
+       "2026-11-01 vs IND: 26min 15p 13r 4a 1t",
+       "2026-11-03 vs NY: 22min 4p 6r 3a 0t",
+       "2026-11-05 vs CHA: 27min 5p 5r 8a 0t",
+       "2026-11-08 vs ATL: 32min 12p 10r 13a 0t",
+       "2026-11-09 vs DAL: 20min 6p 4r 6a 0t",
+       "2026-11-12 vs NO: 19min 15p 4r 5a 2t"
+      ]
+     },
+     {
+      "jugador": "Nolan Traore",
+      "posicion": "G",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 25,
+        "pts": 16.4,
+        "reb": 2.2,
+        "ast": 3.2,
+        "triples": 3
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 22.1,
+        "pts": 12.9,
+        "reb": 2,
+        "ast": 2.6,
+        "triples": 1.8
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 20.64,
+        "pts": 12.86,
+        "reb": 1.79,
+        "ast": 2.64,
+        "triples": 1.57
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 20.64,
+        "pts": 12.86,
+        "reb": 1.79,
+        "ast": 2.64,
+        "triples": 1.57
+       }
+      },
+      "ultimos_10": [
+       "2026-10-21 vs CHA: 16min 3p 2r 0a 0t",
+       "2026-10-24 vs CLE: 5min 3p 2r 0a 0t",
+       "2026-10-25 vs IND: 25min 17p 2r 5a 2t",
+       "2026-10-27 vs BOS: 24min 15p 1r 3a 1t",
+       "2026-10-30 vs DET: 26min 9p 2r 2a 0t",
+       "2026-11-01 vs IND: 30min 16p 2r 6a 4t",
+       "2026-11-03 vs NY: 24min 17p 3r 4a 5t",
+       "2026-11-05 vs CHA: 27min 16p 4r 2a 2t",
+       "2026-11-08 vs ATL: 23min 19p 1r 2a 2t",
+       "2026-11-09 vs DAL: 21min 14p 1r 2a 2t"
+      ]
+     },
+     {
+      "jugador": "Egor Demin",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22,
+        "pts": 10.6,
+        "reb": 2,
+        "ast": 2.4,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 9,
+        "min": 21.67,
+        "pts": 10.33,
+        "reb": 1.67,
+        "ast": 3.11,
+        "triples": 1.89
+       },
+       "ult20": {
+        "pj": 9,
+        "min": 21.67,
+        "pts": 10.33,
+        "reb": 1.67,
+        "ast": 3.11,
+        "triples": 1.89
+       },
+       "temporada": {
+        "pj": 9,
+        "min": 21.67,
+        "pts": 10.33,
+        "reb": 1.67,
+        "ast": 3.11,
+        "triples": 1.89
+       }
+      },
+      "ultimos_10": [
+       "2026-10-06 vs CHA: 18min 6p 1r 5a 2t",
+       "2026-10-08 vs PHI: 22min 13p 1r 5a 1t",
+       "2026-10-12 vs WSH: 22min 4p 0r 3a 0t",
+       "2026-10-14 vs MIA: 23min 17p 3r 3a 4t",
+       "2026-10-21 vs CHA: 27min 4p 4r 2a 0t",
+       "2026-10-24 vs CLE: 31min 22p 4r 6a 5t",
+       "2026-10-25 vs IND: 19min 3p 0r 1a 1t",
+       "2026-10-27 vs BOS: 10min 2p 1r 2a 0t",
+       "2026-11-12 vs NO: 23min 22p 1r 1a 4t"
+      ]
+     },
+     {
+      "jugador": "Chaney Johnson",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15,
+        "pts": 3,
+        "reb": 2,
+        "ast": 1.4,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20.2,
+        "pts": 5.2,
+        "reb": 2.7,
+        "ast": 1.2,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 17.8,
+        "pts": 4.87,
+        "reb": 2.33,
+        "ast": 1.13,
+        "triples": 0.53
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 17.8,
+        "pts": 4.87,
+        "reb": 2.33,
+        "ast": 1.13,
+        "triples": 0.53
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CLE: 27min 10p 5r 3a 2t",
+       "2026-10-25 vs IND: 21min 4p 5r 0a 0t",
+       "2026-10-27 vs BOS: 29min 15p 3r 2a 3t",
+       "2026-10-30 vs DET: 19min 6p 2r 0a 0t",
+       "2026-11-01 vs IND: 31min 2p 2r 0a 0t",
+       "2026-11-03 vs NY: 28min 4p 3r 2a 1t",
+       "2026-11-05 vs CHA: 9min 0p 2r 1a 0t",
+       "2026-11-08 vs ATL: 8min 5p 2r 1a 1t",
+       "2026-11-09 vs DAL: 15min 2p 0r 1a 0t",
+       "2026-11-12 vs NO: 15min 4p 3r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Noah Clowney",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 17,
+        "pts": 6,
+        "reb": 4,
+        "ast": 0.6,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 19.5,
+        "pts": 5.7,
+        "reb": 4.5,
+        "ast": 0.6,
+        "triples": 0.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 20,
+        "pts": 7,
+        "reb": 4,
+        "ast": 0.93,
+        "triples": 1.13
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 20,
+        "pts": 7,
+        "reb": 4,
+        "ast": 0.93,
+        "triples": 1.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs CLE: 20min 4p 4r 0a 1t",
+       "2026-10-25 vs IND: 20min 9p 5r 1a 1t",
+       "2026-10-27 vs BOS: 24min 3p 4r 1a 1t",
+       "2026-10-30 vs DET: 22min 3p 9r 1a 0t",
+       "2026-11-01 vs IND: 24min 8p 3r 0a 0t",
+       "2026-11-03 vs NY: 20min 2p 6r 2a 0t",
+       "2026-11-05 vs CHA: 17min 7p 1r 1a 1t",
+       "2026-11-08 vs ATL: 21min 3p 10r 0a 1t",
+       "2026-11-09 vs DAL: 8min 2p 0r 0a 0t",
+       "2026-11-12 vs NO: 19min 16p 3r 0a 2t"
+      ]
+     },
+     {
+      "jugador": "Danny Wolf",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 25.4,
+        "pts": 10.6,
+        "reb": 7,
+        "ast": 2.4,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 19.2,
+        "pts": 7.9,
+        "reb": 4.9,
+        "ast": 2.3,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 10,
+        "min": 19.2,
+        "pts": 7.9,
+        "reb": 4.9,
+        "ast": 2.3,
+        "triples": 1.3
+       },
+       "temporada": {
+        "pj": 10,
+        "min": 19.2,
+        "pts": 7.9,
+        "reb": 4.9,
+        "ast": 2.3,
+        "triples": 1.3
+       }
+      },
+      "ultimos_10": [
+       "2026-10-06 vs CHA: 15min 9p 3r 5a 1t",
+       "2026-10-08 vs PHI: 16min 9p 6r 4a 1t",
+       "2026-10-12 vs WSH: 9min 2p 1r 1a 0t",
+       "2026-10-14 vs MIA: 10min 0p 2r 0a 0t",
+       "2026-10-25 vs IND: 15min 6p 2r 1a 2t",
+       "2026-10-30 vs DET: 12min 9p 6r 2a 3t",
+       "2026-11-05 vs CHA: 19min 13p 5r 3a 2t",
+       "2026-11-08 vs ATL: 31min 11p 10r 1a 2t",
+       "2026-11-09 vs DAL: 36min 10p 3r 2a 1t",
+       "2026-11-12 vs NO: 29min 10p 11r 4a 1t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "Memphis Grizzlies",
+    "record": [
+     "overall: 8-4",
+     "Home: 2-4",
+     "Road: 6-0"
+    ],
+    "lesiones": [
+     "Quinten Post: Day-To-Day (Concussion)",
+     "Zach Edey: Day-To-Day (Ankle)",
+     "Scotty Pippen Jr.: Out (Back)",
+     "Richie Saunders: Out (Knee)"
+    ],
+    "ultimos_5": [
+     "2026-11-05 vs IND L 107-103",
+     "2026-11-07 vs OKC L 128-97",
+     "2026-11-10 @ TOR W 118-102",
+     "2026-11-12 vs DEN L 123-118",
+     "2026-11-14 @ NO W 142-111"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Cameron Boozer",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31,
+        "pts": 13,
+        "reb": 9.2,
+        "ast": 4.8,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.9,
+        "pts": 15.5,
+        "reb": 9.4,
+        "ast": 5.2,
+        "triples": 1.7
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 28.75,
+        "pts": 15.19,
+        "reb": 8.75,
+        "ast": 4.69,
+        "triples": 1.56
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 28.75,
+        "pts": 15.19,
+        "reb": 8.75,
+        "ast": 4.69,
+        "triples": 1.56
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs SAC: 31min 14p 11r 4a 2t",
+       "2026-10-27 vs UTAH: 31min 13p 7r 4a 1t",
+       "2026-10-30 vs POR: 28min 18p 12r 12a 4t",
+       "2026-11-01 vs SAC: 26min 27p 9r 3a 3t",
+       "2026-11-03 vs NO: 38min 18p 9r 5a 2t",
+       "2026-11-05 vs IND: 33min 10p 6r 4a 2t",
+       "2026-11-07 vs OKC: 31min 8p 12r 4a 0t",
+       "2026-11-10 vs TOR: 33min 22p 7r 8a 0t",
+       "2026-11-12 vs DEN: 33min 13p 11r 5a 2t",
+       "2026-11-14 vs NO: 25min 12p 10r 3a 1t"
+      ]
+     },
+     {
+      "jugador": "Ty Jerome",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30,
+        "pts": 22,
+        "reb": 3.2,
+        "ast": 4.8,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.5,
+        "pts": 23.4,
+        "reb": 3,
+        "ast": 5.2,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 27.13,
+        "pts": 22.73,
+        "reb": 2.87,
+        "ast": 5,
+        "triples": 2.47
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 27.13,
+        "pts": 22.73,
+        "reb": 2.87,
+        "ast": 5,
+        "triples": 2.47
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs GS: 32min 28p 2r 5a 3t",
+       "2026-10-26 vs SAC: 32min 31p 4r 7a 1t",
+       "2026-10-27 vs UTAH: 30min 15p 1r 8a 1t",
+       "2026-10-30 vs POR: 24min 10p 2r 3a 1t",
+       "2026-11-03 vs NO: 37min 40p 5r 5a 5t",
+       "2026-11-05 vs IND: 29min 23p 4r 3a 2t",
+       "2026-11-07 vs OKC: 28min 21p 2r 5a 2t",
+       "2026-11-10 vs TOR: 32min 27p 6r 2a 5t",
+       "2026-11-12 vs DEN: 32min 22p 2r 5a 1t",
+       "2026-11-14 vs NO: 29min 17p 2r 9a 2t"
+      ]
+     },
+     {
+      "jugador": "Cedric Coward",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 28.2,
+        "pts": 13,
+        "reb": 8.4,
+        "ast": 3.6,
+        "triples": 1.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 28.5,
+        "pts": 13.5,
+        "reb": 8.7,
+        "ast": 3.1,
+        "triples": 2.2
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 26.07,
+        "pts": 11.6,
+        "reb": 7.33,
+        "ast": 2.93,
+        "triples": 1.8
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 26.07,
+        "pts": 11.6,
+        "reb": 7.33,
+        "ast": 2.93,
+        "triples": 1.8
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs SAC: 32min 17p 11r 1a 3t",
+       "2026-10-27 vs UTAH: 31min 16p 11r 3a 4t",
+       "2026-10-30 vs POR: 27min 17p 7r 4a 3t",
+       "2026-11-01 vs SAC: 23min 10p 7r 2a 2t",
+       "2026-11-03 vs NO: 31min 10p 9r 3a 2t",
+       "2026-11-05 vs IND: 33min 23p 9r 4a 4t",
+       "2026-11-07 vs OKC: 23min 10p 9r 0a 2t",
+       "2026-11-10 vs TOR: 28min 3p 6r 4a 1t",
+       "2026-11-12 vs DEN: 27min 15p 11r 4a 1t",
+       "2026-11-14 vs NO: 30min 14p 7r 6a 0t"
+      ]
+     },
+     {
+      "jugador": "Jaylen Wells",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 26,
+        "pts": 10.8,
+        "reb": 2,
+        "ast": 1.2,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27.4,
+        "pts": 11.4,
+        "reb": 2.6,
+        "ast": 1.2,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 25.13,
+        "pts": 10.88,
+        "reb": 2.69,
+        "ast": 1.06,
+        "triples": 2.13
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 25.13,
+        "pts": 10.88,
+        "reb": 2.69,
+        "ast": 1.06,
+        "triples": 2.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs SAC: 33min 16p 7r 3a 2t",
+       "2026-10-27 vs UTAH: 30min 14p 3r 0a 2t",
+       "2026-10-30 vs POR: 25min 10p 1r 0a 2t",
+       "2026-11-01 vs SAC: 22min 4p 2r 0a 0t",
+       "2026-11-03 vs NO: 34min 16p 3r 3a 3t",
+       "2026-11-05 vs IND: 21min 0p 2r 3a 0t",
+       "2026-11-07 vs OKC: 25min 7p 0r 0a 1t",
+       "2026-11-10 vs TOR: 26min 14p 4r 1a 4t",
+       "2026-11-12 vs DEN: 31min 22p 2r 1a 5t",
+       "2026-11-14 vs NO: 27min 11p 2r 1a 2t"
+      ]
+     },
+     {
+      "jugador": "Jerami Grant",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22.8,
+        "pts": 14.8,
+        "reb": 1.4,
+        "ast": 1.8,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 23.4,
+        "pts": 11.9,
+        "reb": 2.3,
+        "ast": 1.8,
+        "triples": 1.9
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 22,
+        "pts": 10.8,
+        "reb": 2.2,
+        "ast": 1.8,
+        "triples": 1.6
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 22,
+        "pts": 10.8,
+        "reb": 2.2,
+        "ast": 1.8,
+        "triples": 1.6
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs SAC: 22min 5p 6r 3a 1t",
+       "2026-10-27 vs UTAH: 24min 13p 3r 0a 3t",
+       "2026-10-30 vs POR: 27min 2p 1r 3a 0t",
+       "2026-11-01 vs SAC: 23min 14p 2r 1a 1t",
+       "2026-11-03 vs NO: 24min 11p 4r 2a 2t",
+       "2026-11-05 vs IND: 24min 11p 1r 2a 2t",
+       "2026-11-07 vs OKC: 22min 10p 0r 2a 2t",
+       "2026-11-10 vs TOR: 22min 17p 3r 2a 3t",
+       "2026-11-12 vs DEN: 20min 14p 2r 2a 2t",
+       "2026-11-14 vs NO: 26min 22p 1r 1a 3t"
+      ]
+     },
+     {
+      "jugador": "Zach Edey",
+      "posicion": "C",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 21.4,
+        "pts": 8.2,
+        "reb": 8.4,
+        "ast": 0.8,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20.8,
+        "pts": 7.6,
+        "reb": 7.7,
+        "ast": 0.9,
+        "triples": 0.1
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 19.62,
+        "pts": 7.46,
+        "reb": 7.08,
+        "ast": 0.85,
+        "triples": 0.08
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 19.62,
+        "pts": 7.46,
+        "reb": 7.08,
+        "ast": 0.85,
+        "triples": 0.08
+       }
+      },
+      "ultimos_10": [
+       "2026-10-22 vs UTAH: 21min 6p 9r 0a 0t",
+       "2026-10-24 vs GS: 22min 8p 10r 3a 0t",
+       "2026-10-27 vs UTAH: 21min 4p 3r 2a 0t",
+       "2026-10-30 vs POR: 19min 13p 7r 0a 1t",
+       "2026-11-01 vs SAC: 18min 4p 6r 0a 0t",
+       "2026-11-03 vs NO: 19min 6p 9r 1a 0t",
+       "2026-11-05 vs IND: 25min 11p 13r 1a 0t",
+       "2026-11-07 vs OKC: 20min 14p 6r 1a 0t",
+       "2026-11-10 vs TOR: 23min 8p 9r 1a 0t",
+       "2026-11-12 vs DEN: 20min 2p 5r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Cam Spencer",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.8,
+        "pts": 10,
+        "reb": 2.8,
+        "ast": 4.2,
+        "triples": 1.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20.5,
+        "pts": 10.2,
+        "reb": 3.3,
+        "ast": 5.5,
+        "triples": 1.9
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 18.94,
+        "pts": 9.13,
+        "reb": 3,
+        "ast": 4.38,
+        "triples": 1.81
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 18.94,
+        "pts": 9.13,
+        "reb": 3,
+        "ast": 4.38,
+        "triples": 1.81
+       }
+      },
+      "ultimos_10": [
+       "2026-10-26 vs SAC: 16min 13p 2r 1a 3t",
+       "2026-10-27 vs UTAH: 18min 8p 5r 5a 2t",
+       "2026-10-30 vs POR: 23min 8p 6r 8a 1t",
+       "2026-11-01 vs SAC: 25min 10p 5r 13a 2t",
+       "2026-11-03 vs NO: 19min 13p 1r 7a 2t",
+       "2026-11-05 vs IND: 24min 7p 6r 9a 1t",
+       "2026-11-07 vs OKC: 19min 7p 1r 0a 1t",
+       "2026-11-10 vs TOR: 17min 7p 2r 4a 1t",
+       "2026-11-12 vs DEN: 20min 15p 3r 3a 3t",
+       "2026-11-14 vs NO: 24min 14p 2r 5a 3t"
+      ]
+     },
+     {
+      "jugador": "Isaiah Stewart",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 19.4,
+        "pts": 11.8,
+        "reb": 3.2,
+        "ast": 0.8,
+        "triples": 1
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 16.8,
+        "pts": 9.8,
+        "reb": 3.1,
+        "ast": 0.6,
+        "triples": 0.9
+       },
+       "ult20": {
+        "pj": 10,
+        "min": 16.8,
+        "pts": 9.8,
+        "reb": 3.1,
+        "ast": 0.6,
+        "triples": 0.9
+       },
+       "temporada": {
+        "pj": 10,
+        "min": 16.8,
+        "pts": 9.8,
+        "reb": 3.1,
+        "ast": 0.6,
+        "triples": 0.9
+       }
+      },
+      "ultimos_10": [
+       "2026-10-05 vs ATL: 2min 0p 1r 0a 0t",
+       "2026-10-24 vs GS: 16min 4p 2r 0a 0t",
+       "2026-10-26 vs SAC: 22min 13p 5r 2a 2t",
+       "2026-10-27 vs UTAH: 15min 4p 4r 0a 0t",
+       "2026-10-30 vs POR: 16min 18p 3r 0a 2t",
+       "2026-11-01 vs SAC: 21min 24p 4r 0a 2t",
+       "2026-11-03 vs NO: 28min 14p 5r 2a 2t",
+       "2026-11-05 vs IND: 10min 6p 1r 0a 0t",
+       "2026-11-12 vs DEN: 18min 3p 1r 2a 1t",
+       "2026-11-14 vs NO: 20min 12p 5r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "GG Jackson",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 15,
+        "pts": 5,
+        "reb": 2,
+        "ast": 1,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 15.8,
+        "pts": 6.5,
+        "reb": 2.8,
+        "ast": 1.2,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 16,
+        "pts": 8.57,
+        "reb": 3.43,
+        "ast": 1,
+        "triples": 1.29
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 16,
+        "pts": 8.57,
+        "reb": 3.43,
+        "ast": 1,
+        "triples": 1.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-24 vs GS: 15min 2p 4r 1a 0t",
+       "2026-10-26 vs SAC: 10min 1p 3r 0a 0t",
+       "2026-10-27 vs UTAH: 16min 4p 1r 2a 0t",
+       "2026-10-30 vs POR: 21min 12p 7r 2a 2t",
+       "2026-11-01 vs SAC: 21min 21p 3r 2a 5t",
+       "2026-11-03 vs NO: 16min 6p 0r 1a 0t",
+       "2026-11-05 vs IND: 7min 1p 2r 0a 0t",
+       "2026-11-10 vs TOR: 17min 2p 1r 0a 0t",
+       "2026-11-12 vs DEN: 13min 2p 1r 0a 0t",
+       "2026-11-14 vs NO: 22min 14p 6r 4a 3t"
+      ]
+     },
+     {
+      "jugador": "Scotty Pippen Jr.",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 16.2,
+        "pts": 6.4,
+        "reb": 2.2,
+        "ast": 2.2,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 9,
+        "min": 15.44,
+        "pts": 5.78,
+        "reb": 1.44,
+        "ast": 2.11,
+        "triples": 0.56
+       },
+       "ult20": {
+        "pj": 9,
+        "min": 15.44,
+        "pts": 5.78,
+        "reb": 1.44,
+        "ast": 2.11,
+        "triples": 0.56
+       },
+       "temporada": {
+        "pj": 9,
+        "min": 15.44,
+        "pts": 5.78,
+        "reb": 1.44,
+        "ast": 2.11,
+        "triples": 0.56
+       }
+      },
+      "ultimos_10": [
+       "2026-10-05 vs ATL: 16min 10p 0r 4a 2t",
+       "2026-10-08 vs ORL: 14min 1p 0r 2a 0t",
+       "2026-10-10 vs CHI: 12min 2p 0r 0a 0t",
+       "2026-10-17 vs CHA: 16min 7p 2r 2a 1t",
+       "2026-10-22 vs UTAH: 20min 9p 2r 5a 0t",
+       "2026-10-24 vs GS: 17min 8p 6r 3a 0t",
+       "2026-10-26 vs SAC: 17min 6p 1r 2a 1t",
+       "2026-10-27 vs UTAH: 13min 7p 2r 1a 1t",
+       "2026-10-30 vs POR: 14min 2p 0r 0a 0t"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "liga": "NBA",
+   "id": "401909984",
+   "nombre": "Chicago Bulls at Minnesota Timberwolves",
+   "nota": "regular-season",
+   "inicio_utc": "2026-11-15T01:00Z",
+   "inicio_colombia": "2026-11-14 20:00",
+   "estado": "Scheduled",
+   "estadio": "Target Center",
+   "serie_temporada": [
+    "Series starts 11/14"
+   ],
+   "visitante": {
+    "nombre": "Chicago Bulls",
+    "record": [
+     "overall: 2-9",
+     "Home: 1-4",
+     "Road: 1-5"
+    ],
+    "lesiones": [
+     "Dailyn Swain: Day-To-Day (Back)",
+     "Tobe Awaka: Day-To-Day (Back)",
+     "Jalen Smith: Day-To-Day (Hand)",
+     "Caleb Wilson: Out (Hand)"
+    ],
+    "ultimos_5": [
+     "2026-11-03 @ PHI L 126-107",
+     "2026-11-05 @ NY L 135-105",
+     "2026-11-08 vs PHI L 127-121",
+     "2026-11-12 vs SA L 124-119",
+     "2026-11-14 vs ATL W 125-117 OT"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Caleb Wilson",
+      "posicion": "F",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 26.8,
+        "pts": 17,
+        "reb": 5.4,
+        "ast": 1.6,
+        "triples": 3
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.7,
+        "pts": 18.9,
+        "reb": 6.2,
+        "ast": 1.9,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 29.33,
+        "pts": 17.87,
+        "reb": 5.6,
+        "ast": 2.2,
+        "triples": 2.13
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 29.33,
+        "pts": 17.87,
+        "reb": 5.6,
+        "ast": 2.2,
+        "triples": 2.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-21 vs TOR: 32min 16p 4r 0a 1t",
+       "2026-10-23 vs MIL: 33min 21p 6r 1a 2t",
+       "2026-10-25 vs WSH: 38min 30p 14r 3a 1t",
+       "2026-10-26 vs BOS: 32min 17p 5r 3a 1t",
+       "2026-10-29 vs NY: 38min 20p 6r 4a 3t",
+       "2026-10-30 vs BOS: 31min 23p 5r 4a 6t",
+       "2026-11-03 vs PHI: 34min 24p 7r 4a 4t",
+       "2026-11-05 vs NY: 22min 5p 5r 0a 1t",
+       "2026-11-08 vs PHI: 32min 18p 5r 0a 2t",
+       "2026-11-12 vs SA: 15min 15p 5r 0a 2t"
+      ]
+     },
+     {
+      "jugador": "Josh Giddey",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 31.4,
+        "pts": 13.2,
+        "reb": 4.8,
+        "ast": 10.4,
+        "triples": 1.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 29.2,
+        "pts": 11.5,
+        "reb": 4.9,
+        "ast": 9.1,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 26.69,
+        "pts": 10.13,
+        "reb": 4.5,
+        "ast": 8,
+        "triples": 1.13
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 26.69,
+        "pts": 10.13,
+        "reb": 4.5,
+        "ast": 8,
+        "triples": 1.13
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs MIL: 25min 6p 4r 9a 0t",
+       "2026-10-25 vs WSH: 30min 9p 8r 10a 1t",
+       "2026-10-26 vs BOS: 24min 11p 1r 4a 1t",
+       "2026-10-29 vs NY: 31min 10p 8r 11a 1t",
+       "2026-10-30 vs BOS: 25min 13p 4r 5a 2t",
+       "2026-11-03 vs PHI: 32min 13p 4r 10a 2t",
+       "2026-11-05 vs NY: 27min 10p 1r 6a 1t",
+       "2026-11-08 vs PHI: 34min 19p 7r 15a 1t",
+       "2026-11-12 vs SA: 25min 9p 2r 7a 1t",
+       "2026-11-14 vs ATL: 39min 15p 10r 14a 3t"
+      ]
+     },
+     {
+      "jugador": "Norman Powell",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30,
+        "pts": 21.8,
+        "reb": 2.6,
+        "ast": 1.6,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27.7,
+        "pts": 19.6,
+        "reb": 2.9,
+        "ast": 1.7,
+        "triples": 2.3
+       },
+       "ult20": {
+        "pj": 13,
+        "min": 25.54,
+        "pts": 18.69,
+        "reb": 2.54,
+        "ast": 1.62,
+        "triples": 2.23
+       },
+       "temporada": {
+        "pj": 13,
+        "min": 25.54,
+        "pts": 18.69,
+        "reb": 2.54,
+        "ast": 1.62,
+        "triples": 2.23
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs MIN: 15min 9p 4r 2a 2t",
+       "2026-10-21 vs TOR: 22min 15p 5r 1a 2t",
+       "2026-10-23 vs MIL: 33min 25p 4r 1a 2t",
+       "2026-10-25 vs WSH: 33min 18p 2r 3a 3t",
+       "2026-10-26 vs BOS: 24min 20p 1r 2a 4t",
+       "2026-10-29 vs NY: 37min 30p 2r 2a 4t",
+       "2026-10-30 vs BOS: 31min 16p 2r 3a 1t",
+       "2026-11-03 vs PHI: 29min 18p 3r 0a 1t",
+       "2026-11-05 vs NY: 22min 12p 1r 1a 0t",
+       "2026-11-14 vs ATL: 31min 33p 5r 2a 4t"
+      ]
+     },
+     {
+      "jugador": "Matas Buzelis",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 28,
+        "pts": 11.8,
+        "reb": 4.4,
+        "ast": 2.2,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 26.7,
+        "pts": 12.9,
+        "reb": 4.3,
+        "ast": 2.2,
+        "triples": 1.9
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 24.75,
+        "pts": 13.25,
+        "reb": 4.13,
+        "ast": 1.88,
+        "triples": 1.63
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 24.75,
+        "pts": 13.25,
+        "reb": 4.13,
+        "ast": 1.88,
+        "triples": 1.63
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs MIL: 17min 7p 5r 3a 0t",
+       "2026-10-25 vs WSH: 35min 21p 5r 2a 2t",
+       "2026-10-26 vs BOS: 22min 11p 1r 2a 2t",
+       "2026-10-29 vs NY: 33min 17p 5r 3a 3t",
+       "2026-10-30 vs BOS: 20min 14p 5r 1a 2t",
+       "2026-11-03 vs PHI: 23min 4p 3r 2a 0t",
+       "2026-11-05 vs NY: 26min 12p 5r 3a 1t",
+       "2026-11-08 vs PHI: 31min 19p 5r 2a 3t",
+       "2026-11-12 vs SA: 31min 13p 3r 2a 3t",
+       "2026-11-14 vs ATL: 29min 11p 6r 2a 3t"
+      ]
+     },
+     {
+      "jugador": "Jalen Smith",
+      "posicion": "F",
+      "lesion": "Day-To-Day",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 25.4,
+        "pts": 14.2,
+        "reb": 6.6,
+        "ast": 2.4,
+        "triples": 2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 25.2,
+        "pts": 12.8,
+        "reb": 7.8,
+        "ast": 2.1,
+        "triples": 1.9
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 22.6,
+        "pts": 12.47,
+        "reb": 7.27,
+        "ast": 1.87,
+        "triples": 1.8
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 22.6,
+        "pts": 12.47,
+        "reb": 7.27,
+        "ast": 1.87,
+        "triples": 1.8
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs MIL: 24min 14p 13r 1a 2t",
+       "2026-10-25 vs WSH: 24min 14p 3r 1a 2t",
+       "2026-10-26 vs BOS: 20min 7p 6r 1a 2t",
+       "2026-10-29 vs NY: 30min 17p 11r 5a 3t",
+       "2026-10-30 vs BOS: 27min 5p 12r 1a 0t",
+       "2026-11-03 vs PHI: 28min 13p 7r 4a 1t",
+       "2026-11-05 vs NY: 7min 3p 2r 0a 1t",
+       "2026-11-08 vs PHI: 30min 17p 8r 2a 2t",
+       "2026-11-12 vs SA: 30min 23p 4r 3a 5t",
+       "2026-11-14 vs ATL: 32min 15p 12r 3a 1t"
+      ]
+     },
+     {
+      "jugador": "Isaac Okoro",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 25,
+        "pts": 7.4,
+        "reb": 1.8,
+        "ast": 1.4,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 21.4,
+        "pts": 6.3,
+        "reb": 1.7,
+        "ast": 1.5,
+        "triples": 0.5
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 20.36,
+        "pts": 5.64,
+        "reb": 1.57,
+        "ast": 1.5,
+        "triples": 0.43
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 20.36,
+        "pts": 5.64,
+        "reb": 1.57,
+        "ast": 1.5,
+        "triples": 0.43
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs MIL: 28min 12p 3r 1a 1t",
+       "2026-10-25 vs WSH: 14min 0p 1r 0a 0t",
+       "2026-10-26 vs BOS: 11min 1p 1r 4a 0t",
+       "2026-10-29 vs NY: 18min 7p 0r 1a 1t",
+       "2026-10-30 vs BOS: 18min 6p 3r 2a 1t",
+       "2026-11-03 vs PHI: 21min 4p 1r 0a 0t",
+       "2026-11-05 vs NY: 15min 6p 1r 0a 0t",
+       "2026-11-08 vs PHI: 25min 12p 2r 1a 0t",
+       "2026-11-12 vs SA: 23min 0p 2r 4a 0t",
+       "2026-11-14 vs ATL: 41min 15p 3r 2a 2t"
+      ]
+     },
+     {
+      "jugador": "Tre Jones",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 18.8,
+        "pts": 9,
+        "reb": 1.8,
+        "ast": 2.8,
+        "triples": 0.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.9,
+        "pts": 9.7,
+        "reb": 2.3,
+        "ast": 3.2,
+        "triples": 0.4
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 17.36,
+        "pts": 8.86,
+        "reb": 2.29,
+        "ast": 3.5,
+        "triples": 0.29
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 17.36,
+        "pts": 8.86,
+        "reb": 2.29,
+        "ast": 3.5,
+        "triples": 0.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs MIL: 24min 11p 3r 8a 0t",
+       "2026-10-25 vs WSH: 18min 10p 2r 3a 1t",
+       "2026-10-26 vs BOS: 15min 8p 1r 0a 0t",
+       "2026-10-29 vs NY: 18min 11p 4r 3a 1t",
+       "2026-10-30 vs BOS: 20min 12p 4r 4a 0t",
+       "2026-11-03 vs PHI: 19min 8p 3r 3a 0t",
+       "2026-11-05 vs NY: 18min 14p 3r 4a 1t",
+       "2026-11-08 vs PHI: 14min 6p 1r 1a 0t",
+       "2026-11-12 vs SA: 28min 13p 1r 3a 1t",
+       "2026-11-14 vs ATL: 15min 4p 1r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Nic Claxton",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 3,
+        "min": 18.67,
+        "pts": 7.67,
+        "reb": 5.33,
+        "ast": 2.33,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 3,
+        "min": 18.67,
+        "pts": 7.67,
+        "reb": 5.33,
+        "ast": 2.33,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 3,
+        "min": 18.67,
+        "pts": 7.67,
+        "reb": 5.33,
+        "ast": 2.33,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 3,
+        "min": 18.67,
+        "pts": 7.67,
+        "reb": 5.33,
+        "ast": 2.33,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-11-08 vs PHI: 18min 4p 4r 4a 0t",
+       "2026-11-12 vs SA: 16min 17p 6r 1a 0t",
+       "2026-11-14 vs ATL: 22min 2p 6r 2a 0t"
+      ]
+     },
+     {
+      "jugador": "Patrick Williams",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 22,
+        "pts": 8,
+        "reb": 3.2,
+        "ast": 2.4,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 9,
+        "min": 17.44,
+        "pts": 6.78,
+        "reb": 3.11,
+        "ast": 1.67,
+        "triples": 1
+       },
+       "ult20": {
+        "pj": 9,
+        "min": 17.44,
+        "pts": 6.78,
+        "reb": 3.11,
+        "ast": 1.67,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 9,
+        "min": 17.44,
+        "pts": 6.78,
+        "reb": 3.11,
+        "ast": 1.67,
+        "triples": 1
+       }
+      },
+      "ultimos_10": [
+       "2026-10-08 vs PHX: 11min 6p 1r 0a 2t",
+       "2026-10-10 vs MEM: 10min 3p 3r 0a 1t",
+       "2026-10-12 vs DEN: 16min 6p 4r 3a 0t",
+       "2026-10-15 vs MIL: 10min 6p 4r 0a 0t",
+       "2026-10-17 vs MIN: 13min 7p 2r 1a 1t",
+       "2026-11-05 vs NY: 20min 4p 0r 2a 0t",
+       "2026-11-08 vs PHI: 25min 7p 3r 3a 1t",
+       "2026-11-12 vs SA: 28min 9p 7r 4a 0t",
+       "2026-11-14 vs ATL: 24min 13p 4r 2a 4t"
+      ]
+     },
+     {
+      "jugador": "Leonard Miller",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 11.6,
+        "pts": 3.6,
+        "reb": 2.2,
+        "ast": 1,
+        "triples": 0.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 16.4,
+        "pts": 6.9,
+        "reb": 3.9,
+        "ast": 1.1,
+        "triples": 0.6
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 17.29,
+        "pts": 9.93,
+        "reb": 4.64,
+        "ast": 1.29,
+        "triples": 1.07
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 17.29,
+        "pts": 9.93,
+        "reb": 4.64,
+        "ast": 1.29,
+        "triples": 1.07
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs MIN: 21min 12p 6r 3a 1t",
+       "2026-10-21 vs TOR: 26min 4p 6r 1a 0t",
+       "2026-10-23 vs MIL: 24min 19p 3r 2a 2t",
+       "2026-10-25 vs WSH: 21min 7p 4r 0a 1t",
+       "2026-10-26 vs BOS: 14min 9p 9r 0a 1t",
+       "2026-10-29 vs NY: 17min 10p 0r 1a 1t",
+       "2026-10-30 vs BOS: 11min 2p 2r 1a 0t",
+       "2026-11-03 vs PHI: 9min 2p 3r 0a 0t",
+       "2026-11-05 vs NY: 19min 4p 6r 3a 0t",
+       "2026-11-12 vs SA: 2min 0p 0r 0a 0t"
+      ]
+     }
+    ]
+   },
+   "local": {
+    "nombre": "Minnesota Timberwolves",
+    "record": [
+     "overall: 9-3",
+     "Home: 5-1",
+     "Road: 4-2"
+    ],
+    "lesiones": [
+     "Anthony Edwards: Out (Knee)",
+     "Donte DiVincenzo: Out (Achilles)"
+    ],
+    "ultimos_5": [
+     "2026-11-03 vs MIL W 112-100",
+     "2026-11-05 @ HOU W 117-107",
+     "2026-11-07 @ NO W 115-109",
+     "2026-11-09 vs UTAH W 115-100",
+     "2026-11-13 vs DAL W 133-94"
+    ],
+    "rotacion": [
+     {
+      "jugador": "Jaden McDaniels",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32.8,
+        "pts": 16.4,
+        "reb": 7,
+        "ast": 3.6,
+        "triples": 1.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 33.9,
+        "pts": 17.1,
+        "reb": 6.2,
+        "ast": 3.9,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 30.06,
+        "pts": 16.38,
+        "reb": 5.81,
+        "ast": 3.06,
+        "triples": 1.63
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 30.06,
+        "pts": 16.38,
+        "reb": 5.81,
+        "ast": 3.06,
+        "triples": 1.63
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 31min 14p 6r 3a 1t",
+       "2026-10-26 vs CLE: 37min 14p 6r 4a 2t",
+       "2026-10-29 vs GS: 35min 19p 6r 4a 1t",
+       "2026-10-31 vs LAC: 33min 23p 6r 7a 1t",
+       "2026-11-01 vs SA: 39min 19p 3r 3a 2t",
+       "2026-11-03 vs MIL: 29min 13p 6r 3a 2t",
+       "2026-11-05 vs HOU: 37min 14p 8r 4a 0t",
+       "2026-11-07 vs NO: 40min 23p 6r 5a 2t",
+       "2026-11-09 vs UTAH: 33min 16p 6r 3a 2t",
+       "2026-11-13 vs DAL: 25min 16p 9r 3a 0t"
+      ]
+     },
+     {
+      "jugador": "Ayo Dosunmu",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 33.4,
+        "pts": 22,
+        "reb": 4.2,
+        "ast": 4,
+        "triples": 2.2
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 31.6,
+        "pts": 18.7,
+        "reb": 4.4,
+        "ast": 3.2,
+        "triples": 2.1
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 27.88,
+        "pts": 15.81,
+        "reb": 4.06,
+        "ast": 3.13,
+        "triples": 1.81
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 27.88,
+        "pts": 15.81,
+        "reb": 4.06,
+        "ast": 3.13,
+        "triples": 1.81
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 23min 9p 3r 3a 1t",
+       "2026-10-26 vs CLE: 26min 9p 1r 0a 1t",
+       "2026-10-29 vs GS: 32min 17p 3r 4a 3t",
+       "2026-10-31 vs LAC: 30min 15p 7r 2a 3t",
+       "2026-11-01 vs SA: 38min 27p 9r 3a 2t",
+       "2026-11-03 vs MIL: 37min 19p 12r 8a 1t",
+       "2026-11-05 vs HOU: 34min 21p 1r 6a 0t",
+       "2026-11-07 vs NO: 39min 26p 2r 4a 4t",
+       "2026-11-09 vs UTAH: 30min 26p 4r 1a 4t",
+       "2026-11-13 vs DAL: 27min 18p 2r 1a 2t"
+      ]
+     },
+     {
+      "jugador": "Jonathan Kuminga",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 29.6,
+        "pts": 11.8,
+        "reb": 6.8,
+        "ast": 3.4,
+        "triples": 1.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 30.4,
+        "pts": 12.6,
+        "reb": 5.9,
+        "ast": 2.7,
+        "triples": 1.7
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 27.73,
+        "pts": 11.67,
+        "reb": 5,
+        "ast": 2.73,
+        "triples": 1.53
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 27.73,
+        "pts": 11.67,
+        "reb": 5,
+        "ast": 2.73,
+        "triples": 1.53
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 26min 13p 4r 1a 3t",
+       "2026-10-26 vs CLE: 36min 10p 10r 1a 0t",
+       "2026-10-29 vs GS: 32min 20p 4r 5a 3t",
+       "2026-10-31 vs LAC: 22min 5p 1r 0a 1t",
+       "2026-11-01 vs SA: 40min 19p 6r 3a 2t",
+       "2026-11-03 vs MIL: 33min 8p 10r 3a 2t",
+       "2026-11-05 vs HOU: 32min 16p 8r 5a 4t",
+       "2026-11-07 vs NO: 34min 17p 8r 4a 1t",
+       "2026-11-09 vs UTAH: 25min 4p 0r 0a 0t",
+       "2026-11-13 vs DAL: 24min 14p 8r 5a 1t"
+      ]
+     },
+     {
+      "jugador": "Rudy Gobert",
+      "posicion": "C",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 28.6,
+        "pts": 9,
+        "reb": 10.6,
+        "ast": 1.2,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 29,
+        "pts": 8.2,
+        "reb": 11.2,
+        "ast": 1.4,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 15,
+        "min": 26.87,
+        "pts": 7.33,
+        "reb": 10,
+        "ast": 1.4,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 15,
+        "min": 26.87,
+        "pts": 7.33,
+        "reb": 10,
+        "ast": 1.4,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-23 vs ORL: 30min 14p 9r 1a 0t",
+       "2026-10-25 vs TOR: 31min 8p 13r 0a 0t",
+       "2026-10-26 vs CLE: 36min 5p 20r 2a 0t",
+       "2026-10-29 vs GS: 20min 1p 4r 1a 0t",
+       "2026-10-31 vs LAC: 30min 9p 13r 4a 0t",
+       "2026-11-03 vs MIL: 31min 10p 10r 1a 0t",
+       "2026-11-05 vs HOU: 33min 8p 11r 2a 0t",
+       "2026-11-07 vs NO: 25min 8p 11r 0a 0t",
+       "2026-11-09 vs UTAH: 31min 10p 15r 2a 0t",
+       "2026-11-13 vs DAL: 23min 9p 6r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Anthony Edwards",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 32.6,
+        "pts": 30.6,
+        "reb": 3.8,
+        "ast": 3.4,
+        "triples": 3.8
+       },
+       "ult10": {
+        "pj": 8,
+        "min": 28.25,
+        "pts": 26.5,
+        "reb": 3.38,
+        "ast": 2.88,
+        "triples": 3.63
+       },
+       "ult20": {
+        "pj": 8,
+        "min": 28.25,
+        "pts": 26.5,
+        "reb": 3.38,
+        "ast": 2.88,
+        "triples": 3.63
+       },
+       "temporada": {
+        "pj": 8,
+        "min": 28.25,
+        "pts": 26.5,
+        "reb": 3.38,
+        "ast": 2.88,
+        "triples": 3.63
+       }
+      },
+      "ultimos_10": [
+       "2026-10-06 vs MIL: 18min 14p 4r 2a 1t",
+       "2026-10-07 vs IND: 20min 19p 1r 1a 4t",
+       "2026-10-12 vs NY: 25min 26p 3r 3a 5t",
+       "2026-10-15 vs DET: 28min 20p 0r 3a 1t",
+       "2026-10-21 vs MIA: 33min 45p 10r 3a 9t",
+       "2026-10-23 vs ORL: 33min 15p 4r 4a 2t",
+       "2026-10-25 vs TOR: 28min 26p 1r 3a 2t",
+       "2026-10-26 vs CLE: 41min 47p 4r 4a 5t"
+      ]
+     },
+     {
+      "jugador": "LaMelo Ball",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 30.8,
+        "pts": 24.4,
+        "reb": 3.2,
+        "ast": 6.2,
+        "triples": 4.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 27.9,
+        "pts": 19,
+        "reb": 3.2,
+        "ast": 6.4,
+        "triples": 3.6
+       },
+       "ult20": {
+        "pj": 16,
+        "min": 25.5,
+        "pts": 16.31,
+        "reb": 3.25,
+        "ast": 6.13,
+        "triples": 3.19
+       },
+       "temporada": {
+        "pj": 16,
+        "min": 25.5,
+        "pts": 16.31,
+        "reb": 3.25,
+        "ast": 6.13,
+        "triples": 3.19
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 17min 15p 1r 8a 4t",
+       "2026-10-26 vs CLE: 31min 11p 0r 6a 1t",
+       "2026-10-29 vs GS: 28min 8p 3r 8a 2t",
+       "2026-10-31 vs LAC: 29min 24p 4r 7a 6t",
+       "2026-11-01 vs SA: 20min 10p 8r 4a 0t",
+       "2026-11-03 vs MIL: 33min 34p 6r 3a 6t",
+       "2026-11-05 vs HOU: 31min 20p 2r 6a 4t",
+       "2026-11-07 vs NO: 35min 22p 2r 8a 3t",
+       "2026-11-09 vs UTAH: 30min 24p 3r 5a 4t",
+       "2026-11-13 vs DAL: 25min 22p 3r 9a 6t"
+      ]
+     },
+     {
+      "jugador": "Donte DiVincenzo",
+      "posicion": "G",
+      "lesion": "Out",
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.8,
+        "pts": 9.2,
+        "reb": 3.2,
+        "ast": 3.8,
+        "triples": 2.4
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 24.1,
+        "pts": 10.4,
+        "reb": 2.7,
+        "ast": 3.1,
+        "triples": 2.7
+       },
+       "ult20": {
+        "pj": 20,
+        "min": 27.4,
+        "pts": 10.8,
+        "reb": 3.1,
+        "ast": 2.7,
+        "triples": 2.8
+       },
+       "temporada": {
+        "pj": 90,
+        "min": 29.52,
+        "pts": 11.84,
+        "reb": 4.02,
+        "ast": 3.77,
+        "triples": 2.89
+       }
+      },
+      "ultimos_10": [
+       "2026-04-03 vs PHI: 29min 11p 0r 1a 3t",
+       "2026-04-05 vs CHA: 27min 6p 1r 3a 2t",
+       "2026-04-07 vs IND: 31min 11p 6r 4a 3t",
+       "2026-04-08 vs ORL: 21min 12p 0r 2a 4t",
+       "2026-04-11 vs HOU: 29min 18p 4r 2a 3t",
+       "2026-04-13 vs NO: 8min 3p 1r 3a 1t",
+       "2026-04-18 vs DEN: 31min 12p 4r 2a 4t",
+       "2026-04-21 vs DEN: 31min 16p 7r 6a 4t",
+       "2026-04-24 vs DEN: 33min 15p 4r 7a 3t",
+       "2026-04-26 vs DEN: 1min 0p 0r 1a 0t"
+      ]
+     },
+     {
+      "jugador": "Terrence Shannon Jr.",
+      "posicion": "G",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 20.8,
+        "pts": 8.6,
+        "reb": 3.4,
+        "ast": 3,
+        "triples": 0.6
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 20.9,
+        "pts": 10.1,
+        "reb": 3,
+        "ast": 2.9,
+        "triples": 1.3
+       },
+       "ult20": {
+        "pj": 14,
+        "min": 20.14,
+        "pts": 10,
+        "reb": 2.79,
+        "ast": 2.86,
+        "triples": 1.29
+       },
+       "temporada": {
+        "pj": 14,
+        "min": 20.14,
+        "pts": 10,
+        "reb": 2.79,
+        "ast": 2.86,
+        "triples": 1.29
+       }
+      },
+      "ultimos_10": [
+       "2026-10-17 vs CHI: 16min 6p 0r 4a 0t",
+       "2026-10-21 vs MIA: 20min 10p 1r 1a 2t",
+       "2026-10-23 vs ORL: 22min 13p 4r 1a 2t",
+       "2026-10-25 vs TOR: 23min 15p 4r 3a 3t",
+       "2026-10-26 vs CLE: 24min 14p 4r 5a 3t",
+       "2026-10-29 vs GS: 27min 19p 6r 2a 1t",
+       "2026-10-31 vs LAC: 20min 11p 3r 2a 2t",
+       "2026-11-01 vs SA: 18min 2p 3r 4a 0t",
+       "2026-11-09 vs UTAH: 18min 5p 3r 3a 0t",
+       "2026-11-13 vs DAL: 21min 6p 2r 4a 0t"
+      ]
+     },
+     {
+      "jugador": "Trey Lyles",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 21.2,
+        "pts": 6.6,
+        "reb": 5,
+        "ast": 0.8,
+        "triples": 0.8
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 18.9,
+        "pts": 6.2,
+        "reb": 4,
+        "ast": 0.8,
+        "triples": 0.9
+       },
+       "ult20": {
+        "pj": 17,
+        "min": 17.35,
+        "pts": 5.59,
+        "reb": 3.76,
+        "ast": 0.94,
+        "triples": 1
+       },
+       "temporada": {
+        "pj": 17,
+        "min": 17.35,
+        "pts": 5.59,
+        "reb": 3.76,
+        "ast": 0.94,
+        "triples": 1
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 14min 3p 6r 2a 1t",
+       "2026-10-26 vs CLE: 13min 3p 1r 1a 1t",
+       "2026-10-29 vs GS: 22min 7p 3r 1a 1t",
+       "2026-10-31 vs LAC: 17min 10p 5r 0a 1t",
+       "2026-11-01 vs SA: 17min 6p 0r 0a 1t",
+       "2026-11-03 vs MIL: 21min 12p 4r 0a 2t",
+       "2026-11-05 vs HOU: 20min 5p 2r 0a 1t",
+       "2026-11-07 vs NO: 29min 5p 13r 2a 0t",
+       "2026-11-09 vs UTAH: 21min 9p 6r 2a 1t",
+       "2026-11-13 vs DAL: 15min 2p 0r 0a 0t"
+      ]
+     },
+     {
+      "jugador": "Joan Beringer",
+      "posicion": "F",
+      "lesion": null,
+      "promedios": {
+       "ult5": {
+        "pj": 5,
+        "min": 14.4,
+        "pts": 5,
+        "reb": 5.8,
+        "ast": 0.4,
+        "triples": 0
+       },
+       "ult10": {
+        "pj": 10,
+        "min": 17.4,
+        "pts": 6.6,
+        "reb": 6.2,
+        "ast": 0.6,
+        "triples": 0
+       },
+       "ult20": {
+        "pj": 18,
+        "min": 17.67,
+        "pts": 6.94,
+        "reb": 6.44,
+        "ast": 0.44,
+        "triples": 0
+       },
+       "temporada": {
+        "pj": 18,
+        "min": 17.67,
+        "pts": 6.94,
+        "reb": 6.44,
+        "ast": 0.44,
+        "triples": 0
+       }
+      },
+      "ultimos_10": [
+       "2026-10-25 vs TOR: 13min 6p 6r 0a 0t",
+       "2026-10-26 vs CLE: 17min 12p 7r 0a 0t",
+       "2026-10-29 vs GS: 20min 7p 10r 2a 0t",
+       "2026-10-31 vs LAC: 18min 4p 4r 0a 0t",
+       "2026-11-01 vs SA: 34min 12p 6r 2a 0t",
+       "2026-11-03 vs MIL: 14min 2p 7r 2a 0t",
+       "2026-11-05 vs HOU: 13min 4p 7r 0a 0t",
+       "2026-11-07 vs NO: 7min 2p 3r 0a 0t",
+       "2026-11-09 vs UTAH: 16min 4p 3r 0a 0t",
+       "2026-11-13 vs DAL: 22min 13p 9r 0a 0t"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "errores": [
+  "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
+ ],
+ "generado_utc": "2026-11-14T16:58:29.873Z"
+}
