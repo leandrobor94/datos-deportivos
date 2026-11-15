@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-15T18:00Z",
    "inicio_colombia": "2026-11-15 13:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Xfinity Mobile Arena",
    "serie_temporada": [
     "PHI leads series 1-0"
@@ -27,13 +27,7 @@
      "Johnny Furphy: Out (Knee)",
      "Ben Sheppard: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-05 @ MEM W 107-103",
-     "2026-11-07 vs DEN L 114-102",
-     "2026-11-10 @ DAL L 125-122",
-     "2026-11-12 vs WSH W 114-101",
-     "2026-11-14 vs NY W 106-104"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Andrew Nembhard",
@@ -557,13 +551,7 @@
      "Adem Bona: Out (Back)",
      "Ariel Hukporti: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-11-05 @ DET W 112-106",
-     "2026-11-07 @ CLE L 119-95",
-     "2026-11-08 @ CHI W 127-121",
-     "2026-11-11 vs BOS L 123-101",
-     "2026-11-13 vs TOR W 123-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyrese Maxey",
@@ -3229,6 +3217,7 @@
      "Road: 6-0"
     ],
     "lesiones": [
+     "De'Aaron Fox: Day-To-Day (Hip)",
      "Tobias Harris: Out (Calf)",
      "Jayden Quaintance: Out (Knee)"
     ],
@@ -3498,7 +3487,7 @@
      {
       "jugador": "De'Aaron Fox",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4305,11 +4294,11 @@
      "Road: 2-4"
     ],
     "lesiones": [
-     "Daniel Gafford: Day-To-Day (Face)",
+     "Santi Aldama: Day-To-Day (Ankle)",
      "Max Christie: Day-To-Day (Ankle)",
-     "Dereck Lively II: Out (Foot)",
-     "Tarik Biberovic: Out (Heel)",
-     "Sergio de Larrea: Out (Knee)"
+     "Kyrie Irving: Day-To-Day (Knee)",
+     "Daniel Gafford: Day-To-Day (Shoulder)",
+     "Dereck Lively II: Out (Foot)"
     ],
     "ultimos_5": [
      "2026-11-07 vs UTAH W 112-100",
@@ -4373,7 +4362,7 @@
      {
       "jugador": "Kyrie Irving",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4430,7 +4419,7 @@
         "pj": 5,
         "min": 27,
         "pts": 13,
-        "reb": 5.4,
+        "reb": 5.2,
         "ast": 0.6,
         "triples": 2.6
        },
@@ -4438,7 +4427,7 @@
         "pj": 10,
         "min": 31.4,
         "pts": 13.9,
-        "reb": 7,
+        "reb": 6.9,
         "ast": 1,
         "triples": 2.5
        },
@@ -4446,7 +4435,7 @@
         "pj": 16,
         "min": 29.56,
         "pts": 12.5,
-        "reb": 6.63,
+        "reb": 6.56,
         "ast": 1.13,
         "triples": 2.06
        },
@@ -4454,7 +4443,7 @@
         "pj": 16,
         "min": 29.56,
         "pts": 12.5,
-        "reb": 6.63,
+        "reb": 6.56,
         "ast": 1.13,
         "triples": 2.06
        }
@@ -4469,7 +4458,7 @@
        "2026-11-09 vs BKN: 25min 6p 5r 0a 2t",
        "2026-11-10 vs IND: 35min 13p 9r 1a 2t",
        "2026-11-13 vs MIN: 16min 10p 3r 0a 1t",
-       "2026-11-15 vs CLE: 26min 10p 4r 1a 2t"
+       "2026-11-15 vs CLE: 26min 10p 3r 1a 2t"
       ]
      },
      {
@@ -5847,7 +5836,7 @@
         "pj": 5,
         "min": 14,
         "pts": 1.6,
-        "reb": 8.2,
+        "reb": 8.4,
         "ast": 1.2,
         "triples": 0
        },
@@ -5855,7 +5844,7 @@
         "pj": 10,
         "min": 13.1,
         "pts": 3.3,
-        "reb": 7.8,
+        "reb": 7.9,
         "ast": 1.1,
         "triples": 0
        },
@@ -5863,7 +5852,7 @@
         "pj": 16,
         "min": 13.81,
         "pts": 4.94,
-        "reb": 7.5,
+        "reb": 7.56,
         "ast": 1.5,
         "triples": 0
        },
@@ -5871,7 +5860,7 @@
         "pj": 16,
         "min": 13.81,
         "pts": 4.94,
-        "reb": 7.5,
+        "reb": 7.56,
         "ast": 1.5,
         "triples": 0
        }
@@ -5885,7 +5874,7 @@
        "2026-11-05 vs CHI: 12min 6p 9r 0a 0t",
        "2026-11-08 vs CLE: 14min 0p 8r 0a 0t",
        "2026-11-11 vs MIL: 16min 2p 14r 3a 0t",
-       "2026-11-12 vs CLE: 14min 0p 4r 3a 0t",
+       "2026-11-12 vs CLE: 14min 0p 5r 3a 0t",
        "2026-11-14 vs IND: 14min 0p 6r 0a 0t"
       ]
      }
@@ -6440,7 +6429,6 @@
     ],
     "lesiones": [
      "Clint Capela: Out (Ankle)",
-     "Steven Adams: Out (Calf)",
      "Fred VanVleet: Out (Knee)",
      "Marcus Smart: Suspension (Suspension)"
     ],
@@ -7466,11 +7454,11 @@
      "Road: 4-3"
     ],
     "lesiones": [
+     "Jock Landale: Day-To-Day (Hip)",
      "Kingston Flemings: Out (Back)",
      "Mouhamed Gueye: Out (Foot)",
      "Keshon Gilbert: Out (Knee)",
-     "Asa Newell: Out (Toe)",
-     "Henri Veesaar: Out (Knee)"
+     "Asa Newell: Out (Toe)"
     ],
     "ultimos_5": [
      "2026-11-05 @ WSH W 120-105",
@@ -9584,5 +9572,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-15T17:39:26.561Z"
+ "generado_utc": "2026-11-15T19:27:47.714Z"
 }
