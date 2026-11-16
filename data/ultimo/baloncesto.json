@@ -2155,7 +2155,7 @@
      "Scotty Pippen Jr.: Out (Back)",
      "GG Jackson: Out (Foot)",
      "Ty Jerome: Out (Hip)",
-     "Quinten Post: Out (Concussion)"
+     "Richie Saunders: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-07 vs OKC L 128-97",
@@ -2474,7 +2474,7 @@
      {
       "jugador": "Zach Edey",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4469,7 +4469,7 @@
      {
       "jugador": "Amen Thompson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4780,8 +4780,8 @@
      "Road: 4-3"
     ],
     "lesiones": [
-     "Pelle Larsson: Out (Illness)",
-     "Nikola Jovic: Out (Illness)"
+     "Nikola Jovic: Out (Illness)",
+     "Pelle Larsson: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-11-06 @ GS L 120-100",
@@ -8528,5 +8528,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-16T23:00:46.982Z"
+ "generado_utc": "2026-11-16T23:49:43.953Z"
 }
