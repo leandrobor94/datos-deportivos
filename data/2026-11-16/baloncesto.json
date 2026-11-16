@@ -546,7 +546,7 @@
      "Road: 5-2"
     ],
     "lesiones": [
-     "Neemias Queta: Day-To-Day (Rest)"
+     "Neemias Queta: Out (Rest)"
     ],
     "ultimos_5": [
      "2026-11-07 @ CHA W 119-80",
@@ -763,7 +763,7 @@
      {
       "jugador": "Neemias Queta",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1082,7 +1082,6 @@
     ],
     "lesiones": [
      "Tobe Awaka: Out (Back)",
-     "Jalen Smith: Day-To-Day (Finger)",
      "Caleb Wilson: Out (Hand)"
     ],
     "ultimos_5": [
@@ -1300,7 +1299,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1606,8 +1605,7 @@
      "Road: 2-5"
     ],
     "lesiones": [
-     "Jaylon Tyson: Day-To-Day (Ankle)",
-     "Peyton Watson: Day-To-Day (Abdomen)",
+     "Jaylon Tyson: Out (Ankle)",
      "Evan Mobley: Out (Toe)",
      "Sam Merrill: Out (Elbow)",
      "Nae'Qwan Tomlin: Out (Back)"
@@ -1776,7 +1774,7 @@
      {
       "jugador": "Peyton Watson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1929,7 +1927,7 @@
      {
       "jugador": "Jaylon Tyson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2686,7 +2684,6 @@
      "Road: 2-6"
     ],
     "lesiones": [
-     "Tre Johnson: Day-To-Day (Back)",
      "Tristan Vukcevic: Out (Hip)",
      "Reece Beekman: Out (Shoulder)",
      "Justin Champagnie: Out (Foot)",
@@ -3060,7 +3057,7 @@
      {
       "jugador": "Tre Johnson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4783,8 +4780,8 @@
      "Road: 4-3"
     ],
     "lesiones": [
-     "Nikola Jovic: Day-To-Day (Illness)",
-     "Pelle Larsson: Day-To-Day (Illness)"
+     "Pelle Larsson: Out (Illness)",
+     "Nikola Jovic: Out (Illness)"
     ],
     "ultimos_5": [
      "2026-11-06 @ GS L 120-100",
@@ -4950,7 +4947,7 @@
      {
       "jugador": "Pelle Larsson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5256,7 +5253,7 @@
      {
       "jugador": "Nikola Jovic",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8531,5 +8528,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-16T20:55:49.205Z"
+ "generado_utc": "2026-11-16T23:00:46.982Z"
 }
