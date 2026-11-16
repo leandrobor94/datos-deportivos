@@ -1,26 +1,28 @@
 {
  "futbol": {
-  "fecha": "2026-11-15",
-  "generado_utc": "2026-11-15T23:56:44.230Z",
-  "partidos": 14,
+  "fecha": "2026-11-16",
+  "generado_utc": "2026-11-16T20:55:38.131Z",
+  "partidos": 28,
   "errores": 0,
   "primeros_errores": [],
-  "segundos": 4
+  "segundos": 5
  },
  "beisbol": {
-  "fecha": "2026-11-15",
-  "generado_utc": "2026-11-15T23:56:44.319Z",
+  "fecha": "2026-11-16",
+  "generado_utc": "2026-11-16T20:55:38.285Z",
   "partidos": 0,
   "errores": 0,
   "primeros_errores": [],
   "segundos": 0
  },
  "baloncesto": {
-  "fecha": "2026-11-15",
-  "generado_utc": "2026-11-15T23:56:45.890Z",
-  "partidos": 9,
-  "errores": 0,
-  "primeros_errores": [],
-  "segundos": 2
+  "fecha": "2026-11-16",
+  "generado_utc": "2026-11-16T20:55:49.205Z",
+  "partidos": 8,
+  "errores": 1,
+  "primeros_errores": [
+   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
+  ],
+  "segundos": 11
  }
 }
