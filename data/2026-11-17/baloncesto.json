@@ -550,10 +550,9 @@
      "Road: 3-4"
     ],
     "lesiones": [
-     "Scottie Barnes: Day-To-Day (Illness)",
+     "Kawhi Leonard: Out (Knee)",
      "Nate Bittle: Out (Foot)",
-     "Kevin McCullar Jr.: Day-To-Day (Illness)",
-     "Kawhi Leonard: Out (Knee)"
+     "Kevin McCullar Jr.: Day-To-Day (Illness)"
     ],
     "ultimos_5": [
      "2026-11-07 @ MIL W 121-107",
@@ -617,7 +616,7 @@
      {
       "jugador": "Scottie Barnes",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5360,5 +5359,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-17T21:53:42.206Z"
+ "generado_utc": "2026-11-17T23:08:05.466Z"
 }
