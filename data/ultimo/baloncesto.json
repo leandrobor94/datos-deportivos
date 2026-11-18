@@ -5920,8 +5920,7 @@
      "RJ Barrett: Day-To-Day (Hamstring)",
      "Scottie Barnes: Out (Groin)",
      "Kawhi Leonard: Out (Knee)",
-     "Nate Bittle: Out (Foot)",
-     "Kevin McCullar Jr.: Day-To-Day (Illness)"
+     "Nate Bittle: Out (Foot)"
     ],
     "ultimos_5": [
      "2026-11-10 vs MEM L 118-102",
@@ -6459,9 +6458,9 @@
     ],
     "lesiones": [
      "Cade Cunningham: Day-To-Day (Knee)",
+     "Isaiah Joe: Out (Hip)",
      "Taurean Prince: Out (Knee)",
      "Ronald Holland II: Out (Knee)",
-     "Isaiah Joe: Out (Hip)",
      "Duncan Robinson: Out (Quadriceps)"
     ],
     "ultimos_5": [
@@ -11262,8 +11261,7 @@
      "Road: 7-1"
     ],
     "lesiones": [
-     "Austin Reaves: Day-To-Day (Heel)",
-     "Walker Kessler: Day-To-Day (Lower Leg)"
+     "Austin Reaves: Out (Heel)"
     ],
     "ultimos_5": [
      "2026-11-08 @ DET W 121-116",
@@ -11327,7 +11325,7 @@
      {
       "jugador": "Austin Reaves",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -11378,7 +11376,7 @@
      {
       "jugador": "Walker Kessler",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -12335,8 +12333,6 @@
     ],
     "lesiones": [
      "Maxime Raynaud: Out (Knee)",
-     "De'Andre Hunter: Day-To-Day (Hip)",
-     "Precious Achiuwa: Day-To-Day (Ankle)",
      "Ben Simmons: Out (Achilles)"
     ],
     "ultimos_5": [
@@ -12401,7 +12397,7 @@
      {
       "jugador": "De'Andre Hunter",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -12605,7 +12601,7 @@
      {
       "jugador": "Precious Achiuwa",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -12859,5 +12855,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-18T19:21:42.608Z"
+ "generado_utc": "2026-11-18T21:34:26.852Z"
 }
