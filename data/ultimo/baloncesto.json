@@ -1631,8 +1631,8 @@
      "Road: 3-4"
     ],
     "lesiones": [
+     "Andrew Nembhard: Out (Hip)",
      "T.J. McConnell: Day-To-Day (Hamstring)",
-     "Andrew Nembhard: Day-To-Day (Hip)",
      "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)",
      "Ben Sheppard: Out (Knee)"
@@ -1648,7 +1648,7 @@
      {
       "jugador": "Andrew Nembhard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3249,9 +3249,9 @@
      "Road: 6-1"
     ],
     "lesiones": [
+     "Jaylen Brown: Out (Hamstring)",
      "Dean Wade: Day-To-Day (Hamstring)",
      "Dominick Barlow: Out (Back)",
-     "Jaylen Brown: Out (Hamstring)",
      "Adem Bona: Out (Back)",
      "Ariel Hukporti: Out (Achilles)"
     ],
@@ -12855,5 +12855,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-18T21:34:26.852Z"
+ "generado_utc": "2026-11-18T22:41:37.854Z"
 }
