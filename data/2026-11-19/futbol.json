@@ -25,9 +25,9 @@
    },
    "clima": {
     "temp_c": 27,
-    "viento_kmh": 2,
-    "lluvia_prob": 24,
-    "cielo": "Partly Cloudy"
+    "viento_kmh": 5,
+    "lluvia_prob": 7,
+    "cielo": "Mostly Clear"
    },
    "equipos": {
     "local": {
@@ -42,14 +42,14 @@
      ],
      "bajas": [
       {
-       "jugador": "Thiago Mendes",
+       "jugador": "Nuno Moreira",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Early December 2026"
       },
       {
-       "jugador": "Santiago Sosa",
+       "jugador": "Tchê Tchê",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "About 1-2 weeks"
       },
       {
        "jugador": "Cauan Barros",
@@ -62,7 +62,23 @@
        "regreso": "Mid November 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Léo",
+       "José Rodríguez",
+       "Alan Saldivia",
+       "Robert Renan",
+       "Cuiabano",
+       "Santiago Sosa",
+       "Thiago Mendes",
+       "Facundo Colidio",
+       "Alan Lescano",
+       "Bruno Duarte",
+       "Andrés Gómez"
+      ]
+     },
      "tabla": {
       "pos": 11,
       "pj": 34,
@@ -90,16 +106,16 @@
       "xg_concedido_por_partido": 1.08
      },
      "stats_temporada": {
-      "porterias_cero": 5,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.5,
       "posesion": 54.7,
+      "pj_stats": 34,
       "goles_partido": 1.3,
-      "xg_total": 54.9,
+      "goles_concedidos_partido": 1.5,
+      "porterias_cero": 5,
       "remates_puerta_partido": 5.3,
+      "corners_total": 191,
+      "xg_total": 54.9,
       "grandes_ocasiones_total": 81,
       "toques_area_rival": 911,
-      "corners_total": 191,
       "xg_concedido_total": 36.9,
       "faltas_partido": 13.1,
       "amarillas_total": 63
@@ -118,27 +134,23 @@
      "bajas": [
       {
        "jugador": "Guillermo Maripán",
-       "tipo": "suspension"
+       "tipo": "suspension",
+       "regreso": "Mid November 2026"
       },
       {
-       "jugador": "Alan Patrick",
+       "jugador": "Alexandro Bernabéi",
        "tipo": "injury",
-       "regreso": "Doubtful"
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Thiago Maia",
+       "tipo": "injury",
+       "regreso": "A few weeks"
       },
       {
        "jugador": "Matheus Cunha",
        "tipo": "injury",
        "regreso": "About 1-2 weeks"
-      },
-      {
-       "jugador": "Anthoni",
-       "tipo": "injury",
-       "regreso": "About a week"
-      },
-      {
-       "jugador": "Antonio Sanabria",
-       "tipo": "injury",
-       "regreso": "Mid November 2026"
       },
       {
        "jugador": "Kayky",
@@ -156,7 +168,23 @@
        "regreso": "Mid November 2026"
       }
      ],
-     "alineacion": null,
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Kauan",
+       "Bruno Gomes",
+       "Gabriel Mercado",
+       "Juninho",
+       "Braian Aguirre",
+       "Rodrigo Villagra",
+       "Bruno Henrique",
+       "Victor Gabriel",
+       "Vitinho",
+       "Alerrandro",
+       "Alan Patrick"
+      ]
+     },
      "tabla": {
       "pos": 17,
       "pj": 34,
@@ -184,16 +212,16 @@
       "xg_concedido_por_partido": 1.31
      },
      "stats_temporada": {
-      "porterias_cero": 8,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.2,
       "posesion": 46.5,
+      "pj_stats": 34,
       "goles_partido": 1.1,
-      "xg_total": 50.5,
+      "goles_concedidos_partido": 1.2,
+      "porterias_cero": 8,
       "remates_puerta_partido": 4.4,
+      "corners_total": 208,
+      "xg_total": 50.5,
       "grandes_ocasiones_total": 69,
       "toques_area_rival": 785,
-      "corners_total": 208,
       "xg_concedido_total": 44.5,
       "faltas_partido": 15.9,
       "amarillas_total": 85
@@ -320,16 +348,16 @@
       "xg_concedido_por_partido": 1.46
      },
      "stats_temporada": {
-      "porterias_cero": 11,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.5,
       "posesion": 44.9,
+      "pj_stats": 34,
       "goles_partido": 1,
-      "xg_total": 35.4,
+      "goles_concedidos_partido": 1.5,
+      "porterias_cero": 11,
       "remates_puerta_partido": 4.1,
+      "corners_total": 151,
+      "xg_total": 35.4,
       "grandes_ocasiones_total": 58,
       "toques_area_rival": 561,
-      "corners_total": 151,
       "xg_concedido_total": 49.7,
       "faltas_partido": 12.9,
       "amarillas_total": 75
@@ -394,16 +422,16 @@
       "xg_concedido_por_partido": 1.33
      },
      "stats_temporada": {
-      "porterias_cero": 9,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.1,
       "posesion": 49.6,
+      "pj_stats": 34,
       "goles_partido": 1.3,
-      "xg_total": 52.9,
+      "goles_concedidos_partido": 1.1,
+      "porterias_cero": 9,
       "remates_puerta_partido": 5.5,
+      "corners_total": 208,
+      "xg_total": 52.9,
       "grandes_ocasiones_total": 82,
       "toques_area_rival": 810,
-      "corners_total": 208,
       "xg_concedido_total": 45.2,
       "faltas_partido": 13.7,
       "amarillas_total": 84
@@ -532,16 +560,16 @@
       "xg_concedido_por_partido": 1.23
      },
      "stats_temporada": {
-      "porterias_cero": 8,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.1,
       "posesion": 53.3,
+      "pj_stats": 34,
       "goles_partido": 1.1,
-      "xg_total": 48.1,
+      "goles_concedidos_partido": 1.1,
+      "porterias_cero": 8,
       "remates_puerta_partido": 4.2,
+      "corners_total": 233,
+      "xg_total": 48.1,
       "grandes_ocasiones_total": 74,
       "toques_area_rival": 769,
-      "corners_total": 233,
       "xg_concedido_total": 41.9,
       "faltas_partido": 14.4,
       "amarillas_total": 76
@@ -612,16 +640,16 @@
       "xg_concedido_por_partido": 1.22
      },
      "stats_temporada": {
-      "porterias_cero": 7,
-      "pj_stats": 34,
-      "goles_concedidos_partido": 1.2,
       "posesion": 59,
+      "pj_stats": 34,
       "goles_partido": 1.6,
-      "xg_total": 50.8,
+      "goles_concedidos_partido": 1.2,
+      "porterias_cero": 7,
       "remates_puerta_partido": 5.6,
+      "corners_total": 184,
+      "xg_total": 50.8,
       "grandes_ocasiones_total": 84,
       "toques_area_rival": 798,
-      "corners_total": 184,
       "xg_concedido_total": 41.5,
       "faltas_partido": 13.6,
       "amarillas_total": 81
@@ -668,9 +696,9 @@
    },
    "clima": {
     "temp_c": 21,
-    "viento_kmh": 5,
-    "lluvia_prob": 24,
-    "cielo": "Mostly Cloudy"
+    "viento_kmh": 6,
+    "lluvia_prob": 12,
+    "cielo": "Cloudy"
    },
    "equipos": {
     "local": {
@@ -746,16 +774,16 @@
      "stats_temporada": {
       "goles_partido": 1.9,
       "pj_stats": 34,
-      "posesion": 49.6,
-      "porterias_cero": 5,
       "goles_concedidos_partido": 2.3,
       "xg_total": 54.4,
       "remates_puerta_partido": 5.1,
+      "porterias_cero": 5,
+      "posesion": 49.6,
       "grandes_ocasiones_total": 103,
+      "xg_concedido_total": 75.8,
       "toques_area_rival": 831,
       "corners_total": 135,
       "faltas_partido": 10.8,
-      "xg_concedido_total": 75.8,
       "amarillas_total": 74
      }
     },
@@ -827,16 +855,16 @@
      "stats_temporada": {
       "goles_partido": 2,
       "pj_stats": 34,
-      "posesion": 50.6,
-      "porterias_cero": 4,
       "goles_concedidos_partido": 2.2,
       "xg_total": 61.5,
       "remates_puerta_partido": 5.7,
+      "porterias_cero": 4,
+      "posesion": 50.6,
       "grandes_ocasiones_total": 99,
+      "xg_concedido_total": 56.9,
       "toques_area_rival": 981,
       "corners_total": 171,
       "faltas_partido": 11.1,
-      "xg_concedido_total": 56.9,
       "amarillas_total": 70
      }
     }
@@ -882,7 +910,7 @@
    "clima": {
     "temp_c": 7,
     "viento_kmh": 1,
-    "lluvia_prob": 5,
+    "lluvia_prob": 2,
     "cielo": "Clear"
    },
    "equipos": {
@@ -946,16 +974,16 @@
      "stats_temporada": {
       "goles_partido": 1.3,
       "pj_stats": 34,
-      "posesion": 51.3,
-      "porterias_cero": 8,
       "goles_concedidos_partido": 1.4,
       "xg_total": 49.6,
       "remates_puerta_partido": 4.9,
+      "porterias_cero": 8,
+      "posesion": 51.3,
       "grandes_ocasiones_total": 83,
+      "xg_concedido_total": 50.9,
       "toques_area_rival": 901,
       "corners_total": 185,
       "faltas_partido": 10.7,
-      "xg_concedido_total": 50.9,
       "amarillas_total": 54
      }
     },
@@ -1004,16 +1032,16 @@
      "stats_temporada": {
       "goles_partido": 1.6,
       "pj_stats": 34,
-      "posesion": 49.2,
-      "porterias_cero": 4,
       "goles_concedidos_partido": 1.5,
       "xg_total": 57,
       "remates_puerta_partido": 5.5,
+      "porterias_cero": 4,
+      "posesion": 49.2,
       "grandes_ocasiones_total": 94,
+      "xg_concedido_total": 48.4,
       "toques_area_rival": 874,
       "corners_total": 168,
       "faltas_partido": 12.2,
-      "xg_concedido_total": 48.4,
       "amarillas_total": 78
      }
     }
@@ -1040,7 +1068,7 @@
   },
   {
    "id": 6139079,
-   "competicion": "World Cup U17 Grp. B (INT)",
+   "competicion": "World Cup U17 - B (INT)",
    "inicio_utc": "2026-11-19T13:00:00.000Z",
    "inicio_colombia": "2026-11-19 08:00",
    "ya_empezo": true,
@@ -1079,23 +1107,46 @@
       "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
-       "Sylvain Mahaé Nathanaël Ipeze",
-       "Nestor Pierre Sygmund Hallo Nyik",
-       "André Kawewa Menango",
-       "Steevy Mathias Jean-Charles T. A",
-       "Yoël-Henry Waköiö Atoukassé Atta",
-       "Kylan Wabetro Nekoeng",
-       "Pahaze Paul Pierre Qaeze",
+       "Sylvain Ipeze",
+       "Nestor Nyikeine",
+       "André Menango",
+       "Steevy Andrew",
+       "Yoël-Henry Attawa",
+       "Kylan Nekoeng",
+       "Pahaze Qaeze",
        "Ethan Dupuis",
-       "Lenddy Talyjean Jumoa Dalé Wede",
-       "Darryl Hmaloko Steeve Jean-Ren H",
+       "Lenddy Wede",
+       "Darryl Hmaloko",
        "Léon-Robert Sciendi"
       ]
      },
-     "tabla": null,
-     "tabla_como_local_o_visitante": null,
+     "tabla": {
+      "pos": 11,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "0-1",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 11,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "0-1",
+      "pts": 0
+     },
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 1,
+      "posesion": 35.4,
+      "corners_total": 2,
+      "toques_area_rival": 2,
+      "faltas_partido": 4
+     }
     },
     "visitante": {
      "id": 265236,
@@ -1112,23 +1163,34 @@
       "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
-       "Mijail Vladimir Vaca Loy",
-       "Nicolas Matias Sotomayor Velasco",
-       "Carlos Medina",
-       "Jhon Armando Chica Monrroy",
-       "Jordin Hidalgo Mina Guagua",
+       "Mijaíl Vaca",
+       "Nicolás Sotomayor",
+       "Carlos Granda",
+       "Jhon Chica",
+       "Jordin Mina",
        "Luis Fragozo",
-       "Brayson Jeesael Zamora Campas",
-       "Nixon Byron Ayoví Arroyo",
-       "Hólger Jamil Quintero Preciado",
+       "Brayson Zamora",
+       "Nixon Ayoví",
+       "Hólger Quintero",
        "Edwin Quintero",
-       "Jhon Steven Guerrero Quiñónez"
+       "Steven Guerrero"
       ]
      },
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 1,
+      "goles_partido": 1,
+      "porterias_cero": 1,
+      "posesion": 64.6,
+      "remates_puerta_partido": 13,
+      "grandes_ocasiones_total": 4,
+      "corners_total": 11,
+      "toques_area_rival": 54,
+      "faltas_partido": 3
+     }
     }
    },
    "h2h": {
@@ -1142,7 +1204,7 @@
   },
   {
    "id": 6139078,
-   "competicion": "World Cup U17 Grp. B (INT)",
+   "competicion": "World Cup U17 - B (INT)",
    "inicio_utc": "2026-11-19T13:30:00.000Z",
    "inicio_colombia": "2026-11-19 08:30",
    "ya_empezo": true,
@@ -1182,23 +1244,35 @@
       "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
-       "Jun-Yeong Jang",
-       "Min-Su Seong",
-       "Mu-Seong Kang",
-       "Min-Jun Choi",
-       "Jae-Hyeok Choi",
-       "Ji-Ho Kim",
-       "Ha-Won Jung",
-       "Seung-Min Han",
-       "Geon Baek",
-       "In-Woo Lee",
-       "Ian Nam"
+       "Jang Jun-Yeong",
+       "Seong Min-Su",
+       "Kang Mu-Sung",
+       "Choi Min-Jun",
+       "Choi Jae-Hyeok",
+       "Kim Ji-Ho",
+       "Jung Ha-Won",
+       "Han Seung-Min",
+       "Baek Geon",
+       "Lee In-Woo",
+       "Nam Ian"
       ]
      },
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 1,
+      "goles_partido": 3,
+      "porterias_cero": 1,
+      "posesion": 36.3,
+      "remates_puerta_partido": 8,
+      "grandes_ocasiones_total": 3,
+      "corners_total": 4,
+      "toques_area_rival": 38,
+      "faltas_partido": 18,
+      "amarillas_total": 1
+     }
     },
     "visitante": {
      "id": 1763780,
@@ -1219,11 +1293,11 @@
        "Travor Mubiru",
        "Mujaid Mbalire",
        "Musa Suuna",
-       "Ukasha Abudshafie Jemba",
-       "John Brian Owino",
+       "Ukasha Jemba",
+       "John Owino",
        "Henry Muhoozi",
        "Fahad Ismail",
-       "Isima Mulala Magala",
+       "Isima Magala",
        "Joseph Dorongin",
        "Owen Mukisa"
       ]
@@ -1231,7 +1305,16 @@
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 3,
+      "pj_stats": 1,
+      "posesion": 63.7,
+      "remates_puerta_partido": 3,
+      "corners_total": 5,
+      "toques_area_rival": 12,
+      "faltas_partido": 9,
+      "amarillas_total": 1
+     }
     }
    },
    "h2h": {
@@ -1242,7 +1325,7 @@
   },
   {
    "id": 6139102,
-   "competicion": "World Cup U17 Grp. D (INT)",
+   "competicion": "World Cup U17 - D (INT)",
    "inicio_utc": "2026-11-19T13:00:00.000Z",
    "inicio_colombia": "2026-11-19 08:00",
    "ya_empezo": true,
@@ -1293,12 +1376,12 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Thâo Mouapa Mwa Meuraillo",
+       "Thâo Mouapa",
        "Mathis Chambon",
        "Mohamed Sylla",
        "Léo Lemaître",
        "Firmin Thétiot",
-       "Idrissa Ahmed Dia Aissaoui",
+       "Idrissa Dia Aissaoui",
        "Aymen Amaaouch",
        "Loan Merrifield",
        "Noah Loufoundou",
@@ -1309,7 +1392,17 @@
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 1,
+      "goles_partido": 3,
+      "posesion": 59.6,
+      "remates_puerta_partido": 6,
+      "grandes_ocasiones_total": 7,
+      "corners_total": 4,
+      "toques_area_rival": 30,
+      "faltas_partido": 13
+     }
     },
     "visitante": {
      "id": 78793,
@@ -1330,19 +1423,30 @@
        "Guivens Barjon",
        "Stanley Louis",
        "Leo Dieujuste",
-       "Jourdlyn Louis Clervius",
+       "Jourdlyn Clervius",
        "Miguel Joseph",
-       "Stephen Óscar Ramos",
+       "Stephen Ramos",
        "Mickenley Chery",
        "Germisson Chery",
-       "Emerson George Laïssé",
+       "Emerson Laïssé",
        "Marvenly Exilas"
       ]
      },
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 3,
+      "pj_stats": 1,
+      "goles_partido": 1,
+      "posesion": 40.4,
+      "remates_puerta_partido": 3,
+      "grandes_ocasiones_total": 1,
+      "corners_total": 2,
+      "toques_area_rival": 13,
+      "faltas_partido": 4,
+      "amarillas_total": 1
+     }
     }
    },
    "h2h": {
@@ -1363,7 +1467,7 @@
   },
   {
    "id": 6139103,
-   "competicion": "World Cup U17 Grp. D (INT)",
+   "competicion": "World Cup U17 - D (INT)",
    "inicio_utc": "2026-11-19T14:00:00.000Z",
    "inicio_colombia": "2026-11-19 09:00",
    "ya_empezo": true,
@@ -1401,23 +1505,50 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Abdullah Ahmed Al Mas",
+       "Abdullah Al Mas",
        "Marwan Al Yami",
-       "Yahia Tariq Sayed Adam Mousa",
-       "Jawad Ali Al Hashim Al Sayed",
-       "Ammar Mohammed Maimani",
-       "Abdulrahman Abbas Al Mami",
-       "Abdullah Ahmed Al Batli",
-       "Shaman Mohammed Al Kahtani",
-       "Abdullah Mohammed B. Nasser Al D",
-       "Zaid Mohammed Al Buri",
-       "Faris Abdulaziz Bu Shaqra‏a"
+       "Yahia Mousa",
+       "Jawad Al Hashim",
+       "Ammar Maimani",
+       "Abdulrahman Al Mami",
+       "Abdullah Al Batli",
+       "Shaman Al Kahtani",
+       "Abdullah Al Dawsari",
+       "Zaid Al Buri",
+       "Faris Bu Shaqraa"
       ]
      },
-     "tabla": null,
-     "tabla_como_local_o_visitante": null,
+     "tabla": {
+      "pos": 9,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "2-3",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 9,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "2-3",
+      "pts": 0
+     },
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 3,
+      "pj_stats": 1,
+      "goles_partido": 2,
+      "posesion": 47.9,
+      "remates_puerta_partido": 2,
+      "grandes_ocasiones_total": 2,
+      "corners_total": 1,
+      "toques_area_rival": 8,
+      "faltas_partido": 12,
+      "amarillas_total": 2
+     }
     },
     "visitante": {
      "id": 5970,
@@ -1428,23 +1559,33 @@
       "tipo": "standard",
       "formacion": "4-3-3",
       "titulares": [
-       "Luis Eduardo Machín Trindade",
-       "Dahel César Guedes Quevedo",
-       "Johann Benjamín Fernández Etchev",
-       "Lautaro Muñiz Larrauri",
-       "Felipe de León Martínez",
-       "Ramiro García Ruiz",
-       "Pablo Daniel Barreiro Rodríguez",
-       "Thiago Luciano Brizuela Miranda",
-       "Alan Soares de Lima Bargas",
-       "Juan Pablo Gancheff Dziekonski",
-       "Facundo Nicolás Saldaña Marín"
+       "Luis Machín",
+       "Dahel Guedes",
+       "Johann Fernández",
+       "Lautaro Muñiz",
+       "Felipe de León",
+       "Ramiro García",
+       "Pablo Barreiro",
+       "Thiago Brizuela",
+       "Alan Soares de Lima",
+       "Juan Gancheff",
+       "Facundo Saldaña"
       ]
      },
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 2,
+      "pj_stats": 1,
+      "goles_partido": 3,
+      "posesion": 52.1,
+      "remates_puerta_partido": 6,
+      "corners_total": 11,
+      "toques_area_rival": 23,
+      "faltas_partido": 14,
+      "amarillas_total": 1
+     }
     }
    },
    "h2h": {
@@ -1455,7 +1596,7 @@
   },
   {
    "id": 6139096,
-   "competicion": "World Cup U17 Grp. C (INT)",
+   "competicion": "World Cup U17 - C (INT)",
    "inicio_utc": "2026-11-19T15:00:00.000Z",
    "inicio_colombia": "2026-11-19 10:00",
    "ya_empezo": true,
@@ -1489,23 +1630,35 @@
       "tipo": "standard",
       "formacion": "4-4-2",
       "titulares": [
-       "João Antonia Jofrisse",
-       "Floresnaldo Florido Matias",
-       "Pascoal Demi Julio Miambo",
-       "Pirès Antonia Vieira",
-       "Allan Pereira de Figueiredo",
-       "Alírio Antonio Cuna Júnior",
-       "Valentim Jose Pacane",
+       "João Jofrisse",
+       "Floresnaldo Matias",
+       "Pascoal Demi",
+       "Pirès Vieira",
+       "Allan de Figueiredo",
+       "Alírio Júnior",
+       "Valentim Pacane",
        "Khensane",
-       "Chausson Sergio Nhabanga",
-       "Antonio Goncalves Junior Nhampul",
-       "Diego Elias Pelembe"
+       "Chausson Nhabanga",
+       "Antonio Nhampule",
+       "Diego Pelembe"
       ]
      },
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 1,
+      "goles_partido": 4,
+      "porterias_cero": 1,
+      "posesion": 43.7,
+      "remates_puerta_partido": 9,
+      "grandes_ocasiones_total": 4,
+      "corners_total": 3,
+      "toques_area_rival": 27,
+      "faltas_partido": 8,
+      "amarillas_total": 3
+     }
     },
     "visitante": {
      "id": 260901,
@@ -1523,14 +1676,14 @@
       "formacion": "4-2-3-1",
       "titulares": [
        "Elias Medina",
-       "Magnus Tornøe Dalager",
+       "Magnus Dalager",
        "Daryosh Popalzai",
        "Noah Madsen",
        "Xander Poulsen",
-       "Hector Lux Høyrup",
+       "Hector Lux",
        "Frederik Vestergaard",
        "Omran Khattar",
-       "Elvin Mehičić",
+       "Elvin Mehicic",
        "Ishaq Holalam",
        "Chuk Obi"
       ]
@@ -1538,7 +1691,16 @@
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 4,
+      "pj_stats": 1,
+      "posesion": 56.3,
+      "remates_puerta_partido": 3,
+      "grandes_ocasiones_total": 4,
+      "corners_total": 9,
+      "toques_area_rival": 23,
+      "faltas_partido": 11
+     }
     }
    },
    "h2h": {
@@ -1551,7 +1713,7 @@
   },
   {
    "id": 6139095,
-   "competicion": "World Cup U17 Grp. C (INT)",
+   "competicion": "World Cup U17 - C (INT)",
    "inicio_utc": "2026-11-19T16:00:00.000Z",
    "inicio_colombia": "2026-11-19 11:00",
    "ya_empezo": true,
@@ -1603,22 +1765,48 @@
       "formacion": "4-2-3-1",
       "titulares": [
        "Valentin Reigia",
-       "Thiago Benjamín Pérez Ferreira",
+       "Thiago Pérez",
        "Álvaro Güich",
-       "Julio Maximiliano Coria",
-       "Alex Sebastian Cardozo",
+       "Julio Coria",
+       "Alex Cardozo",
        "Marcos Ortiz",
        "Matheo Machuca",
        "Tobias Goytia",
        "Giovanni Baroni",
-       "Emiliano Gaston Barrionuevo",
-       "Facundo Gael Salinas"
+       "Emiliano Barrionuevo",
+       "Facundo Salinas"
       ]
      },
-     "tabla": null,
-     "tabla_como_local_o_visitante": null,
+     "tabla": {
+      "pos": 12,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "0-2",
+      "pts": 0
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 12,
+      "pj": 1,
+      "g": 0,
+      "e": 0,
+      "p": 1,
+      "goles": "0-2",
+      "pts": 0
+     },
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 2,
+      "pj_stats": 1,
+      "posesion": 66.3,
+      "remates_puerta_partido": 6,
+      "grandes_ocasiones_total": 2,
+      "corners_total": 10,
+      "toques_area_rival": 27,
+      "faltas_partido": 12,
+      "amarillas_total": 1
+     }
     },
     "visitante": {
      "id": 5972,
@@ -1635,9 +1823,9 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Charles Thackray Wilson-Papps",
+       "Charlie Wilson-Papps",
        "Max Lyall-Rajendra",
-       "Harrison Sydney-Hill Bond",
+       "Harrison Bond",
        "Callum McCaskey",
        "Archie Mitchell",
        "Jariyah Shah",
@@ -1651,7 +1839,19 @@
      "tabla": null,
      "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 1,
+      "goles_partido": 2,
+      "porterias_cero": 1,
+      "posesion": 33.7,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 4,
+      "corners_total": 1,
+      "toques_area_rival": 14,
+      "faltas_partido": 15,
+      "amarillas_total": 2
+     }
     }
    },
    "h2h": {
@@ -1670,7 +1870,7 @@
   },
   {
    "id": 6139073,
-   "competicion": "World Cup U17 Grp. A (INT)",
+   "competicion": "World Cup U17 - A (INT)",
    "inicio_utc": "2026-11-19T15:30:00.000Z",
    "inicio_colombia": "2026-11-19 10:30",
    "ya_empezo": true,
@@ -1708,39 +1908,35 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Bakri Mohamed Mohamed",
-       "Mateo Esparza Ariza",
+       "Bakri Mohamed",
+       "Mateo Esparza",
        "Taha Nassir",
        "Sami Darani",
-       "Adham Adnan Adnan",
-       "Mohamed Hassanein Yeheafdl",
-       "Omar Ayman Kamal Mahmoud",
-       "Dhiaeddine Larbi Benyatla",
-       "Hadi Jad Khalil",
-       "Ayokunle Samuel Tokode",
-       "Mohsain Abdulla Al Hajri"
+       "Adham Adnan",
+       "Hassanein Yeheafdl",
+       "Omar Ayman",
+       "Dhiaeddine Larbi",
+       "Jad Hadi Khalil",
+       "Ayokunle Tokode",
+       "Mohsain Al Hajri"
       ]
      },
-     "tabla": {
-      "pos": 1,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-0",
-      "pts": 3
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 1,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-0",
-      "pts": 3
-     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 1,
+      "goles_partido": 2,
+      "porterias_cero": 1,
+      "posesion": 35.1,
+      "remates_puerta_partido": 2,
+      "grandes_ocasiones_total": 2,
+      "corners_total": 1,
+      "toques_area_rival": 15,
+      "faltas_partido": 17,
+      "amarillas_total": 4
+     }
     },
     "visitante": {
      "id": 265238,
@@ -1757,39 +1953,33 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Isaías Abuabara Hernández",
-       "Neir Caleb Marrugo Hernández",
-       "Alberto Antonio Adams Bermudez",
-       "Stephen Gerard Domínguez Gonzále",
-       "Gabriel Antonio Quiróz Valencia",
-       "Lucas Alberto Norte Campagna",
-       "Jossimar Enrique Insturain Rios",
-       "Cristián Joel Morán Alvarado",
-       "Estevis Jhassir López Senhouse",
-       "Alexander Abdul Tull Ortiz",
-       "Thiago Chalmers López"
+       "Isaías Abuabara",
+       "Neir Marrugo",
+       "Alberto Adams",
+       "Stephen Domínguez",
+       "Gabriel Quiróz",
+       "Lucas Norte",
+       "Jossimar Insturain",
+       "Cristián Morán",
+       "Estevis López",
+       "Alexander Tull",
+       "Thiago Chalmers"
       ]
      },
-     "tabla": {
-      "pos": 4,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "0-2",
-      "pts": 0
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 4,
-      "pj": 1,
-      "g": 0,
-      "e": 0,
-      "p": 1,
-      "goles": "0-2",
-      "pts": 0
-     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 2,
+      "pj_stats": 1,
+      "posesion": 64.9,
+      "remates_puerta_partido": 1,
+      "grandes_ocasiones_total": 1,
+      "corners_total": 4,
+      "toques_area_rival": 13,
+      "faltas_partido": 14,
+      "amarillas_total": 2
+     }
     }
    },
    "h2h": {
@@ -1804,7 +1994,7 @@
   },
   {
    "id": 6139072,
-   "competicion": "World Cup U17 Grp. A (INT)",
+   "competicion": "World Cup U17 - A (INT)",
    "inicio_utc": "2026-11-19T16:00:00.000Z",
    "inicio_colombia": "2026-11-19 11:00",
    "ya_empezo": true,
@@ -1843,21 +2033,21 @@
       "tipo": "standard",
       "formacion": "4-2-3-1",
       "titulares": [
-       "Malek Amr Abdelkhalek Hussein",
-       "Mohamed El Sayed Mohamed Ismail ",
-       "Adel Alaa Mohamed Hassan Mohamed",
-       "Adam Mohamed Youssef Abdelraze Y",
-       "Ezzat Mohamed Abdelmoez Abdela M",
-       "Ahmed Bashir El Sayed El Sayed A",
-       "Omar Abdelrahim Nageh Ahmed Abde",
-       "Daniel Tamer Wahby Habib Abouelz",
-       "Ahmad Safwat Ahmed Eid Mostafa E",
-       "Mohamed Gamal Mohamed Attia",
-       "Adham Mohamed Mohamed Hasseib So"
+       "Malek Amr",
+       "Mohamed El Sayed",
+       "Adel Alaa",
+       "Adam Youssef",
+       "Ezzat Mohamed",
+       "Ahmed Bashir",
+       "Omar Abdelrahim",
+       "Daniel Tamer",
+       "Ahmed Safwat",
+       "Mohamed Gamal",
+       "Adham Hasseib"
       ]
      },
      "tabla": {
-      "pos": 3,
+      "pos": 10,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -1866,7 +2056,7 @@
       "pts": 0
      },
      "tabla_como_local_o_visitante": {
-      "pos": 4,
+      "pos": 10,
       "pj": 1,
       "g": 0,
       "e": 0,
@@ -1875,7 +2065,17 @@
       "pts": 0
      },
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 2,
+      "pj_stats": 1,
+      "goles_partido": 1,
+      "posesion": 39.1,
+      "remates_puerta_partido": 2,
+      "corners_total": 1,
+      "toques_area_rival": 16,
+      "faltas_partido": 7,
+      "amarillas_total": 1
+     }
     },
     "visitante": {
      "id": 201142,
@@ -1898,33 +2098,28 @@
        "Athanasios Filippiadis",
        "Georgios Siozios",
        "Panagiotis Biniaris",
-       "Ioannis Dorival Neto Ferraz",
+       "Ioannis Neto",
        "Nikolaos Chaldezos",
-       "Ioannis-Christos Kostoglou",
+       "Ioannis Christos Kostoglou",
        "Iason Nempis",
        "Konstantinos Karangelis"
       ]
      },
-     "tabla": {
-      "pos": 2,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-1",
-      "pts": 3
-     },
-     "tabla_como_local_o_visitante": {
-      "pos": 1,
-      "pj": 1,
-      "g": 1,
-      "e": 0,
-      "p": 0,
-      "goles": "2-1",
-      "pts": 3
-     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
      "xg_temporada": null,
-     "stats_temporada": null
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 1,
+      "goles_partido": 2,
+      "posesion": 60.9,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 5,
+      "corners_total": 4,
+      "toques_area_rival": 31,
+      "faltas_partido": 10,
+      "amarillas_total": 1
+     }
     }
    },
    "h2h": {
@@ -1937,5 +2132,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-19T19:26:58.938Z"
+ "generado_utc": "2026-11-19T21:46:59.137Z"
 }
