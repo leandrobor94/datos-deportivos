@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-20T01:00Z",
    "inicio_colombia": "2026-11-19 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "FedExForum",
    "serie_temporada": [
     "MEM leads series 1-0"
@@ -23,18 +23,12 @@
     ],
     "lesiones": [
      "Draymond Green: Out (Rest)",
-     "LJ Cryer: Day-To-Day (Back)",
      "Brandon Williams: Out (Hamstring)",
      "Stephen Curry: Out (Abdomen)",
-     "Kristaps Porzingis: Out (Illness)"
+     "Kristaps Porzingis: Out (Illness)",
+     "Moses Moody: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-10 vs NO W 138-87",
-     "2026-11-12 @ HOU L 115-108",
-     "2026-11-14 @ SA L 123-85",
-     "2026-11-17 @ NO L 115-94",
-     "2026-11-19 @ DAL L 116-94"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Brandin Podziemski",
@@ -556,19 +550,13 @@
      "Road: 8-0"
     ],
     "lesiones": [
-     "Isaiah Stewart: Day-To-Day (Illness)",
      "Zach Edey: Out (Ankle)",
      "Ty Jerome: Out (Hip)",
      "GG Jackson: Out (Foot)",
-     "Scotty Pippen Jr.: Out (Back)"
+     "Scotty Pippen Jr.: Out (Back)",
+     "Richie Saunders: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-12 vs DEN L 123-118",
-     "2026-11-14 @ NO W 142-111",
-     "2026-11-15 vs BKN W 129-110",
-     "2026-11-17 @ WSH W 136-120",
-     "2026-11-19 @ CLE W 124-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cameron Boozer",
@@ -981,7 +969,7 @@
      {
       "jugador": "Isaiah Stewart",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1089,10 +1077,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-20T01:00Z",
    "inicio_colombia": "2026-11-19 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Fiserv Forum",
    "serie_temporada": [
-    "Series starts 11/19"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "Portland Trail Blazers",
@@ -1102,24 +1090,18 @@
      "Road: 6-3"
     ],
     "lesiones": [
+     "Deni Avdija: Out (Foot)",
      "Chris Youngblood: Out (Heel)",
      "Robert Williams III: Out (Rest)",
-     "Deni Avdija: Day-To-Day (Foot)",
-     "Toumani Camara: Day-To-Day (Rest)",
-     "Vit Krejci: Out (Ankle)"
+     "Vit Krejci: Out (Ankle)",
+     "Ja Morant: Out (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-11-11 vs OKC W 123-103",
-     "2026-11-12 vs OKC W 118-108",
-     "2026-11-14 @ SAC W 120-107",
-     "2026-11-17 @ MIN L 106-98",
-     "2026-11-18 @ MIN L 106-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Deni Avdija",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1170,7 +1152,7 @@
      {
       "jugador": "Toumani Camara",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1638,13 +1620,7 @@
      "Myles Turner: Out (Shoulder)",
      "Ousmane Dieng: Out (Finger)"
     ],
-    "ultimos_5": [
-     "2026-11-11 @ NY L 117-85",
-     "2026-11-12 vs LAL L 123-112",
-     "2026-11-14 @ ORL L 107-99",
-     "2026-11-16 vs ATL L 113-106",
-     "2026-11-19 @ MIA L 137-130"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyler Herro",
@@ -2166,10 +2142,10 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-20T01:00Z",
    "inicio_colombia": "2026-11-19 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Target Center",
    "serie_temporada": [
-    "Series starts 11/19"
+    "Regular Season Series"
    ],
    "visitante": {
     "nombre": "New York Knicks",
@@ -2179,13 +2155,7 @@
      "Road: 4-3"
     ],
     "lesiones": [],
-    "ultimos_5": [
-     "2026-11-11 vs MIL W 117-85",
-     "2026-11-12 vs CLE L 115-107",
-     "2026-11-14 @ IND L 106-104",
-     "2026-11-15 @ TOR W 112-108 OT",
-     "2026-11-18 @ TOR W 111-102"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Brunson",
@@ -2707,18 +2677,11 @@
      "Road: 4-2"
     ],
     "lesiones": [
-     "Jonathan Kuminga: Day-To-Day (Shoulder)",
      "Jaylen Clark: Out (Hamstring)",
      "Anthony Edwards: Out (Knee)",
      "Donte DiVincenzo: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-11-09 vs UTAH W 115-100",
-     "2026-11-13 vs DAL W 133-94",
-     "2026-11-15 vs CHI L 117-106",
-     "2026-11-17 vs POR W 106-98",
-     "2026-11-18 vs POR W 106-105"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jaden McDaniels",
@@ -2825,7 +2788,7 @@
      {
       "jugador": "Jonathan Kuminga",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3238,7 +3201,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-20T01:00Z",
    "inicio_colombia": "2026-11-19 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Frost Bank Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -3255,13 +3218,7 @@
      "Bradley Beal: Out (Knee)",
      "Jordan Miller: Out (Shoulder)"
     ],
-    "ultimos_5": [
-     "2026-11-09 vs NO W 139-123",
-     "2026-11-11 @ PHX L 133-110",
-     "2026-11-14 vs OKC W 113-112",
-     "2026-11-15 vs CHA W 113-105",
-     "2026-11-18 vs UTAH L 132-107"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Darius Garland",
@@ -3785,13 +3742,7 @@
      "Tobias Harris: Out (Calf)",
      "Jayden Quaintance: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-10 @ PHX W 122-96",
-     "2026-11-12 @ CHI W 124-119",
-     "2026-11-14 vs GS W 123-85",
-     "2026-11-15 @ UTAH W 110-102",
-     "2026-11-18 vs DET L 105-93"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tobias Harris",
@@ -4310,5 +4261,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-19T22:45:06.126Z"
+ "generado_utc": "2026-11-20T01:45:07.748Z"
 }
