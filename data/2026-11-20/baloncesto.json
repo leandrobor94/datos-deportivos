@@ -970,7 +970,7 @@
      {
       "jugador": "Kingston Flemings",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -8585,7 +8585,7 @@
      "Road: 1-4"
     ],
     "lesiones": [
-     "Precious Achiuwa: Day-To-Day (Lower Leg)",
+     "Precious Achiuwa: Out (Lower Leg)",
      "De'Andre Hunter: Day-To-Day (Hip)",
      "Maxime Raynaud: Out (Knee)",
      "Ben Simmons: Out (Achilles)"
@@ -9591,5 +9591,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-20T21:31:15.787Z"
+ "generado_utc": "2026-11-20T22:20:15.727Z"
 }
