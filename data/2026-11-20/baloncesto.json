@@ -2162,10 +2162,10 @@
      "Road: 3-4"
     ],
     "lesiones": [
+     "Tyrese Haliburton: Out (Hamstring)",
      "T.J. McConnell: Day-To-Day (Hamstring)",
      "Andrew Nembhard: Day-To-Day (Hip)",
      "Braden Smith: Day-To-Day (Ankle)",
-     "Tyrese Haliburton: Out (Hamstring)",
      "Johnny Furphy: Out (Knee)"
     ],
     "ultimos_5": [
@@ -3239,9 +3239,9 @@
      "Road: 3-4"
     ],
     "lesiones": [
+     "Kawhi Leonard: Out (Knee)",
      "Collin Murray-Boyles: Out (Concussion)",
      "RJ Barrett: Out (Hamstring)",
-     "Kawhi Leonard: Out (Knee)",
      "Nate Bittle: Out (Foot)"
     ],
     "ultimos_5": [
@@ -8856,7 +8856,7 @@
      {
       "jugador": "Precious Achiuwa",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -9591,5 +9591,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-20T19:02:21.269Z"
+ "generado_utc": "2026-11-20T21:31:15.787Z"
 }
