@@ -9,7 +9,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T00:00Z",
    "inicio_colombia": "2026-11-20 19:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "ATL leads series 1-0"
@@ -22,23 +22,18 @@
      "Road: 1-6"
     ],
     "lesiones": [
+     "Brandon Miller: Day-To-Day (Ankle)",
      "Grant Williams: Out (Hamstring)",
      "Grayson Allen: Out (Concussion)",
      "Kon Knueppel: Out (Hamstring)",
      "Dennis Schroder: Out (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-11-07 vs BOS L 119-80",
-     "2026-11-10 vs CLE W 124-112",
-     "2026-11-13 @ PHX L 101-96",
-     "2026-11-15 @ LAC L 113-105",
-     "2026-11-18 @ LAL L 118-114 OT"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Brandon Miller",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -545,19 +540,13 @@
      "Road: 6-3"
     ],
     "lesiones": [
+     "Kingston Flemings: Out (Back)",
      "Jock Landale: Out (Hip)",
-     "Kingston Flemings: Day-To-Day (Back)",
      "Asa Newell: Out (Toe)",
      "CJ McCollum: Out (Calf)",
      "Mouhamed Gueye: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-11-08 vs BKN W 124-121",
-     "2026-11-10 vs LAL L 124-114",
-     "2026-11-14 @ CHI L 125-117 OT",
-     "2026-11-16 @ MIL W 113-106",
-     "2026-11-19 @ OKC W 117-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Johnson",
@@ -1079,7 +1068,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T00:30Z",
    "inicio_colombia": "2026-11-20 19:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Barclays Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -1097,13 +1086,7 @@
      "Noah Penda: Out (Hamstring)",
      "Paolo Banchero: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-11-11 @ SAC W 107-100",
-     "2026-11-12 @ UTAH W 123-108",
-     "2026-11-14 vs MIL W 107-99",
-     "2026-11-17 @ BOS W 115-105",
-     "2026-11-19 vs PHI L 121-116"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Franz Wagner",
@@ -1621,13 +1604,7 @@
     "lesiones": [
      "Grant Nelson: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-11-09 @ DAL L 130-93",
-     "2026-11-12 @ NO W 145-111",
-     "2026-11-15 @ MEM L 129-110",
-     "2026-11-17 vs PHI L 135-123",
-     "2026-11-19 vs CHI L 137-107"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Michael Porter Jr.",
@@ -2149,7 +2126,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T00:30Z",
    "inicio_colombia": "2026-11-20 19:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Rocket Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -2163,23 +2140,15 @@
     ],
     "lesiones": [
      "Tyrese Haliburton: Out (Hamstring)",
-     "T.J. McConnell: Day-To-Day (Hamstring)",
-     "Andrew Nembhard: Day-To-Day (Hip)",
-     "Braden Smith: Day-To-Day (Ankle)",
-     "Johnny Furphy: Out (Knee)"
+     "Johnny Furphy: Out (Knee)",
+     "Ben Sheppard: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-10 @ DAL L 125-122",
-     "2026-11-12 vs WSH W 114-101",
-     "2026-11-14 vs NY W 106-104",
-     "2026-11-15 @ PHI L 131-124",
-     "2026-11-19 vs HOU L 119-104"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Andrew Nembhard",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2694,17 +2663,10 @@
     ],
     "lesiones": [
      "Jaylon Tyson: Out (Ankle)",
-     "Peyton Watson: Day-To-Day (Back)",
      "Nae'Qwan Tomlin: Out (Back)",
      "Evan Mobley: Out (Toe)"
     ],
-    "ultimos_5": [
-     "2026-11-12 @ NY W 115-107",
-     "2026-11-14 @ MIA L 133-121",
-     "2026-11-15 vs DAL W 127-117",
-     "2026-11-17 vs CHI W 126-115",
-     "2026-11-19 vs MEM L 124-121"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Donovan Mitchell",
@@ -2862,7 +2824,7 @@
      {
       "jugador": "Peyton Watson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3226,7 +3188,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T00:30Z",
    "inicio_colombia": "2026-11-20 19:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Little Caesars Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -3244,13 +3206,7 @@
      "RJ Barrett: Out (Hamstring)",
      "Nate Bittle: Out (Foot)"
     ],
-    "ultimos_5": [
-     "2026-11-12 vs BOS L 98-93",
-     "2026-11-13 @ PHI L 123-112",
-     "2026-11-15 vs NY L 112-108 OT",
-     "2026-11-18 vs NY L 111-102",
-     "2026-11-19 vs WSH L 103-99"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "RJ Barrett",
@@ -3766,24 +3722,18 @@
      "Road: 7-2"
     ],
     "lesiones": [
-     "Ronald Holland II: Day-To-Day (Knee)",
+     "Ronald Holland II: Out (Knee)",
      "Taurean Prince: Out (Knee)",
      "Ebuka Okorie: Out (Oblique)",
-     "Cade Cunningham: Day-To-Day (Knee)",
-     "Ugonna Onyenso: Day-To-Day (Foot)"
+     "Ugonna Onyenso: Day-To-Day (Foot)",
+     "Duncan Robinson: Out (Quadriceps)"
     ],
-    "ultimos_5": [
-     "2026-11-10 vs WSH W 122-111",
-     "2026-11-13 @ WSH W 144-140 2OT",
-     "2026-11-15 @ MIA L 137-117",
-     "2026-11-18 @ SA W 105-93",
-     "2026-11-19 @ NO W 122-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cade Cunningham",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4236,7 +4186,7 @@
      {
       "jugador": "Ronald Holland II",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4294,7 +4244,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T01:00Z",
    "inicio_colombia": "2026-11-20 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "United Center",
    "serie_temporada": [
     "WSH leads series 1-0"
@@ -4307,19 +4257,13 @@
      "Road: 3-6"
     ],
     "lesiones": [
-     "Felix Okpara: Day-To-Day (Back)",
+     "Felix Okpara: Out (Back)",
      "Tristan Vukcevic: Out (Hip)",
      "Reece Beekman: Out (Shoulder)",
      "Justin Champagnie: Out (Foot)",
      "Jamir Watkins: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-12 @ IND L 114-101",
-     "2026-11-13 vs DET L 144-140 2OT",
-     "2026-11-16 vs HOU L 147-119",
-     "2026-11-17 vs MEM L 136-120",
-     "2026-11-19 @ TOR W 103-99"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Kyshawn George",
@@ -4839,18 +4783,11 @@
      "Road: 3-6"
     ],
     "lesiones": [
-     "Jalen Smith: Day-To-Day (Illness)",
-     "Noa Essengue: Day-To-Day (Wrist)",
+     "Jalen Smith: Out (Illness)",
      "Tobe Awaka: Out (Back)",
      "Caleb Wilson: Out (Hand)"
     ],
-    "ultimos_5": [
-     "2026-11-12 vs SA L 124-119",
-     "2026-11-14 vs ATL W 125-117 OT",
-     "2026-11-15 @ MIN W 117-106",
-     "2026-11-17 @ CLE L 126-115",
-     "2026-11-19 @ BKN W 137-107"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Caleb Wilson",
@@ -5059,7 +4996,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5367,7 +5304,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-21T01:00Z",
    "inicio_colombia": "2026-11-20 20:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Paycom Center",
    "serie_temporada": [
     "Regular Season Series"
@@ -5383,16 +5320,9 @@
      "Bryce McGowens: Out (Elbow)",
      "Trendon Watford: Out (Ankle)",
      "Bennedict Mathurin: Out (Foot)",
-     "Trey Murphy III: Out (Knee)",
      "Dejounte Murray: Out (Ankle)"
     ],
-    "ultimos_5": [
-     "2026-11-12 vs BKN L 145-111",
-     "2026-11-14 vs MEM L 142-111",
-     "2026-11-15 vs DEN L 116-108",
-     "2026-11-17 vs GS W 115-94",
-     "2026-11-19 vs DET L 122-109"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Saddiq Bey",
@@ -5550,7 +5480,7 @@
      {
       "jugador": "Trey Murphy III",
       "posicion": "F",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5913,19 +5843,13 @@
      "Road: 4-5"
     ],
     "lesiones": [
+     "Alex Caruso: Out (Hip)",
      "Nikola Topic: Out (Hip)",
-     "Alex Caruso: Day-To-Day (Hip)",
      "Thomas Sorber: Out (Knee)",
      "Cason Wallace: Out (Shoulder)",
      "Chet Holmgren: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-11 @ POR L 123-103",
-     "2026-11-12 @ POR L 118-108",
-     "2026-11-14 @ LAC L 113-112",
-     "2026-11-16 @ SAC W 125-103",
-     "2026-11-19 vs ATL L 117-112"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Shai Gilgeous-Alexander",
@@ -9591,5 +9515,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-20T22:20:15.727Z"
+ "generado_utc": "2026-11-21T01:26:09.893Z"
 }
