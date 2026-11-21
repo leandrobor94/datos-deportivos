@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-21T18:00Z",
    "inicio_colombia": "2026-11-21 13:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Xfinity Mobile Arena",
    "serie_temporada": [
     "PHI leads series 1-0"
@@ -24,13 +24,7 @@
     "lesiones": [
      "Ousmane Dieng: Out (Finger)"
     ],
-    "ultimos_5": [
-     "2026-11-12 vs LAL L 123-112",
-     "2026-11-14 @ ORL L 107-99",
-     "2026-11-16 vs ATL L 113-106",
-     "2026-11-19 @ MIA L 137-130",
-     "2026-11-20 vs POR L 124-114"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyler Herro",
@@ -557,13 +551,7 @@
      "Jaylen Brown: Out (Hamstring)",
      "Ariel Hukporti: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-11-11 vs BOS L 123-101",
-     "2026-11-13 vs TOR W 123-112",
-     "2026-11-15 vs IND W 131-124",
-     "2026-11-17 @ BKN W 135-123",
-     "2026-11-19 @ ORL W 121-116"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Tyrese Maxey",
@@ -2702,8 +2690,8 @@
      "Road: 2-5"
     ],
     "lesiones": [
+     "P.J. Washington: Day-To-Day (Illness)",
      "Tobi Lawal: Out (Groin)",
-     "P.J. Washington: Day-To-Day (Shoulder)",
      "Walter Clayton Jr.: Day-To-Day (Knee)",
      "Dereck Lively II: Out (Foot)",
      "Sergio de Larrea: Out (Knee)"
@@ -3243,8 +3231,8 @@
      "Jerami Grant: Out (Calf)",
      "Javon Small: Out (Personal)",
      "Cameron Boozer: Out (Ankle)",
-     "Ty Jerome: Out (Hip)",
-     "GG Jackson: Out (Foot)"
+     "GG Jackson: Out (Foot)",
+     "Scotty Pippen Jr.: Out (Back)"
     ],
     "ultimos_5": [
      "2026-11-14 @ NO W 142-111",
@@ -3308,7 +3296,7 @@
      {
       "jugador": "Ty Jerome",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4316,8 +4304,9 @@
      "Road: 1-5"
     ],
     "lesiones": [
-     "Bryce McGowens: Out (Elbow)",
+     "Trey Murphy III: Out (Knee)",
      "Trendon Watford: Out (Ankle)",
+     "Bryce McGowens: Out (Elbow)",
      "Bennedict Mathurin: Out (Foot)",
      "Dejounte Murray: Out (Ankle)"
     ],
@@ -4434,7 +4423,7 @@
      {
       "jugador": "Trey Murphy III",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6445,5 +6434,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-21T17:56:32.248Z"
+ "generado_utc": "2026-11-21T20:14:03.897Z"
 }
