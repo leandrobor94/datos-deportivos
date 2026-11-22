@@ -9,7 +9,7 @@
    "nota": "regular-season",
    "inicio_utc": "2026-11-22T20:30Z",
    "inicio_colombia": "2026-11-22 15:30",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "State Farm Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -27,13 +27,7 @@
      "Duncan Robinson: Out (Quadriceps)",
      "Jalen Duren: Out (Hamstring)"
     ],
-    "ultimos_5": [
-     "2026-11-13 @ WSH W 144-140 2OT",
-     "2026-11-15 @ MIA L 137-117",
-     "2026-11-18 @ SA W 105-93",
-     "2026-11-19 @ NO W 122-109",
-     "2026-11-21 vs TOR L 105-102"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Cade Cunningham",
@@ -555,13 +549,7 @@
      "Mouhamed Gueye: Out (Foot)",
      "Henri Veesaar: Out (Knee)"
     ],
-    "ultimos_5": [
-     "2026-11-10 vs LAL L 124-114",
-     "2026-11-14 @ CHI L 125-117 OT",
-     "2026-11-16 @ MIL W 113-106",
-     "2026-11-19 @ OKC W 117-112",
-     "2026-11-21 vs CHA W 111-97"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Jalen Johnson",
@@ -3763,7 +3751,7 @@
      "Road: 3-6"
     ],
     "lesiones": [
-     "Nic Claxton: Day-To-Day (Illness)",
+     "Nic Claxton: Out (Illness)",
      "Jalen Smith: Day-To-Day (Illness)",
      "Norman Powell: Out (Hamstring)",
      "Patrick Williams: Day-To-Day (Thumb)",
@@ -6450,9 +6438,8 @@
      "Road: 5-4"
     ],
     "lesiones": [
-     "Derrick White: Day-To-Day (Shoulder)",
-     "Mitchell Robinson: Day-To-Day (Illness)",
-     "Jayson Tatum: Day-To-Day (Rest)"
+     "Mitchell Robinson: Out (Illness)",
+     "Paul George: Out (Rest)"
     ],
     "ultimos_5": [
      "2026-11-12 @ TOR W 98-93",
@@ -6465,7 +6452,7 @@
      {
       "jugador": "Jayson Tatum",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6516,7 +6503,7 @@
      {
       "jugador": "Derrick White",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6567,7 +6554,7 @@
      {
       "jugador": "Paul George",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6822,7 +6809,7 @@
      {
       "jugador": "Mitchell Robinson",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7511,5 +7498,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-22T20:28:01.009Z"
+ "generado_utc": "2026-11-22T21:14:35.515Z"
 }
