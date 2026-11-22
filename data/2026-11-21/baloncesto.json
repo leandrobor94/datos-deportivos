@@ -1083,7 +1083,6 @@
     ],
     "lesiones": [
      "Chris Youngblood: Out (Heel)",
-     "Deni Avdija: Day-To-Day (Foot)",
      "Vit Krejci: Out (Ankle)",
      "Ja Morant: Out (Hamstring)",
      "Shaedon Sharpe: Out (Knee)"
@@ -1099,7 +1098,7 @@
      {
       "jugador": "Deni Avdija",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1614,8 +1613,8 @@
      "Road: 5-3"
     ],
     "lesiones": [
-     "OG Anunoby: Day-To-Day (Calf)",
-     "Karl-Anthony Towns: Day-To-Day (Illness)",
+     "Karl-Anthony Towns: Out (Illness)",
+     "OG Anunoby: Out (Calf)",
      "Jordan Clarkson: Out (Foot)"
     ],
     "ultimos_5": [
@@ -1629,7 +1628,7 @@
      {
       "jugador": "OG Anunoby",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1731,7 +1730,7 @@
      {
       "jugador": "Karl-Anthony Towns",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2690,11 +2689,11 @@
      "Road: 2-5"
     ],
     "lesiones": [
-     "P.J. Washington: Day-To-Day (Illness)",
+     "P.J. Washington: Out (Illness)",
      "Tobi Lawal: Out (Groin)",
-     "Walter Clayton Jr.: Day-To-Day (Knee)",
      "Dereck Lively II: Out (Foot)",
-     "Sergio de Larrea: Out (Knee)"
+     "Sergio de Larrea: Out (Knee)",
+     "Tarik Biberovic: Out (Heel)"
     ],
     "ultimos_5": [
      "2026-11-10 vs IND W 125-122",
@@ -2809,7 +2808,7 @@
      {
       "jugador": "P.J. Washington",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3013,7 +3012,7 @@
      {
       "jugador": "Walter Clayton Jr.",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -6435,5 +6434,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-21T21:06:07.275Z"
+ "generado_utc": "2026-11-22T00:17:39.632Z"
 }
