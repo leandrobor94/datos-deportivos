@@ -22,11 +22,10 @@
      "Road: 7-2"
     ],
     "lesiones": [
-     "Ronald Holland II: Out (Knee)",
      "Ebuka Okorie: Out (Oblique)",
-     "Cade Cunningham: Day-To-Day (Knee)",
      "Taurean Prince: Out (Knee)",
-     "Duncan Robinson: Out (Quadriceps)"
+     "Duncan Robinson: Out (Quadriceps)",
+     "Jalen Duren: Out (Hamstring)"
     ],
     "ultimos_5": [
      "2026-11-13 @ WSH W 144-140 2OT",
@@ -39,7 +38,7 @@
      {
       "jugador": "Cade Cunningham",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -492,7 +491,7 @@
      {
       "jugador": "Ronald Holland II",
       "posicion": "F",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -550,11 +549,11 @@
      "Road: 6-3"
     ],
     "lesiones": [
-     "Kingston Flemings: Out (Back)",
      "Jock Landale: Out (Hip)",
      "Asa Newell: Out (Toe)",
      "CJ McCollum: Out (Calf)",
-     "Mouhamed Gueye: Out (Foot)"
+     "Mouhamed Gueye: Out (Foot)",
+     "Henri Veesaar: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-10 vs LAL L 124-114",
@@ -975,7 +974,7 @@
      {
       "jugador": "Kingston Flemings",
       "posicion": "G",
-      "lesion": "Out",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2692,11 +2691,11 @@
      "Road: 4-6"
     ],
     "lesiones": [
+     "Bub Carrington: Day-To-Day (Illness)",
      "Deandre Ayton: Day-To-Day (Illness)",
      "Tristan Vukcevic: Out (Hip)",
      "Reece Beekman: Out (Shoulder)",
-     "Justin Champagnie: Out (Foot)",
-     "Jamir Watkins: Out (Knee)"
+     "Justin Champagnie: Out (Foot)"
     ],
     "ultimos_5": [
      "2026-11-13 vs DET L 144-140 2OT",
@@ -4087,7 +4086,7 @@
      {
       "jugador": "Nic Claxton",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -4308,10 +4307,10 @@
     ],
     "lesiones": [
      "P.J. Washington: Day-To-Day (Illness)",
-     "Tobi Lawal: Day-To-Day (Groin)",
+     "Walter Clayton Jr.: Day-To-Day (Knee)",
+     "Tobi Lawal: Out (Groin)",
      "Dereck Lively II: Out (Foot)",
-     "Sergio de Larrea: Out (Knee)",
-     "Tarik Biberovic: Out (Heel)"
+     "Sergio de Larrea: Out (Knee)"
     ],
     "ultimos_5": [
      "2026-11-13 @ MIN L 133-94",
@@ -4528,7 +4527,7 @@
      {
       "jugador": "Walter Clayton Jr.",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Day-To-Day",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -5907,8 +5906,8 @@
     ],
     "lesiones": [
      "OG Anunoby: Out (Calf)",
-     "Jordan Clarkson: Out (Foot)",
-     "Karl-Anthony Towns: Day-To-Day (Illness)"
+     "Karl-Anthony Towns: Day-To-Day (Illness)",
+     "Jordan Clarkson: Out (Foot)"
     ],
     "ultimos_5": [
      "2026-11-14 @ IND L 106-104",
@@ -7512,5 +7511,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-22T18:25:35.879Z"
+ "generado_utc": "2026-11-22T20:28:01.009Z"
 }
