@@ -9,7 +9,7 @@
    "nota": "NBA Cup - Group Play",
    "inicio_utc": "2026-11-25T22:00Z",
    "inicio_colombia": "2026-11-25 17:00",
-   "estado": "Scheduled",
+   "estado": "In Progress",
    "estadio": "Xfinity Mobile Arena",
    "serie_temporada": [
     "Regular Season Series"
@@ -21,16 +21,8 @@
      "Home: 6-3",
      "Road: 4-3"
     ],
-    "lesiones": [
-     "Giannis Antetokounmpo: Day-To-Day (Groin)"
-    ],
-    "ultimos_5": [
-     "2026-11-14 vs CLE W 133-121",
-     "2026-11-15 vs DET W 137-117",
-     "2026-11-17 vs HOU W 128-110",
-     "2026-11-19 vs MIL W 137-130",
-     "2026-11-22 vs OKC W 123-113"
-    ],
+    "lesiones": [],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "Davion Mitchell",
@@ -137,7 +129,7 @@
      {
       "jugador": "Giannis Antetokounmpo",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -555,13 +547,7 @@
      "Joel Embiid: Out (Illness)",
      "Ariel Hukporti: Out (Achilles)"
     ],
-    "ultimos_5": [
-     "2026-11-15 vs IND W 131-124",
-     "2026-11-17 @ BKN W 135-123",
-     "2026-11-19 @ ORL W 121-116",
-     "2026-11-21 vs MIL W 132-129",
-     "2026-11-24 vs POR L 128-111"
-    ],
+    "ultimos_5": [],
     "rotacion": [
      {
       "jugador": "VJ Edgecombe",
@@ -1092,7 +1078,7 @@
      "Road: 3-6"
     ],
     "lesiones": [
-     "Jalen Smith: Day-To-Day (Illness)",
+     "Jalen Smith: Out (Illness)",
      "Norman Powell: Out (Hamstring)",
      "Caleb Wilson: Out (Hand)"
     ],
@@ -1362,7 +1348,7 @@
      {
       "jugador": "Jalen Smith",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -1624,7 +1610,6 @@
      "Ryan Kalkbrenner: Out (Hip)",
      "Grayson Allen: Out (Concussion)",
      "Dennis Schroder: Out (Hamstring)",
-     "Sion James: Day-To-Day (Undisclosed)",
      "Kon Knueppel: Out (Hamstring)"
     ],
     "ultimos_5": [
@@ -1842,7 +1827,7 @@
      {
       "jugador": "Sion James",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2691,10 +2676,10 @@
      "Road: 5-3"
     ],
     "lesiones": [
+     "Jalen Brunson: Day-To-Day (Illness)",
      "Josh Hart: Day-To-Day (Shoulder)",
      "Miles McBride: Out (Groin)",
      "Karl-Anthony Towns: Day-To-Day (Knee)",
-     "Jalen Brunson: Day-To-Day (Illness)",
      "Jordan Clarkson: Out (Foot)"
     ],
     "ultimos_5": [
@@ -7510,6 +7495,7 @@
     ],
     "lesiones": [
      "Maxime Raynaud: Out (Knee)",
+     "Zach LaVine: Day-To-Day (Knee)",
      "Ben Simmons: Out (Achilles)"
     ],
     "ultimos_5": [
@@ -7625,7 +7611,7 @@
      {
       "jugador": "Zach LaVine",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -9648,5 +9634,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-25T20:26:11.334Z"
+ "generado_utc": "2026-11-25T22:43:40.708Z"
 }
