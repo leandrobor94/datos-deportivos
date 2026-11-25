@@ -544,6 +544,7 @@
      "Road: 7-1"
     ],
     "lesiones": [
+     "Jaylen Brown: Out (Hamstring)",
      "Joel Embiid: Out (Illness)",
      "Ariel Hukporti: Out (Achilles)"
     ],
@@ -654,7 +655,7 @@
      {
       "jugador": "Jaylen Brown",
       "posicion": "G",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2676,10 +2677,8 @@
      "Road: 5-3"
     ],
     "lesiones": [
-     "Jalen Brunson: Day-To-Day (Illness)",
-     "Josh Hart: Day-To-Day (Shoulder)",
+     "OG Anunoby: Out (Calf)",
      "Miles McBride: Out (Groin)",
-     "Karl-Anthony Towns: Day-To-Day (Knee)",
      "Jordan Clarkson: Out (Foot)"
     ],
     "ultimos_5": [
@@ -2744,7 +2743,7 @@
      {
       "jugador": "Jalen Brunson",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2795,7 +2794,7 @@
      {
       "jugador": "Karl-Anthony Towns",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2846,7 +2845,7 @@
      {
       "jugador": "Josh Hart",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -7494,8 +7493,8 @@
      "Road: 1-5"
     ],
     "lesiones": [
+     "Zach LaVine: Out (Knee)",
      "Maxime Raynaud: Out (Knee)",
-     "Zach LaVine: Day-To-Day (Knee)",
      "Ben Simmons: Out (Achilles)"
     ],
     "ultimos_5": [
@@ -9634,5 +9633,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-25T22:43:40.708Z"
+ "generado_utc": "2026-11-25T23:46:43.665Z"
 }
