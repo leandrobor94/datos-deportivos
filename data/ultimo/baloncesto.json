@@ -22,11 +22,11 @@
      "Road: 7-3"
     ],
     "lesiones": [
+     "Cade Cunningham: Out (Knee)",
      "Ebuka Okorie: Out (Oblique)",
      "Taurean Prince: Out (Knee)",
      "Duncan Robinson: Out (Quadriceps)",
-     "Jalen Duren: Out (Hamstring)",
-     "Cade Cunningham: Day-To-Day (Knee)"
+     "Jalen Duren: Out (Hamstring)"
     ],
     "ultimos_5": [
      "2026-11-15 @ MIA L 137-117",
@@ -39,7 +39,7 @@
      {
       "jugador": "Cade Cunningham",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3213,5 +3213,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-24T23:15:26.345Z"
+ "generado_utc": "2026-11-25T00:05:36.519Z"
 }
