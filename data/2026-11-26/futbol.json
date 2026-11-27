@@ -83,25 +83,25 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 11.77,
-      "xg_concedido": 5.9,
-      "xpts": 10.64,
-      "xg_por_partido": 2.35,
-      "xg_concedido_por_partido": 1.18
+      "xg": 12.17,
+      "xg_concedido": 6.08,
+      "xpts": 10.75,
+      "xg_por_partido": 2.43,
+      "xg_concedido_por_partido": 1.22
      },
      "stats_temporada": {
-      "xg_total": 11.8,
-      "pj_stats": 5,
-      "goles_partido": 2.6,
       "goles_concedidos_partido": 1.8,
+      "pj_stats": 5,
+      "remates_puerta_partido": 5.6,
+      "goles_partido": 2.6,
       "posesion": 55.3,
+      "xg_total": 12.2,
+      "grandes_ocasiones_total": 22,
+      "faltas_partido": 10.2,
       "corners_total": 27,
       "toques_area_rival": 150,
-      "faltas_partido": 10.2,
-      "remates_puerta_partido": 5.6,
-      "grandes_ocasiones_total": 20,
-      "amarillas_total": 12,
-      "xg_concedido_total": 5.9
+      "xg_concedido_total": 6.1,
+      "amarillas_total": 12
      }
     },
     "visitante": {
@@ -168,26 +168,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 5.78,
-      "xg_concedido": 9.74,
-      "xpts": 4.86,
-      "xg_por_partido": 1.16,
-      "xg_concedido_por_partido": 1.95
+      "xg": 5.96,
+      "xg_concedido": 10.13,
+      "xpts": 4.77,
+      "xg_por_partido": 1.19,
+      "xg_concedido_por_partido": 2.03
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 5.8,
-      "goles_partido": 0.4,
       "goles_concedidos_partido": 2,
+      "remates_puerta_partido": 4.6,
+      "goles_partido": 0.4,
       "posesion": 52.9,
+      "xg_total": 6,
+      "grandes_ocasiones_total": 11,
+      "faltas_partido": 13.6,
       "corners_total": 15,
       "toques_area_rival": 97,
-      "faltas_partido": 13.6,
-      "remates_puerta_partido": 4.6,
-      "grandes_ocasiones_total": 10,
-      "amarillas_total": 13,
-      "xg_concedido_total": 9.7
+      "xg_concedido_total": 10.1,
+      "amarillas_total": 13
      }
     }
    },
@@ -310,18 +310,18 @@
       "xg_concedido_por_partido": 1.07
      },
      "stats_temporada": {
-      "xg_total": 6.8,
-      "pj_stats": 5,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.6,
+      "pj_stats": 5,
+      "remates_puerta_partido": 4,
+      "goles_partido": 1,
       "posesion": 56.2,
+      "xg_total": 6.8,
+      "grandes_ocasiones_total": 6,
+      "faltas_partido": 13,
       "corners_total": 36,
       "toques_area_rival": 169,
-      "faltas_partido": 13,
-      "remates_puerta_partido": 4,
-      "grandes_ocasiones_total": 6,
-      "amarillas_total": 7,
-      "xg_concedido_total": 5.4
+      "xg_concedido_total": 5.4,
+      "amarillas_total": 7
      }
     },
     "visitante": {
@@ -397,17 +397,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 9.5,
-      "goles_partido": 2.6,
       "goles_concedidos_partido": 0.6,
+      "remates_puerta_partido": 6.4,
+      "goles_partido": 2.6,
       "posesion": 51.7,
+      "xg_total": 9.5,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 13,
       "corners_total": 31,
       "toques_area_rival": 134,
-      "faltas_partido": 13,
-      "remates_puerta_partido": 6.4,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 12,
-      "xg_concedido_total": 6
+      "xg_concedido_total": 6,
+      "amarillas_total": 12
      }
     }
    },
@@ -510,17 +510,17 @@
      "stats_temporada": {
       "porterias_cero": 3,
       "pj_stats": 5,
-      "xg_total": 7.5,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.2,
+      "remates_puerta_partido": 4.2,
+      "goles_partido": 1,
       "posesion": 42.6,
+      "xg_total": 7.5,
+      "grandes_ocasiones_total": 13,
+      "faltas_partido": 15.6,
       "corners_total": 22,
       "toques_area_rival": 102,
-      "faltas_partido": 15.6,
-      "remates_puerta_partido": 4.2,
-      "grandes_ocasiones_total": 13,
-      "amarillas_total": 8,
-      "xg_concedido_total": 6.5
+      "xg_concedido_total": 6.5,
+      "amarillas_total": 8
      }
     },
     "visitante": {
@@ -596,17 +596,17 @@
      "stats_temporada": {
       "porterias_cero": 4,
       "pj_stats": 5,
-      "xg_total": 13.1,
-      "goles_partido": 2,
       "goles_concedidos_partido": 0.2,
+      "remates_puerta_partido": 7.6,
+      "goles_partido": 2,
       "posesion": 60.1,
+      "xg_total": 13.1,
+      "grandes_ocasiones_total": 22,
+      "faltas_partido": 12.6,
       "corners_total": 33,
       "toques_area_rival": 168,
-      "faltas_partido": 12.6,
-      "remates_puerta_partido": 7.6,
-      "grandes_ocasiones_total": 22,
-      "amarillas_total": 7,
-      "xg_concedido_total": 3.8
+      "xg_concedido_total": 3.8,
+      "amarillas_total": 7
      }
     }
    },
@@ -711,17 +711,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 6,
-      "goles_partido": 0.6,
       "goles_concedidos_partido": 1.2,
+      "remates_puerta_partido": 3.2,
+      "goles_partido": 0.6,
       "posesion": 53.2,
+      "xg_total": 6,
+      "grandes_ocasiones_total": 8,
+      "faltas_partido": 11,
       "corners_total": 21,
       "toques_area_rival": 121,
-      "faltas_partido": 11,
-      "remates_puerta_partido": 3.2,
-      "grandes_ocasiones_total": 8,
-      "amarillas_total": 10,
-      "xg_concedido_total": 6.4
+      "xg_concedido_total": 6.4,
+      "amarillas_total": 10
      }
     },
     "visitante": {
@@ -787,17 +787,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 4.2,
-      "goles_partido": 0.8,
       "goles_concedidos_partido": 0.8,
+      "remates_puerta_partido": 2.2,
+      "goles_partido": 0.8,
       "posesion": 48.9,
+      "xg_total": 4.2,
+      "grandes_ocasiones_total": 8,
+      "faltas_partido": 11.4,
       "corners_total": 13,
       "toques_area_rival": 73,
-      "faltas_partido": 11.4,
-      "remates_puerta_partido": 2.2,
-      "grandes_ocasiones_total": 8,
-      "amarillas_total": 7,
-      "xg_concedido_total": 7.8
+      "xg_concedido_total": 7.8,
+      "amarillas_total": 7
      }
     }
    },
@@ -917,17 +917,17 @@
      "stats_temporada": {
       "porterias_cero": 3,
       "pj_stats": 5,
-      "xg_total": 8.2,
-      "goles_partido": 1.2,
       "goles_concedidos_partido": 1,
+      "remates_puerta_partido": 4,
+      "goles_partido": 1.2,
       "posesion": 52.2,
+      "xg_total": 8.2,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 10.4,
       "corners_total": 37,
       "toques_area_rival": 153,
-      "faltas_partido": 10.4,
-      "remates_puerta_partido": 4,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 9,
-      "xg_concedido_total": 4.8
+      "xg_concedido_total": 4.8,
+      "amarillas_total": 9
      }
     },
     "visitante": {
@@ -960,11 +960,6 @@
        "jugador": "Luka Modrić",
        "tipo": "injury",
        "regreso": "About 1-2 weeks"
-      },
-      {
-       "jugador": "Strahinja Pavlović",
-       "tipo": "injury",
-       "regreso": "Doubtful"
       },
       {
        "jugador": "Pietro Terracciano",
@@ -1038,17 +1033,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 7.9,
-      "goles_partido": 1.6,
       "goles_concedidos_partido": 1.8,
+      "remates_puerta_partido": 4.4,
+      "goles_partido": 1.6,
       "posesion": 54.7,
+      "xg_total": 7.9,
+      "grandes_ocasiones_total": 13,
+      "faltas_partido": 13,
       "corners_total": 19,
       "toques_area_rival": 117,
-      "faltas_partido": 13,
-      "remates_puerta_partido": 4.4,
-      "grandes_ocasiones_total": 13,
-      "amarillas_total": 9,
-      "xg_concedido_total": 9.4
+      "xg_concedido_total": 9.4,
+      "amarillas_total": 9
      }
     }
    },
@@ -1184,17 +1179,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 8.2,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.6,
+      "remates_puerta_partido": 4.8,
+      "goles_partido": 1,
       "posesion": 54.1,
+      "xg_total": 8.2,
+      "grandes_ocasiones_total": 14,
+      "faltas_partido": 15.8,
       "corners_total": 23,
       "toques_area_rival": 133,
-      "faltas_partido": 15.8,
-      "remates_puerta_partido": 4.8,
-      "grandes_ocasiones_total": 14,
-      "amarillas_total": 12,
-      "xg_concedido_total": 8.7
+      "xg_concedido_total": 8.7,
+      "amarillas_total": 12
      }
     },
     "visitante": {
@@ -1258,18 +1253,18 @@
       "xg_concedido_por_partido": 2.44
      },
      "stats_temporada": {
-      "xg_total": 5,
-      "pj_stats": 5,
-      "goles_partido": 0.8,
       "goles_concedidos_partido": 3.2,
+      "pj_stats": 5,
+      "remates_puerta_partido": 3.8,
+      "goles_partido": 0.8,
       "posesion": 46.8,
+      "xg_total": 5,
+      "grandes_ocasiones_total": 8,
+      "faltas_partido": 11.8,
       "corners_total": 19,
       "toques_area_rival": 94,
-      "faltas_partido": 11.8,
-      "remates_puerta_partido": 3.8,
-      "grandes_ocasiones_total": 8,
-      "amarillas_total": 16,
-      "xg_concedido_total": 12.2
+      "xg_concedido_total": 12.2,
+      "amarillas_total": 16
      }
     }
    },
@@ -1381,17 +1376,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 12.7,
-      "goles_partido": 2.4,
       "goles_concedidos_partido": 0.8,
+      "remates_puerta_partido": 9.2,
+      "goles_partido": 2.4,
       "posesion": 49.1,
+      "xg_total": 12.7,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 11.6,
       "corners_total": 19,
       "toques_area_rival": 183,
-      "faltas_partido": 11.6,
-      "remates_puerta_partido": 9.2,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 9,
-      "xg_concedido_total": 4.4
+      "xg_concedido_total": 4.4,
+      "amarillas_total": 9
      }
     },
     "visitante": {
@@ -1485,18 +1480,18 @@
       "xg_concedido_por_partido": 3.08
      },
      "stats_temporada": {
-      "xg_total": 6.1,
-      "pj_stats": 5,
-      "goles_partido": 0.8,
       "goles_concedidos_partido": 2.8,
+      "pj_stats": 5,
+      "remates_puerta_partido": 4.4,
+      "goles_partido": 0.8,
       "posesion": 42.9,
+      "xg_total": 6.1,
+      "grandes_ocasiones_total": 11,
+      "faltas_partido": 8.8,
       "corners_total": 15,
       "toques_area_rival": 93,
-      "faltas_partido": 8.8,
-      "remates_puerta_partido": 4.4,
-      "grandes_ocasiones_total": 11,
-      "amarillas_total": 5,
-      "xg_concedido_total": 15.4
+      "xg_concedido_total": 15.4,
+      "amarillas_total": 5
      }
     }
    },
@@ -1590,26 +1585,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 8.19,
-      "xg_concedido": 7.7,
-      "xpts": 7.7,
-      "xg_por_partido": 1.64,
-      "xg_concedido_por_partido": 1.54
+      "xg": 8.44,
+      "xg_concedido": 7.73,
+      "xpts": 7.8,
+      "xg_por_partido": 1.69,
+      "xg_concedido_por_partido": 1.55
      },
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 8.2,
-      "goles_partido": 1.4,
       "goles_concedidos_partido": 1.4,
-      "posesion": 42.4,
+      "remates_puerta_partido": 7.2,
+      "goles_partido": 1.4,
+      "posesion": 42.5,
+      "xg_total": 8.4,
+      "grandes_ocasiones_total": 11,
+      "faltas_partido": 12.4,
       "corners_total": 22,
       "toques_area_rival": 114,
-      "faltas_partido": 12.4,
-      "remates_puerta_partido": 7.2,
-      "grandes_ocasiones_total": 10,
-      "amarillas_total": 9,
-      "xg_concedido_total": 7.7
+      "xg_concedido_total": 7.7,
+      "amarillas_total": 9
      }
     },
     "visitante": {
@@ -1671,26 +1666,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 9.58,
-      "xg_concedido": 5.7,
-      "xpts": 9.18,
+      "xg": 9.61,
+      "xg_concedido": 5.95,
+      "xpts": 9.11,
       "xg_por_partido": 1.92,
-      "xg_concedido_por_partido": 1.14
+      "xg_concedido_por_partido": 1.19
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 9.6,
-      "goles_partido": 2.6,
       "goles_concedidos_partido": 1.4,
-      "posesion": 56.5,
-      "corners_total": 30,
-      "toques_area_rival": 170,
-      "faltas_partido": 11,
       "remates_puerta_partido": 7,
+      "goles_partido": 2.6,
+      "posesion": 56.5,
+      "xg_total": 9.6,
       "grandes_ocasiones_total": 14,
-      "amarillas_total": 15,
-      "xg_concedido_total": 5.7
+      "faltas_partido": 11,
+      "corners_total": 30,
+      "toques_area_rival": 169,
+      "xg_concedido_total": 5.9,
+      "amarillas_total": 15
      }
     }
    },
@@ -1803,17 +1798,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 9.8,
-      "goles_partido": 2.2,
       "goles_concedidos_partido": 1.4,
+      "remates_puerta_partido": 4.4,
+      "goles_partido": 2.2,
       "posesion": 48.3,
+      "xg_total": 9.8,
+      "grandes_ocasiones_total": 18,
+      "faltas_partido": 11.6,
       "corners_total": 19,
       "toques_area_rival": 126,
-      "faltas_partido": 11.6,
-      "remates_puerta_partido": 4.4,
-      "grandes_ocasiones_total": 18,
-      "amarillas_total": 10,
-      "xg_concedido_total": 8.3
+      "xg_concedido_total": 8.3,
+      "amarillas_total": 10
      }
     },
     "visitante": {
@@ -1894,17 +1889,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 8.6,
-      "goles_partido": 2,
       "goles_concedidos_partido": 1.2,
+      "remates_puerta_partido": 5,
+      "goles_partido": 2,
       "posesion": 55.4,
+      "xg_total": 8.6,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 13.2,
       "corners_total": 27,
       "toques_area_rival": 121,
-      "faltas_partido": 13.2,
-      "remates_puerta_partido": 5,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 12,
-      "xg_concedido_total": 10.3
+      "xg_concedido_total": 10.3,
+      "amarillas_total": 12
      }
     }
    },
@@ -2000,26 +1995,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 11.64,
-      "xg_concedido": 5.34,
-      "xpts": 10.77,
+      "xg": 11.65,
+      "xg_concedido": 5.5,
+      "xpts": 10.72,
       "xg_por_partido": 2.33,
-      "xg_concedido_por_partido": 1.07
+      "xg_concedido_por_partido": 1.1
      },
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 11.6,
-      "goles_partido": 2.2,
       "goles_concedidos_partido": 0.6,
+      "remates_puerta_partido": 6.2,
+      "goles_partido": 2.2,
       "posesion": 45.4,
+      "xg_total": 11.6,
+      "grandes_ocasiones_total": 18,
+      "faltas_partido": 13.8,
       "corners_total": 27,
       "toques_area_rival": 155,
-      "faltas_partido": 13.8,
-      "remates_puerta_partido": 6.2,
-      "grandes_ocasiones_total": 17,
-      "amarillas_total": 10,
-      "xg_concedido_total": 5.3
+      "xg_concedido_total": 5.5,
+      "amarillas_total": 10
      }
     },
     "visitante": {
@@ -2076,26 +2071,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 4.74,
-      "xg_concedido": 12.24,
-      "xpts": 2.58,
-      "xg_por_partido": 0.95,
+      "xg": 4.9,
+      "xg_concedido": 12.25,
+      "xpts": 2.62,
+      "xg_por_partido": 0.98,
       "xg_concedido_por_partido": 2.45
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 4.7,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.8,
-      "posesion": 49,
+      "remates_puerta_partido": 3.4,
+      "goles_partido": 1,
+      "posesion": 49.1,
+      "xg_total": 4.9,
+      "grandes_ocasiones_total": 10,
+      "faltas_partido": 12.4,
       "corners_total": 11,
       "toques_area_rival": 94,
-      "faltas_partido": 12.4,
-      "remates_puerta_partido": 3.4,
-      "grandes_ocasiones_total": 10,
-      "amarillas_total": 9,
-      "xg_concedido_total": 12.2
+      "xg_concedido_total": 12.2,
+      "amarillas_total": 9
      }
     }
    },
@@ -2212,17 +2207,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 8.8,
-      "goles_partido": 1.8,
       "goles_concedidos_partido": 1.4,
+      "remates_puerta_partido": 5.6,
+      "goles_partido": 1.8,
       "posesion": 54.2,
+      "xg_total": 8.8,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 17.8,
       "corners_total": 41,
       "toques_area_rival": 186,
-      "faltas_partido": 17.8,
-      "remates_puerta_partido": 5.6,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 14,
-      "xg_concedido_total": 8
+      "xg_concedido_total": 8,
+      "amarillas_total": 14
      }
     },
     "visitante": {
@@ -2308,17 +2303,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 7.3,
-      "goles_partido": 0.8,
       "goles_concedidos_partido": 1.8,
+      "remates_puerta_partido": 4.6,
+      "goles_partido": 0.8,
       "posesion": 40.8,
+      "xg_total": 7.3,
+      "grandes_ocasiones_total": 9,
+      "faltas_partido": 17,
       "corners_total": 26,
       "toques_area_rival": 119,
-      "faltas_partido": 17,
-      "remates_puerta_partido": 4.6,
-      "grandes_ocasiones_total": 9,
-      "amarillas_total": 12,
-      "xg_concedido_total": 9.2
+      "xg_concedido_total": 9.2,
+      "amarillas_total": 12
      }
     }
    },
@@ -2443,26 +2438,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 11,
-      "xg_concedido": 6.43,
-      "xpts": 9.46,
-      "xg_por_partido": 2.2,
-      "xg_concedido_por_partido": 1.29
+      "xg": 11.28,
+      "xg_concedido": 6.73,
+      "xpts": 9.41,
+      "xg_por_partido": 2.26,
+      "xg_concedido_por_partido": 1.35
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 11,
-      "goles_partido": 3,
       "goles_concedidos_partido": 1,
+      "remates_puerta_partido": 5.8,
+      "goles_partido": 3,
       "posesion": 51.7,
+      "xg_total": 11.3,
+      "grandes_ocasiones_total": 18,
+      "faltas_partido": 14,
       "corners_total": 21,
       "toques_area_rival": 148,
-      "faltas_partido": 14,
-      "remates_puerta_partido": 5.8,
-      "grandes_ocasiones_total": 18,
-      "amarillas_total": 8,
-      "xg_concedido_total": 6.4
+      "xg_concedido_total": 6.7,
+      "amarillas_total": 8
      }
     },
     "visitante": {
@@ -2519,26 +2514,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 5.07,
-      "xg_concedido": 9.4,
-      "xpts": 4.1,
-      "xg_por_partido": 1.01,
-      "xg_concedido_por_partido": 1.88
+      "xg": 5.37,
+      "xg_concedido": 9.67,
+      "xpts": 4.16,
+      "xg_por_partido": 1.07,
+      "xg_concedido_por_partido": 1.93
      },
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 5.1,
-      "goles_partido": 1.4,
       "goles_concedidos_partido": 2.2,
-      "posesion": 39.5,
+      "remates_puerta_partido": 4.6,
+      "goles_partido": 1.4,
+      "posesion": 39.4,
+      "xg_total": 5.4,
+      "grandes_ocasiones_total": 10,
+      "faltas_partido": 8,
       "corners_total": 17,
       "toques_area_rival": 76,
-      "faltas_partido": 8,
-      "remates_puerta_partido": 4.6,
-      "grandes_ocasiones_total": 9,
-      "amarillas_total": 5,
-      "xg_concedido_total": 9.4
+      "xg_concedido_total": 9.7,
+      "amarillas_total": 5
      }
     }
    },
@@ -2658,17 +2653,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 6.5,
-      "goles_partido": 1.2,
       "goles_concedidos_partido": 1.4,
+      "remates_puerta_partido": 5.4,
+      "goles_partido": 1.2,
       "posesion": 53.2,
+      "xg_total": 6.5,
+      "grandes_ocasiones_total": 11,
+      "faltas_partido": 8.4,
       "corners_total": 33,
       "toques_area_rival": 127,
-      "faltas_partido": 8.4,
-      "remates_puerta_partido": 5.4,
-      "grandes_ocasiones_total": 11,
-      "amarillas_total": 10,
-      "xg_concedido_total": 7.5
+      "xg_concedido_total": 7.5,
+      "amarillas_total": 10
      }
     },
     "visitante": {
@@ -2734,17 +2729,17 @@
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 6.9,
-      "goles_partido": 0.4,
       "goles_concedidos_partido": 2,
+      "remates_puerta_partido": 3,
+      "goles_partido": 0.4,
       "posesion": 51.7,
+      "xg_total": 6.9,
+      "grandes_ocasiones_total": 8,
+      "faltas_partido": 10.6,
       "corners_total": 24,
       "toques_area_rival": 111,
-      "faltas_partido": 10.6,
-      "remates_puerta_partido": 3,
-      "grandes_ocasiones_total": 8,
-      "amarillas_total": 8,
-      "xg_concedido_total": 8.5
+      "xg_concedido_total": 8.5,
+      "amarillas_total": 8
      }
     }
    },
@@ -2845,25 +2840,25 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 9.29,
-      "xg_concedido": 11.8,
-      "xpts": 6.3,
-      "xg_por_partido": 1.86,
+      "xg": 9.47,
+      "xg_concedido": 11.82,
+      "xpts": 6.4,
+      "xg_por_partido": 1.89,
       "xg_concedido_por_partido": 2.36
      },
      "stats_temporada": {
-      "xg_total": 9.3,
-      "pj_stats": 5,
-      "goles_partido": 2.2,
       "goles_concedidos_partido": 2,
+      "pj_stats": 5,
+      "remates_puerta_partido": 6,
+      "goles_partido": 2.2,
       "posesion": 52,
+      "xg_total": 9.5,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 16,
       "corners_total": 15,
       "toques_area_rival": 151,
-      "faltas_partido": 16,
-      "remates_puerta_partido": 6,
-      "grandes_ocasiones_total": 15,
-      "amarillas_total": 8,
-      "xg_concedido_total": 11.8
+      "xg_concedido_total": 11.8,
+      "amarillas_total": 8
      }
     },
     "visitante": {
@@ -2925,26 +2920,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 7.91,
-      "xg_concedido": 7.08,
-      "xpts": 7.64,
-      "xg_por_partido": 1.58,
-      "xg_concedido_por_partido": 1.42
+      "xg": 7.94,
+      "xg_concedido": 7.26,
+      "xpts": 7.55,
+      "xg_por_partido": 1.59,
+      "xg_concedido_por_partido": 1.45
      },
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 7.9,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.2,
+      "remates_puerta_partido": 6.4,
+      "goles_partido": 1,
       "posesion": 53.2,
+      "xg_total": 7.9,
+      "grandes_ocasiones_total": 13,
+      "faltas_partido": 11,
       "corners_total": 30,
       "toques_area_rival": 143,
-      "faltas_partido": 11,
-      "remates_puerta_partido": 6.2,
-      "grandes_ocasiones_total": 12,
-      "amarillas_total": 8,
-      "xg_concedido_total": 7.1
+      "xg_concedido_total": 7.3,
+      "amarillas_total": 8
      }
     }
    },
@@ -3080,17 +3075,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 3.6,
-      "goles_partido": 1.2,
       "goles_concedidos_partido": 1.4,
+      "remates_puerta_partido": 2.2,
+      "goles_partido": 1.2,
       "posesion": 37.7,
+      "xg_total": 3.6,
+      "grandes_ocasiones_total": 6,
+      "faltas_partido": 8.8,
       "corners_total": 17,
       "toques_area_rival": 52,
-      "faltas_partido": 8.8,
-      "remates_puerta_partido": 2.2,
-      "grandes_ocasiones_total": 6,
-      "amarillas_total": 9,
-      "xg_concedido_total": 9.8
+      "xg_concedido_total": 9.8,
+      "amarillas_total": 9
      }
     },
     "visitante": {
@@ -3161,17 +3156,17 @@
      "stats_temporada": {
       "porterias_cero": 2,
       "pj_stats": 5,
-      "xg_total": 8.3,
-      "goles_partido": 1.8,
       "goles_concedidos_partido": 0.8,
+      "remates_puerta_partido": 6.8,
+      "goles_partido": 1.8,
       "posesion": 53.5,
+      "xg_total": 8.3,
+      "grandes_ocasiones_total": 16,
+      "faltas_partido": 15,
       "corners_total": 24,
       "toques_area_rival": 115,
-      "faltas_partido": 15,
-      "remates_puerta_partido": 6.8,
-      "grandes_ocasiones_total": 16,
-      "amarillas_total": 13,
-      "xg_concedido_total": 5.3
+      "xg_concedido_total": 5.3,
+      "amarillas_total": 13
      }
     }
    },
@@ -3295,25 +3290,25 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 8.65,
-      "xg_concedido": 8.33,
-      "xpts": 7.18,
-      "xg_por_partido": 1.73,
-      "xg_concedido_por_partido": 1.67
+      "xg": 8.58,
+      "xg_concedido": 8.42,
+      "xpts": 7.07,
+      "xg_por_partido": 1.72,
+      "xg_concedido_por_partido": 1.68
      },
      "stats_temporada": {
-      "xg_total": 8.7,
-      "pj_stats": 5,
-      "goles_partido": 1.6,
       "goles_concedidos_partido": 2,
-      "posesion": 46.1,
-      "corners_total": 27,
-      "toques_area_rival": 120,
-      "faltas_partido": 13.4,
+      "pj_stats": 5,
       "remates_puerta_partido": 5,
+      "goles_partido": 1.6,
+      "posesion": 46.1,
+      "xg_total": 8.6,
       "grandes_ocasiones_total": 16,
-      "amarillas_total": 10,
-      "xg_concedido_total": 8.3
+      "faltas_partido": 13.4,
+      "corners_total": 27,
+      "toques_area_rival": 122,
+      "xg_concedido_total": 8.4,
+      "amarillas_total": 10
      }
     },
     "visitante": {
@@ -3405,26 +3400,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 9.36,
-      "xg_concedido": 7.22,
-      "xpts": 8.65,
-      "xg_por_partido": 1.87,
-      "xg_concedido_por_partido": 1.44
+      "xg": 9.45,
+      "xg_concedido": 7.14,
+      "xpts": 8.75,
+      "xg_por_partido": 1.89,
+      "xg_concedido_por_partido": 1.43
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 9.4,
-      "goles_partido": 2.2,
       "goles_concedidos_partido": 1.2,
+      "remates_puerta_partido": 5.4,
+      "goles_partido": 2.2,
       "posesion": 58.7,
+      "xg_total": 9.4,
+      "grandes_ocasiones_total": 12,
+      "faltas_partido": 13,
       "corners_total": 20,
       "toques_area_rival": 139,
-      "faltas_partido": 13,
-      "remates_puerta_partido": 5.4,
-      "grandes_ocasiones_total": 11,
-      "amarillas_total": 10,
-      "xg_concedido_total": 7.2
+      "xg_concedido_total": 7.1,
+      "amarillas_total": 10
      }
     }
    },
@@ -3545,26 +3540,26 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 11.63,
-      "xg_concedido": 7.42,
-      "xpts": 9.9,
-      "xg_por_partido": 2.33,
-      "xg_concedido_por_partido": 1.48
+      "xg": 11.69,
+      "xg_concedido": 7.37,
+      "xpts": 9.98,
+      "xg_por_partido": 2.34,
+      "xg_concedido_por_partido": 1.47
      },
      "stats_temporada": {
       "porterias_cero": 1,
       "pj_stats": 5,
-      "xg_total": 11.6,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1,
-      "posesion": 54.9,
-      "corners_total": 40,
-      "toques_area_rival": 183,
-      "faltas_partido": 14,
       "remates_puerta_partido": 7,
+      "goles_partido": 1,
+      "posesion": 54.9,
+      "xg_total": 11.7,
       "grandes_ocasiones_total": 15,
-      "amarillas_total": 11,
-      "xg_concedido_total": 7.4
+      "faltas_partido": 14,
+      "corners_total": 40,
+      "toques_area_rival": 185,
+      "xg_concedido_total": 7.4,
+      "amarillas_total": 11
      }
     },
     "visitante": {
@@ -3615,25 +3610,25 @@
      },
      "xg_temporada": {
       "pj": 5,
-      "xg": 5.99,
-      "xg_concedido": 7.68,
-      "xpts": 6.02,
-      "xg_por_partido": 1.2,
-      "xg_concedido_por_partido": 1.54
+      "xg": 5.94,
+      "xg_concedido": 7.74,
+      "xpts": 5.94,
+      "xg_por_partido": 1.19,
+      "xg_concedido_por_partido": 1.55
      },
      "stats_temporada": {
-      "xg_total": 6,
-      "pj_stats": 5,
-      "goles_partido": 1,
       "goles_concedidos_partido": 1.6,
-      "posesion": 45.5,
-      "corners_total": 14,
-      "toques_area_rival": 100,
-      "faltas_partido": 14.2,
+      "pj_stats": 5,
       "remates_puerta_partido": 3.2,
-      "grandes_ocasiones_total": 7,
-      "amarillas_total": 14,
-      "xg_concedido_total": 7.7
+      "goles_partido": 1,
+      "posesion": 45.5,
+      "xg_total": 5.9,
+      "grandes_ocasiones_total": 9,
+      "faltas_partido": 14.2,
+      "corners_total": 14,
+      "toques_area_rival": 99,
+      "xg_concedido_total": 7.7,
+      "amarillas_total": 14
      }
     }
    },
@@ -3736,18 +3731,18 @@
       "xg_concedido_por_partido": 1.92
      },
      "stats_temporada": {
-      "xg_total": 5.1,
-      "pj_stats": 5,
-      "goles_partido": 1.6,
       "goles_concedidos_partido": 2.2,
+      "pj_stats": 5,
+      "remates_puerta_partido": 3.2,
+      "goles_partido": 1.6,
       "posesion": 38.9,
+      "xg_total": 5.1,
+      "grandes_ocasiones_total": 11,
+      "faltas_partido": 12.4,
       "corners_total": 15,
       "toques_area_rival": 63,
-      "faltas_partido": 12.4,
-      "remates_puerta_partido": 3.2,
-      "grandes_ocasiones_total": 11,
-      "amarillas_total": 12,
-      "xg_concedido_total": 9.6
+      "xg_concedido_total": 9.6,
+      "amarillas_total": 12
      }
     },
     "visitante": {
@@ -3816,18 +3811,18 @@
       "xg_concedido_por_partido": 1.57
      },
      "stats_temporada": {
-      "xg_total": 6,
-      "pj_stats": 5,
-      "goles_partido": 1.6,
       "goles_concedidos_partido": 2.4,
+      "pj_stats": 5,
+      "remates_puerta_partido": 5.4,
+      "goles_partido": 1.6,
       "posesion": 50.8,
+      "xg_total": 6,
+      "grandes_ocasiones_total": 13,
+      "faltas_partido": 12.2,
       "corners_total": 31,
       "toques_area_rival": 118,
-      "faltas_partido": 12.2,
-      "remates_puerta_partido": 5.4,
-      "grandes_ocasiones_total": 13,
-      "amarillas_total": 6,
-      "xg_concedido_total": 7.9
+      "xg_concedido_total": 7.9,
+      "amarillas_total": 6
      }
     }
    },
@@ -3925,17 +3920,17 @@
       "xg_concedido_por_partido": 2.17
      },
      "stats_temporada": {
-      "goles_partido": 1,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 1.8,
-      "porterias_cero": 1,
       "posesion": 38.3,
+      "goles_partido": 1,
       "xg_total": 3.6,
+      "toques_area_rival": 59,
       "grandes_ocasiones_total": 4,
       "remates_puerta_partido": 3.8,
-      "toques_area_rival": 59,
-      "xg_concedido_total": 8.7,
       "faltas_partido": 14.5,
+      "xg_concedido_total": 8.7,
       "corners_total": 13,
       "amarillas_total": 11
      }
@@ -4011,17 +4006,17 @@
       "xg_concedido_por_partido": 0.93
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "porterias_cero": 2,
       "pj_stats": 4,
       "goles_concedidos_partido": 0.5,
-      "porterias_cero": 2,
       "posesion": 47.7,
+      "goles_partido": 1.3,
       "xg_total": 7.5,
+      "toques_area_rival": 120,
       "grandes_ocasiones_total": 15,
       "remates_puerta_partido": 5.8,
-      "toques_area_rival": 120,
-      "xg_concedido_total": 3.7,
       "faltas_partido": 12.3,
+      "xg_concedido_total": 3.7,
       "corners_total": 22,
       "amarillas_total": 7
      }
@@ -4138,17 +4133,17 @@
       "xg_concedido_por_partido": 1.36
      },
      "stats_temporada": {
-      "goles_partido": 3.3,
+      "porterias_cero": 2,
       "pj_stats": 4,
       "goles_concedidos_partido": 0.8,
-      "porterias_cero": 2,
       "posesion": 63.2,
+      "goles_partido": 3.3,
       "xg_total": 9.3,
+      "toques_area_rival": 179,
       "grandes_ocasiones_total": 15,
       "remates_puerta_partido": 7.8,
-      "toques_area_rival": 179,
-      "xg_concedido_total": 5.4,
       "faltas_partido": 11,
+      "xg_concedido_total": 5.4,
       "corners_total": 27,
       "amarillas_total": 4
      }
@@ -4224,16 +4219,16 @@
       "xg_concedido_por_partido": 1.81
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
-      "pj_stats": 4,
       "goles_concedidos_partido": 1.8,
+      "pj_stats": 4,
       "posesion": 40.8,
+      "goles_partido": 0.8,
       "xg_total": 4.6,
+      "toques_area_rival": 76,
       "grandes_ocasiones_total": 6,
       "remates_puerta_partido": 4,
-      "toques_area_rival": 76,
-      "xg_concedido_total": 7.2,
       "faltas_partido": 22.3,
+      "xg_concedido_total": 7.2,
       "corners_total": 12,
       "amarillas_total": 9
      }
@@ -4361,16 +4356,16 @@
       "xg_concedido_por_partido": 1.68
      },
      "stats_temporada": {
-      "goles_partido": 2,
-      "pj_stats": 4,
       "goles_concedidos_partido": 1.8,
+      "pj_stats": 4,
       "posesion": 63,
+      "goles_partido": 2,
       "xg_total": 8.1,
+      "toques_area_rival": 134,
       "grandes_ocasiones_total": 10,
       "remates_puerta_partido": 6.5,
-      "toques_area_rival": 134,
-      "xg_concedido_total": 6.7,
       "faltas_partido": 12.3,
+      "xg_concedido_total": 6.7,
       "corners_total": 31,
       "amarillas_total": 4
      }
@@ -4446,17 +4441,17 @@
       "xg_concedido_por_partido": 1.81
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 0.8,
-      "porterias_cero": 1,
       "posesion": 45.1,
+      "goles_partido": 1.3,
       "xg_total": 5.9,
+      "toques_area_rival": 92,
       "grandes_ocasiones_total": 8,
       "remates_puerta_partido": 3.5,
-      "toques_area_rival": 92,
-      "xg_concedido_total": 7.3,
       "faltas_partido": 12,
+      "xg_concedido_total": 7.3,
       "corners_total": 14,
       "amarillas_total": 5
      }
@@ -4573,17 +4568,17 @@
       "xg_concedido_por_partido": 0.39
      },
      "stats_temporada": {
-      "goles_partido": 2.3,
+      "porterias_cero": 4,
       "pj_stats": 4,
       "goles_concedidos_partido": 0,
-      "porterias_cero": 4,
       "posesion": 71.4,
+      "goles_partido": 2.3,
       "xg_total": 10.3,
+      "toques_area_rival": 211,
       "grandes_ocasiones_total": 24,
       "remates_puerta_partido": 6.5,
-      "toques_area_rival": 211,
-      "xg_concedido_total": 1.6,
       "faltas_partido": 12.3,
+      "xg_concedido_total": 1.6,
       "corners_total": 34,
       "amarillas_total": 7
      }
@@ -4649,17 +4644,17 @@
       "xg_concedido_por_partido": 1.37
      },
      "stats_temporada": {
-      "goles_partido": 1.5,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 1.5,
-      "porterias_cero": 1,
       "posesion": 39.5,
+      "goles_partido": 1.5,
       "xg_total": 5.7,
+      "toques_area_rival": 60,
       "grandes_ocasiones_total": 14,
       "remates_puerta_partido": 5.5,
-      "toques_area_rival": 60,
-      "xg_concedido_total": 5.5,
       "faltas_partido": 10.5,
+      "xg_concedido_total": 5.5,
       "corners_total": 15,
       "amarillas_total": 11
      }
@@ -4766,16 +4761,16 @@
       "xg_concedido_por_partido": 1.49
      },
      "stats_temporada": {
-      "goles_partido": 1,
-      "pj_stats": 4,
       "goles_concedidos_partido": 1.3,
+      "pj_stats": 4,
       "posesion": 57,
+      "goles_partido": 1,
       "xg_total": 5,
+      "toques_area_rival": 84,
       "grandes_ocasiones_total": 10,
       "remates_puerta_partido": 6.3,
-      "toques_area_rival": 84,
-      "xg_concedido_total": 6,
       "faltas_partido": 13.5,
+      "xg_concedido_total": 6,
       "corners_total": 22,
       "amarillas_total": 8
      }
@@ -4841,17 +4836,17 @@
       "xg_concedido_por_partido": 2.94
      },
      "stats_temporada": {
-      "goles_partido": 1,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 2,
-      "porterias_cero": 1,
       "posesion": 31.7,
+      "goles_partido": 1,
       "xg_total": 1.5,
+      "toques_area_rival": 38,
       "grandes_ocasiones_total": 2,
       "remates_puerta_partido": 2,
-      "toques_area_rival": 38,
-      "xg_concedido_total": 11.8,
       "faltas_partido": 13.3,
+      "xg_concedido_total": 11.8,
       "corners_total": 3,
       "amarillas_total": 5
      }
@@ -4938,17 +4933,17 @@
       "xg_concedido_por_partido": 2.47
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 2.8,
-      "porterias_cero": 1,
       "posesion": 37,
+      "goles_partido": 0.8,
       "xg_total": 4.7,
+      "toques_area_rival": 51,
       "grandes_ocasiones_total": 10,
       "remates_puerta_partido": 2.8,
-      "toques_area_rival": 51,
-      "xg_concedido_total": 9.9,
       "faltas_partido": 11.3,
+      "xg_concedido_total": 9.9,
       "corners_total": 7,
       "amarillas_total": 9
      }
@@ -5014,16 +5009,16 @@
       "xg_concedido_por_partido": 1.43
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
-      "pj_stats": 4,
       "goles_concedidos_partido": 1.3,
+      "pj_stats": 4,
       "posesion": 53.6,
+      "goles_partido": 0.8,
       "xg_total": 6.4,
+      "toques_area_rival": 108,
       "grandes_ocasiones_total": 9,
       "remates_puerta_partido": 4,
-      "toques_area_rival": 108,
-      "xg_concedido_total": 5.7,
       "faltas_partido": 14.5,
+      "xg_concedido_total": 5.7,
       "corners_total": 16,
       "amarillas_total": 3
      }
@@ -5160,16 +5155,16 @@
       "xg_concedido_por_partido": 1.63
      },
      "stats_temporada": {
-      "goles_partido": 1,
-      "pj_stats": 4,
       "goles_concedidos_partido": 2.3,
+      "pj_stats": 4,
       "posesion": 45.7,
+      "goles_partido": 1,
       "xg_total": 4.2,
+      "toques_area_rival": 90,
       "grandes_ocasiones_total": 9,
       "remates_puerta_partido": 4.8,
-      "toques_area_rival": 90,
-      "xg_concedido_total": 6.5,
       "faltas_partido": 11,
+      "xg_concedido_total": 6.5,
       "corners_total": 16,
       "amarillas_total": 9
      }
@@ -5260,17 +5255,17 @@
       "xg_concedido_por_partido": 0.81
      },
      "stats_temporada": {
-      "goles_partido": 2.5,
+      "porterias_cero": 2,
       "pj_stats": 4,
       "goles_concedidos_partido": 0.8,
-      "porterias_cero": 2,
       "posesion": 52.2,
+      "goles_partido": 2.5,
       "xg_total": 7.1,
+      "toques_area_rival": 94,
       "grandes_ocasiones_total": 15,
       "remates_puerta_partido": 5.5,
-      "toques_area_rival": 94,
-      "xg_concedido_total": 3.2,
       "faltas_partido": 11.3,
+      "xg_concedido_total": 3.2,
       "corners_total": 18,
       "amarillas_total": 9
      }
@@ -5364,17 +5359,17 @@
       "xg_concedido_por_partido": 1.94
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 1.3,
-      "porterias_cero": 1,
       "posesion": 42.2,
+      "goles_partido": 0.8,
       "xg_total": 2.9,
+      "toques_area_rival": 26,
       "grandes_ocasiones_total": 7,
       "remates_puerta_partido": 2.5,
-      "toques_area_rival": 26,
-      "xg_concedido_total": 7.8,
       "faltas_partido": 14.5,
+      "xg_concedido_total": 7.8,
       "corners_total": 7,
       "amarillas_total": 12
      }
@@ -5460,16 +5455,16 @@
       "xg_concedido_por_partido": 1.66
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
-      "pj_stats": 4,
       "goles_concedidos_partido": 2,
+      "pj_stats": 4,
       "posesion": 55,
+      "goles_partido": 0.8,
       "xg_total": 6.3,
+      "toques_area_rival": 81,
       "grandes_ocasiones_total": 8,
       "remates_puerta_partido": 5,
-      "toques_area_rival": 81,
-      "xg_concedido_total": 6.6,
       "faltas_partido": 13,
+      "xg_concedido_total": 6.6,
       "corners_total": 29,
       "amarillas_total": 6
      }
@@ -5578,17 +5573,17 @@
       "xg_concedido_por_partido": 1.31
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "porterias_cero": 2,
       "pj_stats": 4,
       "goles_concedidos_partido": 1,
-      "porterias_cero": 2,
       "posesion": 35,
+      "goles_partido": 1.3,
       "xg_total": 6.4,
+      "toques_area_rival": 66,
       "grandes_ocasiones_total": 11,
       "remates_puerta_partido": 3.3,
-      "toques_area_rival": 66,
-      "xg_concedido_total": 5.2,
       "faltas_partido": 11,
+      "xg_concedido_total": 5.2,
       "corners_total": 13,
       "amarillas_total": 12
      }
@@ -5659,17 +5654,17 @@
       "xg_concedido_por_partido": 1.87
      },
      "stats_temporada": {
-      "goles_partido": 2.8,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 1.5,
-      "porterias_cero": 1,
       "posesion": 53.8,
+      "goles_partido": 2.8,
       "xg_total": 6.7,
+      "toques_area_rival": 71,
       "grandes_ocasiones_total": 11,
       "remates_puerta_partido": 5.3,
-      "toques_area_rival": 71,
-      "xg_concedido_total": 7.5,
       "faltas_partido": 12,
+      "xg_concedido_total": 7.5,
       "corners_total": 14,
       "amarillas_total": 9
      }
@@ -5771,16 +5766,16 @@
       "xg_concedido_por_partido": 2.92
      },
      "stats_temporada": {
-      "goles_partido": 0.8,
-      "pj_stats": 4,
       "goles_concedidos_partido": 2.3,
+      "pj_stats": 4,
       "posesion": 41.9,
+      "goles_partido": 0.8,
       "xg_total": 3.7,
+      "toques_area_rival": 59,
       "grandes_ocasiones_total": 8,
       "remates_puerta_partido": 4,
-      "toques_area_rival": 59,
-      "xg_concedido_total": 11.7,
       "faltas_partido": 10.3,
+      "xg_concedido_total": 11.7,
       "corners_total": 18,
       "amarillas_total": 5
      }
@@ -5813,8 +5808,8 @@
       },
       {
        "jugador": "Kjell Wätjen",
-       "tipo": "injury",
-       "regreso": "Mid December 2026"
+       "tipo": "suspension",
+       "regreso": "Late November 2026"
       },
       {
        "jugador": "David Martínez",
@@ -5866,17 +5861,17 @@
       "xg_concedido_por_partido": 1.82
      },
      "stats_temporada": {
-      "goles_partido": 1,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 2,
-      "porterias_cero": 1,
       "posesion": 40.3,
+      "goles_partido": 1,
       "xg_total": 8.4,
+      "toques_area_rival": 129,
       "grandes_ocasiones_total": 12,
       "remates_puerta_partido": 5.5,
-      "toques_area_rival": 129,
-      "xg_concedido_total": 7.3,
       "faltas_partido": 14,
+      "xg_concedido_total": 7.3,
       "corners_total": 18,
       "amarillas_total": 5
      }
@@ -5970,17 +5965,17 @@
       "xg_concedido_por_partido": 2.31
      },
      "stats_temporada": {
-      "goles_partido": 1.3,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 1.8,
-      "porterias_cero": 1,
       "posesion": 44.4,
+      "goles_partido": 1.3,
       "xg_total": 5.3,
+      "toques_area_rival": 76,
       "grandes_ocasiones_total": 9,
       "remates_puerta_partido": 4.8,
-      "toques_area_rival": 76,
-      "xg_concedido_total": 9.2,
       "faltas_partido": 15.3,
+      "xg_concedido_total": 9.2,
       "corners_total": 20,
       "amarillas_total": 9
      }
@@ -6061,16 +6056,16 @@
       "xg_concedido_por_partido": 1.34
      },
      "stats_temporada": {
-      "goles_partido": 1.8,
-      "pj_stats": 4,
       "goles_concedidos_partido": 1.5,
+      "pj_stats": 4,
       "posesion": 59.7,
+      "goles_partido": 1.8,
       "xg_total": 8.3,
+      "toques_area_rival": 146,
       "grandes_ocasiones_total": 18,
       "remates_puerta_partido": 5.5,
-      "toques_area_rival": 146,
-      "xg_concedido_total": 5.4,
       "faltas_partido": 12.5,
+      "xg_concedido_total": 5.4,
       "corners_total": 30,
       "amarillas_total": 7
      }
@@ -6163,17 +6158,17 @@
       "xg_concedido_por_partido": 1.02
      },
      "stats_temporada": {
-      "goles_partido": 1.5,
+      "porterias_cero": 3,
       "pj_stats": 4,
       "goles_concedidos_partido": 0.8,
-      "porterias_cero": 3,
       "posesion": 55.3,
+      "goles_partido": 1.5,
       "xg_total": 7.8,
+      "toques_area_rival": 123,
       "grandes_ocasiones_total": 14,
       "remates_puerta_partido": 7.3,
-      "toques_area_rival": 123,
-      "xg_concedido_total": 4.1,
       "faltas_partido": 15,
+      "xg_concedido_total": 4.1,
       "corners_total": 23,
       "amarillas_total": 5
      }
@@ -6239,17 +6234,17 @@
       "xg_concedido_por_partido": 2.45
      },
      "stats_temporada": {
-      "goles_partido": 0.5,
+      "porterias_cero": 1,
       "pj_stats": 4,
       "goles_concedidos_partido": 2.5,
-      "porterias_cero": 1,
       "posesion": 49.6,
+      "goles_partido": 0.5,
       "xg_total": 3.5,
+      "toques_area_rival": 67,
       "grandes_ocasiones_total": 6,
       "remates_puerta_partido": 3.5,
-      "toques_area_rival": 67,
-      "xg_concedido_total": 9.8,
       "faltas_partido": 12.3,
+      "xg_concedido_total": 9.8,
       "corners_total": 17,
       "amarillas_total": 7
      }
@@ -6266,5 +6261,5 @@
   }
  ],
  "errores": [],
- "generado_utc": "2026-11-26T23:58:48.941Z"
+ "generado_utc": "2026-11-27T02:47:04.371Z"
 }
