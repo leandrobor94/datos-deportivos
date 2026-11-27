@@ -1,0 +1,4184 @@
+{
+ "fuente": "FotMob (fotmob.com)",
+ "fecha": "2026-11-27",
+ "partidos": [
+  {
+   "id": 5795533,
+   "competicion": "Premier League (ENG)",
+   "inicio_utc": "2026-11-27T20:00:00.000Z",
+   "inicio_colombia": "2026-11-27 15:00",
+   "ya_empezo": false,
+   "local": "Nottingham Forest",
+   "visitante": "Chelsea",
+   "ronda": "12",
+   "estadio": "The City Ground, Nottingham, Nottinghamshire (grass)",
+   "arbitro": {
+    "nombre": "Andy Madley",
+    "stats": {
+     "matches": 42,
+     "yellowCards": 3.45,
+     "redCards": 5,
+     "unknown": 0,
+     "penalties": 8,
+     "fouls": 22.93
+    }
+   },
+   "clima": {
+    "temp_c": 3,
+    "viento_kmh": 3,
+    "lluvia_prob": 71,
+    "cielo": "Light Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 10203,
+     "nombre": "Nottingham Forest",
+     "forma_ult5": [
+      "L 0 - 1 Nottingham Forest-Arsenal",
+      "D 1 - 1 Ipswich Town-Nottingham Forest",
+      "L 2 - 0 Brentford-Nottingham Forest",
+      "W 3 - 1 Nottingham Forest-Manchester City",
+      "L 2 - 0 AFC Bournemouth-Nottingham Forest"
+     ],
+     "bajas": [
+      {
+       "jugador": "Nicolò Savona",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Nicolás Domínguez",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-1-2",
+      "titulares": [
+       "Matz Sels",
+       "Jair Cunha",
+       "Nikola Milenković",
+       "Murillo",
+       "Daniel Muñoz",
+       "James McAtee",
+       "Xaver Schlager",
+       "Neco Williams",
+       "Morgan Gibbs-White",
+       "Liam Delap",
+       "Igor Jesus"
+      ]
+     },
+     "tabla": {
+      "pos": 17,
+      "pj": 11,
+      "g": 2,
+      "e": 3,
+      "p": 6,
+      "goles": "9-15",
+      "pts": 9
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 19,
+      "pj": 5,
+      "g": 1,
+      "e": 1,
+      "p": 3,
+      "goles": "3-4",
+      "pts": 4
+     },
+     "xg_temporada": {
+      "pj": 11,
+      "xg": 17.69,
+      "xg_concedido": 13.89,
+      "xpts": 17.73,
+      "xg_por_partido": 1.61,
+      "xg_concedido_por_partido": 1.26
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.4,
+      "pj_stats": 11,
+      "porterias_cero": 1,
+      "goles_partido": 0.8,
+      "posesion": 45.4,
+      "remates_puerta_partido": 3.4,
+      "grandes_ocasiones_total": 29,
+      "xg_total": 17.7,
+      "toques_area_rival": 265,
+      "faltas_partido": 14.1,
+      "amarillas_total": 27,
+      "corners_total": 49,
+      "xg_concedido_total": 13.9
+     }
+    },
+    "visitante": {
+     "id": 8455,
+     "nombre": "Chelsea",
+     "forma_ult5": [
+      "L 0 - 2 Chelsea-Tottenham Hotspur",
+      "D 1 - 1 Liverpool-Chelsea",
+      "W 2 - 0 Chelsea-Manchester United",
+      "L 1 - 0 Sunderland-Chelsea",
+      "L 1 - 4 Chelsea-Leeds United"
+     ],
+     "bajas": [
+      {
+       "jugador": "Jorrel Hato",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Maxence Lacroix",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      },
+      {
+       "jugador": "Reece James",
+       "tipo": "injury",
+       "regreso": "Mid January 2027"
+      },
+      {
+       "jugador": "Jamie Gittens",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "João Pedro",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Emiliano Martínez",
+       "Josh Acheampong",
+       "Wesley Fofana",
+       "Moisés Caicedo",
+       "Pep Chavarría",
+       "Roméo Lavia",
+       "Jordan Henderson",
+       "Pedro Neto",
+       "Cole Palmer",
+       "Morgan Rogers",
+       "Danny Welbeck"
+      ]
+     },
+     "tabla": {
+      "pos": 8,
+      "pj": 11,
+      "g": 5,
+      "e": 1,
+      "p": 5,
+      "goles": "20-20",
+      "pts": 16
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 10,
+      "pj": 5,
+      "g": 2,
+      "e": 0,
+      "p": 3,
+      "goles": "6-8",
+      "pts": 6
+     },
+     "xg_temporada": {
+      "pj": 11,
+      "xg": 14.63,
+      "xg_concedido": 17.76,
+      "xpts": 13.35,
+      "xg_por_partido": 1.33,
+      "xg_concedido_por_partido": 1.61
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.8,
+      "pj_stats": 11,
+      "porterias_cero": 2,
+      "goles_partido": 1.8,
+      "posesion": 50.6,
+      "remates_puerta_partido": 5.5,
+      "grandes_ocasiones_total": 23,
+      "xg_total": 14.6,
+      "toques_area_rival": 292,
+      "faltas_partido": 9.2,
+      "amarillas_total": 21,
+      "corners_total": 58,
+      "xg_concedido_total": 17.8
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     3,
+     6
+    ],
+    "ultimos": [
+     "2026-05-04 Chelsea 1 - 3 Nottingham Forest",
+     "2025-10-18 Nottingham Forest 0 - 3 Chelsea",
+     "2025-05-25 Nottingham Forest 0 - 1 Chelsea",
+     "2024-10-06 Chelsea 1 - 1 Nottingham Forest",
+     "2024-05-11 Nottingham Forest 2 - 3 Chelsea",
+     "2023-09-02 Chelsea 0 - 1 Nottingham Forest"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 4 goals in their last 5 matches",
+    "Haven't kept a clean sheet in 8 matches",
+    "789502 is ranked 2 in big chances created in the competition (9)",
+    "Have scored 4 goals in their last 5 matches",
+    "268375 is ranked 3 in saves per match in the competition (4.2)",
+    "1580774 has the most shots on target per match for 8455 (2.2)"
+   ]
+  },
+  {
+   "id": 5868146,
+   "competicion": "LaLiga (ESP)",
+   "inicio_utc": "2026-11-27T20:00:00.000Z",
+   "inicio_colombia": "2026-11-27 15:00",
+   "ya_empezo": false,
+   "local": "Levante",
+   "visitante": "Racing Santander",
+   "ronda": "14",
+   "estadio": "Estadio Ciudad de Valencia, Valencia (grass)",
+   "arbitro": {
+    "nombre": "Miguel Sesma Espinosa",
+    "stats": {
+     "matches": 27,
+     "yellowCards": 3.78,
+     "redCards": 4,
+     "unknown": 0,
+     "penalties": 12,
+     "fouls": 26.89
+    }
+   },
+   "clima": {
+    "temp_c": 13,
+    "viento_kmh": 2,
+    "lluvia_prob": 1,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 8581,
+     "nombre": "Levante",
+     "forma_ult5": [
+      "L 2 - 1 Real Sociedad-Levante",
+      "L 0 - 2 Levante-Atlético Madrid",
+      "D 0 - 0 Celta Vigo-Levante",
+      "W 1 - 2 CD Tarancon-Levante",
+      "D 1 - 1 Levante-Elche"
+     ],
+     "bajas": [
+      {
+       "jugador": "Jeremy Toljan",
+       "tipo": "injury",
+       "regreso": "Mid December 2026"
+      },
+      {
+       "jugador": "Manuel Sánchez",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      },
+      {
+       "jugador": "Petar Ratkov",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Mathew Ryan",
+       "Nacho Pérez",
+       "Aïssa Mandi",
+       "Adrián De La Fuente",
+       "Marc Santos",
+       "Jon Olasagasti",
+       "Oriol Rey",
+       "Dani Requena",
+       "Víctor García",
+       "Iván Romero",
+       "Thiago Fernández"
+      ]
+     },
+     "tabla": {
+      "pos": 15,
+      "pj": 13,
+      "g": 2,
+      "e": 6,
+      "p": 5,
+      "goles": "17-22",
+      "pts": 12
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 15,
+      "pj": 6,
+      "g": 2,
+      "e": 2,
+      "p": 2,
+      "goles": "14-13",
+      "pts": 8
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 15.44,
+      "xg_concedido": 24.31,
+      "xpts": 13.69,
+      "xg_por_partido": 1.19,
+      "xg_concedido_por_partido": 1.87
+     },
+     "stats_temporada": {
+      "porterias_cero": 3,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 1.7,
+      "posesion": 43.5,
+      "goles_partido": 1.3,
+      "xg_total": 15.4,
+      "corners_total": 45,
+      "grandes_ocasiones_total": 24,
+      "remates_puerta_partido": 3.8,
+      "toques_area_rival": 264,
+      "xg_concedido_total": 24.3,
+      "faltas_partido": 10.4,
+      "amarillas_total": 22
+     }
+    },
+    "visitante": {
+     "id": 8696,
+     "nombre": "Racing Santander",
+     "forma_ult5": [
+      "W 2 - 1 Racing Santander-Espanyol",
+      "W 0 - 2 Ribadesella CF-Racing Santander",
+      "L 0 - 3 Racing Santander-Real Madrid",
+      "W 1 - 2 Málaga-Racing Santander",
+      "W 3 - 2 Racing Santander-Real Sociedad"
+     ],
+     "bajas": [
+      {
+       "jugador": "Álvaro Mantilla",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      },
+      {
+       "jugador": "Maguette Gueye",
+       "tipo": "injury",
+       "regreso": "Late December 2026"
+      },
+      {
+       "jugador": "Andrés Martín",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Julen Agirrezabala",
+       "Pablo Ramón",
+       "Pedro Felipe",
+       "Jeanuël Belocian",
+       "Jorge Salinas",
+       "Iván Martín",
+       "Matteo Prati",
+       "Iker Luque",
+       "Sergio Canales",
+       "Iñigo Vicente",
+       "Yassir Zabiri"
+      ]
+     },
+     "tabla": {
+      "pos": 7,
+      "pj": 13,
+      "g": 5,
+      "e": 2,
+      "p": 6,
+      "goles": "20-32",
+      "pts": 17
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 17,
+      "pj": 6,
+      "g": 1,
+      "e": 0,
+      "p": 5,
+      "goles": "6-19",
+      "pts": 3
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 20.29,
+      "xg_concedido": 30.45,
+      "xpts": 14.28,
+      "xg_por_partido": 1.56,
+      "xg_concedido_por_partido": 2.34
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 2.5,
+      "pj_stats": 13,
+      "posesion": 49.1,
+      "goles_partido": 1.5,
+      "xg_total": 20.3,
+      "corners_total": 65,
+      "grandes_ocasiones_total": 30,
+      "remates_puerta_partido": 5,
+      "toques_area_rival": 295,
+      "xg_concedido_total": 30.4,
+      "faltas_partido": 12.2,
+      "amarillas_total": 33
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     4,
+     3
+    ],
+    "ultimos": [
+     "2025-04-06 Levante 3 - 1 Racing Santander",
+     "2024-10-13 Racing Santander 1 - 0 Levante",
+     "2024-04-20 Racing Santander 0 - 0 Levante",
+     "2023-11-20 Levante 2 - 4 Racing Santander",
+     "2023-03-25 Racing Santander 0 - 1 Levante",
+     "2022-10-09 Levante 0 - 1 Racing Santander"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 4 goals in their last 5 matches",
+    "1131957 has created the most big chances for 8581 (5)",
+    "1209441 has the most shots on target per match for 8581 (1.2)",
+    "Have scored 9 goals in their last 5 matches",
+    "Have conceded the most penalties this season (6)",
+    "1280020 is ranked 3 in saves per match in the competition (4)"
+   ]
+  },
+  {
+   "id": 5749769,
+   "competicion": "Serie A (ITA)",
+   "inicio_utc": "2026-11-27T19:45:00.000Z",
+   "inicio_colombia": "2026-11-27 14:45",
+   "ya_empezo": true,
+   "local": "Venezia",
+   "visitante": "Bologna",
+   "ronda": "13",
+   "estadio": "Stadio Pier Luigi Penzo, Venezia (grass)",
+   "arbitro": {
+    "nombre": "Andrea Colombo",
+    "stats": {
+     "matches": 29,
+     "yellowCards": 4.41,
+     "redCards": 1,
+     "unknown": 3,
+     "penalties": 5,
+     "fouls": 26.75
+    }
+   },
+   "clima": {
+    "temp_c": 8,
+    "viento_kmh": 6,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 7881,
+     "nombre": "Venezia",
+     "forma_ult5": [
+      "L 1 - 0 Genoa-Venezia",
+      "L 0 - 2 Venezia-Inter",
+      "L 1 - 0 Como-Venezia",
+      "W 2 - 1 Venezia-Udinese",
+      "L 4 - 0 Juventus-Venezia"
+     ],
+     "bajas": [
+      {
+       "jugador": "Bartol Franjić",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Marin Šverko",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      },
+      {
+       "jugador": "Thierry Correia",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-5-2",
+      "titulares": [
+       "Filip Stanković",
+       "Redouane Halhal",
+       "Matías Moreno",
+       "Juan Jesus",
+       "Antoine Hainaut",
+       "Kike Pérez",
+       "Simon Sohm",
+       "Gianluca Busio",
+       "Ridgeciano Haps",
+       "John Yeboah",
+       "Akor Adams"
+      ]
+     },
+     "tabla": {
+      "pos": 19,
+      "pj": 13,
+      "g": 2,
+      "e": 1,
+      "p": 10,
+      "goles": "8-25",
+      "pts": 7
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 15,
+      "pj": 7,
+      "g": 2,
+      "e": 1,
+      "p": 4,
+      "goles": "5-11",
+      "pts": 7
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 17.03,
+      "xg_concedido": 23.48,
+      "xpts": 13.84,
+      "xg_por_partido": 1.31,
+      "xg_concedido_por_partido": 1.81
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.9,
+      "pj_stats": 13,
+      "posesion": 51.5,
+      "goles_partido": 0.6,
+      "porterias_cero": 1,
+      "toques_area_rival": 236,
+      "xg_total": 17,
+      "remates_puerta_partido": 3.5,
+      "grandes_ocasiones_total": 26,
+      "corners_total": 45,
+      "amarillas_total": 23,
+      "xg_concedido_total": 23.5,
+      "faltas_partido": 9.1
+     }
+    },
+    "visitante": {
+     "id": 9857,
+     "nombre": "Bologna",
+     "forma_ult5": [
+      "W 0 - 2 Cagliari-Bologna",
+      "W 2 - 4 Milan-Bologna",
+      "W 2 - 1 Bologna-Monza",
+      "W 1 - 2 Parma-Bologna",
+      "D 1 - 1 Bologna-Udinese"
+     ],
+     "bajas": [
+      {
+       "jugador": "Lorenzo De Silvestri",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Ukko Happonen",
+       "tipo": "injury",
+       "regreso": "Mid December 2026"
+      },
+      {
+       "jugador": "Emil Holm",
+       "tipo": "injury",
+       "regreso": "Late February 2027"
+      },
+      {
+       "jugador": "Juan Miranda",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Oussama El Azzouzi",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Jay Enem",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-3",
+      "titulares": [
+       "Łukasz Skorupski",
+       "Martin Vitík",
+       "Nicolò Casale",
+       "Arthur Theate",
+       "Nadir Zortea",
+       "Lewis Ferguson",
+       "Tommaso Pobega",
+       "Rahim Alhassane",
+       "Federico Bernardeschi",
+       "Jens Odgaard",
+       "Samuel Mbangula"
+      ]
+     },
+     "tabla": {
+      "pos": 8,
+      "pj": 13,
+      "g": 5,
+      "e": 4,
+      "p": 4,
+      "goles": "17-15",
+      "pts": 19
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 4,
+      "pj": 7,
+      "g": 4,
+      "e": 1,
+      "p": 2,
+      "goles": "10-6",
+      "pts": 13
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 20,
+      "xg_concedido": 16.85,
+      "xpts": 20.03,
+      "xg_por_partido": 1.54,
+      "xg_concedido_por_partido": 1.3
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.2,
+      "pj_stats": 13,
+      "posesion": 47.6,
+      "goles_partido": 1.3,
+      "porterias_cero": 1,
+      "toques_area_rival": 306,
+      "xg_total": 20,
+      "remates_puerta_partido": 4.2,
+      "grandes_ocasiones_total": 34,
+      "corners_total": 63,
+      "amarillas_total": 23,
+      "xg_concedido_total": 16.8,
+      "faltas_partido": 12.1
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     2
+    ],
+    "ultimos": [
+     "2025-03-29 Venezia 0 - 1 Bologna",
+     "2024-11-30 Bologna 3 - 0 Venezia",
+     "2022-05-08 Venezia 4 - 3 Bologna",
+     "2021-11-21 Bologna 0 - 1 Venezia"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 2 goals in their last 5 matches",
+    "Have conceded the most penalties this season (4)",
+    "Haven't kept a clean sheet in 5 matches",
+    "Have scored 11 goals in their last 5 matches",
+    "9857 have won the previous 2 matches against 7881.",
+    "873956 is ranked 3 in big chances created in the competition (7)"
+   ]
+  },
+  {
+   "id": 5881241,
+   "competicion": "Bundesliga (GER)",
+   "inicio_utc": "2026-11-27T19:30:00.000Z",
+   "inicio_colombia": "2026-11-27 14:30",
+   "ya_empezo": true,
+   "local": "Werder Bremen",
+   "visitante": "Borussia Mönchengladbach",
+   "ronda": "11",
+   "estadio": "Weserstadion, Bremen (grass)",
+   "arbitro": {
+    "nombre": "Felix Zwayer",
+    "stats": {
+     "matches": 34,
+     "yellowCards": 4.35,
+     "redCards": 3,
+     "unknown": 0,
+     "penalties": 10,
+     "fouls": 20.47
+    }
+   },
+   "clima": {
+    "temp_c": -1,
+    "viento_kmh": 3,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 8697,
+     "nombre": "Werder Bremen",
+     "forma_ult5": [
+      "W 2 - 3 Mainz 05-Werder Bremen",
+      "L 3 - 2 Borussia Dortmund-Werder Bremen",
+      "W 2 - 0 Werder Bremen-Hoffenheim",
+      "L 1 - 0 VfB Stuttgart-Werder Bremen",
+      "W 4 - 0 Werder Bremen-Hamburger SV"
+     ],
+     "bajas": [
+      {
+       "jugador": "Justin Njinmah",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Marco Grüll",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Skelly Alvero",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Salim Musah",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      },
+      {
+       "jugador": "Moussa N'Diaye",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Jens Stage",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Felix Agu",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Keke Topp",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Karl Hein",
+       "Arthur",
+       "Amos Pieper",
+       "Marco Friedl",
+       "Olivier Deman",
+       "Ludovit Reis",
+       "Youri Regeer",
+       "Eren Dinkçi",
+       "Chuki",
+       "Paul Erevbenagie",
+       "Niclas Füllkrug"
+      ]
+     },
+     "tabla": {
+      "pos": 6,
+      "pj": 11,
+      "g": 5,
+      "e": 4,
+      "p": 2,
+      "goles": "21-15",
+      "pts": 19
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
+      "pj": 6,
+      "g": 4,
+      "e": 2,
+      "p": 0,
+      "goles": "14-5",
+      "pts": 14
+     },
+     "xg_temporada": {
+      "pj": 11,
+      "xg": 16.86,
+      "xg_concedido": 15.87,
+      "xpts": 15.36,
+      "xg_por_partido": 1.53,
+      "xg_concedido_por_partido": 1.44
+     },
+     "stats_temporada": {
+      "porterias_cero": 2,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.4,
+      "goles_partido": 1.9,
+      "posesion": 48.5,
+      "xg_total": 16.9,
+      "remates_puerta_partido": 5.9,
+      "grandes_ocasiones_total": 28,
+      "toques_area_rival": 259,
+      "xg_concedido_total": 15.9,
+      "amarillas_total": 17,
+      "corners_total": 41,
+      "faltas_partido": 9.8
+     }
+    },
+    "visitante": {
+     "id": 9788,
+     "nombre": "Borussia Mönchengladbach",
+     "forma_ult5": [
+      "W 2 - 0 Borussia Mönchengladbach-Karlsruher SC",
+      "D 0 - 0 Borussia Mönchengladbach-Paderborn",
+      "L 3 - 1 Hamburger SV-Borussia Mönchengladbach",
+      "W 1 - 0 Borussia Mönchengladbach-Standard Liège",
+      "L 0 - 1 Borussia Mönchengladbach-Borussia Dortmund"
+     ],
+     "bajas": [
+      {
+       "jugador": "Robin Hack",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      },
+      {
+       "jugador": "Lukas Ullrich",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Daiki Hashioka",
+       "tipo": "injury",
+       "regreso": "A few weeks"
+      },
+      {
+       "jugador": "Hugo Bolin",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Jan Leszczyński",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Enzo Leopold",
+       "tipo": "injury",
+       "regreso": "Late May 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Daniel Batz",
+       "Kevin Diks",
+       "Philipp Sander",
+       "Fabio Chiarodia",
+       "Joseph Scally",
+       "Zento Uno",
+       "Florian Neuhaus",
+       "Jens Castrop",
+       "Franck Honorat",
+       "Wael Mohya",
+       "Shuto Machino"
+      ]
+     },
+     "tabla": {
+      "pos": 18,
+      "pj": 11,
+      "g": 1,
+      "e": 2,
+      "p": 8,
+      "goles": "12-26",
+      "pts": 5
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 12,
+      "pj": 6,
+      "g": 1,
+      "e": 1,
+      "p": 4,
+      "goles": "5-15",
+      "pts": 4
+     },
+     "xg_temporada": {
+      "pj": 11,
+      "xg": 16.4,
+      "xg_concedido": 21.27,
+      "xpts": 12.8,
+      "xg_por_partido": 1.49,
+      "xg_concedido_por_partido": 1.93
+     },
+     "stats_temporada": {
+      "porterias_cero": 1,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 2.4,
+      "goles_partido": 1.1,
+      "posesion": 44.8,
+      "xg_total": 16.4,
+      "remates_puerta_partido": 4.2,
+      "grandes_ocasiones_total": 24,
+      "toques_area_rival": 252,
+      "xg_concedido_total": 21.3,
+      "amarillas_total": 26,
+      "corners_total": 57,
+      "faltas_partido": 13.4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     8,
+     11,
+     14
+    ],
+    "ultimos": [
+     "2026-01-31 Werder Bremen 1 - 1 Borussia Mönchengladbach",
+     "2025-09-14 Borussia Mönchengladbach 0 - 4 Werder Bremen",
+     "2025-03-15 Werder Bremen 2 - 4 Borussia Mönchengladbach",
+     "2024-11-03 Borussia Mönchengladbach 4 - 1 Werder Bremen",
+     "2024-05-04 Werder Bremen 2 - 2 Borussia Mönchengladbach",
+     "2023-12-15 Borussia Mönchengladbach 2 - 2 Werder Bremen"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5803002,
+   "competicion": "Ligue 1 (FRA)",
+   "inicio_utc": "2026-11-27T19:45:00.000Z",
+   "inicio_colombia": "2026-11-27 14:45",
+   "ya_empezo": true,
+   "local": "Brest",
+   "visitante": "Paris FC",
+   "ronda": "12",
+   "estadio": "Stade Francis-Le Blé, Brest (grass)",
+   "arbitro": {
+    "nombre": "Ruddy Buquet",
+    "stats": {
+     "matches": 23,
+     "yellowCards": 3.09,
+     "redCards": 2,
+     "unknown": 1,
+     "penalties": 5,
+     "fouls": 23.17
+    }
+   },
+   "clima": {
+    "temp_c": 9,
+    "viento_kmh": 2,
+    "lluvia_prob": 3,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 8521,
+     "nombre": "Brest",
+     "forma_ult5": [
+      "D 1 - 1 Lille-Brest",
+      "L 1 - 2 Brest-Nice",
+      "W 0 - 2 Lorient-Brest",
+      "W 2 - 0 Brest-Lyon",
+      "W 0 - 1 Strasbourg-Brest"
+     ],
+     "bajas": [
+      {
+       "jugador": "Raphaël Le Guen",
+       "tipo": "injury",
+       "regreso": "Late January 2027"
+      },
+      {
+       "jugador": "Brendan Chardonnet",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Egil Selvik",
+       "Luck Zogbé",
+       "Lucas Tousart",
+       "Gautier Lloris",
+       "Bradley Locko",
+       "Joris Chotard",
+       "Hugo Magnetti",
+       "Noah Edjouma",
+       "Kamory Doumbia",
+       "Pathé Mboup",
+       "Ludovic Ajorque"
+      ]
+     },
+     "tabla": {
+      "pos": 5,
+      "pj": 12,
+      "g": 5,
+      "e": 4,
+      "p": 3,
+      "goles": "19-12",
+      "pts": 19
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 10,
+      "pj": 6,
+      "g": 2,
+      "e": 2,
+      "p": 2,
+      "goles": "10-6",
+      "pts": 8
+     },
+     "xg_temporada": {
+      "pj": 12,
+      "xg": 21.52,
+      "xg_concedido": 14.09,
+      "xpts": 20.59,
+      "xg_por_partido": 1.79,
+      "xg_concedido_por_partido": 1.17
+     },
+     "stats_temporada": {
+      "goles_partido": 1.6,
+      "pj_stats": 12,
+      "posesion": 43.9,
+      "porterias_cero": 3,
+      "goles_concedidos_partido": 1,
+      "grandes_ocasiones_total": 38,
+      "remates_puerta_partido": 4.9,
+      "xg_total": 21.5,
+      "toques_area_rival": 252,
+      "corners_total": 41,
+      "xg_concedido_total": 14.1,
+      "faltas_partido": 13.5,
+      "amarillas_total": 16
+     }
+    },
+    "visitante": {
+     "id": 6379,
+     "nombre": "Paris FC",
+     "forma_ult5": [
+      "W 4 - 3 Paris FC-Rennes",
+      "L 2 - 1 Lens-Paris FC",
+      "W 3 - 1 Paris FC-Monaco",
+      "W 0 - 1 Auxerre-Paris FC",
+      "W 4 - 0 Paris FC-Angers"
+     ],
+     "bajas": [
+      {
+       "jugador": "Nhoa Sangui",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Kevin Trapp",
+       "Adama Camara",
+       "Samir Chergui",
+       "Diego Coppola",
+       "Hamari Traoré",
+       "Maxime Lopez",
+       "Pierre Lees-Melou",
+       "Luca Koleosho",
+       "Pablo Pagis",
+       "Moses Simon",
+       "Lassine Sinayoko"
+      ]
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 12,
+      "g": 7,
+      "e": 3,
+      "p": 2,
+      "goles": "21-10",
+      "pts": 24
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 6,
+      "pj": 6,
+      "g": 2,
+      "e": 2,
+      "p": 2,
+      "goles": "5-5",
+      "pts": 8
+     },
+     "xg_temporada": {
+      "pj": 12,
+      "xg": 20.24,
+      "xg_concedido": 10.28,
+      "xpts": 22.24,
+      "xg_por_partido": 1.69,
+      "xg_concedido_por_partido": 0.86
+     },
+     "stats_temporada": {
+      "goles_partido": 1.8,
+      "pj_stats": 12,
+      "posesion": 53,
+      "porterias_cero": 5,
+      "goles_concedidos_partido": 0.8,
+      "grandes_ocasiones_total": 30,
+      "remates_puerta_partido": 4.8,
+      "xg_total": 20.2,
+      "toques_area_rival": 275,
+      "corners_total": 46,
+      "xg_concedido_total": 10.3,
+      "faltas_partido": 13.1,
+      "amarillas_total": 24
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     4,
+     2
+    ],
+    "ultimos": [
+     "2026-05-03 Paris FC 4 - 0 Brest",
+     "2025-09-14 Brest 1 - 2 Paris FC",
+     "2019-01-21 Paris FC 0 - 1 Brest",
+     "2018-08-10 Brest 1 - 1 Paris FC",
+     "2018-02-24 Paris FC 0 - 1 Brest",
+     "2017-09-22 Brest 1 - 1 Paris FC"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000024578,
+   "competicion": "Primera A (COL)",
+   "inicio_utc": "2026-11-27T23:35:00.000Z",
+   "inicio_colombia": "2026-11-27 18:35",
+   "ya_empezo": false,
+   "local": "Deportivo Cali",
+   "visitante": "Bucaramanga",
+   "ronda": "Clausura - Quadrangular - Round 3",
+   "estadio": "Estadio Deportivo Cali, Palmira (grass)",
+   "arbitro": {
+    "nombre": "José Alexander Ortiz Novoa",
+    "stats": {
+     "matches": 52,
+     "yellowCards": 6.06,
+     "redCards": 29,
+     "unknown": 8,
+     "penalties": 18,
+     "fouls": 23.58
+    }
+   },
+   "clima": {
+    "temp_c": 26,
+    "viento_kmh": 3,
+    "lluvia_prob": 50,
+    "cielo": "Scattered Thunderstorms"
+   },
+   "equipos": {
+    "local": {
+     "id": 6387,
+     "nombre": "Deportivo Cali",
+     "forma_ult5": [
+      "W 2 - 0 Deportivo Cali-Chicó FC",
+      "D 0 - 0 América de Cali-Deportivo Cali",
+      "D 2 - 2 Deportivo Cali-Tolima",
+      "D 0 - 0 Deportivo Cali-Millonarios",
+      "L 2 - 1 América de Cali-Deportivo Cali"
+     ],
+     "bajas": [
+      {
+       "jugador": "Kalazan Suárez",
+       "tipo": "injury",
+       "regreso": "Early May 2027"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Pedro Gallese",
+       "Fabián Viáfara",
+       "José Caldera",
+       "Fernando Álvarez",
+       "Edwin Velasco",
+       "Daniel Giraldo",
+       "Ronaldo Pájaro",
+       "Alexis Manyoma",
+       "Nicolás Benedetti",
+       "Eduard Bello",
+       "Steven Rodríguez"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 11,
+      "pj_stats": 21,
+      "goles_partido": 1.4,
+      "goles_concedidos_partido": 0.7,
+      "posesion": 50.1,
+      "xg_total": 21.3,
+      "remates_puerta_partido": 5,
+      "toques_area_rival": 405,
+      "grandes_ocasiones_total": 19,
+      "corners_total": 77,
+      "xg_concedido_total": 16.3,
+      "faltas_partido": 11.6,
+      "amarillas_total": 55
+     }
+    },
+    "visitante": {
+     "id": 4401,
+     "nombre": "Bucaramanga",
+     "forma_ult5": [
+      "D 1 - 1 Bucaramanga-Atlético Nacional",
+      "W 0 - 4 CD Jaguares-Bucaramanga",
+      "W 1 - 0 Bucaramanga-Fortaleza FC",
+      "D 2 - 2 Bucaramanga-América de Cali",
+      "L 4 - 1 Millonarios-Bucaramanga"
+     ],
+     "bajas": [
+      {
+       "jugador": "Fabián Sambueza",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Cristopher Fiermarín",
+       "Aldair Gutiérrez",
+       "Carlos Romaña",
+       "José Ortiz",
+       "José García",
+       "Emerson Batalla",
+       "Felix Charrupí",
+       "Aldair Zárate",
+       "Fredy Hinestroza",
+       "Leonardo Flores",
+       "Luciano Pons"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 5,
+      "pj_stats": 21,
+      "goles_partido": 1.6,
+      "goles_concedidos_partido": 1.1,
+      "posesion": 46.8,
+      "xg_total": 22.6,
+      "remates_puerta_partido": 4.3,
+      "toques_area_rival": 330,
+      "grandes_ocasiones_total": 33,
+      "corners_total": 64,
+      "xg_concedido_total": 27.2,
+      "faltas_partido": 11.8,
+      "amarillas_total": 61
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     8,
+     8,
+     9
+    ],
+    "ultimos": [
+     "2026-08-31 Deportivo Cali 1 - 1 Bucaramanga",
+     "2026-05-11 Deportivo Cali 2 - 0 Bucaramanga",
+     "2026-02-21 Bucaramanga 0 - 0 Deportivo Cali",
+     "2025-07-28 Bucaramanga 2 - 3 Deportivo Cali",
+     "2025-06-02 Bucaramanga 3 - 1 Deportivo Cali",
+     "2025-02-15 Deportivo Cali 0 - 0 Bucaramanga"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 1000024579,
+   "competicion": "Primera A (COL)",
+   "inicio_utc": "2026-11-28T01:40:00.000Z",
+   "inicio_colombia": "2026-11-27 20:40",
+   "ya_empezo": false,
+   "local": "Millonarios",
+   "visitante": "América de Cali",
+   "ronda": "Clausura - Quadrangular - Round 3",
+   "estadio": "Estadio Nemesio Camacho El Campín, Bogotá, D.C. (grass)",
+   "arbitro": {
+    "nombre": "Carlos Ortega",
+    "stats": {
+     "matches": 51,
+     "yellowCards": 5.55,
+     "redCards": 17,
+     "unknown": 9,
+     "penalties": 25,
+     "fouls": 22.53
+    }
+   },
+   "clima": {
+    "temp_c": 14,
+    "viento_kmh": 2,
+    "lluvia_prob": 5,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 4403,
+     "nombre": "Millonarios",
+     "forma_ult5": [
+      "D 0 - 0 Millonarios-América de Cali",
+      "L 2 - 1 Tolima-Millonarios",
+      "W 2 - 0 Millonarios-Alianza FC",
+      "D 0 - 0 Deportivo Cali-Millonarios",
+      "W 4 - 1 Millonarios-Bucaramanga"
+     ],
+     "bajas": [
+      {
+       "jugador": "Juan Cuadrado",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "David Silva",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      },
+      {
+       "jugador": "Santiago Giordana",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Javier Burrai",
+       "Jhomier Guerrero",
+       "Stiven Barreiro",
+       "Jorge Arias",
+       "Danovis Banguero",
+       "Andrey Estupiñán",
+       "Mateo García",
+       "Rodrigo Ureña",
+       "Francisco Chaverra",
+       "Leonardo Castro",
+       "Rodrigo Contreras"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 8,
+      "pj_stats": 21,
+      "goles_partido": 1.5,
+      "goles_concedidos_partido": 0.8,
+      "posesion": 51.1,
+      "xg_total": 26.2,
+      "remates_puerta_partido": 6.1,
+      "toques_area_rival": 400,
+      "grandes_ocasiones_total": 25,
+      "corners_total": 106,
+      "xg_concedido_total": 16.6,
+      "faltas_partido": 13.2,
+      "amarillas_total": 66
+     }
+    },
+    "visitante": {
+     "id": 10280,
+     "nombre": "América de Cali",
+     "forma_ult5": [
+      "W 1 - 2 Internacional de Bogotá-América de Cali",
+      "W 0 - 2 Deportivo Pereira-América de Cali",
+      "D 1 - 1 América de Cali-Internacional de Bogotá",
+      "D 2 - 2 Bucaramanga-América de Cali",
+      "W 2 - 1 América de Cali-Deportivo Cali"
+     ],
+     "bajas": [
+      {
+       "jugador": "Yhorman Hurtado",
+       "tipo": "suspension",
+       "regreso": "Late December 2026"
+      },
+      {
+       "jugador": "Jhon Murillo",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      },
+      {
+       "jugador": "Jan Lucumí",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      },
+      {
+       "jugador": "Jorge Valencia",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Jean",
+       "Yani Quintero",
+       "Cristian Tovar",
+       "Dany Rosero",
+       "Marcos Mina",
+       "Rafael Carrascal",
+       "Josen Escobar",
+       "Luis Quiñones",
+       "Yeison Guzmán",
+       "Jhon Murillo",
+       "Tomás Ángel"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "porterias_cero": 10,
+      "pj_stats": 21,
+      "goles_partido": 1.8,
+      "goles_concedidos_partido": 0.7,
+      "posesion": 53.9,
+      "xg_total": 26.1,
+      "remates_puerta_partido": 4.9,
+      "toques_area_rival": 447,
+      "grandes_ocasiones_total": 34,
+      "corners_total": 102,
+      "xg_concedido_total": 18.9,
+      "faltas_partido": 11.2,
+      "amarillas_total": 52
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     16,
+     9,
+     9
+    ],
+    "ultimos": [
+     "2026-11-05 Millonarios 0 - 0 América de Cali",
+     "2026-04-20 América de Cali 3 - 1 Millonarios",
+     "2025-10-08 Millonarios 2 - 1 América de Cali",
+     "2025-04-17 América de Cali 0 - 0 Millonarios",
+     "2024-10-12 América de Cali 2 - 1 Millonarios",
+     "2024-02-08 Millonarios 1 - 0 América de Cali"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5103724,
+   "competicion": "Série A (BRA)",
+   "inicio_utc": "2026-11-27T23:00:00.000Z",
+   "inicio_colombia": "2026-11-27 18:00",
+   "ya_empezo": false,
+   "local": "Fluminense",
+   "visitante": "Cruzeiro",
+   "ronda": "37",
+   "estadio": "Estadio Jornalista Mário Filho (Maracanã), Rio de Janeiro, Rio de Janeiro (grass)",
+   "arbitro": {
+    "nombre": "Matheus Delgado Candançan",
+    "stats": {
+     "matches": 32,
+     "yellowCards": 3.44,
+     "redCards": 7,
+     "unknown": 3,
+     "penalties": 7,
+     "fouls": 25.42
+    }
+   },
+   "clima": {
+    "temp_c": 23,
+    "viento_kmh": 5,
+    "lluvia_prob": 13,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 9863,
+     "nombre": "Fluminense",
+     "forma_ult5": [
+      "L 2 - 1 Chapecoense-Fluminense",
+      "W 2 - 1 Fluminense-Internacional",
+      "W 0 - 3 Vitória-Fluminense",
+      "W 0 - 1 São Paulo-Fluminense",
+      "W 1 - 0 Fluminense-Mirassol"
+     ],
+     "bajas": [
+      {
+       "jugador": "Alisson",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "John Kennedy",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Fábio",
+       "Guga",
+       "Ignácio",
+       "Thiago Silva",
+       "Renê",
+       "Hércules",
+       "Nonato",
+       "Jefferson Savarino",
+       "Luciano Acosta",
+       "Agustín Canobbio",
+       "Hulk"
+      ]
+     },
+     "tabla": {
+      "pos": 4,
+      "pj": 36,
+      "g": 18,
+      "e": 9,
+      "p": 9,
+      "goles": "57-42",
+      "pts": 63
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 18,
+      "g": 13,
+      "e": 3,
+      "p": 2,
+      "goles": "32-17",
+      "pts": 42
+     },
+     "xg_temporada": {
+      "pj": 36,
+      "xg": 53.41,
+      "xg_concedido": 43.04,
+      "xpts": 56.93,
+      "xg_por_partido": 1.48,
+      "xg_concedido_por_partido": 1.2
+     },
+     "stats_temporada": {
+      "posesion": 59,
+      "pj_stats": 36,
+      "goles_concedidos_partido": 1.2,
+      "goles_partido": 1.6,
+      "porterias_cero": 9,
+      "xg_total": 53.4,
+      "remates_puerta_partido": 5.6,
+      "grandes_ocasiones_total": 88,
+      "toques_area_rival": 860,
+      "xg_concedido_total": 43,
+      "corners_total": 198,
+      "faltas_partido": 13.7,
+      "amarillas_total": 83
+     }
+    },
+    "visitante": {
+     "id": 9781,
+     "nombre": "Cruzeiro",
+     "forma_ult5": [
+      "W 1 - 0 Cruzeiro-Remo",
+      "W 0 - 1 Atlético-MG-Cruzeiro",
+      "W 3 - 2 Cruzeiro-Bahia",
+      "W 2 - 1 Cruzeiro-Palmeiras",
+      "W 1 - 2 Chapecoense-Cruzeiro"
+     ],
+     "bajas": [
+      {
+       "jugador": "Gabriel Rojas",
+       "tipo": "injury",
+       "regreso": "Mid December 2026"
+      },
+      {
+       "jugador": "Matheus Henrique",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      },
+      {
+       "jugador": "Keny Arroyo",
+       "tipo": "injury",
+       "regreso": "About a week"
+      },
+      {
+       "jugador": "Lucas Daniel Romero",
+       "tipo": "injury",
+       "regreso": "About a week"
+      },
+      {
+       "jugador": "William",
+       "tipo": "injury",
+       "regreso": "About a week"
+      },
+      {
+       "jugador": "João Marcelo",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      },
+      {
+       "jugador": "Felipe Morais",
+       "tipo": "injury",
+       "regreso": "Back in training"
+      },
+      {
+       "jugador": "Luis Sinisterra",
+       "tipo": "injury",
+       "regreso": "Late December 2026"
+      },
+      {
+       "jugador": "Gabriel Pec",
+       "tipo": "injury",
+       "regreso": "Early December 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Otávio",
+       "Fágner",
+       "Fabrício Bruno",
+       "Jonathan Jesus",
+       "Gabriel Rojas",
+       "Zé Lucas",
+       "Matheus Henrique",
+       "Marquinhos",
+       "Matheus Pereira",
+       "Bruno Rodrigues",
+       "Néiser Villarreal"
+      ]
+     },
+     "tabla": {
+      "pos": 3,
+      "pj": 36,
+      "g": 20,
+      "e": 6,
+      "p": 10,
+      "goles": "59-50",
+      "pts": 66
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 3,
+      "pj": 18,
+      "g": 9,
+      "e": 2,
+      "p": 7,
+      "goles": "27-31",
+      "pts": 29
+     },
+     "xg_temporada": {
+      "pj": 36,
+      "xg": 57.52,
+      "xg_concedido": 46.16,
+      "xpts": 57.29,
+      "xg_por_partido": 1.6,
+      "xg_concedido_por_partido": 1.28
+     },
+     "stats_temporada": {
+      "posesion": 55.2,
+      "pj_stats": 36,
+      "goles_concedidos_partido": 1.4,
+      "goles_partido": 1.6,
+      "porterias_cero": 8,
+      "xg_total": 57.5,
+      "remates_puerta_partido": 5.5,
+      "grandes_ocasiones_total": 91,
+      "toques_area_rival": 867,
+      "xg_concedido_total": 46.2,
+      "corners_total": 194,
+      "faltas_partido": 14,
+      "amarillas_total": 88
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     13,
+     8,
+     10
+    ],
+    "ultimos": [
+     "2026-05-31 Cruzeiro 1 - 1 Fluminense",
+     "2025-11-09 Cruzeiro 0 - 0 Fluminense",
+     "2025-07-17 Fluminense 0 - 2 Cruzeiro",
+     "2024-10-04 Fluminense 1 - 0 Cruzeiro",
+     "2024-06-20 Cruzeiro 2 - 0 Fluminense",
+     "2023-09-21 Fluminense 1 - 0 Cruzeiro"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6580842,
+   "competicion": "Major League Soccer Playoff (USA)",
+   "inicio_utc": "2026-11-28T01:00:00.000Z",
+   "inicio_colombia": "2026-11-27 20:00",
+   "ya_empezo": false,
+   "local": "Columbus Crew",
+   "visitante": "Inter Miami CF",
+   "ronda": null,
+   "estadio": "ScottsMiracle-Gro Field, Columbus, Ohio (grass)",
+   "arbitro": {
+    "nombre": "Drew Fischer",
+    "stats": {
+     "matches": 47,
+     "yellowCards": 4.17,
+     "redCards": 2,
+     "unknown": 2,
+     "penalties": 12,
+     "fouls": 24.89
+    }
+   },
+   "clima": {
+    "temp_c": 4,
+    "viento_kmh": 4,
+    "lluvia_prob": 55,
+    "cielo": "Showers"
+   },
+   "equipos": {
+    "local": {
+     "id": 6001,
+     "nombre": "Columbus Crew",
+     "forma_ult5": [
+      "W 4 - 2 Columbus Crew-Toronto FC",
+      "W 0 - 2 FC Dallas-Columbus Crew",
+      "W 3 - 0 Columbus Crew-DC United",
+      "W 3 - 4 Chicago Fire FC-Columbus Crew",
+      "W 0 - 3 Inter Miami CF-Columbus Crew"
+     ],
+     "bajas": [
+      {
+       "jugador": "Wessam Abou Ali",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Patrick Schulte",
+       "Steven Moreira",
+       "Sean Zawadzki",
+       "Malte Amundsen",
+       "Mohamed Farsi",
+       "Dylan Chambost",
+       "Taha Habroune",
+       "Anass Zaroury",
+       "Brais Méndez",
+       "Santiago Rodríguez",
+       "Gonzalo Tapia"
+      ]
+     },
+     "tabla": {
+      "pos": 7,
+      "pj": 34,
+      "g": 14,
+      "e": 5,
+      "p": 15,
+      "goles": "59-52",
+      "pts": 47
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 7,
+      "pj": 17,
+      "g": 9,
+      "e": 2,
+      "p": 6,
+      "goles": "29-19",
+      "pts": 29
+     },
+     "xg_temporada": {
+      "pj": 34,
+      "xg": 50.34,
+      "xg_concedido": 45.8,
+      "xpts": 48.91,
+      "xg_por_partido": 1.48,
+      "xg_concedido_por_partido": 1.35
+     },
+     "stats_temporada": {
+      "goles_partido": 1.8,
+      "pj_stats": 35,
+      "posesion": 55,
+      "goles_concedidos_partido": 1.5,
+      "porterias_cero": 9,
+      "remates_puerta_partido": 4.6,
+      "xg_total": 52.3,
+      "grandes_ocasiones_total": 91,
+      "toques_area_rival": 873,
+      "xg_concedido_total": 46.8,
+      "corners_total": 177,
+      "faltas_partido": 10.6,
+      "amarillas_total": 60
+     }
+    },
+    "visitante": {
+     "id": 960720,
+     "nombre": "Inter Miami CF",
+     "forma_ult5": [
+      "L 2 - 0 Red Bull New York-Inter Miami CF",
+      "D 2 - 2 Inter Miami CF-FC Cincinnati",
+      "W 1 - 2 New England Revolution-Inter Miami CF",
+      "D 3 - 3 Inter Miami CF-Charlotte FC",
+      "L 0 - 3 Inter Miami CF-Columbus Crew"
+     ],
+     "bajas": [
+      {
+       "jugador": "Gonzalo Luján",
+       "tipo": "suspension",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Ezequiel Abadia-Reda",
+       "tipo": "injury",
+       "regreso": "Mid December 2026"
+      },
+      {
+       "jugador": "Mateo Silvetti",
+       "tipo": "injury",
+       "regreso": "Out for season"
+      },
+      {
+       "jugador": "Tadeo Allende",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Dayne St. Clair",
+       "Ian Fray",
+       "Casemiro",
+       "Micael",
+       "Gonzalo Luján",
+       "Rodrigo De Paul",
+       "Yannick Bright",
+       "Telasco Segovia",
+       "Lionel Messi",
+       "Luis Suárez",
+       "Germán Berterame"
+      ]
+     },
+     "tabla": {
+      "pos": 2,
+      "pj": 34,
+      "g": 16,
+      "e": 12,
+      "p": 6,
+      "goles": "80-59",
+      "pts": 60
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 1,
+      "pj": 17,
+      "g": 10,
+      "e": 3,
+      "p": 4,
+      "goles": "34-28",
+      "pts": 33
+     },
+     "xg_temporada": {
+      "pj": 34,
+      "xg": 66.84,
+      "xg_concedido": 58.65,
+      "xpts": 53.29,
+      "xg_por_partido": 1.97,
+      "xg_concedido_por_partido": 1.72
+     },
+     "stats_temporada": {
+      "goles_partido": 2.3,
+      "pj_stats": 35,
+      "posesion": 56.5,
+      "goles_concedidos_partido": 1.8,
+      "porterias_cero": 6,
+      "remates_puerta_partido": 5.9,
+      "xg_total": 67.8,
+      "grandes_ocasiones_total": 125,
+      "toques_area_rival": 930,
+      "xg_concedido_total": 60.6,
+      "corners_total": 168,
+      "faltas_partido": 13.3,
+      "amarillas_total": 89
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     5,
+     2,
+     7
+    ],
+    "ultimos": [
+     "2026-11-21 Inter Miami CF 0 - 3 Columbus Crew",
+     "2026-09-27 Columbus Crew 2 - 1 Inter Miami CF",
+     "2026-08-02 Inter Miami CF 2 - 2 Columbus Crew",
+     "2025-05-31 Inter Miami CF 5 - 1 Columbus Crew",
+     "2025-04-19 Columbus Crew 0 - 1 Inter Miami CF",
+     "2024-10-02 Columbus Crew 2 - 3 Inter Miami CF"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't lost in 5 matches",
+    "Haven't kept a clean sheet in 6 matches"
+   ]
+  },
+  {
+   "id": 6665016,
+   "competicion": "Major League Soccer Playoff (USA)",
+   "inicio_utc": "2026-11-28T03:00:00.000Z",
+   "inicio_colombia": "2026-11-27 22:00",
+   "ya_empezo": false,
+   "local": "Real Salt Lake",
+   "visitante": "Vancouver Whitecaps",
+   "ronda": null,
+   "estadio": "America First Field, Sandy, Utah (grass)",
+   "arbitro": {
+    "nombre": "Rosendo Mendoza",
+    "stats": {
+     "matches": 48,
+     "yellowCards": 4.92,
+     "redCards": 3,
+     "unknown": 6,
+     "penalties": 14,
+     "fouls": 26.96
+    }
+   },
+   "clima": {
+    "temp_c": 8,
+    "viento_kmh": 3,
+    "lluvia_prob": 1,
+    "cielo": "Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 6606,
+     "nombre": "Real Salt Lake",
+     "forma_ult5": [
+      "W 1 - 2 Austin FC-Real Salt Lake",
+      "L 2 - 1 San Jose Earthquakes-Real Salt Lake",
+      "W 2 - 1 Real Salt Lake-LA Galaxy",
+      "D 1 - 1 Seattle Sounders FC-Real Salt Lake",
+      "L 2 - 0 Vancouver Whitecaps-Real Salt Lake"
+     ],
+     "bajas": [
+      {
+       "jugador": "Emeka Eneli",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Diego Luna",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "5-4-1",
+      "titulares": [
+       "Rafael Cabral",
+       "Justen Glad",
+       "Philip Quinton",
+       "Lukas Engel",
+       "DeAndre Yedlin",
+       "Juan Sanabria",
+       "Saba Lobjanidze",
+       "Colin Guske",
+       "Noel Çalışkan",
+       "Morgan Guilavogui",
+       "Sergi Solans"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 1.5,
+      "pj_stats": 36,
+      "posesion": 48.7,
+      "goles_concedidos_partido": 1.5,
+      "porterias_cero": 4,
+      "remates_puerta_partido": 5.4,
+      "xg_total": 59.3,
+      "grandes_ocasiones_total": 97,
+      "toques_area_rival": 911,
+      "xg_concedido_total": 53.5,
+      "corners_total": 177,
+      "faltas_partido": 12.1,
+      "amarillas_total": 82
+     }
+    },
+    "visitante": {
+     "id": 307691,
+     "nombre": "Vancouver Whitecaps",
+     "forma_ult5": [
+      "L 1 - 0 Colorado Rapids-Vancouver Whitecaps",
+      "W 4 - 1 Vancouver Whitecaps-San Diego FC",
+      "W 5 - 1 Vancouver Whitecaps-Seattle Sounders FC",
+      "W 0 - 2 CF Montréal-Vancouver Whitecaps",
+      "W 2 - 0 Vancouver Whitecaps-Real Salt Lake"
+     ],
+     "bajas": [
+      {
+       "jugador": "Sam Adekugbe",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Kenji Cabrera",
+       "tipo": "injury",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Belal Halbouni",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      }
+     ],
+     "alineacion": {
+      "tipo": "lastStarting11",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Yohei Takaoka",
+       "Édier Ocampo",
+       "Tristan Blackmon",
+       "Ralph Priso-Mbongue",
+       "Tate Johnson",
+       "Oliver Larraz",
+       "Andrés Cubas",
+       "Emmanuel Sabbi",
+       "Ryan Gauld",
+       "Bruno Caicedo",
+       "Brian White"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_partido": 2.2,
+      "pj_stats": 35,
+      "posesion": 55.4,
+      "goles_concedidos_partido": 1,
+      "porterias_cero": 14,
+      "remates_puerta_partido": 6,
+      "xg_total": 74.3,
+      "grandes_ocasiones_total": 131,
+      "toques_area_rival": 1167,
+      "xg_concedido_total": 39.3,
+      "corners_total": 205,
+      "faltas_partido": 14.1,
+      "amarillas_total": 68
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     15,
+     5,
+     18
+    ],
+    "ultimos": [
+     "2026-11-23 Vancouver Whitecaps 2 - 0 Real Salt Lake",
+     "2026-09-20 Real Salt Lake 0 - 3 Vancouver Whitecaps",
+     "2026-02-22 Vancouver Whitecaps 1 - 0 Real Salt Lake",
+     "2025-05-25 Real Salt Lake 2 - 3 Vancouver Whitecaps",
+     "2025-05-04 Vancouver Whitecaps 2 - 1 Real Salt Lake",
+     "2024-10-20 Real Salt Lake 2 - 1 Vancouver Whitecaps"
+    ]
+   },
+   "datos_curiosos": [
+    "Haven't kept a clean sheet in 5 matches",
+    "307691 haven't lost to 6606 in their last 5 meetings (5W, 0D)."
+   ]
+  },
+  {
+   "id": 5781815,
+   "competicion": "Eredivisie (NED)",
+   "inicio_utc": "2026-11-27T19:00:00.000Z",
+   "inicio_colombia": "2026-11-27 14:00",
+   "ya_empezo": true,
+   "local": "FC Groningen",
+   "visitante": "Willem II",
+   "ronda": "14",
+   "estadio": "Euroborg, Groningen (grass)",
+   "arbitro": {
+    "nombre": "Richard Martens",
+    "stats": {
+     "matches": 24,
+     "yellowCards": 3.63,
+     "redCards": 2,
+     "unknown": 1,
+     "penalties": 11,
+     "fouls": 23.67
+    }
+   },
+   "clima": {
+    "temp_c": -3,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 8674,
+     "nombre": "FC Groningen",
+     "forma_ult5": [
+      "D 2 - 2 NEC Nijmegen-FC Groningen",
+      "L 0 - 2 FC Groningen-FC Emmen",
+      "L 2 - 3 FC Groningen-Sparta Rotterdam",
+      "L 4 - 3 AZ Alkmaar-FC Groningen",
+      "L 1 - 3 FC Groningen-SC Heerenveen"
+     ],
+     "bajas": [
+      {
+       "jugador": "Rijk Janse",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Malcolm Jeng",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Travis Hernes",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Etienne Vaessen",
+       "Hans Hateboer",
+       "Thijmen Blokzijl",
+       "Márk Csinger",
+       "Wouter Prins",
+       "Tika de Jonge",
+       "Pelle Clement",
+       "Jorg Schreuders",
+       "Thom van Bergen",
+       "David van der Werff",
+       "Brynjólfur Willumsson"
+      ]
+     },
+     "tabla": {
+      "pos": 11,
+      "pj": 14,
+      "g": 4,
+      "e": 3,
+      "p": 7,
+      "goles": "30-32",
+      "pts": 15
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 10,
+      "pj": 8,
+      "g": 2,
+      "e": 1,
+      "p": 5,
+      "goles": "14-18",
+      "pts": 7
+     },
+     "xg_temporada": {
+      "pj": 14,
+      "xg": 25.55,
+      "xg_concedido": 28.76,
+      "xpts": 19.15,
+      "xg_por_partido": 1.83,
+      "xg_concedido_por_partido": 2.05
+     },
+     "stats_temporada": {
+      "porterias_cero": 1,
+      "pj_stats": 14,
+      "goles_concedidos_partido": 2.3,
+      "goles_partido": 2.1,
+      "posesion": 49.7,
+      "xg_total": 25.6,
+      "remates_puerta_partido": 5.9,
+      "toques_area_rival": 347,
+      "grandes_ocasiones_total": 43,
+      "xg_concedido_total": 28.8,
+      "corners_total": 55,
+      "faltas_partido": 9.6,
+      "amarillas_total": 16
+     }
+    },
+    "visitante": {
+     "id": 8525,
+     "nombre": "Willem II",
+     "forma_ult5": [
+      "L 1 - 6 Willem II-Cambuur",
+      "W 3 - 4 Helmond Sport-Willem II",
+      "L 7 - 0 PSV Eindhoven-Willem II",
+      "D 1 - 1 Willem II-PEC Zwolle",
+      "L 2 - 1 FC Twente-Willem II"
+     ],
+     "bajas": [
+      {
+       "jugador": "Justin Hoogma",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Nathan Tjoe-A-On",
+       "tipo": "suspension",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Amine Lachkar",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Maxime Delanghe",
+       "Hidde ter Avest",
+       "Finn Stam",
+       "Maxim Dekker",
+       "Mats Lemmens",
+       "Calvin Twigt",
+       "Kasper Boogaard",
+       "Eser Gürbüz",
+       "Tonny Vilhena",
+       "Vito van Crooij",
+       "Devin Haen"
+      ]
+     },
+     "tabla": {
+      "pos": 18,
+      "pj": 14,
+      "g": 1,
+      "e": 3,
+      "p": 10,
+      "goles": "13-42",
+      "pts": 6
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 17,
+      "pj": 8,
+      "g": 1,
+      "e": 1,
+      "p": 6,
+      "goles": "8-25",
+      "pts": 4
+     },
+     "xg_temporada": {
+      "pj": 14,
+      "xg": 15.49,
+      "xg_concedido": 31.33,
+      "xpts": 9.6,
+      "xg_por_partido": 1.11,
+      "xg_concedido_por_partido": 2.24
+     },
+     "stats_temporada": {
+      "goles_concedidos_partido": 3,
+      "pj_stats": 14,
+      "goles_partido": 0.9,
+      "posesion": 39.2,
+      "xg_total": 15.5,
+      "remates_puerta_partido": 2.6,
+      "toques_area_rival": 209,
+      "grandes_ocasiones_total": 24,
+      "xg_concedido_total": 31.3,
+      "corners_total": 52,
+      "faltas_partido": 9.9,
+      "amarillas_total": 17
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     14,
+     6,
+     5
+    ],
+    "ultimos": [
+     "2025-02-15 Willem II 1 - 3 FC Groningen",
+     "2024-11-30 FC Groningen 2 - 0 Willem II",
+     "2024-04-26 Willem II 1 - 1 FC Groningen",
+     "2023-12-19 Willem II 1 - 3 FC Groningen",
+     "2023-08-27 FC Groningen 0 - 0 Willem II",
+     "2022-02-26 FC Groningen 1 - 0 Willem II"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 8 goals in their last 5 matches",
+    "Have conceded the most penalties this season (5)",
+    "937032 is the competition's top scorer (9)",
+    "Have scored 7 goals in their last 5 matches",
+    "Haven't kept a clean sheet in 14 matches",
+    "519829 has the most shots on target per match for 8525 (1.2)"
+   ]
+  },
+  {
+   "id": 5887685,
+   "competicion": "Liga Portugal (POR)",
+   "inicio_utc": "2026-11-27T20:15:00.000Z",
+   "inicio_colombia": "2026-11-27 15:15",
+   "ya_empezo": false,
+   "local": "Marítimo",
+   "visitante": "Nacional",
+   "ronda": "12",
+   "estadio": "Estádio do Marítimo, Funchal (Ilha da Madeira) (grass)",
+   "arbitro": {
+    "nombre": "Miguel Fonseca",
+    "stats": {
+     "matches": 19,
+     "yellowCards": 4.84,
+     "redCards": 0,
+     "unknown": 1,
+     "penalties": 6,
+     "fouls": 27.89
+    }
+   },
+   "clima": {
+    "temp_c": 18,
+    "viento_kmh": 1,
+    "lluvia_prob": 7,
+    "cielo": "Mostly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 10212,
+     "nombre": "Marítimo",
+     "forma_ult5": [
+      "W 1 - 2 Alcochetense-Marítimo",
+      "L 5 - 0 Vitória de Guimarães-Marítimo",
+      "L 2 - 1 Sporting CP-Marítimo",
+      "L 0 - 2 Marítimo-Santa Clara",
+      "D 0 - 0 Marítimo-Chaves"
+     ],
+     "bajas": [
+      {
+       "jugador": "Yellu Santiago",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Francisco Vieites",
+       "Igor Julião",
+       "Romain Correia",
+       "Gábor Szalai",
+       "Paulo Henrique",
+       "Vladan Danilović",
+       "Rodrigo Andrade",
+       "Raphael Guzzo",
+       "Simo Bouzaidi",
+       "Adrián Butzke",
+       "Martín Tejón"
+      ]
+     },
+     "tabla": {
+      "pos": 15,
+      "pj": 10,
+      "g": 2,
+      "e": 2,
+      "p": 6,
+      "goles": "9-21",
+      "pts": 8
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 15,
+      "pj": 5,
+      "g": 1,
+      "e": 1,
+      "p": 3,
+      "goles": "4-9",
+      "pts": 4
+     },
+     "xg_temporada": {
+      "pj": 10,
+      "xg": 10.19,
+      "xg_concedido": 13.82,
+      "xpts": 11.12,
+      "xg_por_partido": 1.02,
+      "xg_concedido_por_partido": 1.38
+     },
+     "stats_temporada": {
+      "goles_partido": 0.9,
+      "pj_stats": 10,
+      "goles_concedidos_partido": 2.1,
+      "posesion": 45.3,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 3.4,
+      "xg_total": 10.2,
+      "grandes_ocasiones_total": 18,
+      "toques_area_rival": 165,
+      "corners_total": 33,
+      "amarillas_total": 20,
+      "faltas_partido": 15.2,
+      "xg_concedido_total": 13.8
+     }
+    },
+    "visitante": {
+     "id": 10214,
+     "nombre": "Nacional",
+     "forma_ult5": [
+      "L 3 - 2 Rio Ave-Nacional",
+      "L 1 - 0 Sanjoanense-Nacional",
+      "W 1 - 0 Nacional-Braga",
+      "L 1 - 0 Arouca-Nacional",
+      "W 1 - 0 Nacional-Académico Viseu"
+     ],
+     "bajas": [
+      {
+       "jugador": "Léo Santos",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Filipe Soares",
+       "tipo": "injury",
+       "regreso": "Early January 2027"
+      },
+      {
+       "jugador": "Liziero",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Renato Marin",
+       "Markus Gustav Jensen",
+       "Francisco Gonçalves",
+       "Zé Vítor",
+       "William Kokolo",
+       "Miguel Baeza",
+       "Matheus Dias",
+       "Chiheb Labidi",
+       "Pablo Ruan",
+       "Njoya Kader",
+       "Min-Kyu Song"
+      ]
+     },
+     "tabla": {
+      "pos": 13,
+      "pj": 11,
+      "g": 3,
+      "e": 1,
+      "p": 7,
+      "goles": "11-19",
+      "pts": 10
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 16,
+      "pj": 5,
+      "g": 0,
+      "e": 1,
+      "p": 4,
+      "goles": "4-9",
+      "pts": 1
+     },
+     "xg_temporada": {
+      "pj": 11,
+      "xg": 11.89,
+      "xg_concedido": 18,
+      "xpts": 11.99,
+      "xg_por_partido": 1.08,
+      "xg_concedido_por_partido": 1.64
+     },
+     "stats_temporada": {
+      "goles_partido": 1,
+      "pj_stats": 11,
+      "goles_concedidos_partido": 1.7,
+      "posesion": 47.1,
+      "porterias_cero": 3,
+      "remates_puerta_partido": 3.3,
+      "xg_total": 11.9,
+      "grandes_ocasiones_total": 18,
+      "toques_area_rival": 181,
+      "corners_total": 47,
+      "amarillas_total": 16,
+      "faltas_partido": 11.4,
+      "xg_concedido_total": 18
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     6,
+     8,
+     7
+    ],
+    "ultimos": [
+     "2024-01-21 Marítimo 3 - 1 Nacional",
+     "2023-08-12 Nacional 1 - 2 Marítimo",
+     "2021-03-12 Nacional 1 - 2 Marítimo",
+     "2020-10-31 Marítimo 0 - 0 Nacional",
+     "2019-03-31 Marítimo 3 - 2 Nacional",
+     "2018-11-10 Nacional 1 - 0 Marítimo"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 3 goals in their last 5 matches",
+    "Haven't scored in their last 2 matches",
+    "10212 haven't lost to 10214 in their last 5 meetings (4W, 1D).",
+    "Have scored 4 goals in their last 5 matches",
+    "Have conceded the most penalties this season (4)",
+    "1602252 is ranked 2 in saves per match in the competition (3.7)"
+   ]
+  },
+  {
+   "id": 5836965,
+   "competicion": "Championship (ENG)",
+   "inicio_utc": "2026-11-27T20:00:00.000Z",
+   "inicio_colombia": "2026-11-27 15:00",
+   "ya_empezo": false,
+   "local": "Southampton",
+   "visitante": "Middlesbrough",
+   "ronda": "18",
+   "estadio": "St. Mary's Stadium, Southampton, Hampshire (grass)",
+   "arbitro": {
+    "nombre": "Tony Harrington",
+    "stats": {
+     "matches": 29,
+     "yellowCards": 3.86,
+     "redCards": 5,
+     "unknown": 1,
+     "penalties": 8,
+     "fouls": 21
+    }
+   },
+   "clima": {
+    "temp_c": 9,
+    "viento_kmh": 4,
+    "lluvia_prob": 62,
+    "cielo": "Light Rain"
+   },
+   "equipos": {
+    "local": {
+     "id": 8466,
+     "nombre": "Southampton",
+     "forma_ult5": [
+      "W 4 - 1 Southampton-Queens Park Rangers",
+      "D 1 - 1 West Bromwich Albion-Southampton",
+      "L 1 - 0 Preston North End-Southampton",
+      "W 2 - 0 Southampton-Derby County",
+      "D 1 - 1 Sheffield United-Southampton"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Daniel Peretz",
+       "James Bree",
+       "Jack Stephens",
+       "Keven Schlotterbeck",
+       "Ryan Manning",
+       "Flynn Downes",
+       "James Ward-Prowse",
+       "Kuryu Matsuki",
+       "Finn Azaz",
+       "Lewis Dobbin",
+       "Cyle Larin"
+      ]
+     },
+     "tabla": {
+      "pos": 6,
+      "pj": 17,
+      "g": 9,
+      "e": 5,
+      "p": 3,
+      "goles": "32-16",
+      "pts": 28
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 2,
+      "pj": 8,
+      "g": 7,
+      "e": 1,
+      "p": 0,
+      "goles": "22-5",
+      "pts": 22
+     },
+     "xg_temporada": {
+      "pj": 17,
+      "xg": 31.21,
+      "xg_concedido": 22.82,
+      "xpts": 28.29,
+      "xg_por_partido": 1.84,
+      "xg_concedido_por_partido": 1.34
+     },
+     "stats_temporada": {
+      "posesion": 57.1,
+      "pj_stats": 17,
+      "goles_partido": 1.9,
+      "porterias_cero": 4,
+      "goles_concedidos_partido": 0.9,
+      "xg_total": 31.2,
+      "toques_area_rival": 407,
+      "grandes_ocasiones_total": 56,
+      "remates_puerta_partido": 4.9,
+      "corners_total": 100,
+      "faltas_partido": 8.4,
+      "xg_concedido_total": 22.8,
+      "amarillas_total": 28
+     }
+    },
+    "visitante": {
+     "id": 8549,
+     "nombre": "Middlesbrough",
+     "forma_ult5": [
+      "W 3 - 0 Middlesbrough-Charlton Athletic",
+      "L 2 - 0 Wrexham-Middlesbrough",
+      "D 0 - 0 Watford-Middlesbrough",
+      "W 2 - 0 Middlesbrough-Bristol City",
+      "W 2 - 1 Middlesbrough-Swansea City"
+     ],
+     "bajas": [
+      {
+       "jugador": "Rokas Pukštas",
+       "tipo": "injury",
+       "regreso": "Unknown"
+      },
+      {
+       "jugador": "Alfie Jones",
+       "tipo": "injury",
+       "regreso": "Doubtful"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-2-1",
+      "titulares": [
+       "Radek Vítek",
+       "Luke Ayling",
+       "Ashley Phillips",
+       "Adilson Malanda",
+       "Callum Brittain",
+       "Aidan Morris",
+       "Sebastian Berhalter",
+       "Neto Borges",
+       "Amario Cozier-Duberry",
+       "Tommy Conway",
+       "Will Lankshear"
+      ]
+     },
+     "tabla": {
+      "pos": 1,
+      "pj": 17,
+      "g": 10,
+      "e": 5,
+      "p": 2,
+      "goles": "34-20",
+      "pts": 35
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 8,
+      "pj": 8,
+      "g": 3,
+      "e": 3,
+      "p": 2,
+      "goles": "13-10",
+      "pts": 12
+     },
+     "xg_temporada": {
+      "pj": 17,
+      "xg": 34.91,
+      "xg_concedido": 16.05,
+      "xpts": 35.77,
+      "xg_por_partido": 2.05,
+      "xg_concedido_por_partido": 0.94
+     },
+     "stats_temporada": {
+      "posesion": 60.9,
+      "pj_stats": 17,
+      "goles_partido": 2,
+      "porterias_cero": 5,
+      "goles_concedidos_partido": 1.2,
+      "xg_total": 34.9,
+      "toques_area_rival": 578,
+      "grandes_ocasiones_total": 58,
+      "remates_puerta_partido": 6.1,
+      "corners_total": 102,
+      "faltas_partido": 9.9,
+      "xg_concedido_total": 16,
+      "amarillas_total": 21
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     3,
+     2,
+     3
+    ],
+    "ultimos": [
+     "2026-01-04 Middlesbrough 4 - 0 Southampton",
+     "2025-09-27 Southampton 1 - 1 Middlesbrough",
+     "2024-03-29 Southampton 1 - 1 Middlesbrough",
+     "2023-09-23 Middlesbrough 2 - 1 Southampton",
+     "2017-05-13 Middlesbrough 1 - 2 Southampton",
+     "2016-12-11 Southampton 1 - 0 Middlesbrough"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 5811821,
+   "competicion": "Belgian Pro League (BEL)",
+   "inicio_utc": "2026-11-27T19:45:00.000Z",
+   "inicio_colombia": "2026-11-27 14:45",
+   "ya_empezo": true,
+   "local": "OH Leuven",
+   "visitante": "Kortrijk",
+   "ronda": "13",
+   "estadio": "King Power at Den Dreef Stadion, Heverlee (grass)",
+   "arbitro": {
+    "nombre": "Anthony Letellier",
+    "stats": {
+     "matches": 16,
+     "yellowCards": 2.81,
+     "redCards": 2,
+     "unknown": 0,
+     "penalties": 7,
+     "fouls": 21.75
+    }
+   },
+   "clima": {
+    "temp_c": -3,
+    "viento_kmh": 2,
+    "lluvia_prob": 2,
+    "cielo": "Mostly Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 1773,
+     "nombre": "OH Leuven",
+     "forma_ult5": [
+      "W 1 - 0 OH Leuven-Francs Borains",
+      "D 2 - 2 OH Leuven-Lommel",
+      "W 1 - 2 St.Truiden-OH Leuven",
+      "W 2 - 0 OH Leuven-KV Mechelen",
+      "L 1 - 0 Anderlecht-OH Leuven"
+     ],
+     "bajas": [
+      {
+       "jugador": "Abdoul Traoré",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Henok Teklab",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Manuel Osifo",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      },
+      {
+       "jugador": "Thibaud Verlinden",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-3",
+      "titulares": [
+       "Dani van den Heuvel",
+       "Ewoud Pletinckx",
+       "Jamie Lawrence",
+       "Roggerio Nyakossi",
+       "Óscar Gil",
+       "Wouter George",
+       "Siebe Schrijvers",
+       "Davis Opoku",
+       "Emmanuel Addai",
+       "Robin Mirisola",
+       "William Balikwisha"
+      ]
+     },
+     "tabla": {
+      "pos": 11,
+      "pj": 13,
+      "g": 3,
+      "e": 4,
+      "p": 6,
+      "goles": "12-18",
+      "pts": 13
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 9,
+      "pj": 7,
+      "g": 2,
+      "e": 3,
+      "p": 2,
+      "goles": "8-8",
+      "pts": 9
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 16.51,
+      "xg_concedido": 22.72,
+      "xpts": 14.06,
+      "xg_por_partido": 1.27,
+      "xg_concedido_por_partido": 1.75
+     },
+     "stats_temporada": {
+      "goles_partido": 0.9,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 1.4,
+      "posesion": 45.5,
+      "porterias_cero": 2,
+      "xg_total": 16.5,
+      "grandes_ocasiones_total": 28,
+      "toques_area_rival": 286,
+      "remates_puerta_partido": 3,
+      "corners_total": 53,
+      "faltas_partido": 12.2,
+      "xg_concedido_total": 22.7,
+      "amarillas_total": 29
+     }
+    },
+    "visitante": {
+     "id": 8571,
+     "nombre": "Kortrijk",
+     "forma_ult5": [
+      "L 3 - 0 Genk-Kortrijk",
+      "D 1 - 1 Standard Liège-Kortrijk",
+      "L 1 - 3 Kortrijk-KV Mechelen",
+      "L 1 - 0 Gent-Kortrijk",
+      "L 0 - 1 Kortrijk-Union St.Gilloise"
+     ],
+     "bajas": [
+      {
+       "jugador": "Boris Lambert",
+       "tipo": "suspension",
+       "regreso": "Late November 2026"
+      },
+      {
+       "jugador": "Basile Vroninks",
+       "tipo": "injury",
+       "regreso": "Day to day"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Tristen Alliet",
+       "Mohamed Fofana",
+       "Axel Drouhin",
+       "James Ndjeungoue",
+       "Matthew Anderson",
+       "Brecht Dejaeghere",
+       "Harrison Murray-Campbell",
+       "Jamie Roche",
+       "Ken Masui",
+       "Goduine Koyalipou",
+       "Thierry Ambrose"
+      ]
+     },
+     "tabla": {
+      "pos": 18,
+      "pj": 13,
+      "g": 1,
+      "e": 2,
+      "p": 10,
+      "goles": "4-24",
+      "pts": 5
+     },
+     "tabla_como_local_o_visitante": {
+      "pos": 16,
+      "pj": 7,
+      "g": 0,
+      "e": 2,
+      "p": 5,
+      "goles": "1-12",
+      "pts": 2
+     },
+     "xg_temporada": {
+      "pj": 13,
+      "xg": 12.64,
+      "xg_concedido": 21.67,
+      "xpts": 11.93,
+      "xg_por_partido": 0.97,
+      "xg_concedido_por_partido": 1.67
+     },
+     "stats_temporada": {
+      "goles_partido": 0.3,
+      "pj_stats": 13,
+      "goles_concedidos_partido": 1.8,
+      "posesion": 44,
+      "porterias_cero": 1,
+      "xg_total": 12.6,
+      "grandes_ocasiones_total": 23,
+      "toques_area_rival": 232,
+      "remates_puerta_partido": 3,
+      "corners_total": 38,
+      "faltas_partido": 12.8,
+      "xg_concedido_total": 21.7,
+      "amarillas_total": 24
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     6,
+     6,
+     10
+    ],
+    "ultimos": [
+     "2025-03-08 Kortrijk 2 - 0 OH Leuven",
+     "2024-09-22 OH Leuven 1 - 1 Kortrijk",
+     "2024-01-27 Kortrijk 0 - 0 OH Leuven",
+     "2023-09-01 OH Leuven 3 - 0 Kortrijk",
+     "2023-01-08 OH Leuven 2 - 3 Kortrijk",
+     "2022-12-20 OH Leuven 1 - 3 Kortrijk"
+    ]
+   },
+   "datos_curiosos": [
+    "Have scored 7 goals in their last 5 matches",
+    "Have conceded the most penalties this season (6)",
+    "1188386 has created the most big chances for 1773 (5)",
+    "Have scored 2 goals in their last 5 matches",
+    "Haven't scored in their last 2 matches",
+    "Haven't kept a clean sheet in 5 matches"
+   ]
+  },
+  {
+   "id": 6546834,
+   "competicion": "Friendlies (INT)",
+   "inicio_utc": "2026-11-27T20:00:00.000Z",
+   "inicio_colombia": "2026-11-27 15:00",
+   "ya_empezo": false,
+   "local": "France (W)",
+   "visitante": "Venezuela (W)",
+   "ronda": null,
+   "estadio": "Stade Marcel-Picot, Tomblaine (grass)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": -3,
+    "viento_kmh": 3,
+    "lluvia_prob": 2,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 6325,
+     "nombre": "France (W)",
+     "forma_ult5": [
+      "L 2 - 1 Netherlands-France",
+      "D 1 - 1 France-Netherlands",
+      "W 0 - 2 Poland-France",
+      "W 1 - 0 France-Ireland",
+      "W 9 - 0 France-Latvia"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Pauline Peyraud-Magnin",
+       "Wassa Sangare",
+       "Thiniba Samoura",
+       "Griedge Mbock Bathy Nka",
+       "Selma Bacha",
+       "Grace Geyoro",
+       "Laurina Fazer",
+       "Clara Mateo",
+       "Océane Hurtré",
+       "Marie-Antoinette Katoto",
+       "Delphine Cascarino"
+      ]
+     },
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 659332,
+     "nombre": "Venezuela (W)",
+     "forma_ult5": [
+      "L 2 - 0 Brazil (W)-Venezuela (W)",
+      "D 0 - 0 Venezuela (W)-Colombia (W)",
+      "W 7 - 1 Venezuela (W)-Bolivia (W)",
+      "L 2 - 1 Paraguay (W)-Venezuela (W)"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Nayluisa Cáceres",
+       "Michi Apóstol",
+       "Daniuska Rodríguez",
+       "Yénifer Giménez",
+       "Raiderlin Carrasco",
+       "Gabriela García",
+       "Dayana Rodríguez",
+       "Marianyela Jimenez",
+       "Deyna Castellanos",
+       "Bárbara Olivieri",
+       "Enyer Higuera"
+      ]
+     },
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6138919,
+   "competicion": "Women's World Cup Qualification CONCACAF (INT)",
+   "inicio_utc": "2026-11-27T22:00:00.000Z",
+   "inicio_colombia": "2026-11-27 17:00",
+   "ya_empezo": false,
+   "local": "Jamaica (W)",
+   "visitante": "Costa Rica (W)",
+   "ronda": "1/4",
+   "estadio": "Texas Health Mansfield Stadium, Mansfield, Texas (artificial turf)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 20,
+    "viento_kmh": 5,
+    "lluvia_prob": 0,
+    "cielo": "Sunny"
+   },
+   "equipos": {
+    "local": {
+     "id": 967029,
+     "nombre": "Jamaica (W)",
+     "forma_ult5": [
+      "L 7 - 0 England-Jamaica",
+      "W 0 - 18 Dominica (W)-Jamaica (W)",
+      "W 2 - 3 Nicaragua (W)-Jamaica (W)",
+      "W 4 - 0 Jamaica (W)-Antigua and Barbuda (W)",
+      "W 2 - 0 Jamaica (W)-Guyana (W)"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 604109,
+     "nombre": "Costa Rica (W)",
+     "forma_ult5": [
+      "D 0 - 0 USA-Costa Rica",
+      "W 1 - 2 Grenada (W)-Costa Rica (W)",
+      "W 0 - 8 Bermuda (W)-Costa Rica (W)",
+      "W 21 - 0 Costa Rica (W)-Cayman Islands (W)",
+      "W 3 - 0 Costa Rica (W)-Guatemala (W)"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     2,
+     0,
+     0
+    ],
+    "ultimos": [
+     "2022-07-18 Costa Rica 0 - 1 Jamaica",
+     "2018-10-08 Jamaica 1 - 0 Costa Rica"
+    ]
+   },
+   "datos_curiosos": [
+    "967029 have won the previous 2 matches against 604109.",
+    "Haven't lost in 5 matches"
+   ]
+  },
+  {
+   "id": 6139587,
+   "competicion": "World Cup U17 - L (INT)",
+   "inicio_utc": "2026-11-27T13:00:00.000Z",
+   "inicio_colombia": "2026-11-27 08:00",
+   "ya_empezo": true,
+   "local": "Colombia U17",
+   "visitante": "Serbia U17",
+   "ronda": "3",
+   "estadio": "Aspire Zone Pitch 9, Doha (grass)",
+   "arbitro": {
+    "nombre": "Abdulhadi Al Asmar Al Ruaile",
+    "stats": {
+     "matches": 30,
+     "yellowCards": 4.43,
+     "redCards": 9,
+     "unknown": 2,
+     "penalties": 8,
+     "fouls": 29.31
+    }
+   },
+   "clima": {
+    "temp_c": 26,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 78797,
+     "nombre": "Colombia U17",
+     "forma_ult5": [
+      "D 0 - 0 El Salvador U17-Colombia U17",
+      "W 2 - 0 Colombia U17-North Korea U17",
+      "L 2 - 0 France U17-Colombia U17",
+      "W 1 - 2 Japan U17-Colombia U17",
+      "W 0 - 2 Honduras U17-Colombia U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Luigi Ortiz",
+       "Edwin Estrella",
+       "Jhan Moreno",
+       "Juan Fori",
+       "Anderson Murillo",
+       "José Escorcia",
+       "Simon Rojas",
+       "Miguel Agámez",
+       "Jackie Muñoz",
+       "Luis Maturana",
+       "Matías Caicedo"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0.7,
+      "pj_stats": 3,
+      "goles_partido": 1.3,
+      "posesion": 62,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 7,
+      "toques_area_rival": 84,
+      "corners_total": 23,
+      "faltas_partido": 12.3,
+      "amarillas_total": 5
+     }
+    },
+    "visitante": {
+     "id": 6593,
+     "nombre": "Serbia U17",
+     "forma_ult5": [
+      "L 4 - 3 Czechia U17-Serbia U17",
+      "W 2 - 3 Austria U17-Serbia U17",
+      "L 2 - 3 Serbia U17-Portugal U17",
+      "W 2 - 0 Serbia U17-Honduras U17",
+      "W 0 - 1 Japan U17-Serbia U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Veljko Popovic",
+       "Vukašin Davidov",
+       "Filip Djuric",
+       "Vojin Marinković",
+       "Andrew Maric",
+       "Luka Andrijasevic",
+       "Novak Stevanović",
+       "David Djokic",
+       "Ognjen Matanovic",
+       "Veljko Pejovic",
+       "Dávid Vajagic"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 3,
+      "goles_partido": 1.3,
+      "posesion": 33.3,
+      "porterias_cero": 3,
+      "remates_puerta_partido": 3.7,
+      "grandes_ocasiones_total": 7,
+      "toques_area_rival": 33,
+      "corners_total": 5,
+      "faltas_partido": 12.7,
+      "amarillas_total": 7
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6139586,
+   "competicion": "World Cup U17 - L (INT)",
+   "inicio_utc": "2026-11-27T13:00:00.000Z",
+   "inicio_colombia": "2026-11-27 08:00",
+   "ya_empezo": true,
+   "local": "Honduras U17",
+   "visitante": "Japan U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 4, Doha (grass)",
+   "arbitro": {
+    "nombre": "Patrik Kolarić",
+    "stats": {
+     "matches": 37,
+     "yellowCards": 4.51,
+     "redCards": 6,
+     "unknown": 1,
+     "penalties": 13,
+     "fouls": 27.57
+    }
+   },
+   "clima": {
+    "temp_c": 26,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 78788,
+     "nombre": "Honduras U17",
+     "forma_ult5": [
+      "L 7 - 0 Brazil U17-Honduras U17",
+      "L 5 - 2 Zambia U17-Honduras U17",
+      "L 1 - 2 Honduras U17-Indonesia U17",
+      "L 2 - 0 Serbia U17-Honduras U17",
+      "L 0 - 2 Honduras U17-Colombia U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Manel Reixach",
+       "Kevin Pérez",
+       "Kevin Gyamfi",
+       "Denzel Arzú",
+       "José Rodríguez",
+       "Darwin Cruz",
+       "Heiner Reyes",
+       "Mike Arana",
+       "Yeiron Arzú",
+       "Eduardo Romero",
+       "Jeremy Rodríguez"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 3.7,
+      "pj_stats": 3,
+      "posesion": 50.9,
+      "remates_puerta_partido": 2.3,
+      "grandes_ocasiones_total": 5,
+      "toques_area_rival": 57,
+      "corners_total": 16,
+      "faltas_partido": 7.3,
+      "amarillas_total": 5
+     }
+    },
+    "visitante": {
+     "id": 78792,
+     "nombre": "Japan U17",
+     "forma_ult5": [
+      "W 3 - 0 Japan U17-South Africa U17",
+      "D 1 - 1 North Korea U17-Japan U17",
+      "L 1 - 0 Austria U17-Japan U17",
+      "L 1 - 2 Japan U17-Colombia U17",
+      "L 0 - 1 Japan U17-Serbia U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-5-2",
+      "titulares": [
+       "Kosei Oshita",
+       "Anthony Motosuna",
+       "Yuzo Takeuchi",
+       "Chimezie Ezemuokwe",
+       "Arata Okamoto",
+       "Takeshi Wada",
+       "Sora Iwatsuchi",
+       "Maki Kitahara",
+       "Kazato Kimura",
+       "Kakeru Saito",
+       "Riku Nakashima"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "goles_partido": 2.7,
+      "posesion": 53.8,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 6.7,
+      "grandes_ocasiones_total": 8,
+      "toques_area_rival": 68,
+      "corners_total": 16,
+      "faltas_partido": 15.3,
+      "amarillas_total": 1
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     0,
+     1
+    ],
+    "ultimos": [
+     "2017-10-08 Honduras U17 1 - 6 Japan U17"
+    ]
+   },
+   "datos_curiosos": [
+    "Have lost their last 5 matches",
+    "Haven't won a match in 5 attempts",
+    "Haven't kept a clean sheet in 5 matches"
+   ]
+  },
+  {
+   "id": 6139563,
+   "competicion": "World Cup U17 - I (INT)",
+   "inicio_utc": "2026-11-27T14:00:00.000Z",
+   "inicio_colombia": "2026-11-27 09:00",
+   "ya_empezo": true,
+   "local": "Costa Rica U17",
+   "visitante": "Brazil U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 5, Doha (grass)",
+   "arbitro": {
+    "nombre": "Mohammed Al Ismail",
+    "stats": {
+     "matches": 26,
+     "yellowCards": 4.12,
+     "redCards": 3,
+     "unknown": 4,
+     "penalties": 8,
+     "fouls": 22.54
+    }
+   },
+   "clima": {
+    "temp_c": 26,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 5969,
+     "nombre": "Costa Rica U17",
+     "forma_ult5": [
+      "D 1 - 1 Costa Rica U17-UAE U17",
+      "L 1 - 0 Senegal U17-Costa Rica U17",
+      "L 3 - 1 Croatia U17-Costa Rica U17",
+      "D 2 - 2 Tanzania U17-Costa Rica U17",
+      "L 0 - 2 Costa Rica U17-Ireland U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Fabián Araya",
+       "Sebastián Hernández",
+       "Thiago Cordero",
+       "Adrián Espinoza",
+       "Sebastián Gómez",
+       "Yordi Alfaro",
+       "Kyan McDonald",
+       "Santiago Quirós",
+       "Marshal Araya",
+       "Paul González",
+       "Jefrey Urbina"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 2.3,
+      "pj_stats": 3,
+      "goles_partido": 0.7,
+      "posesion": 39,
+      "remates_puerta_partido": 3,
+      "toques_area_rival": 23,
+      "corners_total": 6,
+      "faltas_partido": 9,
+      "amarillas_total": 2
+     }
+    },
+    "visitante": {
+     "id": 5977,
+     "nombre": "Brazil U17",
+     "forma_ult5": [
+      "W 1 - 2 Morocco U17-Brazil U17",
+      "D 0 - 0 Portugal U17-Brazil U17",
+      "D 0 - 0 Brazil U17-Italy U17",
+      "W 2 - 1 Brazil U17-Ireland U17",
+      "W 1 - 0 Brazil U17-Tanzania U17"
+     ],
+     "bajas": [
+      {
+       "jugador": "Felipe Morais",
+       "tipo": "injury",
+       "regreso": "Back in training"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-4-2",
+      "titulares": [
+       "Gabriel Werneck",
+       "Marcos Pesseti",
+       "David Brendo",
+       "Iago Machado",
+       "Samuel Almeida",
+       "João França",
+       "Eduardo Pape",
+       "Lucca Caramico",
+       "João Victor",
+       "Rodrigo Júnior",
+       "Eduardo Conceição"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
+      "goles_partido": 2,
+      "posesion": 59,
+      "porterias_cero": 2,
+      "remates_puerta_partido": 8.3,
+      "grandes_ocasiones_total": 11,
+      "toques_area_rival": 81,
+      "corners_total": 24,
+      "faltas_partido": 11.7,
+      "amarillas_total": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Haven't won a match in 7 attempts",
+    "Haven't scored in their last 2 matches"
+   ]
+  },
+  {
+   "id": 6139564,
+   "competicion": "World Cup U17 - I (INT)",
+   "inicio_utc": "2026-11-27T14:00:00.000Z",
+   "inicio_colombia": "2026-11-27 09:00",
+   "ya_empezo": true,
+   "local": "Ireland U17",
+   "visitante": "Tanzania U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 1, Doha (grass)",
+   "arbitro": {
+    "nombre": "Mathías De Armas",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 26,
+    "viento_kmh": 2,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 120233,
+     "nombre": "Ireland U17",
+     "forma_ult5": [
+      "D 0 - 0 Ireland U17-Paraguay U17",
+      "D 1 - 1 Ireland U17-Canada U17",
+      "L 3 - 1 Switzerland U17-Ireland U17",
+      "L 2 - 1 Brazil U17-Ireland U17",
+      "W 0 - 2 Costa Rica U17-Ireland U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-4-3",
+      "titulares": [
+       "Darragh Brunton",
+       "Kian Quigley",
+       "Josh O'Connor",
+       "Jayden Marshall",
+       "Joe Carroll-Byrne",
+       "Tom McGrath",
+       "Josh O'Dwyer",
+       "Danny Burke",
+       "Ryan Sheridan",
+       "Desmond Armstrong",
+       "Cillian Murphy"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "goles_partido": 2,
+      "posesion": 45.9,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 7.3,
+      "grandes_ocasiones_total": 11,
+      "toques_area_rival": 63,
+      "corners_total": 12,
+      "faltas_partido": 10.3,
+      "amarillas_total": 5
+     }
+    },
+    "visitante": {
+     "id": 2180486,
+     "nombre": "Tanzania U17",
+     "forma_ult5": [
+      "D 2 - 2 Tanzania U17-Costa Rica U17",
+      "L 1 - 0 Brazil U17-Tanzania U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-1-4-1",
+      "titulares": [
+       "Haji Abdalah",
+       "Elick Yusuph",
+       "Mohammed Ali",
+       "Hussein Mbegu",
+       "Kassim Juma",
+       "Issa Chole",
+       "Sadam Hussein",
+       "Kelvin Revokatus",
+       "Hamis Mihambo",
+       "Razaki Mbegelendi",
+       "Luqman Mbalasalu"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 2,
+      "pj_stats": 3,
+      "goles_partido": 1,
+      "posesion": 56.2,
+      "remates_puerta_partido": 4,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 62,
+      "corners_total": 11,
+      "faltas_partido": 12,
+      "amarillas_total": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6139569,
+   "competicion": "World Cup U17 - J (INT)",
+   "inicio_utc": "2026-11-27T15:00:00.000Z",
+   "inicio_colombia": "2026-11-27 10:00",
+   "ya_empezo": true,
+   "local": "Algeria U17",
+   "visitante": "Dominican Republic U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 2, Doha (grass)",
+   "arbitro": {
+    "nombre": "Olatz Rivera Olmedo",
+    "stats": {
+     "matches": 6,
+     "yellowCards": 5.17,
+     "redCards": 0,
+     "unknown": 1,
+     "penalties": 0,
+     "fouls": 25.5
+    }
+   },
+   "clima": {
+    "temp_c": 25,
+    "viento_kmh": 1,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 180621,
+     "nombre": "Algeria U17",
+     "forma_ult5": [
+      "L 4 - 2 Chile U17-Algeria U17",
+      "W 2 - 1 Algeria U17-Montenegro U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Yazid Tifrani",
+       "Ayoub Dahmas",
+       "Kenzo Brignone",
+       "Noam Benramdane",
+       "Anas Belkanichi",
+       "Rayan Zidane",
+       "Nazim Benghezel",
+       "Adam Benali",
+       "Ramy Benkhiat",
+       "Yacine Abed",
+       "Melwane Zaidi"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.7,
+      "pj_stats": 3,
+      "goles_partido": 1.7,
+      "posesion": 55.5,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 5.3,
+      "grandes_ocasiones_total": 9,
+      "toques_area_rival": 66,
+      "corners_total": 8,
+      "faltas_partido": 9.7,
+      "amarillas_total": 4
+     }
+    },
+    "visitante": {
+     "id": 2464951,
+     "nombre": "Dominican Republic U17",
+     "forma_ult5": [
+      "D 1 - 1 Dominican Republic U17-Montenegro U17",
+      "W 2 - 1 Dominican Republic U17-Chile U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "5-4-1",
+      "titulares": [
+       "Aidan Betances",
+       "Iker Núnez",
+       "Alejandro López",
+       "Miguel Muñoz",
+       "Daniel Fernández",
+       "Gabriel Florentino",
+       "Kamil Castillo",
+       "Jorge Valenzuela",
+       "Adrián García Jáquez",
+       "Luis Almonte",
+       "José Mejía"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "goles_partido": 1,
+      "posesion": 40.7,
+      "remates_puerta_partido": 3.3,
+      "grandes_ocasiones_total": 2,
+      "toques_area_rival": 48,
+      "corners_total": 7,
+      "faltas_partido": 12.7,
+      "amarillas_total": 7
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6139570,
+   "competicion": "World Cup U17 - J (INT)",
+   "inicio_utc": "2026-11-27T15:00:00.000Z",
+   "inicio_colombia": "2026-11-27 10:00",
+   "ya_empezo": true,
+   "local": "Montenegro U17",
+   "visitante": "Chile U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 3, Doha (grass)",
+   "arbitro": {
+    "nombre": "Ahmed Issa Darwish",
+    "stats": {
+     "matches": 6,
+     "yellowCards": 3,
+     "redCards": 1,
+     "unknown": 2,
+     "penalties": 3,
+     "fouls": 21.17
+    }
+   },
+   "clima": {
+    "temp_c": 25,
+    "viento_kmh": 1,
+    "cielo": "Fair"
+   },
+   "equipos": {
+    "local": {
+     "id": 401898,
+     "nombre": "Montenegro U17",
+     "forma_ult5": [
+      "L 1 - 2 Montenegro U17-Denmark U17",
+      "L 0 - 3 Montenegro U17-Italy U17",
+      "L 5 - 0 France U17-Montenegro U17",
+      "D 1 - 1 Dominican Republic U17-Montenegro U17",
+      "L 2 - 1 Algeria U17-Montenegro U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Danilo Koljcevic",
+       "Petar Radomirovic",
+       "Stefan Nedic",
+       "Lazar Popović",
+       "Petar Ivanović",
+       "Matija Rakčević",
+       "Danilo Kisic",
+       "Luka Vusurovic",
+       "Petar Vujović",
+       "Vesko Čukić",
+       "Aleksa Causevic"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.3,
+      "pj_stats": 3,
+      "goles_partido": 0.7,
+      "posesion": 40.8,
+      "remates_puerta_partido": 6.3,
+      "grandes_ocasiones_total": 8,
+      "toques_area_rival": 71,
+      "corners_total": 19,
+      "faltas_partido": 9.3,
+      "amarillas_total": 4
+     }
+    },
+    "visitante": {
+     "id": 685305,
+     "nombre": "Chile U17",
+     "forma_ult5": [
+      "L 2 - 0 France U17-Chile U17",
+      "D 1 - 1 Uganda U17-Chile U17",
+      "W 2 - 1 Chile U17-Canada U17",
+      "W 4 - 2 Chile U17-Algeria U17",
+      "L 2 - 1 Dominican Republic U17-Chile U17"
+     ],
+     "bajas": [
+      {
+       "jugador": "Joan Cruz",
+       "tipo": "injury",
+       "regreso": "About 1-2 weeks"
+      }
+     ],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Vicente Villegas",
+       "Esteban Páez",
+       "Antonio Cannoni",
+       "Lucas López",
+       "Baltazar Oróstica",
+       "Sebastián Melgarejo",
+       "Joaquín Muñoz",
+       "Bayron Barrera",
+       "Andher González",
+       "Jonathan Guerrero",
+       "Amaro Pérez"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1.3,
+      "pj_stats": 3,
+      "goles_partido": 2,
+      "posesion": 63,
+      "porterias_cero": 1,
+      "remates_puerta_partido": 9,
+      "grandes_ocasiones_total": 18,
+      "toques_area_rival": 100,
+      "corners_total": 25,
+      "faltas_partido": 14,
+      "amarillas_total": 4
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Have lost their last 3 matches",
+    "Haven't kept a clean sheet in 7 matches"
+   ]
+  },
+  {
+   "id": 6139577,
+   "competicion": "World Cup U17 - K (INT)",
+   "inicio_utc": "2026-11-27T16:00:00.000Z",
+   "inicio_colombia": "2026-11-27 11:00",
+   "ya_empezo": true,
+   "local": "Romania U17",
+   "visitante": "Cameroon U17",
+   "ronda": "3",
+   "estadio": "Aspire Zone Pitch 8, Doha (grass)",
+   "arbitro": {
+    "nombre": "Derlis Benítez",
+    "stats": {
+     "matches": 52,
+     "yellowCards": 4.85,
+     "redCards": 12,
+     "unknown": 6,
+     "penalties": 37,
+     "fouls": 21.85
+    }
+   },
+   "clima": {
+    "temp_c": 24,
+    "viento_kmh": 1,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 260903,
+     "nombre": "Romania U17",
+     "forma_ult5": [
+      "D 1 - 1 Czechia U17-Romania U17",
+      "L 1 - 0 Netherlands U17-Romania U17",
+      "L 0 - 1 Romania U17-Germany U17",
+      "L 1 - 0 Mexico U17-Romania U17",
+      "L 1 - 0 Venezuela U17-Romania U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-5-2",
+      "titulares": [
+       "Tudor Coşa",
+       "Eduardo Corlat",
+       "Daniele Paul",
+       "Robert Corduneanu",
+       "Erik Manaila",
+       "Darius Tripon",
+       "Ioan Precup",
+       "Matei Pădure",
+       "Lóránd Bencze",
+       "Denys Muntean",
+       "Eduardo Bodnar"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 1,
+      "pj_stats": 3,
+      "goles_partido": 1,
+      "posesion": 52.1,
+      "remates_puerta_partido": 3.3,
+      "grandes_ocasiones_total": 4,
+      "toques_area_rival": 49,
+      "corners_total": 11,
+      "faltas_partido": 14,
+      "amarillas_total": 6
+     }
+    },
+    "visitante": {
+     "id": 1068867,
+     "nombre": "Cameroon U17",
+     "forma_ult5": [
+      "L 1 - 0 Tajikistan U17-Cameroon U17",
+      "L 1 - 3 Cameroon U17-Argentina U17",
+      "L 0 - 2 Cameroon U17-Spain U17",
+      "L 1 - 2 Cameroon U17-Venezuela U17",
+      "L 4 - 0 Mexico U17-Cameroon U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-3-3",
+      "titulares": [
+       "Glory Missinga",
+       "Eric Bolo",
+       "Ulrick Kenfack",
+       "Georges Esingala",
+       "Marc Mbonga",
+       "Willy Oumbe",
+       "Abdoulraman Soudeisse",
+       "Douka Nkoto",
+       "Michel Mba",
+       "Emmanuel Eone",
+       "William Gueke"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 3,
+      "pj_stats": 3,
+      "goles_partido": 0.7,
+      "posesion": 51.6,
+      "remates_puerta_partido": 5.3,
+      "grandes_ocasiones_total": 11,
+      "toques_area_rival": 60,
+      "corners_total": 18,
+      "faltas_partido": 12,
+      "amarillas_total": 5
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": [
+    "Haven't scored in their last 2 matches",
+    "Have lost their last 3 matches"
+   ]
+  },
+  {
+   "id": 6139576,
+   "competicion": "World Cup U17 - K (INT)",
+   "inicio_utc": "2026-11-27T16:00:00.000Z",
+   "inicio_colombia": "2026-11-27 11:00",
+   "ya_empezo": true,
+   "local": "Venezuela U17",
+   "visitante": "Mexico U17",
+   "ronda": "3",
+   "estadio": "ASPIRE Academy Pitch 7, Doha (artificial turf)",
+   "arbitro": {
+    "nombre": "Mohamed El Baroudi",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 24,
+    "viento_kmh": 1,
+    "cielo": "Partly Cloudy"
+   },
+   "equipos": {
+    "local": {
+     "id": 482939,
+     "nombre": "Venezuela U17",
+     "forma_ult5": [
+      "D 1 - 1 Egypt U17-Venezuela U17",
+      "W 4 - 2 Venezuela U17-Haiti U17",
+      "L 1 - 2 Venezuela U17-North Korea U17",
+      "W 1 - 2 Cameroon U17-Venezuela U17",
+      "W 1 - 0 Venezuela U17-Romania U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "4-2-3-1",
+      "titulares": [
+       "Sebastián Angulo",
+       "Andrew Rasquín",
+       "Jhosmar Martinez",
+       "Emmanuel Brito",
+       "Ángel Mota",
+       "Daniel Chirinos",
+       "Marco Riera",
+       "Jesús Barrios",
+       "Deverson García",
+       "José Gamboa",
+       "Carlos Bello"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0.3,
+      "pj_stats": 3,
+      "goles_partido": 1,
+      "posesion": 45.4,
+      "porterias_cero": 2,
+      "remates_puerta_partido": 5,
+      "grandes_ocasiones_total": 7,
+      "toques_area_rival": 47,
+      "corners_total": 15,
+      "faltas_partido": 10,
+      "amarillas_total": 3
+     }
+    },
+    "visitante": {
+     "id": 5971,
+     "nombre": "Mexico U17",
+     "forma_ult5": [
+      "L 3 - 1 Switzerland U17-Mexico U17",
+      "D 2 - 2 Argentina U17-Mexico U17",
+      "L 0 - 5 Mexico U17-Portugal U17",
+      "W 1 - 0 Mexico U17-Romania U17",
+      "W 4 - 0 Mexico U17-Cameroon U17"
+     ],
+     "bajas": [],
+     "alineacion": {
+      "tipo": "standard",
+      "formacion": "3-2-4-1",
+      "titulares": [
+       "José Corona",
+       "André Godinez",
+       "Dylan Martínez",
+       "Adonai Valdez",
+       "Ángel Reyes",
+       "Jesús Orduño",
+       "Edy Lugo",
+       "Saulo Tejeda",
+       "Alberto Cisneros",
+       "Gerson Gutierrez",
+       "Da'vian Kimbrough"
+      ]
+     },
+     "tabla": null,
+     "tabla_como_local_o_visitante": null,
+     "xg_temporada": null,
+     "stats_temporada": {
+      "goles_concedidos_partido": 0,
+      "pj_stats": 3,
+      "goles_partido": 1.7,
+      "posesion": 50.9,
+      "porterias_cero": 3,
+      "remates_puerta_partido": 3.3,
+      "grandes_ocasiones_total": 6,
+      "toques_area_rival": 62,
+      "corners_total": 16,
+      "faltas_partido": 10.3,
+      "amarillas_total": 3
+     }
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": [
+     0,
+     1,
+     0
+    ],
+    "ultimos": [
+     "2023-11-15 Mexico U17 2 - 2 Venezuela U17"
+    ]
+   },
+   "datos_curiosos": []
+  },
+  {
+   "id": 6138918,
+   "competicion": "Women's World Cup Qualification CONCACAF (INT)",
+   "inicio_utc": "2026-11-28T01:30:00.000Z",
+   "inicio_colombia": "2026-11-27 20:30",
+   "ya_empezo": false,
+   "local": "USA (W)",
+   "visitante": "El Salvador (W)",
+   "ronda": "1/4",
+   "estadio": "Texas Health Mansfield Stadium, Mansfield, Texas (artificial turf)",
+   "arbitro": {
+    "nombre": "",
+    "stats": {}
+   },
+   "clima": {
+    "temp_c": 13,
+    "viento_kmh": 3,
+    "lluvia_prob": 0,
+    "cielo": "Clear"
+   },
+   "equipos": {
+    "local": {
+     "id": 5909,
+     "nombre": "USA (W)",
+     "forma_ult5": [
+      "W 3 - 0 USA-Japan",
+      "L 2 - 1 Brazil-USA",
+      "W 0 - 1 Brazil-USA",
+      "L 0 - 2 USA-Spain",
+      "D 2 - 2 USA-Spain"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    },
+    "visitante": {
+     "id": 1087289,
+     "nombre": "El Salvador (W)",
+     "forma_ult5": [
+      "L 0 - 2 El Salvador-Costa Rica",
+      "L 3 - 2 Paraguay-El Salvador",
+      "W 3 - 0 El Salvador (W)-Honduras (W)",
+      "W 13 - 0 El Salvador (W)-Barbados (W)",
+      "W 0 - 2 Trinidad and Tobago (W)-El Salvador (W)"
+     ],
+     "bajas": [],
+     "alineacion": null,
+     "stats_temporada": null
+    }
+   },
+   "h2h": {
+    "resumen_local_empates_visitante": null,
+    "ultimos": []
+   },
+   "datos_curiosos": []
+  }
+ ],
+ "errores": [],
+ "generado_utc": "2026-11-27T19:53:06.200Z"
+}
