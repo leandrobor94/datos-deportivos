@@ -21,9 +21,7 @@
      "Home: 6-3",
      "Road: 4-4"
     ],
-    "lesiones": [
-     "Giannis Antetokounmpo: Day-To-Day (Groin)"
-    ],
+    "lesiones": [],
     "ultimos_5": [
      "2026-11-15 vs DET W 137-117",
      "2026-11-17 vs HOU W 128-110",
@@ -137,7 +135,7 @@
      {
       "jugador": "Giannis Antetokounmpo",
       "posicion": "F",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -555,7 +553,6 @@
      "Miles McBride: Out (Groin)",
      "OG Anunoby: Out (Calf)",
      "Jordan Clarkson: Out (Foot)",
-     "Karl-Anthony Towns: Day-To-Day (Abdomen)",
      "Andre Drummond: Out (Concussion)"
     ],
     "ultimos_5": [
@@ -671,7 +668,7 @@
      {
       "jugador": "Karl-Anthony Towns",
       "posicion": "C",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2170,8 +2167,8 @@
      "Road: 7-1"
     ],
     "lesiones": [
-     "Joel Embiid: Day-To-Day (Illness)",
      "Jaylen Brown: Out (Hamstring)",
+     "Joel Embiid: Day-To-Day (Illness)",
      "Ariel Hukporti: Out (Achilles)"
     ],
     "ultimos_5": [
@@ -2440,7 +2437,7 @@
      {
       "jugador": "Dean Wade",
       "posicion": "F",
-      "lesion": null,
+      "lesion": "Out",
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -2698,10 +2695,9 @@
      "Road: 3-6"
     ],
     "lesiones": [
+     "T.J. McConnell: Out (Hamstring)",
      "Larry Nance Jr.: Day-To-Day (Ankle)",
      "Tyrese Haliburton: Out (Hamstring)",
-     "Kelly Oubre Jr.: Day-To-Day (Hand)",
-     "T.J. McConnell: Day-To-Day (Hamstring)",
      "Ben Sheppard: Out (Knee)"
     ],
     "ultimos_5": [
@@ -2916,7 +2912,7 @@
      {
       "jugador": "Kelly Oubre Jr.",
       "posicion": "G",
-      "lesion": "Day-To-Day",
+      "lesion": null,
       "promedios": {
        "ult5": {
         "pj": 5,
@@ -3768,7 +3764,6 @@
      "Road: 4-4"
     ],
     "lesiones": [
-     "Alijah Martin: Day-To-Day (Knee)",
      "Kawhi Leonard: Out (Knee)",
      "Nate Bittle: Out (Foot)",
      "RJ Barrett: Out (Hamstring)"
@@ -11756,5 +11751,5 @@
  "errores": [
   "gamelog Johni Broome 500 https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433569/gamelog"
  ],
- "generado_utc": "2026-11-27T22:19:10.484Z"
+ "generado_utc": "2026-11-27T23:43:10.061Z"
 }
